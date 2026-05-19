@@ -14,7 +14,7 @@ export function Footer({ settings }: { settings: Settings }) {
           rel="noopener noreferrer"
           className="mt-3 inline-flex items-center gap-1 text-xs font-semibold text-xyris-blue hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-xyris-blue rounded"
         >
-          Get weekly promos on Viber
+          {settings.viberChannelLabel}
           <ArrowUpRight className="h-3.5 w-3.5" aria-hidden="true" />
         </a>
       </div>
