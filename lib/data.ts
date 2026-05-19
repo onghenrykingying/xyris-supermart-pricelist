@@ -1,6 +1,6 @@
 "use client";
 
-import type { CategoryFile } from "./types";
+import type { CategoryFile, Manifest, SKU } from "./types";
 
 const cache = new Map<string, Promise<CategoryFile>>();
 
@@ -19,4 +19,17 @@ export function loadCategory(slug: string): Promise<CategoryFile> {
     cache.set(slug, inflight);
   }
   return inflight;
+}
+
+let allInflight: Promise<SKU[]> | null = null;
+
+export function loadAllCategories(manifest: Manifest): Promise<SKU[]> {
+  if (allInflight) return allInflight;
+  allInflight = Promise.all(
+    manifest.categories.map((c) => loadCategory(c.slug)),
+  ).then((files) => files.flatMap((f) => f.skus));
+  allInflight.catch(() => {
+    allInflight = null;
+  });
+  return allInflight;
 }

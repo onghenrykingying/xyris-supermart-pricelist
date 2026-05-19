@@ -5,9 +5,11 @@ import { Search, X } from "lucide-react";
 export function SearchBar({
   value,
   onChange,
+  onFocus,
 }: {
   value: string;
   onChange: (v: string) => void;
+  onFocus?: () => void;
 }) {
   return (
     <div className="relative">
@@ -19,6 +21,7 @@ export function SearchBar({
         type="search"
         value={value}
         onChange={(e) => onChange(e.target.value)}
+        onFocus={onFocus}
         placeholder="Search products, brand, or barcode…"
         aria-label="Search products, brand, or barcode"
         enterKeyHint="search"

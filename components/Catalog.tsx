@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useState } from "react";
 import type { Manifest, SKU } from "@/lib/types";
-import { loadCategory } from "@/lib/data";
+import { loadAllCategories, loadCategory } from "@/lib/data";
 import { applyFilters, type SortMode } from "@/lib/filter";
 import { useDebouncedValue } from "@/lib/useDebouncedValue";
 import { SearchBar } from "./SearchBar";
@@ -31,6 +31,25 @@ export function Catalog({
   const [search, setSearch] = useState("");
   const debouncedSearch = useDebouncedValue(search, 150);
   const [load, setLoad] = useState<LoadState>({ status: "idle" });
+  const [globalSkus, setGlobalSkus] = useState<SKU[] | null>(null);
+  const [globalLoading, setGlobalLoading] = useState(false);
+
+  const searchActive = debouncedSearch.trim().length > 0 && categorySlug === null;
+
+  const triggerGlobalPreload = useCallback(() => {
+    if (globalSkus !== null || globalLoading) return;
+    setGlobalLoading(true);
+    loadAllCategories(manifest)
+      .then((skus) => setGlobalSkus(skus))
+      .catch(() => {
+        // swallow — failed categories surface via per-category navigation
+      })
+      .finally(() => setGlobalLoading(false));
+  }, [manifest, globalSkus, globalLoading]);
+
+  useEffect(() => {
+    if (searchActive) triggerGlobalPreload();
+  }, [searchActive, triggerGlobalPreload]);
 
   useEffect(() => {
     if (!categorySlug) {
@@ -74,6 +93,15 @@ export function Catalog({
   }, []);
 
   const filtered = useMemo(() => {
+    if (searchActive) {
+      const source = globalSkus ?? [];
+      return applyFilters(source, {
+        subCategory: null,
+        brand: null,
+        query: debouncedSearch,
+        sort,
+      });
+    }
     const source = load.status === "ready" ? load.skus : [];
     return applyFilters(source, {
       subCategory,
@@ -81,11 +109,15 @@ export function Catalog({
       query: debouncedSearch,
       sort,
     });
-  }, [load, subCategory, brand, debouncedSearch, sort]);
+  }, [searchActive, globalSkus, load, subCategory, brand, debouncedSearch, sort]);
 
   return (
     <div className="space-y-3">
-      <SearchBar value={search} onChange={setSearch} />
+      <SearchBar
+        value={search}
+        onChange={setSearch}
+        onFocus={triggerGlobalPreload}
+      />
       <Filters
         categories={manifest.categories}
         selectedCategorySlug={categorySlug}
@@ -99,7 +131,21 @@ export function Catalog({
         onClearAll={handleClearAll}
       />
 
-      {categorySlug === null ? (
+      {searchActive ? (
+        <>
+          <ResultMeta
+            shownCount={filtered.length}
+            totalCount={manifest.totalSKUs}
+            updatedLabel={updatedLabel}
+            loading={globalLoading && globalSkus === null}
+          />
+          {globalLoading && globalSkus === null ? (
+            <ListSkeleton />
+          ) : (
+            <SKUList skus={filtered} />
+          )}
+        </>
+      ) : categorySlug === null ? (
         <CategoryPicker
           categories={manifest.categories}
           onPick={handleCategoryChange}
