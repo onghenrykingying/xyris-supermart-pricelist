@@ -20,7 +20,7 @@ export function ViberCard() {
       </span>
       <span className="min-w-0 flex-1">
         <span className="block text-sm font-semibold text-xyris-blue">
-          Get weekly promos on Viber
+          Stay updated on Viber
         </span>
         <span className="block text-xs text-xyris-charcoal/70">
           {settings.viberChannelLabel}
