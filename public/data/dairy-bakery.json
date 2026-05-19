@@ -1,0 +1,5414 @@
+{
+  "category": "Dairy & Bakery",
+  "generatedAt": "2026-05-19T11:36:01.132Z",
+  "skus": [
+    {
+      "code": "8851028000808",
+      "name": "VITAMILK CHOCO SHAKE 300MLX24",
+      "price": 30.55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Vitamilk"
+    },
+    {
+      "code": "8851028001614",
+      "name": "VITAMILK ENERGY 300MLX24",
+      "price": 33.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Vitamilk"
+    },
+    {
+      "code": "8851028000945",
+      "name": "VITAMILK ORIG.300MLX24",
+      "price": 30.55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Vitamilk"
+    },
+    {
+      "code": "8851028002505",
+      "name": "VITAMILK DOUBLE CHOCO 300MLX24",
+      "price": 30.55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Vitamilk"
+    },
+    {
+      "code": "4800523222189",
+      "name": "MOBY CHOCO DRINK 110MLX10",
+      "price": 14.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Stateline"
+    },
+    {
+      "code": "4800523222325",
+      "name": "MOBY RTD 1LX10",
+      "price": 92.85,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Stateline"
+    },
+    {
+      "code": "4800016073960",
+      "name": "VITASOY CHOCOLATE 300MLX24",
+      "price": 26.15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Vitasoy"
+    },
+    {
+      "code": "4800016073977",
+      "name": "VITASOY COFFEE 300MLX24",
+      "price": 26.15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Vitasoy"
+    },
+    {
+      "code": "4800016073953",
+      "name": "VITASOY ORIGINAL 300MLX24",
+      "price": 26.15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Vitasoy"
+    },
+    {
+      "code": "9415007001935",
+      "name": "ANCHOR FRESH MILK 1LX12",
+      "price": 111.85,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Anchor"
+    },
+    {
+      "code": "4806514101303",
+      "name": "JUMBO CONE DOUBLE DUTCH 140ML",
+      "price": 27,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514101334",
+      "name": "JUMBO CONE ROCKY ROAD 140ML",
+      "price": 27,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514102300",
+      "name": "CREAMLINE PINIPIG CHOCOLATE 70ML",
+      "price": 16,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514103406",
+      "name": "CREAM CUP CHOCO MALLOWS 210ML",
+      "price": 25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514103413",
+      "name": "CREAM CUP CHOCO MUD PIE 210ML",
+      "price": 25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514104205",
+      "name": "CREAMLINE FAM.DUO C&C+CHOCO 950ML",
+      "price": 125,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514104212",
+      "name": "CREAMLINE FAM.DUO ROCKYROAD+VAN.950ML",
+      "price": 125,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514104236",
+      "name": "CREAMLINE FAM.DUO BUKOSALAD+UBE 950ML",
+      "price": 125,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514104403",
+      "name": "CREAMLINE BUKO SALAD 1.3L",
+      "price": 200,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514104410",
+      "name": "CREAMLINE COOKIES&CREAM1.3L",
+      "price": 200,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514104427",
+      "name": "CREAMLINE DOUBLE DUTCH 1.3L",
+      "price": 200,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514104434",
+      "name": "CREAMLINE ROCKY ROAD 1.3L",
+      "price": 200,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514104458",
+      "name": "CREAMLINE UBE QUESO PASTILLAS 1.3L",
+      "price": 200,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514104465",
+      "name": "CREAMLINE BERRY VANILLA MALLOWS 1.3L",
+      "price": 200,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514104489",
+      "name": "CREAMLINE PEACH MANGO TWIST 1.3L",
+      "price": 200,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514101327",
+      "name": "CREAMLINE JUMBO CONE C&C 140ML",
+      "price": 27,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514102096",
+      "name": "CREAMLINE GOLD BAR MOCHA BROWNIE 105ML",
+      "price": 40,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514101341",
+      "name": "CREAMLINE JUMBO CONE UBEQUESO PASTILLAS",
+      "price": 27,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514104625",
+      "name": "CREAMLINE DOUBLE DUCTH 3L",
+      "price": 400,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514104632",
+      "name": "CREAMLINE ROCKY ROAD 3L",
+      "price": 400,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514104601",
+      "name": "CREAMLINE BUKO SALAD 3L",
+      "price": 400,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514104618",
+      "name": "CREAMLINE COOKIES & CREAM 3L",
+      "price": 400,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514101358",
+      "name": "CREAMLINE JUMBO CONE MANGO PEANUT 140ML",
+      "price": 27,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514101006",
+      "name": "CREAMLINE CONE ROCKY ROAD 110ML",
+      "price": 20,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514101013",
+      "name": "CREAMLINE CONE UBR MACAPUNO 110ML",
+      "price": 20,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514101037",
+      "name": "CREAMLINE CONE COOKIES & CREAM 110ML",
+      "price": 20,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514101051",
+      "name": "CREAMLINE CONE BERRY CHOCO 110ML",
+      "price": 20,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514101068",
+      "name": "CREAMLINE CONE CHOCO QUESO 110ML",
+      "price": 20,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514102003",
+      "name": "CREAMLINE BAR BUKO SALAD 85ML",
+      "price": 13,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514102010",
+      "name": "CREAMLINE BAR COOKIES & CREAM 85ML",
+      "price": 13,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514102041",
+      "name": "CREAMLINE BAR UBE QUESO PASTILLAS 85ML",
+      "price": 13,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514102065",
+      "name": "CREAMLINE BAR ROCKY ROAD 85ML",
+      "price": 13,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514102317",
+      "name": "CREAMLINE PINIPIG STRAW. 70ML",
+      "price": 16,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514103420",
+      "name": "CREAMLINE CUP CHOCO MOUSSE 210ML",
+      "price": 25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514103437",
+      "name": "CREAMLINE CUP TIRAMISU 210ML",
+      "price": 25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514103451",
+      "name": "CREAMLINE CUP PEACH MANGO 210ML",
+      "price": 25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514104502",
+      "name": "CREAMLINE MAIS CON QUESO 1.3L",
+      "price": 200,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514103208",
+      "name": "CREAMLINE SUNDAE CHOCO  120ML",
+      "price": 16,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514103215",
+      "name": "CREAMLINE SUNDAE CARAMEL 120ML",
+      "price": 16,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514103222",
+      "name": "CREAMLINE SUNDAE STRAWBERRY 120ML",
+      "price": 16,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514103031",
+      "name": "CREAMLINE MINI CUPS CHOCO 75ML",
+      "price": 14,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514103000",
+      "name": "CREAMLINE MINI CUPS CHOCO MARBLE 75ML",
+      "price": 14,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514103017",
+      "name": "CREAMLINE MINI CUPS UBE",
+      "price": 14,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514103048",
+      "name": "CREAMLINE MINI CUPS MELON 75ML",
+      "price": 14,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514103062",
+      "name": "CREAMLINE MINI CUPS BERRY CHOCO 75ML",
+      "price": 14,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514102201",
+      "name": "CREAMLINE CLASSIC MONGGO 60ML",
+      "price": 15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514102218",
+      "name": "CREAMLINE UBE MONGGO 60ML",
+      "price": 15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514109378",
+      "name": "CREAMLINE DUO C&C AND CHOCO 950ML",
+      "price": 99,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514109361",
+      "name": "CREAMLINE DUO BUCO&UBE",
+      "price": 99,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514109354",
+      "name": "CREAMLINE DUO RR&VANILLA",
+      "price": 99,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4806514102966",
+      "name": "MILKY POP LOLLY MILK CHOCO 60ML",
+      "price": 11,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Milky Pop"
+    },
+    {
+      "code": "8935049018964",
+      "name": "MONDE NUVI CHOCO MILK W/NATA 100MLX48",
+      "price": 14.85,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Monde Nissin"
+    },
+    {
+      "code": "8935049018971",
+      "name": "MONDE NUVI CHOCO MILK W/NATA 170MLX48",
+      "price": 22.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Monde Nissin"
+    },
+    {
+      "code": "9300639603018",
+      "name": "DEVONDALE FULL CREAM MILK 1LX10",
+      "price": 113.55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Devondale"
+    },
+    {
+      "code": "4806524661378",
+      "name": "DEVONDALE FULL CREAM 1L TWIN PACKX5",
+      "price": 211.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Devondale"
+    },
+    {
+      "code": "4800086035929",
+      "name": "SELECTA COOKIES&CREAM 1.25L",
+      "price": 255,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086134325",
+      "name": "SELECTA CORNETTO CHOCO 100MLX24",
+      "price": 22,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086034670",
+      "name": "SELECTA CORNETTO VANILLA 100MLX24",
+      "price": 22,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086035967",
+      "name": "SELECTA DOUBLE DUTCH 1.25L",
+      "price": 255,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086036001",
+      "name": "SELECTA CLASSIC MANGO 1.25L",
+      "price": 255,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110094762",
+      "name": "SELECTA DOLCE CHOCO MILK  245MLX24",
+      "price": 30.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086035943",
+      "name": "SELECTA COFFEE CRUMBLE 1.25L",
+      "price": 255,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086036025",
+      "name": "SELECTA CLASSIC SUPER CHOCOLATE 1.25L",
+      "price": 255,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086036094",
+      "name": "SELECTA CLASSIC STRAWBERRY 1.3L",
+      "price": 250,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086036162",
+      "name": "SELECTA QUEZO REAL 1.25L",
+      "price": 255,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110094779",
+      "name": "SELECTA DOLCE  CHOCOLATE 1LX12",
+      "price": 97.85,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086036049",
+      "name": "SELECTA CLASSIC VANILLA 1.25L",
+      "price": 255,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086036186",
+      "name": "SELECTA VERY ROCKY ROAD 1.25L",
+      "price": 255,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086038630",
+      "name": "SELECTA D.DUTCH/VERY R.ROAD 1.25L",
+      "price": 255,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086038647",
+      "name": "SELECTA D.DUTCH/VERY R.ROAD 750ML",
+      "price": 155,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086038678",
+      "name": "SELECTA COFFEE CRUMBLE/C&C 750ML",
+      "price": 139,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086036063",
+      "name": "SELECTA CLASSIC UBE ROYALE 1.25L",
+      "price": 255,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086040657",
+      "name": "SELECTA R.ROAD/C&CREAM 750ML",
+      "price": 155,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086040688",
+      "name": "SELECTA D-DUCTH&C-CREAM 750ML",
+      "price": 155,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086040671",
+      "name": "SELECTA D.DUTCH/C&CREAM 1.25L",
+      "price": 255,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086040633",
+      "name": "SELECTA R.ROAD/C&CREAM 1.25L",
+      "price": 255,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "8999999005610",
+      "name": "SELECTA MAGNUM VANILLA ALMOND 80MLX24",
+      "price": 75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "8999999005689",
+      "name": "SELECTA MAGNUM VANILLA CLASSIC 80MLX24",
+      "price": 75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086040909",
+      "name": "SELECTA COFFEE CRUMBLE 750ML",
+      "price": 155,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086040923",
+      "name": "SELECTA BUCO SALAD 750ML",
+      "price": 139,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086040916",
+      "name": "SELECTA QUEZO REAL 750ML",
+      "price": 155,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086040879",
+      "name": "SELECTA DOUBLE DUTCH 750ML",
+      "price": 155,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086040893",
+      "name": "SELECTA COOKIES&CREAM 750ML",
+      "price": 155,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086040886",
+      "name": "SELECTA SUP. ROCKY ROAD 750ML",
+      "price": 155,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086041586",
+      "name": "SELECTA CORNETTO CHOCO BERRY 1",
+      "price": 20,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086041678",
+      "name": "SELECTA BP-UK 1.5L",
+      "price": 245,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086041722",
+      "name": "SELECTA 3IN1 CHOCO-CHOCO-CHOCO",
+      "price": 99,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086041760",
+      "name": "SELECTA BUCO PANDAN STICK 70ML",
+      "price": 12,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086041784",
+      "name": "SELECTA MANGO&CASHEW 70MLX18",
+      "price": 12,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086043610",
+      "name": "SELECTA ROCKY ROAD 450ML",
+      "price": 105,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086043634",
+      "name": "SELECTA COFFEE CRUMBLE 450ML",
+      "price": 105,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086043603",
+      "name": "SELECTA DOUBLE DUTCH 450ML",
+      "price": 105,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086043641",
+      "name": "SELECTA PISTACHIO&CASHEW 450ML",
+      "price": 125,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086043306",
+      "name": "SELECTA CORNETTO COOKIES&DREAM 110MLX24",
+      "price": 22,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086043627",
+      "name": "SELECTA COOKIES & CREAM 450ML",
+      "price": 105,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086044365",
+      "name": "SELECTA B-DAY BASO UBE 400ML",
+      "price": 60,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086044372",
+      "name": "SELECTA B-DAY BASO CHOCO 400ML",
+      "price": 60,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086044389",
+      "name": "SELECTA B-DAY BASO KESO 400ML",
+      "price": 60,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086045560",
+      "name": "SELECTA PISTACHIO N CASHEW 1.3L",
+      "price": 275,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086045676",
+      "name": "SELECTA CORNETTO W-CHOCO C&C 115MLX24",
+      "price": 30,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086045751",
+      "name": "SELECTA OOH PINIPIG CHOCOLATE 60MLX24",
+      "price": 18,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086045782",
+      "name": "SELECTA ROCKY ROAD 60MLX18",
+      "price": 10,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086045775",
+      "name": "SELECTA COOKIES & CREAM 60MLX18",
+      "price": 10,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086045973",
+      "name": "SELECTA WATERMELON SLICE 60MLX30",
+      "price": 10,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086047380",
+      "name": "SELECTA CHOCO ALMOND FUDGE 750ML",
+      "price": 155,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086046598",
+      "name": "SELECTA CHOCO ALMOND FUDGE 450ML",
+      "price": 105,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086047854",
+      "name": "SELECTA CHOCO ALMOND & C&C 1.25L",
+      "price": 255,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086047625",
+      "name": "SELECTA CHOCO ALMOND FUDGE 1.3L",
+      "price": 275,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086049674",
+      "name": "SELECTA 3IN1 CHOCO-KESO-UBE 750ML",
+      "price": 99,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086047717",
+      "name": "SELECTA 3+1 CKUM EFF 1.3L",
+      "price": 149,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086049681",
+      "name": "SELECTA 3IN1 CHOCO-MANGO-UBE 750ML",
+      "price": 99,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050328",
+      "name": "SELECTA 3IN1 TUBS UBE-MANG-AVO 750ML",
+      "price": 99,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086049445",
+      "name": "SELECTA CUPS ROCKY ROAD 100MLX16",
+      "price": 25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050120",
+      "name": "SELECTA SUNDAE CUPS CHOCO 100MLX16",
+      "price": 25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086049452",
+      "name": "SELECTA CUPS CNC 100MLX16",
+      "price": 25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086046970",
+      "name": "SELECTA CUPS UBE 100MLX16",
+      "price": 20,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086046987",
+      "name": "SELECTA CUPS CHOCO 100MLX16",
+      "price": 20,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086049148",
+      "name": "CORNETTO CHOCO HAZELNUT 110MLX24",
+      "price": 20,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Cornetto"
+    },
+    {
+      "code": "4800086049551",
+      "name": "CORNETTO MATCHA CRUMBLE 115MLX24",
+      "price": 30,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Cornetto"
+    },
+    {
+      "code": "8999999600822",
+      "name": "MAGNUM MANGO YOGHURT 80MLX24",
+      "price": 75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Magnum"
+    },
+    {
+      "code": "4800086047472",
+      "name": "SELECTA BOOM COOKIES&CREAM 60MLX24",
+      "price": 18,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "8851932441438",
+      "name": "SELECTA WALLS BITES VAN&CAR 15GX4X24",
+      "price": 25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050212",
+      "name": "SELECTA AVOCADO DREAM 1.3L",
+      "price": 275,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050199",
+      "name": "SELECTA NY CHEESECAKE 1.3L",
+      "price": 275,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050311",
+      "name": "SELECTA 3+1 CVSU 1.3L",
+      "price": 149,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050366",
+      "name": "SELECTA 2IN1 TUBS UBE KESO 1.3L",
+      "price": 149,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050021",
+      "name": "SELECTA BIRTHDAY ESP BF 1.3L",
+      "price": 199,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086049698",
+      "name": "SELECTA BIRTHDAY ESP C&C 1.3L",
+      "price": 199,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086049209",
+      "name": "SELECTA SUP STRAW N CREME 450ML",
+      "price": 125,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050007",
+      "name": "SELECTA BIRTHDAY ESP MF 750ML",
+      "price": 125,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050519",
+      "name": "CORNETTO UBE CARAMEL 110MLX24",
+      "price": 20,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Cornetto"
+    },
+    {
+      "code": "4800086049704",
+      "name": "SELECTA BIRTHDAY ESP C&C 750ML",
+      "price": 125,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086049711",
+      "name": "SELECTA BIRTHDAY ESP RR 750ML",
+      "price": 125,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050564",
+      "name": "SELECTA MATCHA C&C 1.3L",
+      "price": 275,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050526",
+      "name": "SELECTA CHOCO CHIP COOKIE DOUGH 1.3L",
+      "price": 275,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050304",
+      "name": "SELECTA BIRTHDAY 3IN1 CHO-VN-STR 750ML",
+      "price": 99,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086048776",
+      "name": "SELECTA STRAW. & CREAM 1.3L",
+      "price": 275,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050359",
+      "name": "SELECTA CHOCKY STICK 45MLX30",
+      "price": 10,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050717",
+      "name": "SELECTA IH SUP UBE CAKE 1.3L",
+      "price": 275,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050670",
+      "name": "SELECTA IH SUP COCO MANGO 1.3L",
+      "price": 275,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050724",
+      "name": "SELECTA IH SUP UBE CAKE 450ML",
+      "price": 125,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050700",
+      "name": "SELECTA IH SUP LANGKASUY 450ML",
+      "price": 125,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050625",
+      "name": "SELECTA BOOM CHEESE 60MLX24",
+      "price": 18,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086050779",
+      "name": "SELECTA BOOM MAX BERRY CRUNCHY 65MLX24",
+      "price": 22,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800024584458",
+      "name": "DM VINAMILK FRESH MILK 180MLX48",
+      "price": 35.15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024584526",
+      "name": "DM MILK TEA WINTERMELON 180MLX48",
+      "price": 24.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024586346",
+      "name": "DM MR.MILK ORANGE YOGHURT 80MLX6'SX16",
+      "price": 52.45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800194107662",
+      "name": "OISHI CHOCO CHUG 250MLX24",
+      "price": 25.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Oishi"
+    },
+    {
+      "code": "4800148531987",
+      "name": "MARBY FISH BALLS 200G",
+      "price": 37.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148531994",
+      "name": "MARBY SQUID BALLS 400G",
+      "price": 121,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148531666",
+      "name": "MARBY FISH BALLS 500G",
+      "price": 87.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148533035",
+      "name": "MARBY TEMPURA 400G",
+      "price": 99,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148536128",
+      "name": "FRENCH FRIES W/CHEESE 600G",
+      "price": 189.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Others"
+    },
+    {
+      "code": "4800148537200",
+      "name": "MARBY CHEESY STICKS PIMIENTO 25'S",
+      "price": 124,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148537194",
+      "name": "MARBY CHEESY STICKS 25'S",
+      "price": 119,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148538832",
+      "name": "MARBY CHEESY STICKS HAM&CHEESE 25'S",
+      "price": 124,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148540194",
+      "name": "MARBY SHARKFIN BALLS 250G",
+      "price": 234.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800249519044",
+      "name": "CDO BACON HOLIDAY 200GX30",
+      "price": 126.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249110500",
+      "name": "CDO BIBBO CHEESEDOG CLASSIC 230GX22",
+      "price": 77.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249285031",
+      "name": "CDO BINGO HOTDOG JUMBO4 450GX1",
+      "price": 53.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249699029",
+      "name": "CDO FUNTASTYK LONGGANISA 240GX25",
+      "price": 95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249004731",
+      "name": "CDO FUNTASTYK YOUNG PT REG. FLAT 450GX20",
+      "price": 166.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249004748",
+      "name": "CDO  YOUNG PT REG.FLAT 225GX36",
+      "price": 87.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249091076",
+      "name": "CDO IDOL CHEESEDOG JUMBO 500GX10",
+      "price": 113,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249070132",
+      "name": "CDO REGULAR COOKED HAM 250GX32",
+      "price": 112,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249886009",
+      "name": "CDO ULAM BURGER REGULAR 228GX30",
+      "price": 70.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249071733",
+      "name": "CDO REGULAR SWEET HAM 250GX32",
+      "price": 112,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249286120",
+      "name": "CDO BIBBO HOTDOG CLASSIC 1KGX10",
+      "price": 201.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249080049",
+      "name": "CDO IDOL CHEESEDOG REG. 250GX24",
+      "price": 65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249082029",
+      "name": "CDO IDOL CHEESEDOG REG. 1KGX9",
+      "price": 188,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249033403",
+      "name": "CDO CHEESY CHIC.FRANKS JUMBO 1KGX12",
+      "price": 190.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249886030",
+      "name": "CDO ULAM BURGER MINI 225GX18",
+      "price": 72,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249008463",
+      "name": "CDO CHICKEN FRANKS HOTDOG JBO 1KGX12",
+      "price": 190.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249092035",
+      "name": "CDO IDOL CHEESEDOG JUMBO 1KGX12",
+      "price": 188,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249017021",
+      "name": "CDO CHEESY CHICKEN FRANKS JUMBO 500GX10",
+      "price": 123.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249005967",
+      "name": "CDO CHICKEN FRANKS JUMBO 500GX10",
+      "price": 123.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249033397",
+      "name": "CDO CHEESY CHICKEN FRANKS REG. 1KGX12",
+      "price": 190.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249005943",
+      "name": "CDO CRISPY BURGER 228GX21",
+      "price": 69.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249008456",
+      "name": "CDO CHICKEN FRANKS HOTDOG REG. 1KGX12",
+      "price": 190.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249042726",
+      "name": "CDO FUNTASTKY CHICKEN TOCINO 225GX36",
+      "price": 101,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249044454",
+      "name": "CDO CHICKEN BURGER 288GX30",
+      "price": 75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249042733",
+      "name": "CDO FUNTASTKY CHICKEN TOCINO 450GX20",
+      "price": 193,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249022841",
+      "name": "CDO F. YOUNG PORK CHILI TOCINO 225GX36",
+      "price": 98,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249019834",
+      "name": "CDO HOLIDAY HAM PRE-SLICED 1KG",
+      "price": 609,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249071726",
+      "name": "CDO CLASSIC SWEET HAM 500GX16",
+      "price": 213,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249049367",
+      "name": "CDO FUNTASTYK CHICKEN LONGGANISA 440GX16",
+      "price": 164.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249050561",
+      "name": "CDO IDOL HOTDOG SUPER JUMBO 1KGX16",
+      "price": 186,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249050547",
+      "name": "CDO IDOL HOTDOG REG. 250GX24",
+      "price": 62.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249050554",
+      "name": "CDO IDOL HOTDOG REG. 1KGX9",
+      "price": 186,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249002867",
+      "name": "CDO HOLIDAY WHOLE MEAT HAM 1KG",
+      "price": 619,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249052282",
+      "name": "CDO CHICKEN FRANKSCDOGJUMBO1KGX12 PAWPTR",
+      "price": 185.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249052299",
+      "name": "CDO CHICKEN FRANKS CDOG REG.1KGX12 PAWPT",
+      "price": 185.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249161526",
+      "name": "CDO CHICKEN LONGGANISA 500GX12",
+      "price": 172,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249165333",
+      "name": "CDO SKINLESS LONGGANISA 250GX24",
+      "price": 86,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249053524",
+      "name": "CDO CHIC.FRANKS CLASSIC REG.1KG+NUG.X9",
+      "price": 185.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249053692",
+      "name": "CDO IDOL CHEESEDOG JBO 1KG+TOCINOX12",
+      "price": 183,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249053548",
+      "name": "CDO CHICKEN FRANKS CLASSIC REG+BARN NUGG",
+      "price": 185.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249053555",
+      "name": "CDO CHICKEN FRANKS JUMBO+BARN NUGGETS",
+      "price": 185.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249053685",
+      "name": "CDO IDOL CHEESEDOG JUMBO+FUNTASTYK TOCIN",
+      "price": 183,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249165043",
+      "name": "CDO SKINLESS LONGGANISA 400GX16",
+      "price": 136,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249046410",
+      "name": "CDO FUNTASTYK YOUNG PORK TOCINO 450GX2 S",
+      "price": 293,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249054118",
+      "name": "CDO SWEET HAM 250G SAVE 10X32",
+      "price": 100,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249054125",
+      "name": "CDO CLASSIC COOKED HAM 250G SAVE 10X32",
+      "price": 100,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249054132",
+      "name": "CDO CHICKEN HAM 250G SAVE 10X32",
+      "price": 100,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249054156",
+      "name": "CDO CHICKEN LONGGANISA 500G SAVE 20X12",
+      "price": 152,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249780086",
+      "name": "CDO BEEF TAPA 250GX28",
+      "price": 110,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249004991",
+      "name": "CDO ULAM BURGER REGULAR 912GX8",
+      "price": 268.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249006094",
+      "name": "CDO BARN CHICKEN NUGGETS 200GX14",
+      "price": 96,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249039276",
+      "name": "CDO PREMIUM TONKATSU 420GX12",
+      "price": 183,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249056297",
+      "name": "CDO ICD JBO 1KG+ICD REG.250G SAVE25.OOX1",
+      "price": 222,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249056280",
+      "name": "CDO ICD REG. 1KG+ICD REG. 250G SAVE 25.0",
+      "price": 222,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249056310",
+      "name": "CDO IHD SPR JBO 1KG+IHD REG. 250G SAVE 2",
+      "price": 217.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249056327",
+      "name": "CDO IHD REG. 1KG+ IHD REG. 250G SAVE 25.",
+      "price": 217.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249042931",
+      "name": "HOLIDAY CHICKEN SIOMAI 240GX18",
+      "price": 59,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Holiday"
+    },
+    {
+      "code": "4800249039122",
+      "name": "HOLIDAY SIOMAI 240GX18",
+      "price": 59,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Holiday"
+    },
+    {
+      "code": "4800575884007",
+      "name": "ALPINE FULL CREAM 360MLX48",
+      "price": 67.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Alaska Alpine"
+    },
+    {
+      "code": "4800575884502",
+      "name": "ALPINE FULL CREAM 140MLX48",
+      "price": 38.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Alaska Alpine"
+    },
+    {
+      "code": "4800575416260",
+      "name": "ALASKA CHOCO 100MLX48",
+      "price": 12.55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Alaska"
+    },
+    {
+      "code": "4800575874527",
+      "name": "ALASKA SWEET MILK 110MLX36",
+      "price": 11.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Alaska"
+    },
+    {
+      "code": "4800575890565",
+      "name": "ALPINE STERILIZED FCM 155MLX48",
+      "price": 24.15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Alaska Alpine"
+    },
+    {
+      "code": "4800575890572",
+      "name": "ALPINE STERILIZED FULL CREAM 200MLX36",
+      "price": 26.15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Alaska Alpine"
+    },
+    {
+      "code": "4800575143524",
+      "name": "ALASKA FORT. MILK 965MLX12",
+      "price": 83.55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Alaska"
+    },
+    {
+      "code": "4800575240490",
+      "name": "ALASKA FRESH MILK 1LX2X6 SAVE 15.00",
+      "price": 177.85,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Alaska"
+    },
+    {
+      "code": "4800575144569",
+      "name": "ALASKA FRESH MILK 1LX12",
+      "price": 96.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Alaska"
+    },
+    {
+      "code": "4800575241824",
+      "name": "ALASKA FRUTTI YOG.STRAWBERRY 80ML B6S6X8",
+      "price": 46.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Alaska"
+    },
+    {
+      "code": "4800361015400",
+      "name": "CHUCKIE 250MLX24",
+      "price": 28.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361015103",
+      "name": "NESTLE FRESH MILK 250MLX24",
+      "price": 37.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestlé"
+    },
+    {
+      "code": "4800361331265",
+      "name": "CHUCKIE 1LX12",
+      "price": 105.15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361015165",
+      "name": "NESTLE LOWFAT 1LX12",
+      "price": 112.85,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestlé"
+    },
+    {
+      "code": "4800361331289",
+      "name": "BEAR BRAND STER. 1LX12",
+      "price": 100.15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361361811",
+      "name": "B-BRAND STER. W/GINSENG 200MLX32",
+      "price": 27.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361331500",
+      "name": "BEAR BRAND STER.200MLX32",
+      "price": 27.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361362139",
+      "name": "MILO RTD 180MLX32",
+      "price": 23.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361361835",
+      "name": "B-BRAND STER.GINKGO BILOBA 200MLX32",
+      "price": 27.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361015110",
+      "name": "NESTLE FRESH MILK 1LX12",
+      "price": 109.65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestlé"
+    },
+    {
+      "code": "4800361381581",
+      "name": "NESTLE NON FAT MILK 1LX12",
+      "price": 112.85,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestlé"
+    },
+    {
+      "code": "4800361388313",
+      "name": "CHUCKIE 180MLX36",
+      "price": 22.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361388931",
+      "name": "NESTLE NON FAT MILK 250MLX24",
+      "price": 35.65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestlé"
+    },
+    {
+      "code": "4800361395687",
+      "name": "CHUCKIE 110MLX60 NEW",
+      "price": 13.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361396714",
+      "name": "MILO RTD 110MLX60 NEW",
+      "price": 15.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361406765",
+      "name": "CHUCKIE OPTI-GROW 250MLX6'SX4",
+      "price": 163.65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361410212",
+      "name": "CHUCKIE 1LX2'S SAVE 10.00X6",
+      "price": 195.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361401487",
+      "name": "CHUCKIE 110MLX6X10 BAON SAVER'S PACK",
+      "price": 79.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361419215",
+      "name": "BEAR BRAND STER. 200MLX4'SX8",
+      "price": 95.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361419413",
+      "name": "CHUCKIE 180MLX6'SX6 BAON SAVERS PACK",
+      "price": 120.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361420198",
+      "name": "MILO RTD 5(6X180ML)SAVE12",
+      "price": 136.85,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361422734",
+      "name": "CHUCKIE 110MLX10'SX6",
+      "price": 118.45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361424424",
+      "name": "CHUCKIE OPTIGROW 4(8X180ML) B7F1",
+      "price": 156.65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361425698",
+      "name": "BEAR BRAND STER. 200ML 6+1FREEX4",
+      "price": 163.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361425841",
+      "name": "CHUCKIE 180MLX4'SX9",
+      "price": 86.65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361425360",
+      "name": "CHUCKIE 8X(4X250ML)",
+      "price": 105.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361114226",
+      "name": "CHUCKIE 100MLX6 SAVE 5X10",
+      "price": 74.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361428873",
+      "name": "CHUCKIE 250ML 5+1X4",
+      "price": 144.65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361429337",
+      "name": "BEAR BRAND FORTIFIED 110MLX60",
+      "price": 13.15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800016073939",
+      "name": "CLOUD 9 RTD CHOCO 110MLX36",
+      "price": 12.15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Cloud 9"
+    },
+    {
+      "code": "4800016073984",
+      "name": "VITASOY CHOCOLATE 1LX12",
+      "price": 96.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Vitasoy"
+    },
+    {
+      "code": "4800016074851",
+      "name": "VITASOY CHOCOLATE 200MLX24",
+      "price": 18.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Vitasoy"
+    },
+    {
+      "code": "8992714073123",
+      "name": "GOODDAY CMYD STRAW. 8X5X80ML",
+      "price": 57.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Good Day"
+    },
+    {
+      "code": "8992714073116",
+      "name": "GOODDAY CMTD ORIG. 8X5X80ML",
+      "price": 57.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Good Day"
+    },
+    {
+      "code": "8992714073130",
+      "name": "GOODDAY CMYD MANGO 8X5X80ML",
+      "price": 57.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Good Day"
+    },
+    {
+      "code": "4800016026577",
+      "name": "CLOUD 9 RTD C&C MILK 180MLX36",
+      "price": 19.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Cloud 9"
+    },
+    {
+      "code": "4800016026584",
+      "name": "CLOUD 9 RTD CHOCO CARAMEL MILK 180MLX36",
+      "price": 19.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Cloud 9"
+    },
+    {
+      "code": "9556404123247",
+      "name": "GOODDAY CMD MANGO 350MLX24",
+      "price": 41.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Good Day"
+    },
+    {
+      "code": "9556404123261",
+      "name": "GOODDAY CMD STRAWBERRY 350MLX24",
+      "price": 41.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Good Day"
+    },
+    {
+      "code": "9556404123223",
+      "name": "GOODDAY CMD ORIG. 350MLX24",
+      "price": 41.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Good Day"
+    },
+    {
+      "code": "9557727935890",
+      "name": "GOODDAY FRIZ ORIG. 240MLX24",
+      "price": 32.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Good Day"
+    },
+    {
+      "code": "9557727935913",
+      "name": "GOODDAY FRIZ ORANGE 240MLX24",
+      "price": 32.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Good Day"
+    },
+    {
+      "code": "4800110093888",
+      "name": "SELECTA FORTIFIED F-MILK 1LX12",
+      "price": 92.55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110094458",
+      "name": "SELECTA FORTIFIED L-FAT 245MLX24",
+      "price": 38.15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110093895",
+      "name": "SELECTA FORTIFIED F-MILK 245MLX24",
+      "price": 38.15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110080482",
+      "name": "SELECTA MOO CHOCO 245MLX24",
+      "price": 30.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110094465",
+      "name": "SELECTA FORTIFIED L-FAT 1LX12",
+      "price": 102.55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110080550",
+      "name": "SELECTA MOO CHOCO 90MLX36",
+      "price": 19.15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110095776",
+      "name": "SELECTA STER. MILK 1LX12",
+      "price": 89.85,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110097176",
+      "name": "SELECTA FORTIFIED MILK 2'S SAVE 15.00X6",
+      "price": 170.1,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110097367",
+      "name": "SELECTA FORTIFIED LOW FAT 2'S",
+      "price": 41.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110097541",
+      "name": "SELECTA STER.MILK 200MLX24",
+      "price": 24.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110097909",
+      "name": "SELECTA FORTIFIED LF 1L SAVE 30.00X6",
+      "price": 174.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110098043",
+      "name": "SELECTA MOO CHOCO 245MLX6'S SAVE25X4",
+      "price": 159.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110098067",
+      "name": "SELECTA LOWFAT 245ML SAVE 25.00X6",
+      "price": 126.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110098074",
+      "name": "SELECTA FORTMILK 245ML TO GOX12",
+      "price": 63.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110098081",
+      "name": "SELECTA FORT. MILK 100MLX36",
+      "price": 12.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110098159",
+      "name": "SELECTA STER. TO GO PACKX12",
+      "price": 49.55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110098036",
+      "name": "SELECTA MOO CHOCO 100ML 8+2X4",
+      "price": 153.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110098128",
+      "name": "SELECTA MOO CHOCO 180MLX24",
+      "price": 20.65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110098173",
+      "name": "SELECTA FARM FRESH 1LX12",
+      "price": 102.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110098197",
+      "name": "SELECTA FARM FRESH 1L SAVER PACK X6",
+      "price": 197.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110098203",
+      "name": "SELECTA STERELIZED 1L SAVER PACKX6",
+      "price": 169.45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110098258",
+      "name": "SELECTA NON FAT MILK 1LX2 SAVE 7.00",
+      "price": 174.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110098357",
+      "name": "SELECTA FORT MILK 1L BUY2 FREE PLATEX6",
+      "price": 181.45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110098364",
+      "name": "SELECTA FORT.MILK 1L BUY 2 FREE DOLCE 24",
+      "price": 181.45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110098371",
+      "name": "SELECTA LOW FAT MILK 1L BUY 2 FREE DOLCE",
+      "price": 195.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800110098401",
+      "name": "SEL.FORT.MILK 1LX2 FREE TUMBLERX6",
+      "price": 185.15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4808887302776",
+      "name": "PF BEEFIES LOTS A CHEESE 1KGX10",
+      "price": 194,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887340211",
+      "name": "PF HONEYCURED BACON ROLLPCK 250GX20",
+      "price": 203.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887300895",
+      "name": "PF BEEFIES JBO 1KGX10",
+      "price": 191,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887300826",
+      "name": "PF BEEFIES REG 1KGX10",
+      "price": 191,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887301366",
+      "name": "PF STAR CNT HOTDOG REG 1KGX10",
+      "price": 178,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887320039",
+      "name": "PF COOKED HAM SLICED 250G",
+      "price": 113.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887340228",
+      "name": "PF HONEY CURED BACON 500GX12",
+      "price": 390.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887340051",
+      "name": "PF HONEY CURED BACON SLICED 400G",
+      "price": 324,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887340044",
+      "name": "PF HONEYCURED BACON SLICED 200GX26",
+      "price": 178,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887330519",
+      "name": "PF JAMON DE BOLA 1KG",
+      "price": 385,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887950885",
+      "name": "PF NUGGETS F.LETTER&NUMBERS 200G",
+      "price": 110,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887320084",
+      "name": "PF SWEET HAM SLICED 250G",
+      "price": 135,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887301717",
+      "name": "PF TJ CHEESEDOG 1KGX12",
+      "price": 208,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887300277",
+      "name": "PF TJ COCKTAIL 1KGX9",
+      "price": 200,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887300093",
+      "name": "PF TENDER JUICY REG 500GX16",
+      "price": 141,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887300260",
+      "name": "PF TENDER JUICY REG 1KGX12",
+      "price": 198,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887301731",
+      "name": "PF TJ CHEESEDOG 230GX36",
+      "price": 76.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887301724",
+      "name": "PF TJ CHEESEDOG 500GX16",
+      "price": 143,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887300055",
+      "name": "PF TJ COCKTAIL 250GX32",
+      "price": 75.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887300116",
+      "name": "PF TJ COCKTAIL 500X14",
+      "price": 146,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887300284",
+      "name": "PF TENDER JUICY JUMBO 4 1/2 1KGX12",
+      "price": 198,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887300130",
+      "name": "PF TENDER JUICY JUMBO 4 1/2 500GX24",
+      "price": 141,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887300291",
+      "name": "PF TENDER JUICY KINGSIZE JUMBO 6 IN 1KGX",
+      "price": 198,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887300086",
+      "name": "PF TENDER JUICY REG 230GX36",
+      "price": 75.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887300550",
+      "name": "TJ HOT&SPICY 500G",
+      "price": 128.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887820027",
+      "name": "VIDA BACON 250GX20",
+      "price": 144.85,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887320022",
+      "name": "VIDA SWEET HAM 250G",
+      "price": 70,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358603028",
+      "name": "MAG.CHOCOLAIT 110MLX36",
+      "price": 13.4,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358603080",
+      "name": "MAG.CHOCOLAIT 1LX12",
+      "price": 107,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358603059",
+      "name": "MAG.CHOCOLAIT 250MLX24",
+      "price": 29,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358247017",
+      "name": "DARI CREME BUTTERMILK 100GX48",
+      "price": 41,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Dari Crème"
+    },
+    {
+      "code": "4805358247048",
+      "name": "DARI CREME BUTTERMILK 200GX48",
+      "price": 59,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Dari Crème"
+    },
+    {
+      "code": "4805358246010",
+      "name": "DARI CREME CLASSIC 100GX48",
+      "price": 41,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Dari Crème"
+    },
+    {
+      "code": "4805358246041",
+      "name": "DARI CREME CLASSIC 200GX48",
+      "price": 59,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Dari Crème"
+    },
+    {
+      "code": "4805358211056",
+      "name": "DARI CREME LITE SPREADABLE 200GX24",
+      "price": 87,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Dari Crème"
+    },
+    {
+      "code": "4805358206045",
+      "name": "MAG. BUTTERCUP SALTED 200GX48",
+      "price": 49,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358103016",
+      "name": "MAG.GOLD BUTTER SALTED 100GX48",
+      "price": 92,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia Gold"
+    },
+    {
+      "code": "4805358103047",
+      "name": "MAG.GOLD BUTTER SALTED 225GX48",
+      "price": 161,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia Gold"
+    },
+    {
+      "code": "4805358601086",
+      "name": "MAG.FRESH MILK 1LX12",
+      "price": 104,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358129054",
+      "name": "MAG.GOLD LITE 200GX24",
+      "price": 156,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia Gold"
+    },
+    {
+      "code": "4805358602083",
+      "name": "MAG.LOW FAT MILK 1LX12",
+      "price": 109,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358104044",
+      "name": "MAG.GOLD BUTTER UNSALTED 225GX48",
+      "price": 161,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia Gold"
+    },
+    {
+      "code": "4808887820034",
+      "name": "VIDA BACON 500GX12",
+      "price": 267.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358601055",
+      "name": "MAGNOLIA FRESH MILK 250MLX24",
+      "price": 36,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4808887941456",
+      "name": "PF NUGGETS CHEESE 200GX24",
+      "price": 108,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887303476",
+      "name": "PF STAR HOTDOG REG.1KLOX10",
+      "price": 174,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887303483",
+      "name": "PF STAR HOTDOG JUMBO 1KLX10",
+      "price": 174,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887941449",
+      "name": "PF NUGGETS BBQ 200GX24",
+      "price": 108,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887941500",
+      "name": "PF NUGGETS BACON&CHEESE 200GX20",
+      "price": 110,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887941524",
+      "name": "PF CHICKEN FUN NUGGETS 1KGX6",
+      "price": 505,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887302202",
+      "name": "PF STAR CHIC.HOTDOG REG. 250GX32",
+      "price": 55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887303506",
+      "name": "PF STAR CHEESEDOG JUMBO IKGX10",
+      "price": 184,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887303117",
+      "name": "PF BEEFIES LOTS-A-CHIZ JBO 1KGX10",
+      "price": 194,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358207042",
+      "name": "MAG.BAKER'S BEST 225GX48",
+      "price": 59,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358294042",
+      "name": "MAG.BUTTER-LICIOUS 200GX48",
+      "price": 97,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4808887360950",
+      "name": "PF CRISP N JUICY DRUMMETS 1KGX6",
+      "price": 466,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887360943",
+      "name": "PF CRISP N JUICY DRUMMETS 240GX20",
+      "price": 114,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887320381",
+      "name": "PF STAR LINAM-HAM 250GX40",
+      "price": 94,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "40001",
+      "name": "PF CHICKEN FUN NUGGETS SULIT PACK 135GX3",
+      "price": 52,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358606036",
+      "name": "MAG. FULL CREAM MILK 200MLX36",
+      "price": 27.65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4808887941814",
+      "name": "PF NUGGETS CHICKEN BREAST 200GX20",
+      "price": 114,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887361018",
+      "name": "PF STAR BURGER BITES 150GX26",
+      "price": 50,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887970463",
+      "name": "PF SWEET CHILI TOCINO 220GX24",
+      "price": 88,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887970470",
+      "name": "PF PORK LONGANISA HAMONADO 250GX20",
+      "price": 84,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887970487",
+      "name": "PF PORK LONGANISA RECADO 250GX20",
+      "price": 84,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887970449",
+      "name": "PF CLASSIC PORK TOCINO 220GX24",
+      "price": 88,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358001930",
+      "name": "MAG.CHOCOLAIT 110ML 5+1X6",
+      "price": 61.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4808887320398",
+      "name": "PF CHICKEN HAM 250GX24",
+      "price": 113.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887303926",
+      "name": "PF TJ GIANT VACUUM 1KGX8",
+      "price": 198,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887941890",
+      "name": "PF CHICKEN POPCORN NUGGETS 200GX20",
+      "price": 114,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887941937",
+      "name": "PF CHICKEN POPCORN NUGGETS 1KGX6",
+      "price": 530,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887303735",
+      "name": "PF STAR CHEEZEEDOG FOOTLONG 10+2X8",
+      "price": 185,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358616080",
+      "name": "MAGNOLIA NON FAT MILK 1LX12",
+      "price": 109,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4808887303551",
+      "name": "PF STAR HOTDOG REGULAR 250G",
+      "price": 35.65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887970531",
+      "name": "PF TOCINO CLASSIC 450GX20",
+      "price": 168,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887304350",
+      "name": "PF TJ CHICKEN HOTDOG JUMBO 500GX24",
+      "price": 143,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887420647",
+      "name": "GERMAN FRANKS JUMBO 6'' 1KGX10",
+      "price": 388,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887304190",
+      "name": "PF TJ CHEESEDOG JUMBO 500GX24",
+      "price": 143,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887304220",
+      "name": "PF TJ CHEESEDOG JUMBO 1KGX12",
+      "price": 208,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887303988",
+      "name": "PF STAR CHEESEDOG REG.1KGX10",
+      "price": 184,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887970548",
+      "name": "PF SWEET CHILI TOCINO 450GX10",
+      "price": 168,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887304497",
+      "name": "PF TJ CHEESEDOG JBO CHESSY SPAG.500GX24",
+      "price": 143,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887304480",
+      "name": "PF TJ CHEESEDOG JBO CHEESY PIZZA 500GX24",
+      "price": 143,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358600003",
+      "name": "MAG.CHOCOLAIT 200MLX36",
+      "price": 23.1,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358002494",
+      "name": "MAG.QUESO DE BOLA 500G+FREE APCX12",
+      "price": 294.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4808887304701",
+      "name": "PF TJ  HOTDOG BALLS 500GX18",
+      "price": 143,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887304688",
+      "name": "PF TJ  CHEESEBALLS 500GX18",
+      "price": 145,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887304695",
+      "name": "PF TJ  HOTDOG BALLS 1KGX8",
+      "price": 199,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887304671",
+      "name": "PF TJ  CHEESEBALLS 1KGX8",
+      "price": 208,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358003460",
+      "name": "MAG. FRESH MILK 1L BUY 2 SAVE 15.00X6",
+      "price": 193,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358003446",
+      "name": "MAG.FULL CREAM 1LX2'SX6 SAVE 10.00",
+      "price": 190,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4808887304930",
+      "name": "PF TJ CHICKEN HOTDOG 1KGX12",
+      "price": 199,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887304947",
+      "name": "PF TJ CHICKEN & CHEESE HOTDOG 1KGX12",
+      "price": 201,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358600089",
+      "name": "MAG. FULL CREAM 110MLX36",
+      "price": 11.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4808887970579",
+      "name": "PF BEEF TAPA 220GX24",
+      "price": 98,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887970593",
+      "name": "PF CHICKEN TAPA 250GX24",
+      "price": 88,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887942156",
+      "name": "PF SHRIMP TEMPURA 200G",
+      "price": 220,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887304718",
+      "name": "STAR CHEESEBALLS 500GX18",
+      "price": 96,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887942170",
+      "name": "PF TAIL ON SHRIMP 200G",
+      "price": 205,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887942163",
+      "name": "PF SQUID RINGS 200G",
+      "price": 185,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358289031",
+      "name": "MAG. BUTTER-LICIOUS UNSALTED 200GX48",
+      "price": 97,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4808887970616",
+      "name": "PF CHICKEN TOCINO HONEY GLAZED 450GX",
+      "price": 185,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358003712",
+      "name": "DARI CREME CLASSIC 200GX2X24X24",
+      "price": 98.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Dari Crème"
+    },
+    {
+      "code": "4805358003729",
+      "name": "DARI CREME BUTTERMILK 200GX2X24",
+      "price": 95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Dari Crème"
+    },
+    {
+      "code": "4805358003798",
+      "name": "MAG.GOLD BUTTER SALTED BUY2SAVE40 225X24",
+      "price": 280.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia Gold"
+    },
+    {
+      "code": "4805358003804",
+      "name": "MAG.GOLD BUTTER UNSALTED B2S40 225GX24",
+      "price": 280.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia Gold"
+    },
+    {
+      "code": "4808887970456",
+      "name": "PF CHIX TOCINO HONEY GLAZED 220GX24",
+      "price": 95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887942637",
+      "name": "PF SPICY CHICKEN NUGGETS 200GX20",
+      "price": 114,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358003965",
+      "name": "DARI CREME CLS. 200GX2X24 W/ KEEPER",
+      "price": 107.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Dari Crème"
+    },
+    {
+      "code": "4805358003972",
+      "name": "DARI CREME BMILK 200GX2X24 W/ KEEPER",
+      "price": 107.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Dari Crème"
+    },
+    {
+      "code": "4805358004207",
+      "name": "MAG.CHOCOLAIT 200MLX4'SX9 SAVE 4.00",
+      "price": 88.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4808887350142",
+      "name": "PF DELI BREAKFAST SAAUSAGE 240GX32",
+      "price": 177,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358004214",
+      "name": "MAG. CHOCOLAIT,1L,BUY2 SAVE15X6",
+      "price": 199,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358004160",
+      "name": "MAG. BAKER BEST 225G,BUY2 SAVE 10X24",
+      "price": 108,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4808887970647",
+      "name": "PF BEEF TAPA SPICY 220GX24",
+      "price": 98,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887970623",
+      "name": "PF BEEF TAPA 450GX10",
+      "price": 190,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887970630",
+      "name": "PF CHICKEN TAPA 450G",
+      "price": 168,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358004245",
+      "name": "MAG.CREAM CHEESE 225G 2'S SAVE 30.00X24",
+      "price": 294,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358004474",
+      "name": "DARI CREME BUTTERMILK 200G SAVE20.00X24",
+      "price": 97.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Dari Crème"
+    },
+    {
+      "code": "4805358004467",
+      "name": "DARI CREME CLASSIC 200GX24 SAVE 20.00",
+      "price": 97.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Dari Crème"
+    },
+    {
+      "code": "4805358003682",
+      "name": "MAGNOLIA NON FAT BUY 2 SAVE 15.00 1L X6",
+      "price": 203,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358003859",
+      "name": "MAG.BUTTER-LICIOUS UNSALTED 200GX2'SX24",
+      "price": 183.55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358003842",
+      "name": "MAG.BUTTERLICIOUS SALTED 200GX2'SX24",
+      "price": 183.55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358004771",
+      "name": "MAG.CHOCOLAIT SIK-6 SAVERS 250MLX6'SX4",
+      "price": 169,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358004788",
+      "name": "MAG.FULL CREAM 200MLX4'SX9",
+      "price": 100.8,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358004757",
+      "name": "MAG.CHOCOLAIT 200ML A4DABLEX9",
+      "price": 88.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4808887304183",
+      "name": "TJ CHILI N CHEESE JUMBO 1KG",
+      "price": 208,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887305005",
+      "name": "TJ CHILI JUMBO 1KG",
+      "price": 198,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358003644",
+      "name": "MAG LOW FAT 1L BUY 2 SAVE 15.00X6",
+      "price": 203,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4808887970654",
+      "name": "PF CHICKEN TAPA SPICY 220G",
+      "price": 88,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887970494",
+      "name": "PF CHICKEN LONGGANISA 250GX20",
+      "price": 84,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887941944",
+      "name": "PF CHICKEN BREAST NUGGETS 1KG",
+      "price": 490,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "48088879415000",
+      "name": "PF NUGGETS BACON&CHEESE 200GX20",
+      "price": 2095.2,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "40002",
+      "name": "STAR CHEESEDOG REG.250G",
+      "price": 58,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887330403",
+      "name": "PF PEAR SHAPED HAM 800G",
+      "price": 250,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887330663",
+      "name": "PF FIESTA HAM PRE-SLICED 1KG",
+      "price": 630,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358206014",
+      "name": "BUTTERCUP SALTED 100GX48",
+      "price": 30,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4808887302196",
+      "name": "PF STAR CHICKEN N' TASTY JUMBO 1KGX10",
+      "price": 178,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4804888800440",
+      "name": "ZESTO CHOCO 180MLX10",
+      "price": 18.6,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888902120",
+      "name": "ZEST-O CHOCO TWA 110MLX10",
+      "price": 12.8,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888615600",
+      "name": "ZESTO CHOC-O 1LX12",
+      "price": 71.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888618830",
+      "name": "ZESTO CHOCO TWA 110ML 5+1X8",
+      "price": 64,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888618908",
+      "name": "ZESTO CHOCO TBA 250ML 5+1X4",
+      "price": 142.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888620239",
+      "name": "ZESTO CHOCO TBA 250MLX4 SAVE 10.00",
+      "price": 104,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888620932",
+      "name": "ZESTO FUN BAON CHOCO +ZESTO ORANGE",
+      "price": 120,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888624732",
+      "name": "ZESTO CHOC-O 180ML 9+1X10",
+      "price": 167.4,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4806502725269",
+      "name": "GARDENIA BLACK FOREST 400G",
+      "price": 137.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502720189",
+      "name": "GARDENIA TOAST2 POLYBAG (50GX10) 500G",
+      "price": 186,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502720110",
+      "name": "GARDENIA BUTTER TOAST 5 SLICE 125G",
+      "price": 45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502721445",
+      "name": "GARDENIA CAL. RAISIN 400G",
+      "price": 101,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502720417",
+      "name": "GARDENIA CLASSIC WHITE BREAD 400G",
+      "price": 64.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502720615",
+      "name": "GARDENIA CLASSIC WHITE BREAD 600G",
+      "price": 93.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502720301",
+      "name": "GARDENIA HIGH FIBER WHEAT BREAD 600G",
+      "price": 110,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502721452",
+      "name": "GARDENIA HIGH FIBER WHEAT BREAD 400G",
+      "price": 80.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502720165",
+      "name": "GARDENIA D.D. UBE&CHEESE 400G",
+      "price": 101,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502721476",
+      "name": "GARDENIA CHOCO CHIP LOAF 400G",
+      "price": 101,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502726822",
+      "name": "GARDENIA NEUBAKE WHITE BREAD 450G",
+      "price": 59.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502725894",
+      "name": "GARDENIA HIGH FIBER WHEAT RAISIN 400G",
+      "price": 107.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502725900",
+      "name": "GARDENIA HIGH FIBER WHEAT RAISIN 600G",
+      "price": 137.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502726549",
+      "name": "GARDENIA DATES&WALNUTS 400G",
+      "price": 72,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502726457",
+      "name": "GARDENIA CRANBERRY 370G",
+      "price": 102.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502726129",
+      "name": "GARDENIA CHEESE BUNS 250G",
+      "price": 71.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502727539",
+      "name": "GARDENIA POCKET SAND.PEANUT BUTTER 50G",
+      "price": 12.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502727423",
+      "name": "NEUBAKE WHEATEN BREAD 560G",
+      "price": 90,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502728444",
+      "name": "GARDENIA WHITE BREAD CLASSIC 600G SAVE 5",
+      "price": 80,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502728888",
+      "name": "GARDENIA CLASSIC BREAD 600G LESS 7",
+      "price": 78,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4806502720172",
+      "name": "GARDENIA BUTTER TOAST 2SLICES 50G",
+      "price": 18.6,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4800148532113",
+      "name": "MARBY JOHN PULLMAN SPEC 400G",
+      "price": 58.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148532434",
+      "name": "MARBY CHEESE BREAD 250G",
+      "price": 98,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148532946",
+      "name": "MARBY EGG PIE 80G",
+      "price": 48,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148532274",
+      "name": "MARBY HOPIA DICE 150G",
+      "price": 67.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148533974",
+      "name": "MARBY HOPIA HAPON BUY 1 TAKE 1 170G",
+      "price": 96.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148531321",
+      "name": "MARBY HOPIA ROLL BABOY 220G",
+      "price": 73,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148532267",
+      "name": "MARBY HOPIA ROLL MONGO 220G",
+      "price": 73,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148532649",
+      "name": "MARBY MINI MONAY 250G",
+      "price": 66,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148532151",
+      "name": "MARBY MONGO BREAD 380G",
+      "price": 88.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148531253",
+      "name": "MARBY PANDESAL 400G",
+      "price": 74.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148531390",
+      "name": "MARBY UBE LOAF 360G",
+      "price": 88.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148535992",
+      "name": "MARBY CHIZ BITES 110G",
+      "price": 48.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148536616",
+      "name": "MARBY UBE BITES 120G",
+      "price": 48.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148536623",
+      "name": "MARBY CHOCO BITES 120G",
+      "price": 48.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148531161",
+      "name": "MARBY HAM BREAD 325G",
+      "price": 60,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148532939",
+      "name": "MARBY HOPIA HAPON SINGLE 140G",
+      "price": 60,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148536999",
+      "name": "MARBY KABABAYAN 80G",
+      "price": 42.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148536791",
+      "name": "MARBY MINI MAMON 70G",
+      "price": 46,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148532106",
+      "name": "MARBY SUPER LOAF 600G",
+      "price": 89,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148532441",
+      "name": "MARBY SPANISH BREAD 180G",
+      "price": 57,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148531598",
+      "name": "MARBY WHOLE WHEAT BREAD 600G",
+      "price": 95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148540019",
+      "name": "MARBY PIYAYA PLAIN 300G",
+      "price": 116.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148540026",
+      "name": "MARBY PIYAYA UBE 300G",
+      "price": 116.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148539181",
+      "name": "MARBY HOPIA DICE UBE 150G",
+      "price": 62,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148541139",
+      "name": "MARBY  CHOCO CRINKLES 180G",
+      "price": 111,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148541603",
+      "name": "MARBY HAM LOAF 325GX2",
+      "price": 109,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148532526",
+      "name": "MARBY HOPIA PLATE 650G",
+      "price": 138.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148532304",
+      "name": "MARBY ENSAYMADA 45G",
+      "price": 36.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800148532847",
+      "name": "MARBY ENSAYMADA",
+      "price": 41,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4806501594651",
+      "name": "ANCHOR FAMILY MILK 655GX12",
+      "price": 251.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Anchor"
+    },
+    {
+      "code": "4806501594644",
+      "name": "ANCHOR FAMILY MILK 300GX24",
+      "price": 115.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Anchor"
+    },
+    {
+      "code": "4800092119255",
+      "name": "HANSEL MOCHA 31GX10'SX40 FREE CHUCKIE",
+      "price": 49.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Hansel"
+    },
+    {
+      "code": "4800361015172",
+      "name": "NESTLE LOW FAT 200MLX32",
+      "price": 31.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestlé"
+    },
+    {
+      "code": "4800361061322",
+      "name": "NESTLE ALL PURPOSE CRM 250MLX24",
+      "price": 69.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestlé"
+    },
+    {
+      "code": "4800361409537",
+      "name": "NESTLE ALL PURPOSE CREAM 125MLX60",
+      "price": 38.55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestlé"
+    },
+    {
+      "code": "4800361416047",
+      "name": "NESTLE MILO RTD 8(4X180ML)",
+      "price": 92.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestlé"
+    },
+    {
+      "code": "4800361426732",
+      "name": "CHUCKIE 4(8X180ML)FRSTRNGBAG",
+      "price": 179.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "7891000120101",
+      "name": "NESTLE MILK CREAM 300GX48",
+      "price": 103.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestlé"
+    },
+    {
+      "code": "4800016025709",
+      "name": "VITASOY PLUS MILKY VANILLA 300MLX24",
+      "price": 29.65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Vitasoy"
+    },
+    {
+      "code": "4800016027314",
+      "name": "VITASOY CHOCO 200ML 2+1X8",
+      "price": 34.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Vitasoy"
+    },
+    {
+      "code": "4800016027789",
+      "name": "VITASOY MILKY ALMOND 1L FREE GT GRAN.25G",
+      "price": 127.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Vitasoy"
+    },
+    {
+      "code": "4800016027796",
+      "name": "VITASOY MILKY SOY 1L GET GTG 25G FREEX12",
+      "price": 96.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Vitasoy"
+    },
+    {
+      "code": "748485150079",
+      "name": "COCO MAMA FRESH GATA 200MLX48",
+      "price": 35.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Coco Mama"
+    },
+    {
+      "code": "748485150093",
+      "name": "COCO MAMA FRESH GATA 400MLX24",
+      "price": 70.65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Coco Mama"
+    },
+    {
+      "code": "4800056161016",
+      "name": "QUES-O CHEESE 200GX48",
+      "price": 55.65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Ques-O"
+    },
+    {
+      "code": "4800056191013",
+      "name": "OK FILLED CHEESE 200GX48",
+      "price": 45.45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "OK Filled Cheese"
+    },
+    {
+      "code": "4800249005844",
+      "name": "DANES CLASSIC CHEESE BLOCK 165GX24",
+      "price": 51.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Danes"
+    },
+    {
+      "code": "4800249032376",
+      "name": "DANES MAYO APD 220MLX24",
+      "price": 56,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Danes"
+    },
+    {
+      "code": "4800249005851",
+      "name": "DANES CLASSIC CHEESE BLOCK 430GX12",
+      "price": 131.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Danes"
+    },
+    {
+      "code": "4800249022407",
+      "name": "DANES CHEESE QUICKMELT 165GX24",
+      "price": 77,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Danes"
+    },
+    {
+      "code": "4800249044034",
+      "name": "BIGTIME NEGOSYO CHEESE 165GX24",
+      "price": 36.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Bigtime"
+    },
+    {
+      "code": "4800249044010",
+      "name": "DANES HERB&GARLIC CHEESE 165GX24",
+      "price": 58,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Danes"
+    },
+    {
+      "code": "4800249046748",
+      "name": "DANES CHEESE SWEET AND CREAMY 35GX144",
+      "price": 13.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Danes"
+    },
+    {
+      "code": "4800249045529",
+      "name": "BIGTIME NEGOSYO CHEESE 430GX12",
+      "price": 95.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Bigtime"
+    },
+    {
+      "code": "4800249052398",
+      "name": "DANES EASY MELT 160GX24",
+      "price": 78,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Danes"
+    },
+    {
+      "code": "4800249006117",
+      "name": "BINGO CHICKEN NUGGETS 200GX21",
+      "price": 56.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Monde Nissin"
+    },
+    {
+      "code": "4800249048506",
+      "name": "BIGTIME CHEESE 30GX144",
+      "price": 15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Bigtime"
+    },
+    {
+      "code": "4808647020094",
+      "name": "EDEN CHEESE 160GX48",
+      "price": 55.45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "4808647020100",
+      "name": "EDEN CHEESE 430GX24",
+      "price": 143.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "4808647010064",
+      "name": "CHEEZ WHIZ PIMIENTO 440GX12",
+      "price": 193.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "4808647010033",
+      "name": "CHEEZ WHIZ PLAIN 440GX12",
+      "price": 183.45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "4808647010057",
+      "name": "CHEEZ WHIZ PIMIENTO 210GX24",
+      "price": 101.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "4808647010026",
+      "name": "CHEEZ WHIZ PLAIN 210GX24",
+      "price": 96.45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "4808647020018",
+      "name": "EDEN CHEDDAR 160GX24",
+      "price": 100.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "4808647020131",
+      "name": "EDEN CHEDDAR 430GX24",
+      "price": 225.65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "7622300312039",
+      "name": "CHEEZ WHIZ PMTO 15GX144",
+      "price": 5.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "7622300239527",
+      "name": "EDEN MELT SARAP 160GX48",
+      "price": 95.15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "7622300357313",
+      "name": "EDEN MELT SARAP 430GX24",
+      "price": 240.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "7622300501525",
+      "name": "CHEEZ WHIZ ORIG. SUP 60GX48",
+      "price": 28.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "7622300501549",
+      "name": "CHEEZ WHIZ ORIG. SUP 105GX24",
+      "price": 46.65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "7622300769406",
+      "name": "CHEEZ WHIZ SUP PIMENTO 105GX24",
+      "price": 50.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "7622210074980",
+      "name": "CHEEZ WHIZ REG SUP 200GX24",
+      "price": 86.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "7622210075017",
+      "name": "CHEEZ WHIZ PIMIENTO SUP 200GX24",
+      "price": 90.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "7622210278432",
+      "name": "EDEN SAND.SPREAD 220MLX24",
+      "price": 98.1,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "7622210278456",
+      "name": "EDEN SAND.SPREAD 470MLX12",
+      "price": 196.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "7622210278395",
+      "name": "EDEN MAYO 470MLX12",
+      "price": 235.45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "7622210278418",
+      "name": "EDEN SAND.SPREAD 80MLX72",
+      "price": 37.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "7622210278234",
+      "name": "EDEN MAYO 80MLX72",
+      "price": 34.85,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "7622210229762",
+      "name": "CHEEZ WHIZ MILKY 62GX48",
+      "price": 21.55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "7622210229786",
+      "name": "CHEEZ WHIZ MILKY 15GX144",
+      "price": 5.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "7622210278371",
+      "name": "EDEN MAYO 220MLX24",
+      "price": 117.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "7622210340160",
+      "name": "EDEN SAND.SPREAD SUP 220MLX24",
+      "price": 79.45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "7622210340191",
+      "name": "EDEN MAYO SUP 220MLX24",
+      "price": 93.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "7622210892126",
+      "name": "EDEN CHEESE 45GX144",
+      "price": 16.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "7622210895097",
+      "name": "CHEEZ WHIZ REG.TWINPACK 24GX72",
+      "price": 12.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "7622210772305",
+      "name": "EDEN QUESO DE BOLA FLAVOR 165GX48",
+      "price": 73.55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "7622210958716",
+      "name": "CHEEZ WHIZ PIMIENTO TWINPACK 72X24G",
+      "price": 12.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "7622201674908",
+      "name": "EDEN CHEESE 165G SAVE 7.50",
+      "price": 41.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "7622201686178",
+      "name": "CHEEZ WHIZ REG.210GX24 SAVE 10.00",
+      "price": 69.45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "7622201720384",
+      "name": "CHEEZ WHIZ ORIG.210GX24 SAVE 10",
+      "price": 73.55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "7622202044786",
+      "name": "EDEN CHEESE 160G SAVE 9",
+      "price": 46.45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "7622202327605",
+      "name": "EDEN CHEESE 160G SAVE 7X48",
+      "price": 48.55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "7622202222238",
+      "name": "CHEEZ WHIZ REG. SUP 200GX24 SAVE 5.00",
+      "price": 81.45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "4805358324022",
+      "name": "MAG.CHEEZEE PLAIN 120GX24",
+      "price": 49,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358324053",
+      "name": "MAG.CHEEZEE PLAIN 235GX24",
+      "price": 86,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358324060",
+      "name": "MAG.CHEEZEE PLAIN 480GX12",
+      "price": 167,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358318045",
+      "name": "MAG.CREAM CHEESE 225GX48",
+      "price": 162,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358323032",
+      "name": "MAG.QUICKMELT 160GX48",
+      "price": 90,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358323063",
+      "name": "MAG.QUICKMELT 430GX12",
+      "price": 229,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358317031",
+      "name": "MAG.CHEEZEE 160GX48",
+      "price": 45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358317062",
+      "name": "MAG.CHEEZEE 430GX12",
+      "price": 135,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358327023",
+      "name": "MAG.CHEEZEE PIMIENTO 120GX24",
+      "price": 52,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358327054",
+      "name": "MAG.CHEEZEE PIMIENTO 235GX24",
+      "price": 90,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358327061",
+      "name": "MAG.CHEEZEE PIMIENTO 480GX12",
+      "price": 171,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358201019",
+      "name": "STAR MARGARINE GARLIC 100GX96",
+      "price": 37,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358245082",
+      "name": "STAR MARGARINE CLASSIC 1KGX12",
+      "price": 315,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358245051",
+      "name": "STAR MARGARINE CLASSIC 250GX72",
+      "price": 79.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "48036214",
+      "name": "STAR MARGARINE CLASSIC 100GX144",
+      "price": 35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "48037433",
+      "name": "STAR MARGARINE S-BLEND 100GX96",
+      "price": 37,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358279056",
+      "name": "STAR MARGARINE S-BLEND 250GX48",
+      "price": 81.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887070019",
+      "name": "PF CHORIZO FILIPINO 210GX48",
+      "price": 151.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358606081",
+      "name": "MAG.FULL CREAM MILK RTD 1LX12",
+      "price": 100,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358321038",
+      "name": "MAG.CHEDDAR 160GX48",
+      "price": 95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358373037",
+      "name": "MAG.DAILY QUEZO 160GX48",
+      "price": 36,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358324671",
+      "name": "MAG.CHEEZEE SQUEEZE PLAIN 115GX24",
+      "price": 41,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358324664",
+      "name": "MAG.CHEEZEE SQUEEZE PLAIN 220GX24",
+      "price": 76,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358327672",
+      "name": "MAG.CHEEZEE SQUEEZE PTO 115GX24",
+      "price": 41,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358327665",
+      "name": "MAG.CHEEZEE SQUEEZE PTO 220GX24",
+      "price": 81,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358202016",
+      "name": "STAR MARGARINE CHOCOLATE 100GX96",
+      "price": 37,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887941807",
+      "name": "PF NUGGETS CHEESE OVERLOAD 200G",
+      "price": 110,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358202054",
+      "name": "STAR MARGARINE CHOCOLATE 250GX48",
+      "price": 81.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358002241",
+      "name": "STAR MARGARINE 250G W/FREE KIT",
+      "price": 62.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358245341",
+      "name": "STAR MARGARINE CLASSIC 100GX3X32",
+      "price": 95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887291780",
+      "name": "PF STAR MEAT LOAF 150GX48",
+      "price": 22.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012019",
+      "name": "PF STAR C.BEEF CHUNKY CHEESE 260GX48",
+      "price": 57.85,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012002",
+      "name": "PF STAR C.BEEF CHUNKY CHEESE 150GX48",
+      "price": 35.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887291865",
+      "name": "STAR ALL STAR SAVER X16",
+      "price": 86.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358245150",
+      "name": "STAR MARGARINE CLASSIC 30GX120",
+      "price": 10,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358324152",
+      "name": "MAG.CHEEZEE SPREAD PLAIN 27GX120",
+      "price": 10,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358327153",
+      "name": "MAG.CHEEZEE SPREAD PTO 27GX120",
+      "price": 10,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358279155",
+      "name": "STAR MARGARINE SWEET BLEND 30GX120",
+      "price": 10,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358425880",
+      "name": "MAG.CHEEZEE MILKY WHITE 160GX48",
+      "price": 65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358373471",
+      "name": "MAG.DAILY QUEZO 430GX12",
+      "price": 110,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358427051",
+      "name": "MAG.CHEEZEE MILKY WHITE SUP 220GX24",
+      "price": 90,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358427679",
+      "name": "MAG.CHEEZEE MILKY WHITE SUP 115GX24",
+      "price": 46,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358003491",
+      "name": "MAG.CHEEZEE SQUEEZE PLN 220GBUY2SVE10X12",
+      "price": 142,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358003590",
+      "name": "MAG.CHEEZEE 160G BUY2SAVE10X24",
+      "price": 80,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358003507",
+      "name": "MAG.CHEEZEE SQUEEZE PTO 220GX12 SAVE 10.",
+      "price": 152,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358427921",
+      "name": "MAG.CHEEZEE SPRD. MILKY WHITE 235GX24",
+      "price": 103,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358003743",
+      "name": "STAR MARGARINE SB BUY2SAVE5 100GX48",
+      "price": 56.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358004320",
+      "name": "STAR MARG. CL+SB SAVE 7 100GX2X48",
+      "price": 65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358004306",
+      "name": "STAR MARG. CL+CL SAVE 7 100GX2X48",
+      "price": 63,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358004375",
+      "name": "STAR MARGARINE CLASSIC 100G 5+1X16",
+      "price": 175,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358004566",
+      "name": "MAG. APC 110MLX3'SX12 SAVE 4.00",
+      "price": 105.45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358004351",
+      "name": "STAR MARGARINE SWEET BLEND 30GX10+2X10",
+      "price": 100,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358004337",
+      "name": "STAR MARGARINE CL+GR SAVE 7.00 100G",
+      "price": 54.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358004344",
+      "name": "STAR MARGARINE CLASSIC 10+2X10",
+      "price": 100,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4805358004580",
+      "name": "MAG. QUICKMELT 160G BUY2 SAVE 20.00X24",
+      "price": 160,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358005259",
+      "name": "MAG. CHEEZEE CHEDDAR 480G FR F.KEEPER",
+      "price": 167,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358004887",
+      "name": "MAG. CHEEZEE SPREAD PLAIN 235G B2 S20.00",
+      "price": 152,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358005273",
+      "name": "MAG. CHEEZEE REG. 430GX12 W/ CUTTERS",
+      "price": 135,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358004894",
+      "name": "MAG. CHEEZEE PTO 235G B2S20.00X12",
+      "price": 160,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4808887292640",
+      "name": "STAR SA KITA SML 150GX3'SX16",
+      "price": 61.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887292633",
+      "name": "STAR SA KITA SBL 150GX3'SX16",
+      "price": 56.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887031409",
+      "name": "PCL 350GX2'S+PSS 150GX8",
+      "price": 205.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Others"
+    },
+    {
+      "code": "4805358320635",
+      "name": "MAG. QUESO DE BOLA 350GX12",
+      "price": 215,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4806516763639",
+      "name": "JERSEY ALL PURPOSE CREAM 250MLX24",
+      "price": 45.65,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Jersey"
+    },
+    {
+      "code": "4806516763592",
+      "name": "JERSEY RTD CHOCO 110MLX36",
+      "price": 12.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Jersey"
+    },
+    {
+      "code": "4806018407604",
+      "name": "LS CHEESE CAKE BIG 420G FREE CHUCKIEX12",
+      "price": 93.45,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Lemon Square"
+    },
+    {
+      "code": "4800361559560",
+      "name": "BB STER. 200MLX2'S FREE NESCAFE CW 25.5G",
+      "price": 51.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361559591",
+      "name": "BB STER. 200ML 5'S+GET FREE CHUCKIE 180M",
+      "price": 121.05,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800249051650",
+      "name": "BIGTIME MELTING CHEESE 430GX12",
+      "price": 183,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Bigtime"
+    },
+    {
+      "code": "4806502728765",
+      "name": "GARDENIA WHITE BREAD CLASSIC 600G SAVE 1",
+      "price": 75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Gardenia"
+    },
+    {
+      "code": "4800249006407",
+      "name": "CDO JAMON DE BOLA 1KG",
+      "price": 369,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249026498",
+      "name": "CDO AMERICAN HAM 500G",
+      "price": 169,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249026504",
+      "name": "CDO PEAR-SHAPED HAM 800G",
+      "price": 239,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249469134",
+      "name": "CDO HAWAIIAN HAM 1KG",
+      "price": 425,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249479263",
+      "name": "CDO JAMON DE BOLA 850G",
+      "price": 319,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800086047106",
+      "name": "SELECTA BUCO PANDAN&MANGO FLOAT 1.3L",
+      "price": 275,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4808887943276",
+      "name": "PF FS VALUE BEEF 400G",
+      "price": 113.85,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4800249052251",
+      "name": "CDO IDOL CDOG REG 1KGX12 PAW PATROL",
+      "price": 183,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4808887304176",
+      "name": "TJ CHILI JUMBO 1KG",
+      "price": 214,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4806501591001",
+      "name": "ANCHOR FULL CREAM 1LX2 SAVE 10X6",
+      "price": 218.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Anchor"
+    },
+    {
+      "code": "4800361559959",
+      "name": "CHUCKIE 110MLX6'S SAVE 10.00",
+      "price": 72.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800575144576",
+      "name": "ALASKA LOW FAT MILK 1LX12",
+      "price": 96.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Alaska"
+    },
+    {
+      "code": "4800249052305",
+      "name": "CDO CHICHEN FRANKS JUMBO 1KGX12 W/PAWPTR",
+      "price": 185.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249052312",
+      "name": "CDO CHICKEN FRANKS REG.1KGX12 W/ PAW PTR",
+      "price": 185.5,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800110098302",
+      "name": "SELECTA  DOLCE  245MLX4 BUNDLE X6",
+      "price": 112.85,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4806514181341",
+      "name": "CREAMLINE JUMBO CONE UEB QUESO 140ML",
+      "price": 27,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Creamline"
+    },
+    {
+      "code": "4800086049692",
+      "name": "SELECTA BIRTHDAY ESP C&C 1.3L",
+      "price": 199,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "48088879494194",
+      "name": "PF CHICKEN BREAST NUGGETS 1KG",
+      "price": 490,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4901201152269",
+      "name": "FIESTA TROP.COCONUT CREAM 200MLX24",
+      "price": 33.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Del Monte Fiesta"
+    },
+    {
+      "code": "480008605694",
+      "name": "SELECTA IH SUP LANGKASUY 1.3L",
+      "price": 275,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800148531451",
+      "name": "MARBY UBE ENSAYMADA",
+      "price": 50,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800086050663",
+      "name": "SELECTA BDAY 3+1 UMAS 1.25L",
+      "price": 149,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4805358371064",
+      "name": "MAG. GOLD EDAM CHEESEBALL 500G",
+      "price": 470,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4805358320062",
+      "name": "MAG. QUESO DE BOLA 500GX12",
+      "price": 300,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4808887301687",
+      "name": "PF BRICK HAM 500G",
+      "price": 175,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4800148531000",
+      "name": "MARBY PANKEYK 300G",
+      "price": 75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Bread & Bakery",
+      "brand": "Marby"
+    },
+    {
+      "code": "4800086050878",
+      "name": "SELECTA CLASSIC VANILLA 450ML",
+      "price": 105,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4805358371637",
+      "name": "MAG.GOLD EDAM CHEESEBALL 350GX12",
+      "price": 370,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Magnolia Gold"
+    },
+    {
+      "code": "4800361424813",
+      "name": "BEAR BRAND STERILIZED TP 1LX2'SX6",
+      "price": 194.35,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800249699005",
+      "name": "CDO FUNTASTYK LONGGANISA 440GX16",
+      "price": 166,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249043792",
+      "name": "CDO CHICKEN NUGGETS 200GX21",
+      "price": 105,
+      "category": "Dairy & Bakery",
+      "subCategory": "Frozen & Chilled Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "7622202328190",
+      "name": "EDEN CHEESE 160GX48 SAVE 7.00",
+      "price": 48.25,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Eden"
+    },
+    {
+      "code": "7622202247224",
+      "name": "CHEEZ WHIZ ORIG. 210GX24 SAVE 15.00",
+      "price": 78.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Cheese & Margarine",
+      "brand": "Mondelez Cheez Whiz"
+    },
+    {
+      "code": "4800086045126",
+      "name": "SELECTA HERSHEYS C&C 450ML",
+      "price": 165,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800361427812",
+      "name": "NESTLE LOW FAT MILK 200MLX32",
+      "price": 31.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestlé"
+    },
+    {
+      "code": "4800361427821",
+      "name": "NESTLE LOW FAT MILK 200MLX32",
+      "price": 31.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestlé"
+    },
+    {
+      "code": "4800086045119",
+      "name": "SELECTA HERSHEYS C&CHOCO 1.3L",
+      "price": 350,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086045102",
+      "name": "SELECTA HERSHEYS C&C 1.25L",
+      "price": 350,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086043467",
+      "name": "SELECTA HERSHEYS MILK ALMONDS 1.25L",
+      "price": 350,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086043672",
+      "name": "SELECTA HERSHEYS MILK ALMONDS 450ML",
+      "price": 165,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800086049230",
+      "name": "SELECTA CUPS MANGO 100MLX16",
+      "price": 20,
+      "category": "Dairy & Bakery",
+      "subCategory": "Ice Cream",
+      "brand": "Selecta"
+    },
+    {
+      "code": "4800361433112",
+      "name": "CHUCKIE 110MLX12 FR CRAYOLA X 5",
+      "price": 165.55,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361416023",
+      "name": "MILO RTD 10X110MLX6 15 OFF",
+      "price": 135.95,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestle"
+    }
+  ]
+}

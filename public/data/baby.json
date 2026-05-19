@@ -1,6 +1,6 @@
 {
   "category": "Baby",
-  "generatedAt": "2026-05-19T07:32:00Z",
+  "generatedAt": "2026-05-19T11:36:01.132Z",
   "skus": [
     {
       "code": "4806506319624",
@@ -1189,7 +1189,7 @@
     {
       "code": "4806500802658",
       "name": "MAGIC PANTS BABY DIAPER XXXL30'SX4",
-      "price": 263.0,
+      "price": 263,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "Magic Pants"
@@ -1229,7 +1229,7 @@
     {
       "code": "4809012063074",
       "name": "SMILE BB DIAPER L 20X8",
-      "price": 171.0,
+      "price": 171,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "Smile"
@@ -1237,7 +1237,7 @@
     {
       "code": "4809012063043",
       "name": "SMILE BB DIAPER XL 4X32",
-      "price": 42.0,
+      "price": 42,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "Smile"
@@ -1245,7 +1245,7 @@
     {
       "code": "4809012063036",
       "name": "SMILE BB DIAPERS L 4X24",
-      "price": 35.0,
+      "price": 35,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "Smile"
@@ -1253,7 +1253,7 @@
     {
       "code": "4809012063012",
       "name": "SMILE BB DIAPER MINI S 4X36",
-      "price": 26.0,
+      "price": 26,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "Smile"
@@ -1261,7 +1261,7 @@
     {
       "code": "4809012063029",
       "name": "SMILE DIAPER M4X30",
-      "price": 30.0,
+      "price": 30,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "Smile"
@@ -1269,7 +1269,7 @@
     {
       "code": "6903244540834",
       "name": "SMILE BB DIAPER M12X16",
-      "price": 89.0,
+      "price": 89,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "Smile"
@@ -1277,7 +1277,7 @@
     {
       "code": "6903244540841",
       "name": "SMILE BB DIAPER L10X16",
-      "price": 86.0,
+      "price": 86,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "Smile"
@@ -1285,7 +1285,7 @@
     {
       "code": "6903244540858",
       "name": "SMILE BB DIAPER XL 8X16",
-      "price": 85.0,
+      "price": 85,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "Smile"
@@ -1293,7 +1293,7 @@
     {
       "code": "4809012063067",
       "name": "SMILE BB DIAPER M 24X8",
-      "price": 177.0,
+      "price": 177,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "Smile"
@@ -1301,7 +1301,7 @@
     {
       "code": "4809012063081",
       "name": "SMILE BB DIAPER XL 16X8",
-      "price": 169.0,
+      "price": 169,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "Smile"
@@ -1309,7 +1309,7 @@
     {
       "code": "6903244541060",
       "name": "SMILE BB DIAPER L40X4",
-      "price": 341.0,
+      "price": 341,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "Smile"
@@ -1317,7 +1317,7 @@
     {
       "code": "6903244541053",
       "name": "SMILE BB DIAPER M 48X4",
-      "price": 354.0,
+      "price": 354,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "Smile"
@@ -1325,7 +1325,7 @@
     {
       "code": "6903244540827",
       "name": "SMILE BB DIAPERS SMALL 15'SX16",
-      "price": 91.0,
+      "price": 91,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "Smile"
@@ -1333,7 +1333,7 @@
     {
       "code": "4809012063050",
       "name": "SMILE BB DIAPER S 30X8",
-      "price": 181.0,
+      "price": 181,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "Smile"
@@ -1341,7 +1341,7 @@
     {
       "code": "6903244540865",
       "name": "SMILE DIAPER SUPER DRY XL 32'SX8",
-      "price": 337.0,
+      "price": 337,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "Smile"
@@ -1453,7 +1453,7 @@
     {
       "code": "4800488958802",
       "name": "EQ DRY XL 4'SX36",
-      "price": 48.0,
+      "price": 48,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "EQ Diapers"
@@ -1501,7 +1501,7 @@
     {
       "code": "4800488958710",
       "name": "EQ DRY MEGA PACK XL 60'S X 4",
-      "price": 672.0,
+      "price": 672,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "EQ Diapers"
@@ -1757,7 +1757,7 @@
     {
       "code": "4800488960300",
       "name": "EQ PANTS BUDGET PACK XL10'SX20",
-      "price": 92.0,
+      "price": 92,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "EQ Diapers"
@@ -1765,7 +1765,7 @@
     {
       "code": "4800488960317",
       "name": "EQ PANTS BUDGET PACK XXL10'SX20",
-      "price": 97.0,
+      "price": 97,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "EQ Diapers"
@@ -1781,7 +1781,7 @@
     {
       "code": "4800488960287",
       "name": "EQ PANTS M10'SX20",
-      "price": 75.0,
+      "price": 75,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "EQ Diapers"
@@ -1829,7 +1829,7 @@
     {
       "code": "4800488960348",
       "name": "EQ PANTS BIG PACK XL 24'SX8",
-      "price": 216.0,
+      "price": 216,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "EQ Diapers"
@@ -1861,7 +1861,7 @@
     {
       "code": "4800488960744",
       "name": "EQ PANTS XL40'SX6",
-      "price": 358.0,
+      "price": 358,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "EQ Diapers"
@@ -1885,7 +1885,7 @@
     {
       "code": "4800488960355",
       "name": "EQ PANTS XXL24'SX8",
-      "price": 227.0,
+      "price": 227,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "EQ Diapers"
@@ -3621,7 +3621,7 @@
     {
       "code": "8851111423033",
       "name": "MAMY POKO WIPES SAVE&CARE 80'SX12",
-      "price": 65.0,
+      "price": 65,
       "category": "Baby",
       "subCategory": "Diapers",
       "brand": "Mamy Poko"

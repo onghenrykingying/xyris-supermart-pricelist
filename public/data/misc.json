@@ -1,0 +1,3222 @@
+{
+  "category": "Misc",
+  "generatedAt": "2026-05-19T11:36:01.132Z",
+  "skus": [
+    {
+      "code": "4806506319167",
+      "name": "SUPER TWINS BABY PANTS XL20X8",
+      "price": 178.75,
+      "category": "Misc",
+      "subCategory": "Others",
+      "brand": "Super Twins"
+    },
+    {
+      "code": "4800325012049",
+      "name": "CITY TRASH BAG XXL 37X40X20",
+      "price": 130.25,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "City Trash Bag"
+    },
+    {
+      "code": "4800325012032",
+      "name": "CITY TRASH BAG XL 30X37X20",
+      "price": 89.95,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "City Trash Bag"
+    },
+    {
+      "code": "4800325012025",
+      "name": "CITY TRASH BAG L 26X32X50",
+      "price": 61.95,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "City Trash Bag"
+    },
+    {
+      "code": "30095",
+      "name": "PLASTIC BAG",
+      "price": 2,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Others"
+    },
+    {
+      "code": "4800325012537",
+      "name": "LUCKEE ALL PURPOSE BAG BIO 10X",
+      "price": 100.9,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Luckee"
+    },
+    {
+      "code": "4800325012520",
+      "name": "LUCKEE ALL PURPOSE BAG BIO 8X1",
+      "price": 58.1,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Luckee"
+    },
+    {
+      "code": "4800325012513",
+      "name": "LUCKEE TRASH BAG BIO NAT. XXL",
+      "price": 104.55,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Luckee"
+    },
+    {
+      "code": "4800325012506",
+      "name": "LUCKEE TRASH BAG BIO NAT. XL 1",
+      "price": 79.25,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Luckee"
+    },
+    {
+      "code": "4800325012490",
+      "name": "LUCKEE TRASH BAG BIO NAT. L 10",
+      "price": 60.55,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Luckee"
+    },
+    {
+      "code": "4800325012452",
+      "name": "LUCKEE TRASH BAG BIO BLK XL 10",
+      "price": 74.95,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Luckee"
+    },
+    {
+      "code": "4800325012469",
+      "name": "LUCKEE TRASH BAG BIO BLK XXL 1",
+      "price": 98.45,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Luckee"
+    },
+    {
+      "code": "4800325012445",
+      "name": "LUCKEE TRASH BAG BIO BLK L 10'",
+      "price": 56.4,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Luckee"
+    },
+    {
+      "code": "4800325012421",
+      "name": "LUCKEE TRASH BAG BIO BLK S 20'",
+      "price": 38.85,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Luckee"
+    },
+    {
+      "code": "4800325012438",
+      "name": "LUCKEE TRASH BAG BIO BLK M 20'",
+      "price": 60.6,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Luckee"
+    },
+    {
+      "code": "40095",
+      "name": "THANK YOU BAG SMALLX6000",
+      "price": 0.5,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Thank You Bag"
+    },
+    {
+      "code": "40096",
+      "name": "THANK YOU BAG MED.X2000",
+      "price": 1,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Thank You Bag"
+    },
+    {
+      "code": "4809013392296",
+      "name": "DALLAS 8X11X10",
+      "price": 17.65,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Dallas"
+    },
+    {
+      "code": "50059",
+      "name": "DALLAS PLASTIC (10X14)X10",
+      "price": 28.05,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Dallas"
+    },
+    {
+      "code": "50052",
+      "name": "DALLAS PLASTIC 6X10",
+      "price": 13.25,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Dallas"
+    },
+    {
+      "code": "4809013392074",
+      "name": "KIMBYS FORK BIG 12X100",
+      "price": 12.1,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Kimbys"
+    },
+    {
+      "code": "4809013392098",
+      "name": "KIMBYS FORK SMALL 25X100",
+      "price": 13.25,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Kimbys"
+    },
+    {
+      "code": "4809013392180",
+      "name": "KIMBYS LAMINATED PLATE 9INCHX25'SX40",
+      "price": 38.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Kimbys"
+    },
+    {
+      "code": "4809013392197",
+      "name": "KIMBYS SILVER PLATE (9X25S)X20",
+      "price": 35.75,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Kimbys"
+    },
+    {
+      "code": "4809013392081",
+      "name": "KIMBYS SPOON BIG 12X100",
+      "price": 12.1,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Kimbys"
+    },
+    {
+      "code": "4809013392104",
+      "name": "KIMBYS SPOON SMALL 25X100",
+      "price": 13.25,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Kimbys"
+    },
+    {
+      "code": "4809013392128",
+      "name": "KIMBYS STRAW BIGX50",
+      "price": 15.45,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Kimbys"
+    },
+    {
+      "code": "4809013392159",
+      "name": "KOBE SANDWICH BAG X60",
+      "price": 27.55,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Kobe"
+    },
+    {
+      "code": "4809012471008",
+      "name": "WHITE HORSE ICE BAG (4X12)X200",
+      "price": 28.65,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "White Horse"
+    },
+    {
+      "code": "4809012471015",
+      "name": "WHITE HORSE ICE CANDY (1 1/2X10",
+      "price": 12.1,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "White Horse"
+    },
+    {
+      "code": "4809015732151",
+      "name": "KIMBY BBQ STICK 100'S",
+      "price": 17.65,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Kimbys"
+    },
+    {
+      "code": "4809010220585",
+      "name": "P.SOAP CASE NO.795",
+      "price": 27.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Soap Case"
+    },
+    {
+      "code": "4806500894905",
+      "name": "P.SOAP CASE NO.9801",
+      "price": 23.1,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Soap Case"
+    },
+    {
+      "code": "4806500894882",
+      "name": "P. SOAP CASE #9805",
+      "price": 21.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Soap Case"
+    },
+    {
+      "code": "4806500893755",
+      "name": "P.SOAP CASE #792",
+      "price": 20.35,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Soap Case"
+    },
+    {
+      "code": "4806500894899",
+      "name": "P.SOAP CASE #800",
+      "price": 20.35,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Soap Case"
+    },
+    {
+      "code": "4809010482075",
+      "name": "COLORED SOAP CASE 1204",
+      "price": 23.1,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Others"
+    },
+    {
+      "code": "4968306479653",
+      "name": "KIWI BLACK 17.5MLX144",
+      "price": 83.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Kiwi"
+    },
+    {
+      "code": "4800126063998",
+      "name": "GREAT BASKET FOIL CHICKEN PAN W/ LID 3'S",
+      "price": 133.35,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Great Love"
+    },
+    {
+      "code": "4800004070926",
+      "name": "GREAT BASKET FOIL LASAGNA PAN W. LID 3'S",
+      "price": 152.85,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Great Love"
+    },
+    {
+      "code": "4709783458867",
+      "name": "GREAT BASKET CLING FILM 12INX30M ROLLSX3",
+      "price": 99.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Great Love"
+    },
+    {
+      "code": "4807090345570",
+      "name": "GREAT BASKET FOIL ROLL 12INX5MX24",
+      "price": 58.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Great Love"
+    },
+    {
+      "code": "4807222345560",
+      "name": "GREAT BASKET FOIL ROLL EXTRA LONG 18INX5",
+      "price": 99.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Great Love"
+    },
+    {
+      "code": "4806525661599",
+      "name": "111 PAPER CUPS 8OZ 20'SX60",
+      "price": 14.95,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "#N/A"
+    },
+    {
+      "code": "4806525661636",
+      "name": "111 PAPER CUPS 12OZ 20'SX48",
+      "price": 19.55,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "#N/A"
+    },
+    {
+      "code": "4806525661582",
+      "name": "111 BAKING PAPER 5MX24",
+      "price": 55.55,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "#N/A"
+    },
+    {
+      "code": "4806525661568",
+      "name": "111 ALUMINUM FOIL 8MX24 ROLLS",
+      "price": 65.65,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "#N/A"
+    },
+    {
+      "code": "4806525661575",
+      "name": "111 CLING WRAP 30MX24 ROLLS",
+      "price": 55.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "#N/A"
+    },
+    {
+      "code": "20003",
+      "name": "JOMELLE SMALL TOYS",
+      "price": 11,
+      "category": "Misc",
+      "subCategory": "Others",
+      "brand": "Jomelle"
+    },
+    {
+      "code": "20006",
+      "name": "JOMELLE BIG TOYS",
+      "price": 25,
+      "category": "Misc",
+      "subCategory": "Others",
+      "brand": "Jomelle"
+    },
+    {
+      "code": "9310201026251",
+      "name": "ANSELL EXCEL GLOVES YELLOW LARGE",
+      "price": 101.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Ansell"
+    },
+    {
+      "code": "9310201026213",
+      "name": "ANSELL EXCEL GLOVES YELLOW SMALL",
+      "price": 101.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Ansell"
+    },
+    {
+      "code": "9310201026237",
+      "name": "ANSELL EXCELL YELLOW M",
+      "price": 101.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Ansell"
+    },
+    {
+      "code": "4809011845817",
+      "name": "GLOW GARBAGE BAG XL(15X15X37)10'SX10",
+      "price": 52.05,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Glow"
+    },
+    {
+      "code": "4909010431032",
+      "name": "GLOW ALUM.TRAY ROUND W/COVER 3'SX24",
+      "price": 75.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Glow"
+    },
+    {
+      "code": "4809011845862",
+      "name": "GLOW ALUM.TRAY SQUARE 2067 3'SX24",
+      "price": 65.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Glow"
+    },
+    {
+      "code": "4809011845848",
+      "name": "GLOW ALUM TRAY RECT.3156 3'SX24",
+      "price": 85.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Glow"
+    },
+    {
+      "code": "4809010431868",
+      "name": "GLOW ROUND P. PLATE SILVER 9'X20'SX50",
+      "price": 35.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Glow"
+    },
+    {
+      "code": "4809011845800",
+      "name": "GLOW GARBAGE BAG LARGE (13X13X32)10'SX10",
+      "price": 35.05,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Glow"
+    },
+    {
+      "code": "4809010431349",
+      "name": "GLOW ROUND P. PLATE SILVER 7 1/2X20'SX50",
+      "price": 29.55,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Glow"
+    },
+    {
+      "code": "4809014465371",
+      "name": "RESTOBAR PAPER PLATES SILVER 9X25'S\"",
+      "price": 31.85,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Rexona"
+    },
+    {
+      "code": "4809011845503",
+      "name": "GLOW SALAD CUPS WHITE 3.5OZX50'SX40",
+      "price": 38.05,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Glow"
+    },
+    {
+      "code": "4809010431059",
+      "name": "GLOW ROUND PLATE WHITE 7 1/2X25'SX40",
+      "price": 26.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Glow"
+    },
+    {
+      "code": "4909010437058",
+      "name": "Q-BRAND MICROWAVABLE R500 CLEAR 5PCSX24",
+      "price": 36.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Q-Brand"
+    },
+    {
+      "code": "4909010437027",
+      "name": "Q-BRAND MICROWAVABLE R1000 CLEAR 5PCSX24",
+      "price": 46.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Q-Brand"
+    },
+    {
+      "code": "4909010431919",
+      "name": "GROW ALUM. TRAY(GAT 3350)3PCSX24",
+      "price": 100.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Glow"
+    },
+    {
+      "code": "4806505669263",
+      "name": "GLOW PARTY PACK 50'SX10",
+      "price": 137.05,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Glow"
+    },
+    {
+      "code": "4809010424013",
+      "name": "MWC SPERMA #1 WHT 5'SX100",
+      "price": 24.85,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "MWC Candles"
+    },
+    {
+      "code": "4809010424020",
+      "name": "MWC SPERMA #2 WHT 10'SX50",
+      "price": 49.75,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "MWC Candles"
+    },
+    {
+      "code": "4809010424037",
+      "name": "MWC SPERMA #3 WHT 20'SX50",
+      "price": 55.85,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "MWC Candles"
+    },
+    {
+      "code": "4809010424051",
+      "name": "MWC SPERMA #14 YLW,BLUE&WHT 4'SX50",
+      "price": 49.75,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "MWC Candles"
+    },
+    {
+      "code": "4809010424068",
+      "name": "MWC SPERMA #16 2'SX50",
+      "price": 50.95,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "MWC Candles"
+    },
+    {
+      "code": "4809010424211",
+      "name": "MWC VOTIVE #1 WHT 6'SX40",
+      "price": 76.85,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "MWC Candles"
+    },
+    {
+      "code": "4809010424228",
+      "name": "MWC VOTIVE #2 WHT 6'SX40",
+      "price": 64.05,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "MWC Candles"
+    },
+    {
+      "code": "4809010424235",
+      "name": "MWC VOTIVE #3 WHT 12'SX40",
+      "price": 51.45,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "MWC Candles"
+    },
+    {
+      "code": "4809010424242",
+      "name": "MWC VOTIVE #1 YLW 6'SX40",
+      "price": 76.85,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "MWC Candles"
+    },
+    {
+      "code": "4809010424259",
+      "name": "MWC VOTIVE #2 YLW 6'SX40",
+      "price": 64.05,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "MWC Candles"
+    },
+    {
+      "code": "4809010424600",
+      "name": "MWC #40 PILLAR CANDLE",
+      "price": 65.15,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "MWC Candles"
+    },
+    {
+      "code": "4872742424934",
+      "name": "MWC CHURCH CANDLE #17 2'SX6",
+      "price": 252.75,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "MWC Candles"
+    },
+    {
+      "code": "4809010424778",
+      "name": "WINDPROOF CANDLE GLASS BIG",
+      "price": 138.35,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Manila Wax"
+    },
+    {
+      "code": "4872742424644",
+      "name": "CHURCH CANDLE #4 WHITEX12",
+      "price": 139.45,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Manila Wax"
+    },
+    {
+      "code": "4809010424785",
+      "name": "WINDPROOF CANDLE GLASS SMALL",
+      "price": 115.25,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Manila Wax"
+    },
+    {
+      "code": "4872742424941",
+      "name": "CHURCH CANDLE #27 WHITEX12",
+      "price": 113.05,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Manila Wax"
+    },
+    {
+      "code": "4809010424167",
+      "name": "NOVENA PERPETUAL HELP",
+      "price": 146.15,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "MWC Candles"
+    },
+    {
+      "code": "4809010424136",
+      "name": "NOVENA SACRED HEART",
+      "price": 146.15,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "MWC Candles"
+    },
+    {
+      "code": "4806521890597",
+      "name": "MWC CHURCH #10 2'SX6",
+      "price": 252.75,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "MWC Candles"
+    },
+    {
+      "code": "4872742424651",
+      "name": "MWC CHURCH #5 2'SX6",
+      "price": 252.75,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "MWC Candles"
+    },
+    {
+      "code": "4809010424044",
+      "name": "MWC SPERMA #4 20'SX50",
+      "price": 42.75,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "MWC Candles"
+    },
+    {
+      "code": "4809010424686",
+      "name": "VOTIVE IN GLASS CANDLE",
+      "price": 32.95,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Manila Wax"
+    },
+    {
+      "code": "25",
+      "name": "CHRISTMAS HEADBAND",
+      "price": 35,
+      "category": "Misc",
+      "subCategory": "Others",
+      "brand": "Chubby"
+    },
+    {
+      "code": "60023",
+      "name": "ECO BAG MEDIUM",
+      "price": 18,
+      "category": "Misc",
+      "subCategory": "Operations",
+      "brand": "Eco Bag"
+    },
+    {
+      "code": "60025",
+      "name": "ECO BAG LARGE",
+      "price": 20,
+      "category": "Misc",
+      "subCategory": "Operations",
+      "brand": "Eco Bag"
+    },
+    {
+      "code": "7777",
+      "name": "ECO BAG ORANGE LARGE",
+      "price": 7,
+      "category": "Misc",
+      "subCategory": "Operations",
+      "brand": "Eco Bag"
+    },
+    {
+      "code": "8888",
+      "name": "ECO BAG  XL",
+      "price": 8,
+      "category": "Misc",
+      "subCategory": "Operations",
+      "brand": "Eco Bag"
+    },
+    {
+      "code": "4545",
+      "name": "ECO BAG TINY SMALL",
+      "price": 3.5,
+      "category": "Misc",
+      "subCategory": "Operations",
+      "brand": "Eco Bag"
+    },
+    {
+      "code": "6666",
+      "name": "ECO BAG MEDIUM",
+      "price": 4.5,
+      "category": "Misc",
+      "subCategory": "Operations",
+      "brand": "Eco Bag"
+    },
+    {
+      "code": "2284",
+      "name": "CORRECTION TAPE",
+      "price": 24.95,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Correction Tape"
+    },
+    {
+      "code": "6933046589816",
+      "name": "CORRECTION TAPE",
+      "price": 24.95,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Correction Tape"
+    },
+    {
+      "code": "128",
+      "name": "CLOG SHOES",
+      "price": 185,
+      "category": "Misc",
+      "subCategory": "Others",
+      "brand": "Others"
+    },
+    {
+      "code": "129",
+      "name": "MARCHE SLIPPERS",
+      "price": 130,
+      "category": "Misc",
+      "subCategory": "Others",
+      "brand": "Marche"
+    },
+    {
+      "code": "8881",
+      "name": "FLOORMART MAKAPAL 1 YARD",
+      "price": 135,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Others"
+    },
+    {
+      "code": "130",
+      "name": "CLOG SHOES FOR KIDS",
+      "price": 82,
+      "category": "Misc",
+      "subCategory": "Others",
+      "brand": "Others"
+    },
+    {
+      "code": "8888021100112",
+      "name": "EVEREADY BLK 1212BP4",
+      "price": 124.35,
+      "category": "Misc",
+      "subCategory": "Batteries",
+      "brand": "Eveready"
+    },
+    {
+      "code": "8888021100174",
+      "name": "EVEREADY BLK 9VOLT 1222BP",
+      "price": 101.75,
+      "category": "Misc",
+      "subCategory": "Batteries",
+      "brand": "Eveready"
+    },
+    {
+      "code": "4800042122427",
+      "name": "ENERGIZER MAX AAA E92BP2",
+      "price": 144.15,
+      "category": "Misc",
+      "subCategory": "Batteries",
+      "brand": "Energizer"
+    },
+    {
+      "code": "4800042122434",
+      "name": "ENERGIZER MAX AAA E92BP4",
+      "price": 261.75,
+      "category": "Misc",
+      "subCategory": "Batteries",
+      "brand": "Energizer"
+    },
+    {
+      "code": "4800042122328",
+      "name": "ENERGIZER MAX AA E91BP2",
+      "price": 129.55,
+      "category": "Misc",
+      "subCategory": "Batteries",
+      "brand": "Energizer"
+    },
+    {
+      "code": "4800042122335",
+      "name": "ENERGIZER MAX AA E91BP4",
+      "price": 206.05,
+      "category": "Misc",
+      "subCategory": "Batteries",
+      "brand": "Energizer"
+    },
+    {
+      "code": "4800042112169",
+      "name": "EVEREADY BLK AA 1215BP4",
+      "price": 90.45,
+      "category": "Misc",
+      "subCategory": "Batteries",
+      "brand": "Eveready"
+    },
+    {
+      "code": "4800042112138",
+      "name": "EVEREADY BLK AA 1215BP2",
+      "price": 37.65,
+      "category": "Misc",
+      "subCategory": "Batteries",
+      "brand": "Eveready"
+    },
+    {
+      "code": "60012",
+      "name": "EVEREADY BLK AA 1215SW2",
+      "price": 39.05,
+      "category": "Misc",
+      "subCategory": "Batteries",
+      "brand": "Eveready"
+    },
+    {
+      "code": "8888021100433",
+      "name": "EVEREADY BLUE AA 915SW4",
+      "price": 23.15,
+      "category": "Misc",
+      "subCategory": "Batteries",
+      "brand": "Eveready"
+    },
+    {
+      "code": "60013",
+      "name": "EVEREADY BLUE AAA 912SW4",
+      "price": 23.95,
+      "category": "Misc",
+      "subCategory": "Batteries",
+      "brand": "Eveready"
+    },
+    {
+      "code": "60014",
+      "name": "EVEREADY BLUE AA 915SW2",
+      "price": 11.85,
+      "category": "Misc",
+      "subCategory": "Batteries",
+      "brand": "Eveready"
+    },
+    {
+      "code": "4800042112145",
+      "name": "EVEREADY 1215VALUEBP SHD SAVE 40.00",
+      "price": 88.45,
+      "category": "Misc",
+      "subCategory": "Batteries",
+      "brand": "Eveready"
+    },
+    {
+      "code": "4800042227382",
+      "name": "ENERGIZER MAX AA BP4+1",
+      "price": 196.35,
+      "category": "Misc",
+      "subCategory": "Batteries",
+      "brand": "Energizer"
+    },
+    {
+      "code": "8888021100013",
+      "name": "EVEREADY 1250BP2 D BLACK 1.5V",
+      "price": 72.05,
+      "category": "Misc",
+      "subCategory": "Batteries",
+      "brand": "Eveready"
+    },
+    {
+      "code": "8888021203318",
+      "name": "ENERGIZER MAX PLUS 2AA",
+      "price": 145.75,
+      "category": "Misc",
+      "subCategory": "Batteries",
+      "brand": "Energizer"
+    },
+    {
+      "code": "8888021203332",
+      "name": "ENERGIZER MAX PLUS 2AAA",
+      "price": 160.45,
+      "category": "Misc",
+      "subCategory": "Batteries",
+      "brand": "Energizer"
+    },
+    {
+      "code": "4806513680779",
+      "name": "VALUEPLUS FORK T-CLEAR 24'X48",
+      "price": 28.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806513680564",
+      "name": "VALUEPLUS FORK T-WHITE 24'SX48",
+      "price": 28.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806513680731",
+      "name": "VALUEPLUS SPOON T-WHITE 24'SX4",
+      "price": 28.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806513680748",
+      "name": "VALUEPLUS SPOON T-BLUE 24'SX48",
+      "price": 28.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806513680755",
+      "name": "VALUEPLUS SPOON T-PINK 24'SX48",
+      "price": 28.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806513680724",
+      "name": "VALUEPLUS FORK T-PINK 24'SX48",
+      "price": 28.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806513680052",
+      "name": "VALUEPLUS FORK ASSRTD. 10'SX300",
+      "price": 12.85,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806513680045",
+      "name": "VALUEPLUS SPOON ASSRTD. 10'SX300",
+      "price": 12.85,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806513680717",
+      "name": "VALUEPLUS  FORK T-BLUE 24'SX48",
+      "price": 28.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806513680762",
+      "name": "VALUEPLUS SPOON T-CLEAR 24SX48",
+      "price": 28.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806513680939",
+      "name": "VALUEPLUS PAPER PLATES SILVER 24'SX24",
+      "price": 52.35,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806513681158",
+      "name": "VALUEPLUS PAPER PLATES WHITE 24'SX24",
+      "price": 52.35,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806513681141",
+      "name": "VALUEPLUS BP  FORK WHITE 100'SX20",
+      "price": 100.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806513681134",
+      "name": "VALUEPLUS BP SPOON WHITE 100'SX20",
+      "price": 100.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806513681103",
+      "name": "VALUEPLUS PAPER CUP WHITE 6.5OZ 48'SX24",
+      "price": 78.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806513681219",
+      "name": "VALUEPLUS PAPER CUP WHITE 12OZX24'SX24",
+      "price": 64.35,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806513681066",
+      "name": "VALUEPLUS PAPER CUP WHITE 8OZX24'SX24",
+      "price": 47.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806513681165",
+      "name": "VALUEPLUS SPORK WHITE 24'SX48",
+      "price": 28.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Value Plus"
+    },
+    {
+      "code": "4806503115304",
+      "name": "PREPLAST BP-30 750MLX5SX40",
+      "price": 39.15,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Preplast"
+    },
+    {
+      "code": "4806503115250",
+      "name": "PREPLAST BP-250 250MLX5SX40",
+      "price": 30.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Preplast"
+    },
+    {
+      "code": "4806503115755",
+      "name": "PREPLAST BP-750 750MLX5SX40",
+      "price": 43.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Preplast"
+    },
+    {
+      "code": "4806503115106",
+      "name": "PREPLAST BP-1000 1000MLX5SX40",
+      "price": 48.25,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Preplast"
+    },
+    {
+      "code": "4806503111627",
+      "name": "PREPLAST SP-600 600MLX5SX36",
+      "price": 39.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Preplast"
+    },
+    {
+      "code": "4806503111641",
+      "name": "PREPLAST SJ-750 750MLX3SX40",
+      "price": 40.65,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Preplast"
+    },
+    {
+      "code": "4806503115502",
+      "name": "PREPLAST BP-500 500MLX5SX40",
+      "price": 39.85,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Preplast"
+    },
+    {
+      "code": "4806503115168",
+      "name": "PREPLAST BP-16 500MLX5SX40",
+      "price": 31.45,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Preplast"
+    },
+    {
+      "code": "4806500898477",
+      "name": "COFFEE STIRRER",
+      "price": 19.85,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Others"
+    },
+    {
+      "code": "4806502161371",
+      "name": "CHEERS TRASHBAG BLCK XLX20",
+      "price": 87.45,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Cheers"
+    },
+    {
+      "code": "4806502161388",
+      "name": "CHEERS TRASHBAG BLK XXL 20'SX20",
+      "price": 123.95,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Cheers"
+    },
+    {
+      "code": "4806502161364",
+      "name": "CHEERS TRASH BAG BLK LARGEX50",
+      "price": 57.95,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Cheers"
+    },
+    {
+      "code": "4806502161357",
+      "name": "CHEERS TRASH BAG BLK  MEDIUM X80",
+      "price": 39.45,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Cheers"
+    },
+    {
+      "code": "4806502161340",
+      "name": "CHEERS TRASH BAG BLK SMALLX80",
+      "price": 21.25,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Cheers"
+    },
+    {
+      "code": "4806502161425",
+      "name": "CHEERS TRASHBAG GREEN LARGE 10X50",
+      "price": 53.05,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Cheers"
+    },
+    {
+      "code": "4800377100565",
+      "name": "LIWANAG E# 16 4X100",
+      "price": 37.15,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377100411",
+      "name": "LIWANAG E# 10 4X100",
+      "price": 21.15,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377100510",
+      "name": "LIWANAG E# 14 4X100",
+      "price": 29.95,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377100619",
+      "name": "LIWANAG E# 18 WHT 4X50",
+      "price": 59.45,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377100060",
+      "name": "LIWANAG E# 2 20X50",
+      "price": 35.25,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377100718",
+      "name": "LIWANAG E# 22 2X50",
+      "price": 33.65,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377120945",
+      "name": "LIWANAG E# 24 WHT 2X20",
+      "price": 141.65,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377100169",
+      "name": "LIWANAG E# 3 20X50",
+      "price": 51.05,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377100268",
+      "name": "LIWANAG E# 5 20X50",
+      "price": 69.35,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377100312",
+      "name": "LIWANAG E# 6 6X100",
+      "price": 31.95,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377100367",
+      "name": "LIWANAG E# 6 WHT 20X30",
+      "price": 103.45,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377100664",
+      "name": "LIWANAG E# 20 WHT 2X50",
+      "price": 67.15,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377106161",
+      "name": "LIWANAG FLOOR WAX RED 80GX144",
+      "price": 17.65,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377103580",
+      "name": "LIWANAG S#48 YLW",
+      "price": 77.25,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377103474",
+      "name": "LIWANAG V#1 WHT 6X40",
+      "price": 91.05,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377103481",
+      "name": "LIWANAG V#1 YLW 6X40",
+      "price": 91.05,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377103498",
+      "name": "LIWANAG V#1 RED 6X40",
+      "price": 91.05,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377103412",
+      "name": "LIWANAG V#2 WHT 6X40",
+      "price": 73.95,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377103429",
+      "name": "LIWANAG V#2 YLW 6X40",
+      "price": 73.95,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377102668",
+      "name": "LIWANAG V#3 WHT 12X40",
+      "price": 64.95,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377102675",
+      "name": "LIWANAG V#3 YLW 12X40",
+      "price": 64.95,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377121058",
+      "name": "LIWANAG CANDLE E#26 2X10",
+      "price": 229.35,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377105041",
+      "name": "LIWANAG S#150 WHITE",
+      "price": 75.95,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377105010",
+      "name": "LIWANAG CANDLE ART#149 RED",
+      "price": 51.95,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377102910",
+      "name": "LIWANAG CANDLE ART#30 RED",
+      "price": 95.75,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377102897",
+      "name": "LIWANAG #30 WHITE",
+      "price": 95.75,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377112957",
+      "name": "VIGIL CANDLE W/ GLASS 24/1R",
+      "price": 58.05,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377113015",
+      "name": "LIWANAG DIAMOND S#193 YELLOW",
+      "price": 121.55,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377113008",
+      "name": "LIWANAG DIAMOND S#193 WHITE",
+      "price": 121.55,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377106406",
+      "name": "LIWANAG VIGIL GLASS CLEAR 72/1",
+      "price": 28.05,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377106420",
+      "name": "LIWANAG VIGIL GLASS RED 72/1",
+      "price": 28.05,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377105874",
+      "name": "LIWANAG SIKAT REDX12",
+      "price": 172.15,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377121867",
+      "name": "VIGIL CANDLE W/GLASS CLEARX24",
+      "price": 58.05,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4800377105058",
+      "name": "LIWANAG S#150 YLW",
+      "price": 75.95,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Liwanag"
+    },
+    {
+      "code": "4909010437041",
+      "name": "Q-BRAND MICROWAVABLE R750 CLEAR 5PCSX24",
+      "price": 41.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Q-Brand"
+    },
+    {
+      "code": "4806503680192",
+      "name": "EASY WRAP 30CMX5MX48",
+      "price": 19.75,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Easy Wrap"
+    },
+    {
+      "code": "4806503680208",
+      "name": "EASY WRAP 30CMX8MX48",
+      "price": 30.95,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Easy Wrap"
+    },
+    {
+      "code": "4806011675000",
+      "name": "OLYMPIC WRAP AL FOIL 5MX48",
+      "price": 20.65,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Olympic"
+    },
+    {
+      "code": "4809012165129",
+      "name": "TWIN TIGER STYRO CUPS 8OZ WHITE 25'SX40",
+      "price": 30.95,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4809012165426",
+      "name": "TWIN TIGER PAPER PLATE SILVER 9 25'SX20\"",
+      "price": 26.45,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4809012165419",
+      "name": "TWIN TIGER PAPER PLATE LAM.9 25'SX20\"",
+      "price": 27.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "40011",
+      "name": "TWIN TIGER PLASTIC CUP PINOY 12OZ 50'SX2",
+      "price": 34.35,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "40012",
+      "name": "TWIN TIGER PLASTIC CUP PINOY 8OZX50'SX20",
+      "price": 23.05,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4809012165075",
+      "name": "TWIN TIGER PLASTIC CUP TRANS 12OZX50'SX2",
+      "price": 51.75,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4809012165051",
+      "name": "TWIN TIGER PLASTIC CUP TRANS 8OZX50'SX20",
+      "price": 39.65,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4809012165334",
+      "name": "TWIN TIGER SANDWICH BAG OPAQUE",
+      "price": 40.15,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4806505840037",
+      "name": "TWIN TIGER TRASH BAG LX32",
+      "price": 28.25,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4806505840020",
+      "name": "TWIN TIGER TRASH BAG BLACK XLX",
+      "price": 21.95,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4809012165235",
+      "name": "TWIN TIGER FORK BIG TRANS 12'SX100",
+      "price": 13.75,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4809012165228",
+      "name": "TWIN TIGER FORK BIG W 12X100",
+      "price": 8.95,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4809012165198",
+      "name": "TWIN TIGER FORK TRANS SMALL 25'SX100",
+      "price": 16.45,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4809012165181",
+      "name": "TWIN TIGER FORK WHITE SMALL 25'SX100",
+      "price": 10.95,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4809012165204",
+      "name": "TWIN TIGER SPOON BIG W 12X100",
+      "price": 8.95,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4809012165167",
+      "name": "TWIN TIGER SPOON SMALL W 25'SX100",
+      "price": 10.95,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4809012165211",
+      "name": "TWIN TIGER SPOON BIG TRANS 12'SX100",
+      "price": 13.75,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4809012165174",
+      "name": "TWIN TIGER SPOON TRANS SMALL 25'SX100",
+      "price": 16.45,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4806505840051",
+      "name": "TWIN TIGER TRASH BAG SX18",
+      "price": 13.75,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4806505840013",
+      "name": "TWIN TIGER TRASH BAG XXLX5X100",
+      "price": 31.65,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4809012165068",
+      "name": "TWIN TIGERS DRINKING CUP WHITE 8OZX50'SX",
+      "price": 58.85,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4806503680185",
+      "name": "TAPERAN ALUM.FOIL 8MX48",
+      "price": 32.95,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Taperan"
+    },
+    {
+      "code": "4806503680178",
+      "name": "TAPERAN ALUM.FOIL 5MX48",
+      "price": 21.75,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Taperan"
+    },
+    {
+      "code": "4806505840044",
+      "name": "TWIN TIGER TRASH BAG MX24",
+      "price": 20.65,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "25836914735784",
+      "name": "TWIN TIGER PLASTIC CUP PINOY 12OZ 50'SX2",
+      "price": 34.35,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Twin Tiger"
+    },
+    {
+      "code": "4806503720218",
+      "name": "PAR NYLON DECK BRUSH 7X12",
+      "price": 120.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Par Brush"
+    },
+    {
+      "code": "4806503720614",
+      "name": "PAR NYLON SPEC BRUSH 050",
+      "price": 38.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Par Brush"
+    },
+    {
+      "code": "4806503720317",
+      "name": "PAR WIRE TOILET BRUSH HD",
+      "price": 42.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Par Brush"
+    },
+    {
+      "code": "4806503720294",
+      "name": "PAR WOOD HANDLE TOILET BRUSH HD",
+      "price": 42.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Par Brush"
+    },
+    {
+      "code": "4806503720287",
+      "name": "PAR WOOD HANDLE TOILET BRUSH LD",
+      "price": 39.65,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Par Brush"
+    },
+    {
+      "code": "4806503720959",
+      "name": "PARAMOUNT LAUNDRY BRUSH 611",
+      "price": 35.25,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Paramount"
+    },
+    {
+      "code": "4806503720966",
+      "name": "PARAMOUNT NYLON LAUNDRY BRUSH 612",
+      "price": 46.25,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Paramount"
+    },
+    {
+      "code": "4806503720775",
+      "name": "PARAMOUNT REC BRUSH BIG 031",
+      "price": 42.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Paramount"
+    },
+    {
+      "code": "4806503720300",
+      "name": "PARAMOUNT WIRE TOILET BRUSH LD",
+      "price": 39.65,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Paramount"
+    },
+    {
+      "code": "4806503721024",
+      "name": "RFC BLACK BIGX12",
+      "price": 52.85,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "RFC"
+    },
+    {
+      "code": "4806503721017",
+      "name": "RFC BLACK SMALLX12",
+      "price": 49.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "RFC"
+    },
+    {
+      "code": "4806503721000",
+      "name": "RFC RED BIGX12",
+      "price": 60.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "RFC"
+    },
+    {
+      "code": "4806503720997",
+      "name": "RFC RED SMALLX12",
+      "price": 58.35,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "RFC"
+    },
+    {
+      "code": "30018",
+      "name": "CORONA WHITE CHALKX1",
+      "price": 82.55,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Corona Chalk"
+    },
+    {
+      "code": "30016",
+      "name": "MAX STAPLE WIRE #10M",
+      "price": 11.45,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Others"
+    },
+    {
+      "code": "30019",
+      "name": "MONGOL #1",
+      "price": 8.85,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Mongol"
+    },
+    {
+      "code": "30020",
+      "name": "MONGOL #2",
+      "price": 8.85,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Mongol"
+    },
+    {
+      "code": "30021",
+      "name": "MONGOL #3",
+      "price": 8.85,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Mongol"
+    },
+    {
+      "code": "30023",
+      "name": "PANDA BALLPEN BLACK",
+      "price": 6.05,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Panda"
+    },
+    {
+      "code": "30022",
+      "name": "PANDA BALLPEN BLUE",
+      "price": 6.05,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Panda"
+    },
+    {
+      "code": "30024",
+      "name": "PANDA BALLPEN RED",
+      "price": 6.05,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Panda"
+    },
+    {
+      "code": "30074",
+      "name": "TIGER TAPE 1/2X40 BIG",
+      "price": 6.25,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Tiger Tape"
+    },
+    {
+      "code": "30003",
+      "name": "TULIPS TAPE 1/2X72",
+      "price": 16.25,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Tulips Tape"
+    },
+    {
+      "code": "301067",
+      "name": "MASKING TAPE 2INCH",
+      "price": 42.95,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Masking Tape"
+    },
+    {
+      "code": "301068",
+      "name": "MASKING TAPE 1 1/2 INC",
+      "price": 32.45,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Masking Tape"
+    },
+    {
+      "code": "301069",
+      "name": "EXCELLO TAPE 3/4 INCH",
+      "price": 13.95,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Excello"
+    },
+    {
+      "code": "301070",
+      "name": "MASKING TAPE 1''X20",
+      "price": 21.45,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Masking Tape"
+    },
+    {
+      "code": "301071",
+      "name": "MASKING TAPE 1/2''X20",
+      "price": 10.75,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Masking Tape"
+    },
+    {
+      "code": "301074",
+      "name": "TWINE GRAY TALI X10",
+      "price": 60.45,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Twine"
+    },
+    {
+      "code": "3141981258206",
+      "name": "ARMAK ELECTRICAL TAPE SMALL",
+      "price": 17.65,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Armak"
+    },
+    {
+      "code": "4806503720652",
+      "name": "PAR.BRUSH 003",
+      "price": 35.25,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Par Brush"
+    },
+    {
+      "code": "10084",
+      "name": "PACKING TAPE CLEAR 2'X40",
+      "price": 24.75,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Packing Tape"
+    },
+    {
+      "code": "10087",
+      "name": "PACKING TAPE BROWN 2X40",
+      "price": 23.1,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Packing Tape"
+    },
+    {
+      "code": "50001",
+      "name": "DOOR MAT 1",
+      "price": 35,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Door Mat"
+    },
+    {
+      "code": "50002",
+      "name": "DOOR MAT 2",
+      "price": 35,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Door Mat"
+    },
+    {
+      "code": "50007",
+      "name": "POT HOLDER ROUND",
+      "price": 13.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Pot Holder"
+    },
+    {
+      "code": "30070",
+      "name": "CARTOLINA ASST. COLOR",
+      "price": 7.65,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Cartolina"
+    },
+    {
+      "code": "50019",
+      "name": "POT HOLDER SQUARE",
+      "price": 13,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Pot Holder"
+    },
+    {
+      "code": "50025",
+      "name": "POT HOLDER BASE MAT",
+      "price": 20,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Pot Holder"
+    },
+    {
+      "code": "10010",
+      "name": "POT HOLDER  WHITE 4'S",
+      "price": 10.5,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Pot Holder"
+    },
+    {
+      "code": "4800550001849",
+      "name": "ADVANCE HARD COPY SHORT 8 1/2X11",
+      "price": 174.95,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "#N/A"
+    },
+    {
+      "code": "4800550001863",
+      "name": "BOND PAPER HARD COPY A4",
+      "price": 181.45,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Hard Copy"
+    },
+    {
+      "code": "40003",
+      "name": "HBW BALLPEN BLACK",
+      "price": 5.25,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "HBW"
+    },
+    {
+      "code": "40004",
+      "name": "HBW BALLPEN BLUE",
+      "price": 5.25,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "HBW"
+    },
+    {
+      "code": "40005",
+      "name": "HBW BALLPEN RED",
+      "price": 5.25,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "HBW"
+    },
+    {
+      "code": "8802203703908",
+      "name": "DONG-A MY GEL TYPE BALLPEN 0.3",
+      "price": 21.45,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Dong-A"
+    },
+    {
+      "code": "30059",
+      "name": "HBW MATRIX BALLPEN",
+      "price": 5.25,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "HBW"
+    },
+    {
+      "code": "4806523124836",
+      "name": "SENTRO DOUBLE SIDED TAPE 1/2X10M\"",
+      "price": 12.35,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Sentro"
+    },
+    {
+      "code": "8802203083659",
+      "name": "DONG-A MY GEL BALLPEN 0.5",
+      "price": 19.85,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Dong-A"
+    },
+    {
+      "code": "4806523124850",
+      "name": "SENTRO DOUBLE SIDED TAPE  1''X10M",
+      "price": 24.75,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Sentro"
+    },
+    {
+      "code": "4800557011025",
+      "name": "ADVANCE RECORD BOOK 200LVS",
+      "price": 56.15,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "#N/A"
+    },
+    {
+      "code": "4902870775667",
+      "name": "MAX STAPLER HD-10",
+      "price": 72.65,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Others"
+    },
+    {
+      "code": "4902870762131",
+      "name": "MAX STAPLES NO.10-1M 5MM",
+      "price": 11.45,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Others"
+    },
+    {
+      "code": "500010",
+      "name": "BASEMAT",
+      "price": 29.5,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Others"
+    },
+    {
+      "code": "4800552073066",
+      "name": "HARD COPY A4 8 1/4X11 3/4",
+      "price": 181.45,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Hard Copy"
+    },
+    {
+      "code": "8802203549315",
+      "name": "DONG-A FINE TECH 0.3 BLACK",
+      "price": 25.35,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Dong-A"
+    },
+    {
+      "code": "301083",
+      "name": "TULIPS TAPE 1INCHX72",
+      "price": 32.15,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Tulips Tape"
+    },
+    {
+      "code": "301089",
+      "name": "EXCELLO TAPE 1X50",
+      "price": 18.75,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Excello"
+    },
+    {
+      "code": "301092",
+      "name": "ARMAK PACKING TAPE CLEAR 2'X100",
+      "price": 55.85,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Armak"
+    },
+    {
+      "code": "50060",
+      "name": "POT HOLDER WITH POCKET",
+      "price": 18,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Pot Holder"
+    },
+    {
+      "code": "301079",
+      "name": "EXCELLO TAPE 1/2",
+      "price": 9.95,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Excello"
+    },
+    {
+      "code": "50017",
+      "name": "KITCHEN HAND TOWEL",
+      "price": 25,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Kitchen Towel"
+    },
+    {
+      "code": "301090",
+      "name": "ARMAK PACKING TAPE BROWN",
+      "price": 29.15,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Armak"
+    },
+    {
+      "code": "301091",
+      "name": "ARMAK PACKING TAPE CLEAR",
+      "price": 25.85,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Armak"
+    },
+    {
+      "code": "4806501590035",
+      "name": "NOTEBOOK 80'S",
+      "price": 18.95,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Notebook"
+    },
+    {
+      "code": "30075",
+      "name": "TIGER TAPE SMALL",
+      "price": 4.15,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Tiger Tape"
+    },
+    {
+      "code": "6928113700355",
+      "name": "COMPRESSED TOWEL",
+      "price": 28,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Others"
+    },
+    {
+      "code": "111",
+      "name": "SPECIAL GIFT WRAPPER",
+      "price": 10,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Special Gift Wrapper"
+    },
+    {
+      "code": "4809010430052",
+      "name": "RENEW GLUTATHIONE SOAP 135GX150",
+      "price": 131.15,
+      "category": "Misc",
+      "subCategory": "Operations",
+      "brand": "Reno"
+    },
+    {
+      "code": "4809013392012",
+      "name": "KIMBYS TRASH BAG XXL 37X40",
+      "price": 43.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Kimbys"
+    },
+    {
+      "code": "4809013392036",
+      "name": "KIMBY'S TRASH BAG XL 30X37",
+      "price": 32.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Kimbys"
+    },
+    {
+      "code": "4809013392050",
+      "name": "KIMBY'S TRASH BAG LARGE 26X32 BLK.",
+      "price": 24.25,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Kimbys"
+    },
+    {
+      "code": "4806500891041",
+      "name": "GLOBE SCOURING PAD",
+      "price": 23.1,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Globe"
+    },
+    {
+      "code": "4806503721246",
+      "name": "COTTON DUSTER LONG HANDLE",
+      "price": 32.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Others"
+    },
+    {
+      "code": "4806503721253",
+      "name": "COTTON DUSTER SHORT HANDLE",
+      "price": 30.85,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Others"
+    },
+    {
+      "code": "4806503721192",
+      "name": "NET BRUSH",
+      "price": 16.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Net Brush"
+    },
+    {
+      "code": "4806503721116",
+      "name": "PLASTIC DUST PAN 9209 SMALL",
+      "price": 41.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Others"
+    },
+    {
+      "code": "4806503721123",
+      "name": "PLASTIC DUST PAN BIG 9208",
+      "price": 45.1,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Others"
+    },
+    {
+      "code": "4809010220622",
+      "name": "NO.B-111 WOOD MOP HANDLE",
+      "price": 142.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "No. B-111 Mop"
+    },
+    {
+      "code": "4806500890723",
+      "name": "COTTON MOP HEAD XLARGE",
+      "price": 71.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Others"
+    },
+    {
+      "code": "4806500890730",
+      "name": "COTTON MOP HEAD XHDUTY",
+      "price": 76.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Others"
+    },
+    {
+      "code": "4809010220356",
+      "name": "ROSE W/ LINING GLOVES S'M'L",
+      "price": 76.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Rose"
+    },
+    {
+      "code": "6939152320800",
+      "name": "ROSE GLOVES W/LINING S/M/L",
+      "price": 76.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Rose"
+    },
+    {
+      "code": "4806500898132",
+      "name": "DISPOSABLE GLOVES 100'S",
+      "price": 49.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Disposable Gloves"
+    },
+    {
+      "code": "4806500897609",
+      "name": "PLASTIC BRUSH W/HANDLE LARGE",
+      "price": 41.85,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Others"
+    },
+    {
+      "code": "10050",
+      "name": "DISPOSABLE N95 FACE MASK 3'S",
+      "price": 12,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Disposable Gloves"
+    },
+    {
+      "code": "6924542800079",
+      "name": "PLASTIC BLUSH SMALL",
+      "price": 17.65,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Others"
+    },
+    {
+      "code": "4806500898019",
+      "name": "YELLOW CLAMP MOP HANDLE",
+      "price": 241.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Yellow Clamp Mop"
+    },
+    {
+      "code": "4806521250537",
+      "name": "POLYLITE SCOURER",
+      "price": 16.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Polylite"
+    },
+    {
+      "code": "4800147200785",
+      "name": "ORCHID SPRAYER OVAL  REDX12",
+      "price": 80.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Orchid"
+    },
+    {
+      "code": "4800147201034",
+      "name": "ORCHID AP SPRAYER L-SHAPE",
+      "price": 90.35,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Orchid"
+    },
+    {
+      "code": "4806504750047",
+      "name": "CLEANS-UP DOUBLE PURPOSE PAD SMALL",
+      "price": 28.25,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750054",
+      "name": "CLEANS-UP DOUBLE PURPOSE PAD BIGX12",
+      "price": 48.35,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750078",
+      "name": "CLEANS-UP SCRUB BIGX12",
+      "price": 46.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750368",
+      "name": "CLEANS-UP SPAD BUD.PCKX12",
+      "price": 57.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750245",
+      "name": "CLEANS UP ALL PURPOSE RAGX12 ORANGE",
+      "price": 50.65,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750337",
+      "name": "CLEANS-UP COTTON MOP MEDIUMX12",
+      "price": 197.35,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750320",
+      "name": "CLEANS-UP COTTON MOP SMALLX12",
+      "price": 147.65,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750177",
+      "name": "CLEANS-UP STEEL POT 4SX12",
+      "price": 27.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750184",
+      "name": "CLEANS-UP PLASTIC POT 4SX12",
+      "price": 27.75,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750221",
+      "name": "CLEANS-UP FLOOR POLISH 240X12",
+      "price": 80.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750580",
+      "name": "CLEANS-UP ALL PURP.SCRUB SILVER/GOLD",
+      "price": 38.35,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750214",
+      "name": "CLEANS-UP HDP BLKX12",
+      "price": 36.15,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750023",
+      "name": "CLEANS-UP SPAD 100X150MMX12",
+      "price": 21.75,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750016",
+      "name": "CLEANS-UP SPAD 80X100MMX12",
+      "price": 12.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750344",
+      "name": "CLEANS -UP COTTON MOP LARGEX24",
+      "price": 232.45,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750061",
+      "name": "CLEANS-UP SOFT SCRUB SMALL",
+      "price": 28.1,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750573",
+      "name": "CLEANS UP EASY HOLD SPONGE ASSTD COLOR",
+      "price": 19.75,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750238",
+      "name": "CLEANS UP PROMO PCK 3N1",
+      "price": 81.65,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750085",
+      "name": "CLEANS UP TRIPLE PAD",
+      "price": 34.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750092",
+      "name": "CLEANS UP MP SPONGE BEIGE SMALL",
+      "price": 13.75,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750191",
+      "name": "CLEANS UP NET SPONGE",
+      "price": 39.65,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750597",
+      "name": "CLEANS UP MINI SCRUB",
+      "price": 24.1,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750115",
+      "name": "CLEANS UP MP SPONGE GREEN SMALL",
+      "price": 13.75,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750207",
+      "name": "CLEANS UP STAINLESS CLEANER",
+      "price": 41.15,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750382",
+      "name": "CLEANS UP MP GLOVES MEDIUM 48S",
+      "price": 93.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750399",
+      "name": "CLEANS UP MP GLOVES LARGE 48S",
+      "price": 93.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750030",
+      "name": "CLEANS UP SCOUR PAD 150X200MM",
+      "price": 43.45,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806504750375",
+      "name": "CLEANS-UP MULTI PURPOSE GLOVES SMALL",
+      "price": 93.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Cleans-Up"
+    },
+    {
+      "code": "4806512340025",
+      "name": "SUPER TIBAY 2N1 ECONOMY SIZE X144",
+      "price": 38.75,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Super Tibay"
+    },
+    {
+      "code": "4806512341022",
+      "name": "RIGHT CHOICE 2N1 ECONOMY SIZE X144",
+      "price": 33.85,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Right Choice"
+    },
+    {
+      "code": "4806512340285",
+      "name": "SUPER TIBAY METAL SCOURING BALL X144",
+      "price": 45.05,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Super Tibay"
+    },
+    {
+      "code": "4806512340001",
+      "name": "SUPER TIBAY TRIAL SIZE X144",
+      "price": 15.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Super Tibay"
+    },
+    {
+      "code": "4806512340247",
+      "name": "SUPER TIBAY 2N1 BUDGET PACK X144",
+      "price": 23.35,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Super Tibay"
+    },
+    {
+      "code": "4806512340148",
+      "name": "SUPER TIBAY SUPER HEAVY DUTY BLACK X144",
+      "price": 44.65,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Super Tibay"
+    },
+    {
+      "code": "4806512341213",
+      "name": "RIGHT CHOICE METAL SCOURING BALL X144",
+      "price": 32.75,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Right Choice"
+    },
+    {
+      "code": "4806512340315",
+      "name": "RIGHT CHOICE 2IN1 SLIM PACK NON-SCRATCHX",
+      "price": 35.35,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Right Choice"
+    },
+    {
+      "code": "4806512340346",
+      "name": "SUPER TIBAY ALL PURPOSE SPONGEX144",
+      "price": 15.55,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Super Tibay"
+    },
+    {
+      "code": "4806512340360",
+      "name": "RIGHT CHOICE MULTI PURPOSE SPONGEX144",
+      "price": 13.45,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Right Choice"
+    },
+    {
+      "code": "4806512341923",
+      "name": "ST SMB+1 ST ECO FREE ST BPX72",
+      "price": 77.65,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Super Tibay"
+    },
+    {
+      "code": "4806512341916",
+      "name": "ST SMB+ST BLACK FREE ST BPX72",
+      "price": 81.9,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Super Tibay"
+    },
+    {
+      "code": "4806512341909",
+      "name": "ST ECO+ST BLACK FREE ST BPX72",
+      "price": 77.35,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Super Tibay"
+    },
+    {
+      "code": "4806512341886",
+      "name": "SUPER TIBAY 2IN1 ECO FREE RC FOAMX100",
+      "price": 40,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Super Tibay"
+    },
+    {
+      "code": "4800492000528",
+      "name": "SSDC FAMILY BONDING 15 PRICE OFF",
+      "price": 110.85,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Others"
+    },
+    {
+      "code": "4806512340308",
+      "name": "SUPER TIBAY 2IN1 SLIM PACKX144",
+      "price": 40.35,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Super Tibay"
+    },
+    {
+      "code": "4800112010111",
+      "name": "GUITAR STANDARD 48X120",
+      "price": 19,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Guitar"
+    },
+    {
+      "code": "4800112010210",
+      "name": "ROYAL RED STANDARD 48X120",
+      "price": 19,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Royal Red"
+    },
+    {
+      "code": "4800065113112",
+      "name": "COMMANDO 5E 10X120",
+      "price": 15.45,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Commando"
+    },
+    {
+      "code": "4800112010838",
+      "name": "ROYAL RED HOUSEHOLD 340'SX100",
+      "price": 12.5,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Royal Red"
+    },
+    {
+      "code": "4800112010739",
+      "name": "GUITAR HOUSEHOLD 340'SX100",
+      "price": 12.5,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Guitar"
+    },
+    {
+      "code": "4800112256151",
+      "name": "FUEGO WATER RESISTANT 10X120",
+      "price": 19,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Fuego"
+    },
+    {
+      "code": "50022",
+      "name": "POT HOLDER FLOWER BASEMAT",
+      "price": 31.95,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Pot Holder"
+    },
+    {
+      "code": "9310022735806",
+      "name": "PEDIGREE PUPPY 400GX24",
+      "price": 112.45,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Pedigree"
+    },
+    {
+      "code": "8853301530019",
+      "name": "PEDIGREE BEEF CHUNKS 130GX12'SX10",
+      "price": 35.95,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Pedigree"
+    },
+    {
+      "code": "9310022726408",
+      "name": "PEDIGREE CANS BEEF 400GX24",
+      "price": 107.05,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Pedigree"
+    },
+    {
+      "code": "9310022726507",
+      "name": "PEDIGREE CAN  CHICKEN  400GX24",
+      "price": 107.05,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Pedigree"
+    },
+    {
+      "code": "8853301530026",
+      "name": "PEDIGREE POUCH CHICKEN CHUNKS 130GX12'SX",
+      "price": 35.95,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Pedigree"
+    },
+    {
+      "code": "8853301530057",
+      "name": "PEDIGREE PUPPY CHX CHUNKS 130GX12'SX10",
+      "price": 39.25,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Pedigree"
+    },
+    {
+      "code": "8853301200325",
+      "name": "PEDIGREE DENTA PUPPY 56GX4X12",
+      "price": 74.55,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Pedigree"
+    },
+    {
+      "code": "8853301200301",
+      "name": "PEDIGREE DENTA MEDIUM 98G 4X12",
+      "price": 82.45,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Pedigree"
+    },
+    {
+      "code": "8853301200905",
+      "name": "PEDIGREE MEAT JERKY ROASTEDLAMB 80GX4X12",
+      "price": 86.05,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Pedigree"
+    },
+    {
+      "code": "8853301550048",
+      "name": "WHISKAS POUCH KITTEN TUNA 80GX28",
+      "price": 30.75,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Whiskas"
+    },
+    {
+      "code": "8853301550055",
+      "name": "WHISKAS POUCH OCEANFISH 80GX28",
+      "price": 27.95,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Whiskas"
+    },
+    {
+      "code": "8853301550017",
+      "name": "WHISKAS POUCH TUNA 80GX28",
+      "price": 27.95,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Whiskas"
+    },
+    {
+      "code": "8853301550123",
+      "name": "WHISKAS JR MACKEREL 80GX28",
+      "price": 30.75,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Whiskas"
+    },
+    {
+      "code": "8853301006019",
+      "name": "PEDIGREE PCH PPY BFLVEGVG 130GX10X12",
+      "price": 39.25,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Pedigree"
+    },
+    {
+      "code": "9334214023557",
+      "name": "PEDIGREE MINI PUPPY MILK 400GX15",
+      "price": 99.85,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Pedigree"
+    },
+    {
+      "code": "5998749142288",
+      "name": "PEDIGREE DENTASTIX SMALL 3'S 45GX18",
+      "price": 52.15,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Pedigree"
+    },
+    {
+      "code": "4806026343109",
+      "name": "PEDIGREE AD CHICKEN BOGO 30% 130GX60",
+      "price": 61.15,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Pedigree"
+    },
+    {
+      "code": "4806026343093",
+      "name": "PEDIGREE ADULT BEEF BOGO 30% 130GX60",
+      "price": 61.15,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Pedigree"
+    },
+    {
+      "code": "8853301550031",
+      "name": "WHISKAS MACKEREL 1+ 80G",
+      "price": 27.95,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Whiskas"
+    },
+    {
+      "code": "4806026343130",
+      "name": "PEDIGREE PUPPY CHICKEN 130GX2'SX60 PROMO",
+      "price": 66.75,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Pedigree"
+    },
+    {
+      "code": "4806026343192",
+      "name": "WHISKAS ADULT TUNA 80GX2'SX14 PROMO",
+      "price": 47.45,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Whiskas"
+    },
+    {
+      "code": "4806026343222",
+      "name": "WHISKAS JR MACKEREL 80GX2'SX14 PROMO",
+      "price": 52.25,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Whiskas"
+    },
+    {
+      "code": "4806026343239",
+      "name": "WHISKAS JR TUNA 80GX2'SX14 PROMO",
+      "price": 52.25,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Whiskas"
+    },
+    {
+      "code": "4801962653558",
+      "name": "BAY-O PET TICK&FLEA SOAP 90GX100",
+      "price": 93.35,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Bay-O Pet"
+    },
+    {
+      "code": "4801962653138",
+      "name": "BAY-O PET POWDER 60GX48",
+      "price": 97.85,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Bay-O Pet"
+    },
+    {
+      "code": "4801962656269",
+      "name": "BAYOPET DOG SHAMPOO ANTI FLEA 200MLX48",
+      "price": 223.6,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Bay-O Pet"
+    },
+    {
+      "code": "30015",
+      "name": "TIME CARDX1",
+      "price": 2,
+      "category": "Misc",
+      "subCategory": "Operations",
+      "brand": "Time"
+    },
+    {
+      "code": "80001",
+      "name": "SUPERCARD PAYMENT",
+      "price": 100,
+      "category": "Misc",
+      "subCategory": "Operations",
+      "brand": "Supercard"
+    },
+    {
+      "code": "1611",
+      "name": "DUST PAN",
+      "price": 110,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Dust"
+    },
+    {
+      "code": "4902870766290",
+      "name": "MAX STAPLE WIRE NO.35",
+      "price": 54.45,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Others"
+    },
+    {
+      "code": "8882",
+      "name": "FLOORMAT MANIPIS 1YARD",
+      "price": 129,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Others"
+    },
+    {
+      "code": "4800017945006",
+      "name": "SHINE MASTER FLOOR WAX RED 90GX72",
+      "price": 20.65,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Shine & Free"
+    },
+    {
+      "code": "4800017948007",
+      "name": "SHINE MASTER DYE WAX RED 90GX72",
+      "price": 21.75,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools",
+      "brand": "Shine & Free"
+    },
+    {
+      "code": "4800015303006",
+      "name": "ALL WRAP ALUMINUM FOIL 30CMX4M",
+      "price": 39.25,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "#N/A"
+    },
+    {
+      "code": "4809010424636",
+      "name": "VOTIVE IN GLASS CANDLE",
+      "price": 32.95,
+      "category": "Misc",
+      "subCategory": "Candles & Matches",
+      "brand": "Manila Wax"
+    },
+    {
+      "code": "1211",
+      "name": "FASTENER 1'S",
+      "price": 9.95,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "FC Cocoa"
+    },
+    {
+      "code": "4806039700920",
+      "name": "JADE PAPER CUPS 8OZX25'SX20",
+      "price": 37.55,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Jade"
+    },
+    {
+      "code": "4806039700937",
+      "name": "JADE PLASTIC SPOON 25'SX20",
+      "price": 37.55,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Jade"
+    },
+    {
+      "code": "4806039700944",
+      "name": "JADE PLASTIC FORK 25'SX20",
+      "price": 37.55,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Jade"
+    },
+    {
+      "code": "4806039700913",
+      "name": "JADE PAPER PLATE 9X25'SX20\"",
+      "price": 37.55,
+      "category": "Misc",
+      "subCategory": "Plastic & Packaging",
+      "brand": "Jade"
+    },
+    {
+      "code": "8853301530040",
+      "name": "PEDIGREE CHIC.&LIVER CHUNKS 130GX12",
+      "price": 35.95,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Pedigree"
+    },
+    {
+      "code": "30076",
+      "name": "MITSUYA THUMB TACKS",
+      "price": 11,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "Mitsuya"
+    },
+    {
+      "code": "4800552073028",
+      "name": "ADVANCE HARD COPY S-20 SHORT",
+      "price": 174.95,
+      "category": "Misc",
+      "subCategory": "School & Office Supplies",
+      "brand": "#N/A"
+    },
+    {
+      "code": "4806026343154",
+      "name": "WHISKAS AD OCEANFISH BOGO 30% 80GX14",
+      "price": 47.45,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Whiskas"
+    },
+    {
+      "code": "8853301100878",
+      "name": "PEDIGREE V.PACK AD CHICKEN 130GX6'SX20",
+      "price": 188.75,
+      "category": "Misc",
+      "subCategory": "Pet Food",
+      "brand": "Pedigree"
+    }
+  ]
+}

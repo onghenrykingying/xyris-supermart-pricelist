@@ -1,0 +1,4158 @@
+{
+  "category": "Beverages",
+  "generatedAt": "2026-05-19T11:36:01.132Z",
+  "skus": [
+    {
+      "code": "4800014146086",
+      "name": "ABSOLUTE 1.5LX12",
+      "price": 34.55,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Absolute"
+    },
+    {
+      "code": "4800014145089",
+      "name": "ABSOLUTE 1LX12",
+      "price": 24.55,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Absolute"
+    },
+    {
+      "code": "4800014700011",
+      "name": "ABSOLUTE 2LX6",
+      "price": 42.75,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Absolute"
+    },
+    {
+      "code": "4800014147083",
+      "name": "ABSOLUTE 350MLX35",
+      "price": 11.35,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Absolute"
+    },
+    {
+      "code": "4800014700028",
+      "name": "ABSOLUTE 4LX4",
+      "price": 67.25,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Absolute"
+    },
+    {
+      "code": "4800014144082",
+      "name": "ABSOLUTE 500MLX24",
+      "price": 16.1,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Absolute"
+    },
+    {
+      "code": "4800014141180",
+      "name": "ABSOLUTE 5LX3",
+      "price": 68.25,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Absolute"
+    },
+    {
+      "code": "4800014700004",
+      "name": "ABSOLUTE 6LX3",
+      "price": 80.15,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Absolute"
+    },
+    {
+      "code": "4800611546760",
+      "name": "COBRA ENERGY DRINK 350MLX24",
+      "price": 21.35,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Cobra"
+    },
+    {
+      "code": "4800014143085",
+      "name": "SUMMIT 1.5LX12",
+      "price": 26,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Summit"
+    },
+    {
+      "code": "4800014142088",
+      "name": "SUMMIT 1LX12",
+      "price": 19.15,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Summit"
+    },
+    {
+      "code": "4800014707621",
+      "name": "SUMMIT 2LX6",
+      "price": 35.85,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Summit"
+    },
+    {
+      "code": "4800014148080",
+      "name": "SUMMIT 350MLX35",
+      "price": 8.55,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Summit"
+    },
+    {
+      "code": "4800014707638",
+      "name": "SUMMIT 4LX4",
+      "price": 49.65,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Summit"
+    },
+    {
+      "code": "4800014141081",
+      "name": "SUMMIT 500MLX24",
+      "price": 11.15,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Summit"
+    },
+    {
+      "code": "4800014141289",
+      "name": "SUMMIT 5LX3",
+      "price": 59.85,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Summit"
+    },
+    {
+      "code": "4800014707515",
+      "name": "SUMMIT 6LX3",
+      "price": 68.25,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Summit"
+    },
+    {
+      "code": "4800611223579",
+      "name": "COBRA SMART 350MLX24",
+      "price": 22.25,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Cobra"
+    },
+    {
+      "code": "4800014350278",
+      "name": "NESTEA APPLE 350MLX24",
+      "price": 22.5,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Nestea"
+    },
+    {
+      "code": "4800014277537",
+      "name": "NESTEA APPLE 500MLX24",
+      "price": 28.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Nestea"
+    },
+    {
+      "code": "4800014350537",
+      "name": "NESTEA LEMON 350MLX24",
+      "price": 22.5,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Nestea"
+    },
+    {
+      "code": "4800014536665",
+      "name": "NESTEA LEMON 500MLX24",
+      "price": 28.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Nestea"
+    },
+    {
+      "code": "4800014534234",
+      "name": "NESTEA LEMON ICE 500MLX24",
+      "price": 28.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Nestea"
+    },
+    {
+      "code": "4800014350544",
+      "name": "NESTEA LEMON ICE 350MLX24",
+      "price": 22.5,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Nestea"
+    },
+    {
+      "code": "4800014700196",
+      "name": "SUMMIT 500ML 5+1",
+      "price": 55.75,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Summit"
+    },
+    {
+      "code": "4800611112941",
+      "name": "COBRA RISE BLUE COLA 290MLX12",
+      "price": 18.85,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Cobra"
+    },
+    {
+      "code": "4800611112958",
+      "name": "COBRA RISE LEMON BLAST 290MLX12",
+      "price": 18.85,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Cobra"
+    },
+    {
+      "code": "4800014700660",
+      "name": "ABSOLUTE 6LX3 SAVE 6.00",
+      "price": 72.95,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Absolute"
+    },
+    {
+      "code": "4800009008184",
+      "name": "DOLE 100% P/A JUICE 1.36LX12",
+      "price": 125.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Dole"
+    },
+    {
+      "code": "4800009745133",
+      "name": "DOLE 100% JUICE 240ML 5+1X4",
+      "price": 144.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Dole"
+    },
+    {
+      "code": "4800009000034",
+      "name": "DOLE 100% P/A JUICE 240MLX24",
+      "price": 33.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Dole"
+    },
+    {
+      "code": "8850389106273",
+      "name": "MOGU-MOGU COCONUT 320MLX24",
+      "price": 42.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389100691",
+      "name": "MOGU-MOGU STRAWBERRY 320MLX24",
+      "price": 42.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389101391",
+      "name": "MOGU-MOGU GRAPE 320MLX24",
+      "price": 42.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389100684",
+      "name": "MOGU MOGU LYCHEE 320MLX24",
+      "price": 42.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389105450",
+      "name": "MOGU-MOGU LYCHEE 1LX12",
+      "price": 118.15,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389106990",
+      "name": "MOGU-MOGU COCONUT 1LX12",
+      "price": 118.15,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389105474",
+      "name": "MOGU-MOGU GRAPE 1LX12",
+      "price": 118.15,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389108666",
+      "name": "MOGU-MOGU STRAWBERRY 1LX12",
+      "price": 118.15,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389100769",
+      "name": "MOGU MOGU MANGO 320MLX24",
+      "price": 42.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389100677",
+      "name": "MOGU MOGU ORANGE 320MLX24",
+      "price": 42.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389109229",
+      "name": "MOGU-MOGU YOGURT 320MLX24",
+      "price": 42.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389113004",
+      "name": "MOGU-MOGU MELON 320MLX24",
+      "price": 42.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389112991",
+      "name": "MOGU-MOGU PINK GUAVA 320MLX24",
+      "price": 42.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389101698",
+      "name": "MOGU-MOGU LYCHEE 320ML 5+1X4",
+      "price": 212.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389116470",
+      "name": "MOGU-MOGU LYCHEE/STRAW. 320MLX2'SX12",
+      "price": 74.85,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389101681",
+      "name": "MOGU-MOGU STRAWBERRY 320ML 5+1X4",
+      "price": 212.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389106457",
+      "name": "MOGU-MOGU COCONUT 320ML 5+1X4",
+      "price": 212.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "4809012496902",
+      "name": "ZAMBO KALAMANSI 500MLX18",
+      "price": 39.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zambo"
+    },
+    {
+      "code": "8850389117620",
+      "name": "MOGU-MOGU JELLY LYCHEE W/ NATA 150GX36",
+      "price": 40.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389117644",
+      "name": "MOGU-MOGU JELLY STRAW. W/ NATA 150GX36",
+      "price": 40.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389119082",
+      "name": "MOGU MOGU COCONUT BUY 6 SAVE 35X4",
+      "price": 220.55,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389119068",
+      "name": "MOGU MOGU LYCHEE 320ML BUY 6 SAVE 35X4",
+      "price": 220.55,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389119075",
+      "name": "MOGU MOGU STRAWBERRY BUY 6 SAVE 35X4",
+      "price": 220.55,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "4801981112647",
+      "name": "COKE ZERO 2LX8",
+      "price": 85.35,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981112005",
+      "name": "COKE REG. 2LX8",
+      "price": 85.35,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981116072",
+      "name": "COKE REG. 1.5LX12",
+      "price": 64.5,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981116966",
+      "name": "COKE LIGHT 1.5LX12",
+      "price": 65.1,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981116645",
+      "name": "COKE ZERO 1.5LX12",
+      "price": 65.1,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981120000",
+      "name": "COKE REG.500MLX24",
+      "price": 34.35,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981120963",
+      "name": "COKE LIGHT 500MLX24",
+      "price": 34.35,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981112227",
+      "name": "SPRITE REG. 2LX8",
+      "price": 85.35,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981116171",
+      "name": "ROYAL REG. 1.5LX12",
+      "price": 65.1,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca cola"
+    },
+    {
+      "code": "4801981116270",
+      "name": "SPRITE 1.5X12",
+      "price": 65.1,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981112128",
+      "name": "ROYAL REG. 2LX8",
+      "price": 85.35,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca cola"
+    },
+    {
+      "code": "4801981110971",
+      "name": "SPRITE ZERO IN CAN 320MLX24",
+      "price": 34.05,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981110001",
+      "name": "COKE REG. 320MLX24",
+      "price": 34.05,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981125647",
+      "name": "COKE ZERO 320MLX24",
+      "price": 34.05,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981110209",
+      "name": "SPRITE REG.320MLX24",
+      "price": 34.05,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981110100",
+      "name": "ROYAL REG.IN CAN 320MLX24",
+      "price": 34.05,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca cola"
+    },
+    {
+      "code": "4801981110964",
+      "name": "COKE LIGHT IN CAN 320MLX24",
+      "price": 34.05,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981125180",
+      "name": "MINUTE MAID ORANGE 330MLX24",
+      "price": 27.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Minute Maid"
+    },
+    {
+      "code": "4801981109180",
+      "name": "MINUTE MAID ORANGE 1LX12",
+      "price": 61.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Minute Maid"
+    },
+    {
+      "code": "4800602020934",
+      "name": "WILKINS 500MLX24",
+      "price": 15.95,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Wilkins"
+    },
+    {
+      "code": "4800602087937",
+      "name": "WILKINS 1LX12",
+      "price": 24.55,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Wilkins"
+    },
+    {
+      "code": "4800602026936",
+      "name": "WILKINS 330MLX30",
+      "price": 10.95,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Wilkins"
+    },
+    {
+      "code": "4803925151163",
+      "name": "MIRINDA ORANGE 1.5LX12",
+      "price": 61.95,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Mirinda"
+    },
+    {
+      "code": "4801981120642",
+      "name": "COKE ZERO 500MLX24",
+      "price": 34.35,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981110544",
+      "name": "ROYAL GRAPES 320MLX24",
+      "price": 34.05,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca cola"
+    },
+    {
+      "code": "4801981120055",
+      "name": "SPRITE REG. 500MLX24",
+      "price": 34.35,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981120369",
+      "name": "REAL LEAF W/ HONEY LEMON 480MLX24",
+      "price": 25.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Real Leaf"
+    },
+    {
+      "code": "4801981120383",
+      "name": "REAL LEAF W/HONEY LYCHEE 480MLX24",
+      "price": 25.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Real Leaf"
+    },
+    {
+      "code": "4801981120376",
+      "name": "REAL LEAF W/ HONEY APPLE 480MLX24",
+      "price": 25.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Real Leaf"
+    },
+    {
+      "code": "4801981120109",
+      "name": "ROYAL ORANGE 500MLX24",
+      "price": 34.35,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca cola"
+    },
+    {
+      "code": "4801981125197",
+      "name": "MINUTE MAID MANGO-ORANGE 330MLX24",
+      "price": 27.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Minute Maid"
+    },
+    {
+      "code": "4801981109197",
+      "name": "MINUTE MAID MANGO-ORANGE 1LX12",
+      "price": 61.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Minute Maid"
+    },
+    {
+      "code": "4801981107971",
+      "name": "WILKINS PURE 500ML X 24",
+      "price": 10.55,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Wilkins"
+    },
+    {
+      "code": "4801981119981",
+      "name": "WILKINS PURE 1LX12",
+      "price": 16.75,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Wilkins"
+    },
+    {
+      "code": "4801981120208",
+      "name": "MINUTE MAID FRESH 800MLX12",
+      "price": 40.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Minute Maid"
+    },
+    {
+      "code": "4801981120147",
+      "name": "MINUTE MAID FRESH 250MLX12",
+      "price": 15.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Minute Maid"
+    },
+    {
+      "code": "4801981118519",
+      "name": "ROYAL 250MLX12",
+      "price": 17.15,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca cola"
+    },
+    {
+      "code": "4801981118502",
+      "name": "COKE REG.290MLX12",
+      "price": 17.15,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981118595",
+      "name": "SPRITE 290MLX12",
+      "price": 12.75,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981117208",
+      "name": "SPRITE 1.75LX12",
+      "price": 47.95,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981164868",
+      "name": "MINUTE MAID FRESH ORANGE 180MLX10",
+      "price": 9.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Minute Maid"
+    },
+    {
+      "code": "4801981164851",
+      "name": "MINUTE MAID FRESH APPLE 180MLX10",
+      "price": 9.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Minute Maid"
+    },
+    {
+      "code": "4801981164707",
+      "name": "WILKINS 5LX4",
+      "price": 68.25,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Wilkins"
+    },
+    {
+      "code": "4801981164714",
+      "name": "WILKINS 7LX3",
+      "price": 75.65,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Wilkins"
+    },
+    {
+      "code": "4801981126866",
+      "name": "WILKINS PURE 330MLX30",
+      "price": 7.55,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Wilkins"
+    },
+    {
+      "code": "4801981118601",
+      "name": "SPRITE 290MLX12",
+      "price": 17.15,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4800099101154",
+      "name": "WILKINS DISTILLED 1.5LX12",
+      "price": 33.05,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Wilkins"
+    },
+    {
+      "code": "4803925130359",
+      "name": "MIRINDA ORANGE 290MLX12",
+      "price": 16.65,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Mirinda"
+    },
+    {
+      "code": "4801981064854",
+      "name": "MINUTE MAID FRESH APPLE 180MLX10'S",
+      "price": 92.5,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Minute Maid"
+    },
+    {
+      "code": "4801981064861",
+      "name": "MINUTE MAID FRESH ORANGE 180MLX10'S",
+      "price": 92.5,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Minute Maid"
+    },
+    {
+      "code": "4801981112968",
+      "name": "COKE LIGHT 2LX8",
+      "price": 85.35,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981096442",
+      "name": "SPRITE ZERO 1.5LX12",
+      "price": 65.1,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4800014701049",
+      "name": "ABSOLUTE 8LX2",
+      "price": 94,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Absolute"
+    },
+    {
+      "code": "4800220520359",
+      "name": "JAMAICA LIME JUICE 350MLX24",
+      "price": 48.85,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Jamaica"
+    },
+    {
+      "code": "22392478519",
+      "name": "COOL TASTE LYCHEE JELLY DRINK 160GX24",
+      "price": 18.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Cool Taste"
+    },
+    {
+      "code": "22392478496",
+      "name": "COOL TASTE STRAW.JELLY 160GX24",
+      "price": 18.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Cool Taste"
+    },
+    {
+      "code": "22392478403",
+      "name": "COOL TASTE MANGO JELLY 160GX24",
+      "price": 18.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Cool Taste"
+    },
+    {
+      "code": "22392478434",
+      "name": "COOL TASTE APPLE JELLY 160GX24",
+      "price": 18.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Cool Taste"
+    },
+    {
+      "code": "22392575454",
+      "name": "COOL TASTE MANGO DRINK 500MLX12",
+      "price": 40.85,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Cool Taste"
+    },
+    {
+      "code": "4806527711117",
+      "name": "RC COLA 1.5LX6",
+      "price": 55.15,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "RC Cola"
+    },
+    {
+      "code": "4800024562616",
+      "name": "DM 100% FIBER ENRICHED 202X24",
+      "price": 33.85,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024562746",
+      "name": "DM 100% PINE JUICE W/ ACE #10X6",
+      "price": 201.1,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024562692",
+      "name": "DM 100% PINE JUICE W/ ACE 202X24",
+      "price": 31.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024562715",
+      "name": "DM 100% PINE JUICE W/ACE 211X48",
+      "price": 29.15,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024562722",
+      "name": "DM 100% PINE JUICE W/ ACE 2TX24",
+      "price": 58.35,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024562739",
+      "name": "DM 100% PINE JUICE W/ ACE 46OZX12",
+      "price": 118.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024558305",
+      "name": "DM FOUR SEASON JUICE 202X24",
+      "price": 30.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024558282",
+      "name": "DM FOUR SEASON JUICE 46OZX12",
+      "price": 118.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024550088",
+      "name": "DM PINE ORANGE 202X24",
+      "price": 30.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024136381",
+      "name": "DM PINE ORANGE 1.36LX12",
+      "price": 105.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024550194",
+      "name": "DM SWEETENED MANGO 202X24",
+      "price": 37.55,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024550941",
+      "name": "DM SWEETENED ORANGE 202X24",
+      "price": 30.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024550927",
+      "name": "DM SWEETENED PINE 202X24",
+      "price": 30.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024570000",
+      "name": "DM FIT N' RIGHT BURN APPLE 330MLX24",
+      "price": 32.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024572004",
+      "name": "DM FIT N' RIGHT CLASSIC PINEAPPLE 1LX12",
+      "price": 76.55,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024571946",
+      "name": "DM FIT N RIGHT WATERMELON 1LX12",
+      "price": 69.55,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024572981",
+      "name": "DM 100% PINE JUICE W/REDUCOL 202X24",
+      "price": 33.85,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024572813",
+      "name": "DM FIT N' RIGHT CLASSIC FOUR SEASON 1LX1",
+      "price": 76.55,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024576040",
+      "name": "DM MANGO JUICE DRINK 1LX12 TETRA",
+      "price": 107.15,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024576064",
+      "name": "DM SWEETENED PINEAPPLE JUICE 1LX12 TETRA",
+      "price": 97.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024576057",
+      "name": "DM PINE-ORANGE JUICE DRINK 1LX12 TETRA",
+      "price": 97.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024575258",
+      "name": "DM FOUR SEASON JUICE 1LX12 TETRA",
+      "price": 97.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024576880",
+      "name": "DM P/APPLE JUICE BONE SMART 202X24",
+      "price": 31.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024579300",
+      "name": "DM FIBER ENRICHED TETRA PACK 1LX12",
+      "price": 114.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024579294",
+      "name": "DM 100% P/A JUICE W/ ACE TETRA 1LX12",
+      "price": 97.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024579416",
+      "name": "DM WHITE GRAPE 1L TETRA PACKX12",
+      "price": 97.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024579317",
+      "name": "DM HEARTSMART PJ 100% 1LX12 TETRA",
+      "price": 114.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024581105",
+      "name": "DM 100% ACE 202 6'SX4",
+      "price": 178.55,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024581112",
+      "name": "DM FIBER ENRICHED 202 6'SX4",
+      "price": 193.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024581129",
+      "name": "DM HEART SMART PJ 202 6'SX4",
+      "price": 193.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024581273",
+      "name": "DM SWEETEND P/A JUICE 202 6'SX4",
+      "price": 175.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024581280",
+      "name": "DM FOUR SEASON 202 6'SX4",
+      "price": 175.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024581297",
+      "name": "DM PINE-ORANGE 202 6'SX4",
+      "price": 175.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024585707",
+      "name": "DM 100% PJ ACE TETRA PACK TWIN 1LX6",
+      "price": 186.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024583475",
+      "name": "DM FIT'N RIGHT BURN APPLE 1LX12",
+      "price": 74.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024585714",
+      "name": "DM FIBER ENRICHED TETRA PACK TWIN 1LX6",
+      "price": 219.15,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024585721",
+      "name": "DM HEART SMART PJ TETRA PACK TWIN 1LX6",
+      "price": 219.15,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024586353",
+      "name": "DM FIT'N RIGHT CLASSIC P/A 330MLX24",
+      "price": 28.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024586360",
+      "name": "DM FIT'N RIGHT CLASSIC FOUR SEASON 330ML",
+      "price": 28.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024585813",
+      "name": "DM TWIN PACK FOUR SEASON 1L TETRAX6",
+      "price": 185.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024588067",
+      "name": "DM FIT'N RIGHT GREEN APPLE 1LX12",
+      "price": 76.55,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024570024",
+      "name": "DM FIT N' RIGHT FOUR SEASONS 330MLX24",
+      "price": 32.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024570017",
+      "name": "DM FIT N' BURN RIGHT P/APPLE 330MLX24",
+      "price": 32.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800194184090",
+      "name": "SMART C+ ORANGE DRINK 350MLX24",
+      "price": 23.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Smart C+"
+    },
+    {
+      "code": "4800194184083",
+      "name": "SMART C+ LEMON 350MLX24",
+      "price": 23.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Smart C+"
+    },
+    {
+      "code": "4800194184106",
+      "name": "SMART C+ POMELO GRAPEFRUIT 350MLX24",
+      "price": 23.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Smart C+"
+    },
+    {
+      "code": "4800194185080",
+      "name": "SMART C LEMON 500MLX24",
+      "price": 29.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Smart C+"
+    },
+    {
+      "code": "4800194185097",
+      "name": "SMART C ORANGE 500MLX24",
+      "price": 29.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Smart C+"
+    },
+    {
+      "code": "4800194185103",
+      "name": "SMART C POMELO GRPFRUIT 500MLX24",
+      "price": 29.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Smart C+"
+    },
+    {
+      "code": "4800194184199",
+      "name": "SMART C CALAMANSI 350MLX24",
+      "price": 23.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Smart C+"
+    },
+    {
+      "code": "4800194185196",
+      "name": "SMART C CALAMANSI SPLASH 500MLX24",
+      "price": 29.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Smart C+"
+    },
+    {
+      "code": "4800194158961",
+      "name": "SMART C DALANDAN SPLASH 500MLX24",
+      "price": 29.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Smart C+"
+    },
+    {
+      "code": "4800194150965",
+      "name": "SMART-C DALANDAN 350MLX24",
+      "price": 23.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Smart C+"
+    },
+    {
+      "code": "4800194150859",
+      "name": "SMART-C HONEY CALAMANSI 500MLX24",
+      "price": 29.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Smart C+"
+    },
+    {
+      "code": "4800194150842",
+      "name": "SMART-C CRANBERRY 500MLX24",
+      "price": 29.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Smart C+"
+    },
+    {
+      "code": "8996001600269",
+      "name": "LE MINERALE 600MLX24",
+      "price": 13.05,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Le Minerale"
+    },
+    {
+      "code": "8996001600375",
+      "name": "LE MINERALE 330MLX24",
+      "price": 9.05,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Le Minerale"
+    },
+    {
+      "code": "8996001600399",
+      "name": "LE MINERALE 1.5LX12",
+      "price": 25.05,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Le Minerale"
+    },
+    {
+      "code": "8996001600764",
+      "name": "LE MINERALE 5LX4",
+      "price": 76.05,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Le Minerale"
+    },
+    {
+      "code": "4806505332228",
+      "name": "AQUA SWEET PURE 350MLX40",
+      "price": 4.95,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Aqua Sweet"
+    },
+    {
+      "code": "4806505338886",
+      "name": "AQUA SWEET PURE 500MLX30",
+      "price": 6.95,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Aqua Sweet"
+    },
+    {
+      "code": "4806505339999",
+      "name": "AQUA SWEET PURE 1LX15",
+      "price": 12.25,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Aqua Sweet"
+    },
+    {
+      "code": "8850228000267",
+      "name": "REDBULL SUPREME 150MLX50",
+      "price": 37,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Red Bull"
+    },
+    {
+      "code": "4803925151125",
+      "name": "7-UP REG 1.5MLX12",
+      "price": 61.95,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "7-Up"
+    },
+    {
+      "code": "4803925241130",
+      "name": "GATORADE BLUEBOLT 1.5LX12",
+      "price": 110.35,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925061141",
+      "name": "GATORADE BLUEBOLT 500MLX24",
+      "price": 44.15,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925241116",
+      "name": "GATORADE GRAPE 1.5MLX12",
+      "price": 110.35,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925061110",
+      "name": "GATORADE GRAPE 500MLX24",
+      "price": 44.15,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925241109",
+      "name": "GATORADE ORANGE 1.5LX12",
+      "price": 106.15,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925061127",
+      "name": "GATORADE ORANGE 500MLX24",
+      "price": 44.15,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925151149",
+      "name": "MOUNTAIN DEW 1.5LX12",
+      "price": 61.95,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Mountain Dew"
+    },
+    {
+      "code": "4803925033148",
+      "name": "MOUNTAIN DEW 320MLX24",
+      "price": 32.45,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Mountain Dew"
+    },
+    {
+      "code": "4803925251146",
+      "name": "MOUNTAIN DEW 500MLX24",
+      "price": 30.75,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Mountain Dew"
+    },
+    {
+      "code": "4803925151262",
+      "name": "MUG ROOT BEER 1.5LX12",
+      "price": 61.95,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Mug Root Beer"
+    },
+    {
+      "code": "4803925033155",
+      "name": "MUG ROOT BEER 320MLX24",
+      "price": 32.45,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Mug Root Beer"
+    },
+    {
+      "code": "4803925033384",
+      "name": "PEPSI ZERO SUGAR LIME 320MLX24",
+      "price": 32.45,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Pepsi"
+    },
+    {
+      "code": "4803925251320",
+      "name": "PEPSI ZERO SUGAR LIME 500MLX24",
+      "price": 30.75,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Pepsi"
+    },
+    {
+      "code": "4803925151101",
+      "name": "PEPSI REG 1.5LX12",
+      "price": 61.95,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Pepsi"
+    },
+    {
+      "code": "4803925033100",
+      "name": "PEPSI REG 320MLX24",
+      "price": 32.45,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Pepsi"
+    },
+    {
+      "code": "4803925251108",
+      "name": "PEPSI REG 500MLX24",
+      "price": 30.75,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Pepsi"
+    },
+    {
+      "code": "4803925033421",
+      "name": "STING STRAW 320MLX24",
+      "price": 19.45,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Sting"
+    },
+    {
+      "code": "4803925290015",
+      "name": "STING STRAWBERRY 250MLX35",
+      "price": 17.95,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Sting"
+    },
+    {
+      "code": "4803925260124",
+      "name": "TROPICANA ORANGE 1LX12",
+      "price": 56.55,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tropicana"
+    },
+    {
+      "code": "4803925051104",
+      "name": "TROPICANA TWISTER ORANGE 355MLX24",
+      "price": 26.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tropicana"
+    },
+    {
+      "code": "4803925241123",
+      "name": "GATORADE TROPICAL FRUIT 1.5LX12",
+      "price": 110.35,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925061103",
+      "name": "GATORADE TROPICAL FRUIT 500MLX24",
+      "price": 44.15,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925063121",
+      "name": "GATORADE MIX 5+1 500MLX4",
+      "price": 220.75,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925120213",
+      "name": "PEPSI REG 2LX8",
+      "price": 83.65,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Pepsi"
+    },
+    {
+      "code": "4803925120251",
+      "name": "MUG ROOT BEER 2LX8",
+      "price": 83.65,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Mug Root Beer"
+    },
+    {
+      "code": "4803925120268",
+      "name": "MOUNTAIN DEW 2LX8",
+      "price": 83.65,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Mountain Dew"
+    },
+    {
+      "code": "4803925120237",
+      "name": "7-UP REG 2LX8",
+      "price": 83.65,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "7-Up"
+    },
+    {
+      "code": "4803925251481",
+      "name": "STING POWER LIME 330MLX24",
+      "price": 19.45,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Sting"
+    },
+    {
+      "code": "4803925350016",
+      "name": "GATORADE TROPICAL FRUIT 350MLX24",
+      "price": 32.35,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925350023",
+      "name": "GATORADE GRAPE 350MLX24",
+      "price": 32.35,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925350030",
+      "name": "GATORADE ORANGE 350MLX24",
+      "price": 32.35,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925350054",
+      "name": "GATORADE BLUEBOLT 350MLX24",
+      "price": 32.35,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925062308",
+      "name": "GATORADE G-APPLE 500MLX24",
+      "price": 41.05,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925025662",
+      "name": "MOUNTAIN DEW 250MLX24",
+      "price": 25.75,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Mountain Dew"
+    },
+    {
+      "code": "4803925062346",
+      "name": "GATORADE STRAWBERRY 500MLX24",
+      "price": 34.65,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925280061",
+      "name": "PEPSI REG.300MLX12",
+      "price": 15.75,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Pepsi"
+    },
+    {
+      "code": "4803925062469",
+      "name": "GATORADE W/ ION 500MLX24",
+      "price": 41.05,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925062384",
+      "name": "GATORADE BBOLT 5+1 500ML",
+      "price": 220.75,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925062391",
+      "name": "GATORADE T-FRUIT 5+1 500ML",
+      "price": 220.75,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925241161",
+      "name": "GATORADE BLUEBOLT 900MLX12",
+      "price": 72.45,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925241178",
+      "name": "GATORADE T-FRUIT 900MLX12",
+      "price": 68.25,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925130311",
+      "name": "PEPSI REG. 290MLX12 PET",
+      "price": 17.15,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Pepsi"
+    },
+    {
+      "code": "4803925130328",
+      "name": "MOUNTAIN DEW 290MLX12",
+      "price": 17.15,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Mountain Dew"
+    },
+    {
+      "code": "4803925130342",
+      "name": "7-UP REG.290MLX12",
+      "price": 17.15,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "7-Up"
+    },
+    {
+      "code": "4803925156397",
+      "name": "PEPSI REG.+MOUNTAIN DEW 1.5LX6 SAVE 15.0",
+      "price": 117.25,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Pepsi"
+    },
+    {
+      "code": "4803925120688",
+      "name": "MOUNTAIN DEW ICE 2LX9",
+      "price": 83.65,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Mountain Dew"
+    },
+    {
+      "code": "4803925062490",
+      "name": "GATORADE BLUE BOLT  NS 500MLX24",
+      "price": 44.15,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925156380",
+      "name": "MOUNTAIN DEW 1.5L 2'S SAVE 15.00X6",
+      "price": 117.25,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Mountain Dew"
+    },
+    {
+      "code": "4803925062506",
+      "name": "GATORADE CITRUS NS 500MLX24",
+      "price": 44.15,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925043574",
+      "name": "MOUNTAIN DEW REG.CANS 6'S LESS 15.00 330",
+      "price": 179.05,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Mountain Dew"
+    },
+    {
+      "code": "4803925062650",
+      "name": "GATORADE ASSORTED 500MLX6'SX4 SAVE 25.00",
+      "price": 239.9,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "4803925033551",
+      "name": "STING STRAWBERRY 290MLX12",
+      "price": 17.45,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Sting"
+    },
+    {
+      "code": "4803925151293",
+      "name": "PEPSI BLACK 1.5LX12",
+      "price": 61.95,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Pepsi"
+    },
+    {
+      "code": "4803925033742",
+      "name": "MOUNTAIN DEW HARD BEACH BLAST 330MLX24",
+      "price": 58.85,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Mountain Dew"
+    },
+    {
+      "code": "8410028905089",
+      "name": "ALFONSO LIGHT 1L TRIPACK W/ COBRAX4",
+      "price": 826.5,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Alfonso"
+    },
+    {
+      "code": "4800046000011",
+      "name": "LIPOVITAN REG 100MLX50",
+      "price": 27.95,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Lipovitan"
+    },
+    {
+      "code": "4800046000110",
+      "name": "LIPOVITAN XL 150MLX50",
+      "price": 32.15,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Lipovitan"
+    },
+    {
+      "code": "4800049715608",
+      "name": "NATURE SPRING DISTILLED 6.6LX3",
+      "price": 65.95,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "4800049720107",
+      "name": "NATURE SPRING PURIFIED 350MLX40",
+      "price": 6.15,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "4800049720114",
+      "name": "NATURE SPRING PURIFIED 500MLX35",
+      "price": 8.1,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "4800049720121",
+      "name": "NATURE SPRING PURIFIED 1LX20",
+      "price": 14.55,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "4800049712409",
+      "name": "NATURE SPRING PURIFIED 4LX3",
+      "price": 46.65,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "4800049720138",
+      "name": "NATURE SPRING PURIFIED 1.5LX12",
+      "price": 20.35,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "4800049720237",
+      "name": "NATURE SPRING DISTILLED 1.5LX12",
+      "price": 21.25,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "4800049720213",
+      "name": "NATURE SPRING DISTILLED 500MLX35",
+      "price": 10.15,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "4800049720206",
+      "name": "NATURE SPRING DISTILLED 350MLX40",
+      "price": 8.35,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "4800049720145",
+      "name": "NATURE SPRING PURIFIED 10LX2",
+      "price": 77.85,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "4800049720220",
+      "name": "NATURE SPRING DISTILLED 1LX20",
+      "price": 16.75,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "4800049720541",
+      "name": "NATURE SPRING ALKALINE PH9 6.6LX3",
+      "price": 80.95,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "4800049720558",
+      "name": "NATURE SPRING ALKALINE PH9 10LX2",
+      "price": 105.65,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "4800049712607",
+      "name": "NATURE SPRING PURIFIED 6.6LX3",
+      "price": 57.25,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "4800049720183",
+      "name": "WET DRINKING WATER 330MLX24",
+      "price": 5.95,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Wet Drinking Water"
+    },
+    {
+      "code": "4800049720190",
+      "name": "WET DRINKING WATER 500MLX24",
+      "price": 7.85,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Wet Drinking Water"
+    },
+    {
+      "code": "4800049720244",
+      "name": "NATURE SPRING DISTILLED 10LX2",
+      "price": 83.65,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "4800049720909",
+      "name": "WET DRINKING WATER 1LX12",
+      "price": 13.75,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Wet Drinking Water"
+    },
+    {
+      "code": "8997035600010",
+      "name": "POCARI SWEAT PET BOT. 350MLX24",
+      "price": 32.05,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Pocari Sweat"
+    },
+    {
+      "code": "8997035600027",
+      "name": "POCARI SWEAT PET BOT. 500MLX24",
+      "price": 44.05,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Pocari Sweat"
+    },
+    {
+      "code": "6072120155025",
+      "name": "POCARI SWEET 500ML X4'SX6",
+      "price": 166.05,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Pocari Sweat"
+    },
+    {
+      "code": "4800350108878",
+      "name": "POCARI SWEAT 900MLX12",
+      "price": 76.05,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Pocari Sweat"
+    },
+    {
+      "code": "4800016052132",
+      "name": "C2 APPLE 455MLX24",
+      "price": 31.35,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016052149",
+      "name": "C2 LEMON 500MLX24",
+      "price": 31.35,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016052040",
+      "name": "C2 APPLE 335MLX24",
+      "price": 25.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016052057",
+      "name": "C2 LEMON 335MLX24",
+      "price": 25.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016052767",
+      "name": "C2 LEMON 1LX12",
+      "price": 52.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016052774",
+      "name": "C2 APPLE 1LX12",
+      "price": 52.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "50006",
+      "name": "C2 APPLE 230MLX24",
+      "price": 13.85,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016072413",
+      "name": "C2 ICED TEA LEMON 355MLX24",
+      "price": 18.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016072420",
+      "name": "C2 RED TEA RASPBERRY 335MLX24",
+      "price": 25.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016073267",
+      "name": "REFRESH PURIFIED 350MLX24",
+      "price": 4.75,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Refresh"
+    },
+    {
+      "code": "4800016072697",
+      "name": "C2 SOLO APPLE 6'SX6",
+      "price": 83.15,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016073335",
+      "name": "BLUE VIT.DRINK CAL.500MLX15",
+      "price": 35.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Blue (Vitamin Drink)"
+    },
+    {
+      "code": "4800016073359",
+      "name": "BLUE VIT.DRINK ORANGE 500MLX15",
+      "price": 35.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Blue (Vitamin Drink)"
+    },
+    {
+      "code": "4800016073588",
+      "name": "BLUE VIT.DRINK LYCHEE 500MLX15",
+      "price": 35.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Blue (Vitamin Drink)"
+    },
+    {
+      "code": "4800016073632",
+      "name": "REFRESH MINERAL WATER 350MLX24",
+      "price": 6.35,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Refresh"
+    },
+    {
+      "code": "4800016073625",
+      "name": "REFRESH MINERAL WATER 500MLX24",
+      "price": 8.85,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Refresh"
+    },
+    {
+      "code": "4800016074097",
+      "name": "C2 FREEZE MELON 230MLX24",
+      "price": 13.85,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016074110",
+      "name": "C2 DALANDAN 230MLX24",
+      "price": 13.85,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "60008",
+      "name": "C2 LEMON 230MLX24",
+      "price": 13.85,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016073892",
+      "name": "B'LUE PEACH 500MLX15",
+      "price": 30.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Blue (Vitamin Drink)"
+    },
+    {
+      "code": "4800016074417",
+      "name": "B'LUE CUCUMBER LIME 500MLX15",
+      "price": 35.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Blue (Vitamin Drink)"
+    },
+    {
+      "code": "4800016025716",
+      "name": "C2 MILK TEA CARAMEL 270MLX24",
+      "price": 32.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016026874",
+      "name": "C2 BLACK TEA PEACH 230MLX24",
+      "price": 13.85,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016026867",
+      "name": "C2 BLACK TEA PEACH 1LX12",
+      "price": 52.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016026201",
+      "name": "C2 SOLO APPLE RESELLER W/ GT CHOCO",
+      "price": 308.4,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016027307",
+      "name": "C2 BLACK TEA  PEACH 500MLX24",
+      "price": 31.35,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016027819",
+      "name": "C2 SOLO APPLE 230ML BUY 12 GET12 GTPREM.",
+      "price": 154.35,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016027840",
+      "name": "C2 DALANDAN 335MLX24",
+      "price": 25.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016027833",
+      "name": "C2 FREEZE MELON 335MLX24",
+      "price": 25.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800110080376",
+      "name": "SUNKIST SLIM MANGO 235MLX24",
+      "price": 22.35,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Sunkist"
+    },
+    {
+      "code": "4800110080369",
+      "name": "SUNKIST SLIM ORANGE 235MLX24",
+      "price": 21.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Sunkist"
+    },
+    {
+      "code": "4800062230508",
+      "name": "JUNGLE JUICE APPLE 500MLX12",
+      "price": 27.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Jungle Juice"
+    },
+    {
+      "code": "4800062230102",
+      "name": "JUNGLE JUICE ORANGE 500MLX12",
+      "price": 27.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Jungle Juice"
+    },
+    {
+      "code": "4800062230409",
+      "name": "JUNGLE JUICE MANGO 500MLX12",
+      "price": 27.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Jungle Juice"
+    },
+    {
+      "code": "4800062230300",
+      "name": "JUNGLE JUICE GRAPES 500MLX12",
+      "price": 27.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Jungle Juice"
+    },
+    {
+      "code": "4800062210906",
+      "name": "JUNGLE JUICE ORANGE 200MLX10",
+      "price": 8.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Jungle Juice"
+    },
+    {
+      "code": "4806022902638",
+      "name": "MINESHINE HONEY LEMON 350MLX24",
+      "price": 24.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mineshine"
+    },
+    {
+      "code": "4806022902737",
+      "name": "POPPLE APPLE SODA 500MLX24",
+      "price": 34.55,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Popple"
+    },
+    {
+      "code": "4806022901174",
+      "name": "POPPLE APPLE SODA 1.5LX12",
+      "price": 63.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Popple"
+    },
+    {
+      "code": "30050",
+      "name": "COKE MISMO X 12",
+      "price": 201,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "30051",
+      "name": "ROYAL MISMO X 12",
+      "price": 201,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca cola"
+    },
+    {
+      "code": "30052",
+      "name": "SPRITE MISMO X 12",
+      "price": 201,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "14803925130325",
+      "name": "MOUNTAIN DEW 290ML X 12",
+      "price": 201,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Mountain Dew"
+    },
+    {
+      "code": "14803925130318",
+      "name": "PEPSI 290ML X 12",
+      "price": 201,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Pepsi"
+    },
+    {
+      "code": "4801981016075",
+      "name": "COKE REG 1.5 X 12",
+      "price": 770,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981016273",
+      "name": "SPRITE 1.5 X 12",
+      "price": 770,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca-Cola"
+    },
+    {
+      "code": "4801981016174",
+      "name": "ROYAL 1.5 X 12",
+      "price": 770,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Coca cola"
+    },
+    {
+      "code": "14800611546767",
+      "name": "COBRA ENERGY DRINK 350ML X24",
+      "price": 500,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Cobra"
+    },
+    {
+      "code": "14800611223576",
+      "name": "COBRA SMART X 24",
+      "price": 520,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Cobra"
+    },
+    {
+      "code": "4803925049132",
+      "name": "STING STRAW. 330ML X 24",
+      "price": 460,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Sting"
+    },
+    {
+      "code": "14803925033558",
+      "name": "STING STRAW. 290ML X 12",
+      "price": 203,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Sting"
+    },
+    {
+      "code": "14800016057073",
+      "name": "C2 SOLO APPLE X 24",
+      "price": 327,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "30053",
+      "name": "GATORADE 350ML X 24",
+      "price": 760,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "30054",
+      "name": "GATORADE 500ML X 24",
+      "price": 1050,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Gatorade"
+    },
+    {
+      "code": "14800049720128",
+      "name": "NATURE SPRING PURE 1L X 20",
+      "price": 273,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "14800049720111",
+      "name": "NATURE SPRING PURE 500ML X 35",
+      "price": 266,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "14800049720104",
+      "name": "NATURE SPRING 350ML X 40",
+      "price": 235,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Nature Spring"
+    },
+    {
+      "code": "14800014148087",
+      "name": "SUMMIT 350ML X 35",
+      "price": 255,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Summit"
+    },
+    {
+      "code": "14800014141088",
+      "name": "SUMMIT 500ML X 24",
+      "price": 229.5,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Summit"
+    },
+    {
+      "code": "14800014142085",
+      "name": "SUMMIT 1L X 12",
+      "price": 220,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Summit"
+    },
+    {
+      "code": "14800014147080",
+      "name": "ABSOLUTE 350ML X 35",
+      "price": 330,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Absolute"
+    },
+    {
+      "code": "14800014144089",
+      "name": "ABSOLUTE 500ML X 24",
+      "price": 323,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Absolute"
+    },
+    {
+      "code": "14800014145086",
+      "name": "ABSOLUTE 1L X 12",
+      "price": 240,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Absolute"
+    },
+    {
+      "code": "4804888889735",
+      "name": "BIG 250 APPLE 1X10",
+      "price": 9,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "4804888889759",
+      "name": "BIG 250 GRAPES 1X10",
+      "price": 9,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "4804888900102",
+      "name": "BIG 250 GUYABANO 1X10",
+      "price": 9.9,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "4804888900089",
+      "name": "BIG 250 MANGO 1X10",
+      "price": 9.9,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "4804888889711",
+      "name": "BIG 250 ORANGE 1X10",
+      "price": 9,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "4804888900096",
+      "name": "BIG 250 PINEAPPLE 1X10",
+      "price": 9,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "4804888902786",
+      "name": "ZESTO CALAMANSI SODA 1.5LX6",
+      "price": 56,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888889865",
+      "name": "ZESTO JR APPLE 1X10",
+      "price": 6.4,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888889919",
+      "name": "ZESTO JR GRAPES 1X10",
+      "price": 6.4,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888889827",
+      "name": "ZESTO JR MANGO 1X10",
+      "price": 7.2,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888889803",
+      "name": "ZESTO JR ORANGE 1X10",
+      "price": 6.4,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "748485400075",
+      "name": "PLUS APPLE 250ML 1X10",
+      "price": 9,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "748485400327",
+      "name": "PLUS GUYABANO 250ML 1X10",
+      "price": 9.9,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "748485400044",
+      "name": "PLUS MANGO 250ML 1X10",
+      "price": 9.9,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "748485400082",
+      "name": "PLUS ORANGE 250ML 1X10",
+      "price": 9,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "748485400174",
+      "name": "PLUS PINEAPPLE 250ML 1X10",
+      "price": 9,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "4804888902755",
+      "name": "ZESTO ROOTBEER 1.5LX6",
+      "price": 56,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888889858",
+      "name": "SUNGLO APPLE 1X10",
+      "price": 7.7,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888800143",
+      "name": "ZESTO APPLE 1X10",
+      "price": 8.4,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888800129",
+      "name": "ZESTO CALAMANSI 1X10",
+      "price": 8.4,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888901086",
+      "name": "ZESTO CHOCO 250ML TBA 1X24",
+      "price": 28.5,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888902700",
+      "name": "ZESTO COLA 1.5LX6",
+      "price": 55,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888800020",
+      "name": "ZESTO GRAPES 200MLX10",
+      "price": 8.4,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888800044",
+      "name": "ZESTO MANGO 1X10",
+      "price": 9.4,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888800082",
+      "name": "ZESTO PINEAPPLE 1X10",
+      "price": 8.4,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888889841",
+      "name": "ZESTO ROOTBEER 330MLX24",
+      "price": 29,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888902793",
+      "name": "ZESTO DALANDAN SODA 1.5LX6",
+      "price": 56,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888889728",
+      "name": "BIG 250 ORANGE 10'S",
+      "price": 90,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "4804888900133",
+      "name": "BIG 250 MANGO 10'S",
+      "price": 99,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "4804888900157",
+      "name": "BIG 250 GUYABANO 10'S",
+      "price": 99,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "4804888889742",
+      "name": "BIG 250 APPLE 10'S",
+      "price": 90,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "4804888900140",
+      "name": "BIG 250 PINEAPPLE 10'S",
+      "price": 90,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "4804888889766",
+      "name": "BIG 250 GRAPES 10'S",
+      "price": 90,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "4804888800457",
+      "name": "ZESTO CHOCO 180MLX10'S",
+      "price": 186,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888800013",
+      "name": "ZESTO ORANGE 200MLX10'S",
+      "price": 84,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888800037",
+      "name": "ZESTO GRAPE 200MLX10'S",
+      "price": 84,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888800099",
+      "name": "ZESTO PINEAPPLE 200MLX10'S",
+      "price": 84,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888800051",
+      "name": "ZESTO MANGO 200MLX10'S",
+      "price": 94,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888800150",
+      "name": "ZESTO APPLE 200MLX10'S",
+      "price": 84,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888889926",
+      "name": "ZESTO JR GRAPE 150MLX10'S",
+      "price": 64,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888889889",
+      "name": "ZESTO JR APPLE 150MLX10'S",
+      "price": 64,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888889810",
+      "name": "ZESTO JR ORANGE 150MLX10'S",
+      "price": 64,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "748485400334",
+      "name": "PLUS KING GUYABANO 250MLX10'S",
+      "price": 99,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "748485400143",
+      "name": "PLUS KING ORANGE 250MLX10'S",
+      "price": 90,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "4804888800495",
+      "name": "SUNGLO ORANGE 200MLX10'S",
+      "price": 77,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888899727",
+      "name": "SUNGLO APPLE 200MLX10'S",
+      "price": 77,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "7484854001360",
+      "name": "PLUS KING APPLE 250MLX10'S",
+      "price": 90,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "4804888800136",
+      "name": "ZEST-O CALAMANSI 200MLX10'S",
+      "price": 84,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888800006",
+      "name": "ZESTO ORANGE 200ML 1'S",
+      "price": 8.4,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "748485400198",
+      "name": "PLUS KING PINEAPPLE 250MLX10'S",
+      "price": 90,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "748485400105",
+      "name": "PLUS KING MANGO 250MLX10'S",
+      "price": 99,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-o"
+    },
+    {
+      "code": "4804888800488",
+      "name": "SUNGLO ORANGE",
+      "price": 7.7,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "6910511940044",
+      "name": "ZESTO COLA 330MLX24",
+      "price": 27,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888901284",
+      "name": "ZESTO CALAMANSI SODA 330MLX24",
+      "price": 29,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4804888889834",
+      "name": "JR MANGO 150MLX10'S",
+      "price": 72,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "8851717904974",
+      "name": "DUTCH MILL DELIGHT 100MLX5'SX10",
+      "price": 55.55,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8851717904967",
+      "name": "DUTCH MILL DELIGHT 100ML 1'S",
+      "price": 11.15,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8851717905407",
+      "name": "DUTCHMILL DELIGHT 400MLX20",
+      "price": 45.35,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8851717907838",
+      "name": "DUTCHMILL PROYO STRAWBERRY 400MLX20",
+      "price": 48.25,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8851717040023",
+      "name": "DUTCH MILL ORANGE 180MLX48",
+      "price": 19.55,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8851717040245",
+      "name": "DUTCH MILL BLUEBERRY 180MLX48",
+      "price": 19.55,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8851717200014",
+      "name": "DUTCH MILL BLUEBERRY 90MLX48",
+      "price": 10.85,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8851717200007",
+      "name": "DUTCH MILL STRAWBERRY 90MLX48",
+      "price": 10.85,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8851717200038",
+      "name": "DUTCH MILL ORANGE 90MLX48",
+      "price": 10.85,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8851717040016",
+      "name": "DUTCH MILL STRAWBERRY 180MLX48",
+      "price": 19.55,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8851717040030",
+      "name": "DUTCH MILL MIXED FRUIT 180MLX48",
+      "price": 19.55,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8851717200045",
+      "name": "DUTCH MILL MIXED FRUIT 90MLX48",
+      "price": 10.85,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8853002302038",
+      "name": "DUTCH MILL SUPERFRUITS 180MLX48",
+      "price": 19.55,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8853002303110",
+      "name": "DUTCH MILL SUPERFRUITS 90MLX48",
+      "price": 10.85,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8853002303127",
+      "name": "DUTCH MILL SUPERFRUIT SP 90MLX4'SX12",
+      "price": 41.35,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8851717200052",
+      "name": "DUTCH MILL STRAW SAVER PACK 90MLX4'SX12",
+      "price": 41.35,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8853002310347",
+      "name": "DUTCHMILL STRAW. SAVERS PACK 180MLX4'SX1",
+      "price": 72.85,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8853002310361",
+      "name": "DUTCH MILL SUPER FRUITS SP 180MLX4'SX12",
+      "price": 72.85,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8853002302977",
+      "name": "DUTCH MILL MELON 90MLX48",
+      "price": 10.85,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8853002312471",
+      "name": "DUTCH MILL MELON 90ML B3G1 FREEX12",
+      "price": 29.85,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8853002310415",
+      "name": "DUTCH MILL MANGO 90MLX48",
+      "price": 10.85,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8853002310385",
+      "name": "DUTCH MILL MANGO 180MLX48",
+      "price": 19.55,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8853002316790",
+      "name": "DUTCHMILL BLUEBERRY 90MLX4X12 SAVER PACK",
+      "price": 41.35,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8853002316813",
+      "name": "DUTCH MILL ORANGE 90MLX4X12 SAVERPACK",
+      "price": 41.35,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8853002318190",
+      "name": "DUTCH MILL APPLE 180MLX48",
+      "price": 19.55,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8853002318176",
+      "name": "DUTCH MILL APPLE 90MLX48",
+      "price": 10.85,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "4800024583864",
+      "name": "DM YOGHURT STRAW. 80MLX6'SX16",
+      "price": 52.45,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024583857",
+      "name": "DM YOGHURT MILK DRINK 80MLX6'SX16",
+      "price": 52.45,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024583871",
+      "name": "DM YOGHURT G.APPLE DRINK 80MLX6'SX16",
+      "price": 52.45,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024583055",
+      "name": "DM YOGHURT MANGO 80MLX6'SX16",
+      "price": 52.45,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024584472",
+      "name": "DMV IQS VANILLA 180MLX48",
+      "price": 22.25,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024584489",
+      "name": "DMV IQS STRAWBERRY 180MLX48",
+      "price": 22.25,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024584496",
+      "name": "DMV IQS CHOCOLATE 180MLX48",
+      "price": 22.25,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024584502",
+      "name": "DMV DKY STRAWBERRY 180MLX48",
+      "price": 20.75,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024584519",
+      "name": "DMV DKY MIXED FRUITS 180MLX48",
+      "price": 20.75,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024584632",
+      "name": "DMV IQS STRAWBERRY 110MLX48",
+      "price": 13.45,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024584649",
+      "name": "DMV IQS CHOCO 110MLX48",
+      "price": 13.45,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024584656",
+      "name": "DMV DKY STRAWBERRY 110MLX48",
+      "price": 11.65,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024584663",
+      "name": "DMV DKY MIXED FRUITS 110MLX48",
+      "price": 11.65,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024584588",
+      "name": "DMV IQS VANILLA 110MLX48",
+      "price": 13.45,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024585332",
+      "name": "DMV-IQS CHOCO SAVERS 110MLX4'SX12",
+      "price": 51.95,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024585356",
+      "name": "DMV-IQS VANILLA SAVERS 110MLX4'SX12",
+      "price": 51.95,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024585370",
+      "name": "DMV-IQS STRAWBERRY SAVERS 110MLX4'SX12",
+      "price": 51.95,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024585394",
+      "name": "DMV-DKY STRAWBERRY SAVERS 110MLX4'SX12",
+      "price": 41.85,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024585417",
+      "name": "DMV-DKY MIXED FRUIT SAVERS 110MLX4'SX12",
+      "price": 41.85,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800194107655",
+      "name": "OISHI OATIES MILK 250MLX24",
+      "price": 26.15,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Oishi"
+    },
+    {
+      "code": "4800575421110",
+      "name": "ALASKA YOGHURT BLUEBERRY 90MLX36",
+      "price": 13.65,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Alaska"
+    },
+    {
+      "code": "4800575421189",
+      "name": "ALASKA YOGHURT BLUEBERRY 170MLX36",
+      "price": 21.35,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Alaska"
+    },
+    {
+      "code": "4800575420113",
+      "name": "ALASKA YOGHURT STRAW. 90MLX36",
+      "price": 13.65,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Alaska"
+    },
+    {
+      "code": "4800575420182",
+      "name": "ALASKA YOGHURT STRAW.170MLX36",
+      "price": 21.35,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Alaska"
+    },
+    {
+      "code": "4800575144729",
+      "name": "ALASKA YOGHURT APPLE FRUITTI YO 80MLX48",
+      "price": 8.75,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Alaska"
+    },
+    {
+      "code": "4800575144712",
+      "name": "ALASKA YOGHURT STRAW. FRUITTI 80MLX48",
+      "price": 8.75,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Alaska"
+    },
+    {
+      "code": "4800110080390",
+      "name": "SUNKIST SLIM APPLE 235MLX24",
+      "price": 21.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Sunkist"
+    },
+    {
+      "code": "54028367911",
+      "name": "YAKULT",
+      "price": 50,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Yakult"
+    },
+    {
+      "code": "60001",
+      "name": "YAKULT 1PC",
+      "price": 10,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Yakult"
+    },
+    {
+      "code": "4800009091445",
+      "name": "DOLE TROPICAL FRUIT COCKTAIL 3KGX6",
+      "price": 345.35,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Dole"
+    },
+    {
+      "code": "4800009091438",
+      "name": "DOLE TTOPICAL FRUIT COCKTAIL 432GX24",
+      "price": 66.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Dole"
+    },
+    {
+      "code": "4800009091094",
+      "name": "DOLE TROPICAL FRUIT COCKTAIL 822GX24",
+      "price": 101.85,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Dole"
+    },
+    {
+      "code": "4800009012754",
+      "name": "DOLE P/A CHUNKS SUP 200GX48",
+      "price": 22.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Dole"
+    },
+    {
+      "code": "4800301800370",
+      "name": "BIOFITEA 1'S",
+      "price": 6.5,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Biofitea"
+    },
+    {
+      "code": "4800301800394",
+      "name": "BIOFITEA 30'SX72",
+      "price": 177.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Biofitea"
+    },
+    {
+      "code": "4806540020012",
+      "name": "NUTRAHERBS ORGANIC BARLEY 3GX10'S",
+      "price": 295,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "NutraHerbs"
+    },
+    {
+      "code": "4806540020005",
+      "name": "NUTRAHERBS ORGANIC BARLEY 3GX1'S",
+      "price": 29.5,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "NutraHerbs"
+    },
+    {
+      "code": "8853002312037",
+      "name": "DUTCH MILL STRAW.90ML 3+1X12",
+      "price": 35.25,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8853002312044",
+      "name": "DUTCH MILL SUPERFRUIT 90ML 3+1X12",
+      "price": 32.65,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "4800194148122",
+      "name": "SUNDAYS MELON 35GX120",
+      "price": 19.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Sundays"
+    },
+    {
+      "code": "4800194112383",
+      "name": "SUNDAYS ORANGE 35GX120",
+      "price": 19.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Sundays"
+    },
+    {
+      "code": "4800194112529",
+      "name": "SUNDAYS PINEAPPLE 35GX120",
+      "price": 19.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Sundays"
+    },
+    {
+      "code": "4800194112628",
+      "name": "SUNDAYS MANGO 35GX120",
+      "price": 19.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Sundays"
+    },
+    {
+      "code": "4800194148191",
+      "name": "SUNDAYS ORANGE-MANGO 35GX120",
+      "price": 19.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Sundays"
+    },
+    {
+      "code": "4800361379557",
+      "name": "NESTEA LEMON 19GX144",
+      "price": 19.15,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Nestea"
+    },
+    {
+      "code": "4800361382083",
+      "name": "NESTEA APPLE 19GX144",
+      "price": 19.15,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Nestea"
+    },
+    {
+      "code": "4800361387989",
+      "name": "NESTEA HONEY BLEND 19GX144",
+      "price": 21.55,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Nestea"
+    },
+    {
+      "code": "4800361387965",
+      "name": "NESTEA HONEY BLEND 250GX24",
+      "price": 169.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Nestea"
+    },
+    {
+      "code": "4800361392549",
+      "name": "NESTEA CRANBERRY 19GX144",
+      "price": 21.55,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Nestea"
+    },
+    {
+      "code": "4800361559898",
+      "name": "NESTEA APPLE 20G 5+1",
+      "price": 95.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Nestea"
+    },
+    {
+      "code": "1209011440822",
+      "name": "LUDYS SALABAT GINGER BREW 8GX12'SX48",
+      "price": 57.15,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Ludy's"
+    },
+    {
+      "code": "4800043880012",
+      "name": "LUDYS SALABAT  W/CALAMANSI 8GX12'SX24",
+      "price": 59.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Ludy's"
+    },
+    {
+      "code": "4800016052019",
+      "name": "C2 CLASSIC GREEN TEA 335MLX24",
+      "price": 25.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016074769",
+      "name": "C2 MILK TEA CHOCOLATE 270MLX24",
+      "price": 32.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016074776",
+      "name": "C2 MILK TEA WINTERMELON 270MLX24",
+      "price": 32.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016074974",
+      "name": "REFRESH MINERAL WATER 1LX12",
+      "price": 13.95,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Refresh"
+    },
+    {
+      "code": "4800016074721",
+      "name": "B'LUE CACTUS TANGERINE 500MLX15",
+      "price": 35.65,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Blue (Vitamin Drink)"
+    },
+    {
+      "code": "4800016027437",
+      "name": "VITASOY 300ML 2'S GET 1FREE 300MLX8",
+      "price": 49.35,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Vitasoy"
+    },
+    {
+      "code": "7622300098964",
+      "name": "TANG ICED TEA  APPLE 19GX144",
+      "price": 18.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622300601782",
+      "name": "TANG MANGGA 19GX144",
+      "price": 18.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622300637996",
+      "name": "TANG GRAPES 19GX144",
+      "price": 18.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622300559991",
+      "name": "TANG ORANGE 19GX144",
+      "price": 18.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622300704148",
+      "name": "TANG APPLE 19GX144",
+      "price": 19.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622300601744",
+      "name": "TANG ICED TEA LEMON 19GX144",
+      "price": 18.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622300808365",
+      "name": "TANG FOUR SEASON 19GX144",
+      "price": 18.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622300638078",
+      "name": "TANG STRAWBERRY 19GX144",
+      "price": 19.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622300601768",
+      "name": "TANG PINEAPPLE 19GX144 NEW",
+      "price": 18.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622300858575",
+      "name": "TANG DALANDAN 19GX144",
+      "price": 18.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622300858599",
+      "name": "TANG CALAMANSI 19GX144",
+      "price": 18.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622300858612",
+      "name": "TANG HONEY LEMON 19GX144",
+      "price": 19.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622300986728",
+      "name": "TANG MELON 19GX144",
+      "price": 19.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622210706768",
+      "name": "TANG POMELO 19GX144",
+      "price": 19.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622210706744",
+      "name": "TANG GUYABANO 19GX144",
+      "price": 18.15,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "8850338024580",
+      "name": "TANG MIXED BERRIES 19GX144",
+      "price": 19.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "8850338027895",
+      "name": "TANG LYCHEE 19GX144",
+      "price": 19.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622300991487",
+      "name": "TANG FRUIT&VEG CARROT 19GX144",
+      "price": 19.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622300991975",
+      "name": "TANG FRUIT&VEG DALANDAN MALUNGGAY 19GX14",
+      "price": 19.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622202222252",
+      "name": "TANG ORANGE 6+1 19GX24",
+      "price": 110.1,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622202222276",
+      "name": "TANG PINEAPPLE 6+1 19G",
+      "price": 110.1,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622202306778",
+      "name": "TANG ORANGE 19G 5+1 FREE",
+      "price": 93.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622202313424",
+      "name": "TANG PINEAPPLE 19G 5+1 FREE",
+      "price": 93.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622202370151",
+      "name": "TANG ORANGE 19G 5+1X24",
+      "price": 93.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "7622202370137",
+      "name": "TANG PINEAPPLE 19G 5+1X24",
+      "price": 93.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "4800119215182",
+      "name": "VITRESS HAIR POLISH  LONG LASTING 50MLX1",
+      "price": 55.95,
+      "category": "Beverages",
+      "subCategory": "Energy Drinks",
+      "brand": "Vitress"
+    },
+    {
+      "code": "4806511016174",
+      "name": "ROYAL ORANGE 4.5GX12'SX50",
+      "price": 10.65,
+      "category": "Beverages",
+      "subCategory": "Soft Drinks",
+      "brand": "W.L Food"
+    },
+    {
+      "code": "4800016025860",
+      "name": "CHILL TIME FAV. C2 APPLE 1L SAVE 20.00X4",
+      "price": 135.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016027017",
+      "name": "C2 MILK TEA CHILLTIME FAV. 3+1X6",
+      "price": 88.35,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "4800016027048",
+      "name": "B'LUE LYCHEE 500ML 2+1 FREE MR.CHIPSX8",
+      "price": 65.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Blue (Vitamin Drink)"
+    },
+    {
+      "code": "600010",
+      "name": "REFRESH MIN.WATER 350ML 5+1X4",
+      "price": 28.75,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Refresh"
+    },
+    {
+      "code": "4800888282774",
+      "name": "LC CHICKEN SPREAD+C2 FREE 12(1+1)X220ML",
+      "price": 126.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Lady's Choice"
+    },
+    {
+      "code": "600011",
+      "name": "REFRESH MIN.WATER 500ML 5+1",
+      "price": 40.5,
+      "category": "Beverages",
+      "subCategory": "Bottled Water",
+      "brand": "Regal"
+    },
+    {
+      "code": "8853002316622",
+      "name": "DUTCHMILL STRAWBERRY 90ML 4+1FREEX9",
+      "price": 43.4,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "8853002316646",
+      "name": "DUTCHMILL SUPERFRUITS 90ML 4S+1FREEX9\"",
+      "price": 43.4,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "4800016026041",
+      "name": "VITASOY PLUS MILKY OAT 1LX12",
+      "price": 116.85,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Vitasoy"
+    },
+    {
+      "code": "4800016027376",
+      "name": "BLUE LYCHEE 500ML BUY 3GET 1FREEX6",
+      "price": 106.85,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Blue (Vitamin Drink)"
+    },
+    {
+      "code": "480888902137",
+      "name": "ZESTO CHOCO 110MLX10'S",
+      "price": 128,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Zest-O"
+    },
+    {
+      "code": "4800009008580",
+      "name": "DOLE 100% P/A JUICE 2.90LX6",
+      "price": 238.55,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Dole"
+    },
+    {
+      "code": "480009000034",
+      "name": "DOLE 100% P/A JUICE 240MLX24",
+      "price": 33.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Dole"
+    },
+    {
+      "code": "480009055096",
+      "name": "DOLE PINE TIDBITS 227GX24",
+      "price": 37.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Dole"
+    },
+    {
+      "code": "4800024012418",
+      "name": "DM PINE CHUNKS ELS 2TX24",
+      "price": 78.45,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "14800024562699",
+      "name": "DM PINE ACE 240ML X 24",
+      "price": 739,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "8720608614707",
+      "name": "LIPTON YLW TEA 2GX100'SX12",
+      "price": 460.85,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Lipton"
+    },
+    {
+      "code": "8720608618170",
+      "name": "LIPTON GREEN TEA 1.5GX50'SX12",
+      "price": 446.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Lipton"
+    },
+    {
+      "code": "8720608618200",
+      "name": "LIPTON GREEN TEA 1.5GX10'SX24",
+      "price": 95.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Lipton"
+    },
+    {
+      "code": "8720608629091",
+      "name": "LIPTON YELLOW LABEL TEA 2GX50'SX12",
+      "price": 260.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Lipton"
+    },
+    {
+      "code": "8720608629107",
+      "name": "LIPTON YELLOW LABEL TEA 2GX25'SX24",
+      "price": 143.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Lipton"
+    },
+    {
+      "code": "4800024579171",
+      "name": "TODAYS SULIT PACKX8",
+      "price": 112.35,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800361433174",
+      "name": "NESTEA APPLE 19GX6'S PROMO",
+      "price": 97.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Nestea"
+    },
+    {
+      "code": "4800024589217",
+      "name": "MR. MILK RAINBOW BAON PACK",
+      "price": 52.45,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Rebisco"
+    },
+    {
+      "code": "7622202844072",
+      "name": "TANG CALAMANSI 5+1X24",
+      "price": 93.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Tang"
+    },
+    {
+      "code": "8850389121146",
+      "name": "MOGU-MOGU LYCHEE 32OML 6'SX4 FREE BAG",
+      "price": 254.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389121153",
+      "name": "MOGU-MOGU STRAWBERRY 320ML 6'SX4 FREE BA",
+      "price": 254.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "8850389121160",
+      "name": "MOGU-MOGU COCONUT 320ML 6'SX4 FREE BAG",
+      "price": 254.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Mogu-Mogu"
+    },
+    {
+      "code": "4809012140072",
+      "name": "DON PEPE ORIG. TABLIA 15GX12'SX30",
+      "price": 88.35,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Don Pepe"
+    },
+    {
+      "code": "4809012140713",
+      "name": "DON PEPE SALABAT 10GX12'SX30",
+      "price": 76.55,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Don Pepe"
+    },
+    {
+      "code": "4800361431507",
+      "name": "NESTEA LEMON CUCUMBER 19GX144",
+      "price": 20.65,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Nestea"
+    },
+    {
+      "code": "4800017977601",
+      "name": "RAM TROPICAL FRUIT COCKTAIL 3060GX6",
+      "price": 324.6,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "RAM"
+    },
+    {
+      "code": "4800575241831",
+      "name": "AL FRUTTI YO APPLE 80ML BUY6SAVE6 X8",
+      "price": 46.45,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "#N/A"
+    }
+  ]
+}

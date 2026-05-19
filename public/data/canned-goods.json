@@ -1,0 +1,3486 @@
+{
+  "category": "Canned Goods",
+  "generatedAt": "2026-05-19T11:36:01.132Z",
+  "skus": [
+    {
+      "code": "4808887011647",
+      "name": "PF C-BEEF CHILI GARLIC 210GX48",
+      "price": 121.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887011630",
+      "name": "PF C-BEEF HASH 210GX48",
+      "price": 121.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4800009004865",
+      "name": "DOLE PINE CHUNKS 432GX24",
+      "price": 62.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Dole"
+    },
+    {
+      "code": "4800009005305",
+      "name": "DOLE PINE TIDBITS 432GX24",
+      "price": 63.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Dole"
+    },
+    {
+      "code": "4800009055096",
+      "name": "DOLE PINE TIDBITS 227GX24",
+      "price": 37.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Dole"
+    },
+    {
+      "code": "4800009004216",
+      "name": "DOLE PINE CHUNKS 227GX24",
+      "price": 37.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Dole"
+    },
+    {
+      "code": "38900034221",
+      "name": "DOLE DRIED MANGO 80GX48",
+      "price": 113.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Dole"
+    },
+    {
+      "code": "4800017964908",
+      "name": "RAM WHOLE MUSHROOM 400GX24",
+      "price": 57.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "RAM"
+    },
+    {
+      "code": "4800017965004",
+      "name": "RAM PCS.&STEM MUSHROOM 400GX24",
+      "price": 49.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "RAM"
+    },
+    {
+      "code": "4800017976802",
+      "name": "RAM TROPICAL FRUIT COCKTAIL 432GX24",
+      "price": 73.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "RAM"
+    },
+    {
+      "code": "4800017976901",
+      "name": "RAM TROPICAL FRUIT COCKTAIL 822GX24",
+      "price": 104.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "RAM"
+    },
+    {
+      "code": "4800017979902",
+      "name": "RAM PORK & BEANS SUP  200GX48",
+      "price": 23.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "RAM"
+    },
+    {
+      "code": "4800017914507",
+      "name": "RAM POR&BEANS 100GX48 SUP",
+      "price": 15.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "RAM"
+    },
+    {
+      "code": "4800017971302",
+      "name": "RAM MUSHROOM PCS AND STEMS 198GX48",
+      "price": 33.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "RAM"
+    },
+    {
+      "code": "4800017971203",
+      "name": "RAM WHOLE MUSHROOM 198GX48",
+      "price": 37.2,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "RAM"
+    },
+    {
+      "code": "4800017917904",
+      "name": "RAM PORK & BEANS 220GX48",
+      "price": 31.3,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "RAM"
+    },
+    {
+      "code": "4800017917805",
+      "name": "RAM PORK & BEANS 390GX24",
+      "price": 50.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "RAM"
+    },
+    {
+      "code": "4800154013057",
+      "name": "UNI-PAK MACKEREL NATURAL OIL 155GX100",
+      "price": 35.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Uni-Pak"
+    },
+    {
+      "code": "4806527640011",
+      "name": "CHINLONG PORK L-MEAT 198GX36",
+      "price": 41.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Chin Long"
+    },
+    {
+      "code": "4800154263049",
+      "name": "UNI-PAK MACKEREL NATURAL OIL 425GX48",
+      "price": 76.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Uni-Pak"
+    },
+    {
+      "code": "4800154568618",
+      "name": "UNI-PAK SARDINES TS 155GX100",
+      "price": 25.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Uni-Pak"
+    },
+    {
+      "code": "4800154568625",
+      "name": "UNI-PAK SARDINES W/CHILI 155GX100",
+      "price": 25.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Uni-Pak"
+    },
+    {
+      "code": "4806527640004",
+      "name": "CHIN LONG PORK L-MEAT 340GX24",
+      "price": 92.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Chin Long"
+    },
+    {
+      "code": "4800154263032",
+      "name": "UNIPAK MACKEREL IN NAT.OIL 200GX48",
+      "price": 54.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Uni-Pak"
+    },
+    {
+      "code": "4806525662022",
+      "name": "RELISH MUSHROOMS PCS & STEMS 400GX24",
+      "price": 41.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Relish"
+    },
+    {
+      "code": "4806525662015",
+      "name": "RELISH MUSHROOMS PCS&STEM 284GX24",
+      "price": 34.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Relish"
+    },
+    {
+      "code": "4806525662046",
+      "name": "RELISH WHOLE MUSHROOMS 284GX24",
+      "price": 49.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Relish"
+    },
+    {
+      "code": "4806525662053",
+      "name": "RELISH WHOLE MUSHROOM 400GX24",
+      "price": 58.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Relish"
+    },
+    {
+      "code": "4809012729260",
+      "name": "FIVE K DRIED MUSHROOM 20G",
+      "price": 19.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Five K"
+    },
+    {
+      "code": "4809016152330",
+      "name": "FIVE K DRIED MUSHROOM 20GX48",
+      "price": 19.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Five K"
+    },
+    {
+      "code": "4800527629717",
+      "name": "YOUNGS TOWN CARNE NORTE 100GX100",
+      "price": 23.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Young's Town"
+    },
+    {
+      "code": "4800527629762",
+      "name": "YOUNGS TOWN CHUNKY C.BEEF 155GX100",
+      "price": 36.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Young's Town"
+    },
+    {
+      "code": "4800527629649",
+      "name": "YOUNGS TOWN CORNED BEEF 150GX100",
+      "price": 33.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Young's Town"
+    },
+    {
+      "code": "4800527519803",
+      "name": "YOUNGS TOWN MACK 155GX100",
+      "price": 33.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Young's Town"
+    },
+    {
+      "code": "4800527127688",
+      "name": "YOUNGS TOWN SARD. T.S 425GX48",
+      "price": 70.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Young's Town"
+    },
+    {
+      "code": "4800527100018",
+      "name": "YOUNG'S TOWN SPAN. CORN OIL 220GX24",
+      "price": 125.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Young's Town"
+    },
+    {
+      "code": "4800527271862",
+      "name": "YOUNGS TOWN SARD.RED 425GX48",
+      "price": 72.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Young's Town"
+    },
+    {
+      "code": "4800527219130",
+      "name": "YOUNGS TOWN SARD GREEN(EO)155GX100",
+      "price": 14.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Young's Town"
+    },
+    {
+      "code": "4800527123055",
+      "name": "YOUNGS TOWN SARD.W/CHILI EO 155GX100",
+      "price": 23.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Young's Town"
+    },
+    {
+      "code": "4800527629083",
+      "name": "YOUNGS TOWN SARD.GREEN EO 155GX100",
+      "price": 23.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Young's Town"
+    },
+    {
+      "code": "4800527629847",
+      "name": "YOUNGS TOWN CARNE NORTE 150GX100",
+      "price": 33.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Young's Town"
+    },
+    {
+      "code": "4800527531904",
+      "name": "YOUNG'S TOWN MACK. IN NATLOIL 425GX48",
+      "price": 72.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Young's Town"
+    },
+    {
+      "code": "51000012616",
+      "name": "CB CREAM OF MUSHROOM 298GX48",
+      "price": 94.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Campbell's"
+    },
+    {
+      "code": "4800024550958",
+      "name": "DM FIESTA FRUIT COCKTAIL 3033GX6",
+      "price": 328.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024123152",
+      "name": "DM FIESTA FRUIT COCKTAIL 432GX24",
+      "price": 70.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024037480",
+      "name": "DM FIESTA FRUIT COCKTAIL 836GX24",
+      "price": 98.1,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024038548",
+      "name": "TODAYS MIXED FRUIT 3033GX6",
+      "price": 289.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024558503",
+      "name": "TODAYS FRUIT COCKTAIL 432GX24",
+      "price": 62.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024558268",
+      "name": "TODAYS FRUIT COCKTAIL 836GX24",
+      "price": 93.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800024588456",
+      "name": "DM HALO-HALO MIX 360GX24",
+      "price": 92.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Del Monte"
+    },
+    {
+      "code": "4800399041280",
+      "name": "LIBERTY PREM. BEEF LUNCHEON MEAT 340GX24",
+      "price": 97.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Liberty"
+    },
+    {
+      "code": "4800399041266",
+      "name": "LIBERTY PREM.PORK LUNCHEON MEAT 340GX24",
+      "price": 95.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Liberty"
+    },
+    {
+      "code": "4800399039492",
+      "name": "LIBERTY CHICKEN LUNCHEON MEAT 375GX24",
+      "price": 87.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Liberty"
+    },
+    {
+      "code": "4800399030079",
+      "name": "LIBERTY PORK L.MEAT 375GX24",
+      "price": 87.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Liberty"
+    },
+    {
+      "code": "4800399041297",
+      "name": "LIBERTY PREM CHICKEN LM 340GX24",
+      "price": 95.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Liberty"
+    },
+    {
+      "code": "4800009390456",
+      "name": "SEASON FRUIT MIX 822GX24",
+      "price": 92.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Season Fruit Mix"
+    },
+    {
+      "code": "4800009391903",
+      "name": "SEASON FRUIT COCKTAIL 432GX24",
+      "price": 60.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Season Fruit Mix"
+    },
+    {
+      "code": "4800058945676",
+      "name": "PHILIPS GREEN PEAS 155GX100",
+      "price": 15.7,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Philips"
+    },
+    {
+      "code": "4800058345681",
+      "name": "PHILIPS MEAT LOAF 150GX50",
+      "price": 22.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Philips"
+    },
+    {
+      "code": "4800058345674",
+      "name": "PHILIPS MEAT LOAF 200GX48",
+      "price": 28.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Philips"
+    },
+    {
+      "code": "4800058134568",
+      "name": "PHILIPS SAUSAGE 114GX48",
+      "price": 27.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Philips"
+    },
+    {
+      "code": "4800058123456",
+      "name": "PHILIPS SAUSAGE 70GX50",
+      "price": 19.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Philips"
+    },
+    {
+      "code": "39000086639",
+      "name": "LIBBYS V.SAUSAGE 4.6OZX24",
+      "price": 69.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Libby's"
+    },
+    {
+      "code": "6902131112925",
+      "name": "MALING B2 CHICKEN L.MEAT 397GX48",
+      "price": 116.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Maling"
+    },
+    {
+      "code": "6072120165444",
+      "name": "ROYAL SMOKEHOUSE CHICKEN LM 340GX24",
+      "price": 99.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Royal Smokehouse"
+    },
+    {
+      "code": "6072120169480",
+      "name": "ROYAL SMOKEHOUS CHIC. L-MEAT 340GX2'SX12",
+      "price": 194.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Royal Smokehouse"
+    },
+    {
+      "code": "4800163000543",
+      "name": "LIGO SARD TS  W/CHILI 425GX48",
+      "price": 63.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Ligo"
+    },
+    {
+      "code": "748485700014",
+      "name": "555 TUNA ADOBO 155GX50",
+      "price": 30.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485700021",
+      "name": "555 TUNA AFRITADA  155GX50",
+      "price": 29.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485200026",
+      "name": "555 SARD. IN TS W/ CHILI 155GX100",
+      "price": 23.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485801162",
+      "name": "555 CARNE NORTE 175GX48",
+      "price": 36.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "555"
+    },
+    {
+      "code": "748485700083",
+      "name": "555 TUNA FLAKES IN OIL 155GX50",
+      "price": 32.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485800264",
+      "name": "555 CARNE NORTE 150GX48",
+      "price": 30.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "555"
+    },
+    {
+      "code": "748485700052",
+      "name": "555 TUNA HOT&SPICY 155GX50",
+      "price": 32.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485700038",
+      "name": "555 TUNA CALDERETA 155GX50",
+      "price": 29.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485200668",
+      "name": "555  FRIED SARD.HOT&SPICY 155GX100",
+      "price": 32.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485700045",
+      "name": "555 TUNA MECHADO 155GX50",
+      "price": 29.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485800721",
+      "name": "555 CARNE NORTE 100GX48",
+      "price": 22.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "555"
+    },
+    {
+      "code": "748485200675",
+      "name": "555 FRIED SARD.W/TAUSI 155GX100",
+      "price": 32.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485200019",
+      "name": "555 SARD. IN TOM. SAUCE 155GX100",
+      "price": 22.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485200033",
+      "name": "555 SARD. NAT. OIL 155GX100",
+      "price": 24.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485100432",
+      "name": "CENTURY TUNA AFRITADA 155GX50",
+      "price": 35.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485100401",
+      "name": "CENTURY TUNA FLAKES IN OIL 155GX50",
+      "price": 37.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485100326",
+      "name": "CENTURY TUNA H&S 420GX24",
+      "price": 103.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485100319",
+      "name": "CENTURY TUNA FLAKES IN OIL 420GX24",
+      "price": 102.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485800288",
+      "name": "SHANGHAI CHINESE L.MEAT 375GX24",
+      "price": 87.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485800790",
+      "name": "ARG. FIESTA SAUSAGE 175GX48",
+      "price": 31.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485801278",
+      "name": "ARG.BEEF LOAF 100GX48",
+      "price": 20.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485801506",
+      "name": "ARG.SPICY SISIG 150GX48",
+      "price": 49.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485800738",
+      "name": "ARG.BEEF LOAF 150GX48",
+      "price": 21.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485800035",
+      "name": "ARG.CORNED BEEF 260GX48",
+      "price": 58.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "4800110010304",
+      "name": "BLUE BAY TUNA MECHADO 155GX50",
+      "price": 30.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Blue (Vitamin Drink)"
+    },
+    {
+      "code": "4800110010311",
+      "name": "BLUE BAY TUNA ADOBO 155GX50",
+      "price": 30.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Blue (Vitamin Drink)"
+    },
+    {
+      "code": "4800110031996",
+      "name": "BLUE BAY TUNA HOT SPICY 155GX50",
+      "price": 33.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Blue (Vitamin Drink)"
+    },
+    {
+      "code": "748485100098",
+      "name": "CENTURY TUNA H&S 180GX48",
+      "price": 47.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485100081",
+      "name": "CENTURY TUNA FLAKES IN OIL 180GX48",
+      "price": 47.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485801803",
+      "name": "ARG.CORNED BEEF 100GX48",
+      "price": 28.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485800493",
+      "name": "ARG.VIENA SAUSAGE 260GX48",
+      "price": 52.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485800431",
+      "name": "ARG.CORNED BEEF 150GX48",
+      "price": 35.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485800011",
+      "name": "ARG.CORNED BEEF 175GX48",
+      "price": 40.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485800110",
+      "name": "ARG.BEEF LOAF 250GX48",
+      "price": 32.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485800097",
+      "name": "ARG.BEEF LOAF 170GX48",
+      "price": 24.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485801261",
+      "name": "ARG.MEAT LOAF 100GX48",
+      "price": 19.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485800455",
+      "name": "ARG.LIVER SPREAD 260GX48",
+      "price": 48.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485100425",
+      "name": "CENTURY TUNA ADOBO 155GX50",
+      "price": 36.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485100418",
+      "name": "CENTURY TUNA H&S 155GX50",
+      "price": 37.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485100456",
+      "name": "CENTURY TUNA CALDERETA 155GX50",
+      "price": 35.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485900087",
+      "name": "FRESCA TUNA HOT&SPICY 175GX48",
+      "price": 30.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Fresca"
+    },
+    {
+      "code": "748485900094",
+      "name": "FRESCA TUNA FLAKES IN OIL 175GX48",
+      "price": 30.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Fresca"
+    },
+    {
+      "code": "748485900063",
+      "name": "FRESCA TUNA LECHON PAKSIW 175GX48",
+      "price": 28.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Fresca"
+    },
+    {
+      "code": "748485800332",
+      "name": "ARG.LIVER SPREAD 85GX48",
+      "price": 25.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485802084",
+      "name": "WOW ULAM CALDERETA 155GX48",
+      "price": 24.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "WOW Ulam"
+    },
+    {
+      "code": "4800022100070",
+      "name": "HUNTS PORK&BEANS 175GX48",
+      "price": 24.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Hunt's"
+    },
+    {
+      "code": "748485200071",
+      "name": "555 SARD. IN TS W/ CHILI 425GX48",
+      "price": 61.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485800363",
+      "name": "ARG.PORK LM 375GX24",
+      "price": 81.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485200064",
+      "name": "555 SARD.IN TOM.SAUCE 425GX48",
+      "price": 60.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485200040",
+      "name": "555 SARD. SPANISH STYLE 155GX100",
+      "price": 31.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485700663",
+      "name": "555 TUNA MECHADO 110GX48",
+      "price": 18.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485801445",
+      "name": "ARG. MEAT LOAF TOCINO 170GX48",
+      "price": 25.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485101460",
+      "name": "CENTURY TUNA CALAMANSI 180GX48",
+      "price": 47.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485700632",
+      "name": "555 TUNA ADOBO 110GX48",
+      "price": 18.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485700090",
+      "name": "555 TUNA BICOL XPRESS 155GX50",
+      "price": 29.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485801490",
+      "name": "ARG.MEAT LOAF 150GX48",
+      "price": 21.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485900070",
+      "name": "FRESCA TUNA ADOBO 175GX48",
+      "price": 28.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Fresca"
+    },
+    {
+      "code": "748485900049",
+      "name": "FRESCA TUNA MECHADO 175GX48",
+      "price": 27.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Fresca"
+    },
+    {
+      "code": "748485300108",
+      "name": "555 SQUID IN NAT.INK 155GX100",
+      "price": 49.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485800448",
+      "name": "ARG.MEAT LOAF 250GX48",
+      "price": 34.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485800233",
+      "name": "ARG. MEAT LOAF 170GX48",
+      "price": 24.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485102337",
+      "name": "CT CHUNKY CORNED TUNA 150GX48",
+      "price": 29.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485102344",
+      "name": "CENTURY CHUNKY CHILI C.TUNA 150X48",
+      "price": 29.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485102313",
+      "name": "CENTURY CHUNKY CORNED TUNA 180GX48",
+      "price": 39.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485102320",
+      "name": "CENTURY CORNED TUNA CHILI 180GX48",
+      "price": 39.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "4800163009812",
+      "name": "LIGO MEAT LOAF 175GX48",
+      "price": 29.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Ligo"
+    },
+    {
+      "code": "4800163009829",
+      "name": "LIGO BEEF LOAF 175GX48",
+      "price": 28.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Ligo"
+    },
+    {
+      "code": "4800163010818",
+      "name": "LIGO MEAT LOAF 200GX48",
+      "price": 33.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Ligo"
+    },
+    {
+      "code": "748485900056",
+      "name": "FRESCA TUNA AFRITADA 175GX48",
+      "price": 27.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Fresca"
+    },
+    {
+      "code": "748485900032",
+      "name": "FRESCA TUNA CALDERETA 175GX48",
+      "price": 27.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Fresca"
+    },
+    {
+      "code": "4800110010298",
+      "name": "BLUE BAY TUNA AFRITADA 155GX50",
+      "price": 30.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Blue (Vitamin Drink)"
+    },
+    {
+      "code": "4800110010335",
+      "name": "BLUE BAY TUNA CALDERETA 155GX50",
+      "price": 30.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Blue (Vitamin Drink)"
+    },
+    {
+      "code": "748485300092",
+      "name": "555 SQUID W/ CHILI 155GX100",
+      "price": 50.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485102245",
+      "name": "CENTURY FLAKES IN OIL 95GX48",
+      "price": 27.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485700649",
+      "name": "555 TUNA AFRITADA 110GX48",
+      "price": 23.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485700656",
+      "name": "555 TUNA CALDERETA 110GX48",
+      "price": 23.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485701042",
+      "name": "555 TUNA FLAKES IN OIL 130GX50",
+      "price": 21.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485701059",
+      "name": "555 TUNA ADOBO 130GX50",
+      "price": 19.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485701073",
+      "name": "555 TUNA CALDERETA 130GX50",
+      "price": 19.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485102832",
+      "name": "CENTURY TUNA FLAKES IN OIL 140GX48",
+      "price": 28.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "4800163443036",
+      "name": "LIGO SARD.TS W/CHILI(EO)155GX100",
+      "price": 23.7,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Ligo"
+    },
+    {
+      "code": "748485907390",
+      "name": "PRM3 555 SARD TS 155G SAVE1.5X",
+      "price": 39.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "4800163443043",
+      "name": "LIGO SARD.IN TS  EO 155GX100",
+      "price": 23.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Ligo"
+    },
+    {
+      "code": "748485802220",
+      "name": "WOW ULAM MECHADO 155GX48",
+      "price": 24.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "WOW Ulam"
+    },
+    {
+      "code": "748485802091",
+      "name": "WOW ULAM LECHON PAKSIW 155GX48",
+      "price": 24.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "WOW Ulam"
+    },
+    {
+      "code": "748485802060",
+      "name": "WOW ULAM ADOBO 155GX48",
+      "price": 24.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "WOW Ulam"
+    },
+    {
+      "code": "748485802077",
+      "name": "WOW ULAM AFRITADA 155GX48",
+      "price": 24.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "WOW Ulam"
+    },
+    {
+      "code": "748485102252",
+      "name": "CENTURY TUNA FLAKES IN OIL H&S 95GX48",
+      "price": 28.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "4800163011266",
+      "name": "LIGO SARD. IN TS W/CHILI EQ 425GX48",
+      "price": 62.2,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Ligo"
+    },
+    {
+      "code": "4800163011259",
+      "name": "LIGO SARD. IN TOM.SAUCE EO 425GX48",
+      "price": 61.3,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Ligo"
+    },
+    {
+      "code": "748485802473",
+      "name": "ARG.CORNED CHICKEN REG.150GX48",
+      "price": 36.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485803685",
+      "name": "ARG.CORNED CHICKEN SPICY 150GX48",
+      "price": 36.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485103693",
+      "name": "CENTURY TUNA FLAKES IN OIL 125GX50",
+      "price": 32.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485103662",
+      "name": "CENTURY CHUNKY C.TUNA SISIG 150GX48",
+      "price": 29.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485103679",
+      "name": "CENTURY CHUNKY C.TUNA SISIG 85GX48",
+      "price": 24.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485701370",
+      "name": "555 TUNA SPICY CALDERETA 155GX50",
+      "price": 29.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485701387",
+      "name": "555 TUNA SPICY PAKSIW 155GX50",
+      "price": 29.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485802381",
+      "name": "WOW ULAM MENUDO 155GX48",
+      "price": 24.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "WOW Ulam"
+    },
+    {
+      "code": "748485801469",
+      "name": "LUCKY 7 CARNE NORTE 100GX48",
+      "price": 18.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Lucky 7"
+    },
+    {
+      "code": "748485102238",
+      "name": "CENTURY TUNA CALAMANSI 155GX50",
+      "price": 37.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485803951",
+      "name": "LUCKY 7 CARNE NORTE 210GX48",
+      "price": 30.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Lucky 7"
+    },
+    {
+      "code": "4800163178631",
+      "name": "LIGO CARNE NORTE 150 SAVE 4.00X12",
+      "price": 104.2,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Ligo"
+    },
+    {
+      "code": "748485802824",
+      "name": "LUCKY 7 CARNE NORTE 260GX48",
+      "price": 38.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Lucky 7"
+    },
+    {
+      "code": "748485804057",
+      "name": "ARG.GINILING 100GX48",
+      "price": 24.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485804064",
+      "name": "ARG.GINILING 250GX48",
+      "price": 43.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485801728",
+      "name": "LUCKY 7 CARNE NORTE 150GX48",
+      "price": 21.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Lucky 7"
+    },
+    {
+      "code": "748485201870",
+      "name": "555 SARD.IN TS CHILIMANSI 155GX100",
+      "price": 20.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485804170",
+      "name": "ARG. GINILING 150GX48",
+      "price": 29.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "748485701448",
+      "name": "555 TUNA SISIG 155GX50",
+      "price": 32.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485915456",
+      "name": "CENTURY TUNA FIO 155G 2'SX24 SAVE 3.00",
+      "price": 67.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485915500",
+      "name": "CENTURY TUNA FIO H&S 155G 2'SX24 SAVE 3.",
+      "price": 73.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485915593",
+      "name": "555 TUNA AFRITADA 155G 5'SX10 SAVE 5.00",
+      "price": 141.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485915661",
+      "name": "FRESCA TUNA AFRITADA 175G 6'SX8 SAVE 6.0",
+      "price": 150.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Fresca"
+    },
+    {
+      "code": "748485915944",
+      "name": "555 TUNA ADOBO 155GX50 SAVE 1.00",
+      "price": 28.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485915920",
+      "name": "555 TUNA AFRITADA 155G 1PESO OFFX50",
+      "price": 27.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485915937",
+      "name": "555 TUNA CALDERETA 155G 1PESO OFFX50",
+      "price": 27.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485915951",
+      "name": "555 TUNA MECHADO 155G 1PESO OFFX50",
+      "price": 27.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485913339",
+      "name": "HUNTS P&B 175GX2'S SAVE 2.00X24",
+      "price": 46.1,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Hunt's"
+    },
+    {
+      "code": "748485915517",
+      "name": "CENTURY H&S 180GX2'S SAVE 5.00X24",
+      "price": 84.3,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485915647",
+      "name": "FRESCA TUNA FIO B6SAVE6X8",
+      "price": 170.7,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Fresca"
+    },
+    {
+      "code": "748485914954",
+      "name": "LIGO SARD IN TS 155G SAVE P.050 X100",
+      "price": 24.6,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Ligo"
+    },
+    {
+      "code": "748485915678",
+      "name": "PRM-FRESCA TUNA MECHADO 175G B6SAVE6X8",
+      "price": 150.9,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Fresca"
+    },
+    {
+      "code": "4800022910167",
+      "name": "PRM5 CT FO 155G SAVE 5X10",
+      "price": 182.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "4800022920029",
+      "name": "PRM5 LIGO SARD 155G SAVE 2.50 X20",
+      "price": 122.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Ligo"
+    },
+    {
+      "code": "748485915609",
+      "name": "555 TUNA CALDERETA BUY 5 SAVE 5.00X10",
+      "price": 141.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "4800022400071",
+      "name": "ARG. GINILING 150GX2 FREE ML 100G",
+      "price": 54.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "4800022100018",
+      "name": "HUNTS PORK AND BEANS 230GX48",
+      "price": 33.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Hunt's"
+    },
+    {
+      "code": "4800022930325",
+      "name": "PRM 3 L7CN 150G SAVE 3.00X16",
+      "price": 61.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Lucky 7"
+    },
+    {
+      "code": "4800022930172",
+      "name": "WOW ULAM ADOBO 155G SAVE 3.00X16",
+      "price": 61.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "WOW Ulam"
+    },
+    {
+      "code": "4800022930165",
+      "name": "WOW ULAM AFRITADA 155G SAVE 3.00X16",
+      "price": 61.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "WOW Ulam"
+    },
+    {
+      "code": "4800022920043",
+      "name": "PRM 4 555 SARD. ASSORTED 155G SAVE 4.00X",
+      "price": 103.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485102573",
+      "name": "CT CHUNKY CORNED TUNA 85GX48",
+      "price": 24.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "748485102566",
+      "name": "CT CHUNKY CHILI CORNED TUNA 85X48",
+      "price": 24.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "4800022910273",
+      "name": "FRESCA AFRITADA 175G BUY3 SAVE 3X16",
+      "price": 78.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Fresca"
+    },
+    {
+      "code": "4800022930349",
+      "name": "ARG.MEAT LOAF 150G BUY 4 SAVE 4X12",
+      "price": 74.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Argentina"
+    },
+    {
+      "code": "4800158987033",
+      "name": "HOKKAIDO MACK 155GX100",
+      "price": 36.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Hokkaido"
+    },
+    {
+      "code": "4800158987026",
+      "name": "HOKKAIDO MACK 200GX48",
+      "price": 50.1,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Hokkaido"
+    },
+    {
+      "code": "4800158987019",
+      "name": "HOKKAIDO MACK 425GX48",
+      "price": 80.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Hokkaido"
+    },
+    {
+      "code": "4805885172004",
+      "name": "RENO LIVER SPREAD 230GX48",
+      "price": 60.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Reno"
+    },
+    {
+      "code": "4805885171007",
+      "name": "RENO LIVER SPREAD 85GX48",
+      "price": 29.1,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Restobar"
+    },
+    {
+      "code": "4806504710119",
+      "name": "MEGA SARD.IN TS 155GX100",
+      "price": 25.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504710126",
+      "name": "MEGA SARD TS W/ CHILI 155GX100",
+      "price": 26,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504710157",
+      "name": "MEGA SARD. SPANISH EOC 155GX100",
+      "price": 35.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504710263",
+      "name": "MEGA SARD.IN NAT. OIL 155GX100",
+      "price": 27,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504710348",
+      "name": "MEGA SARD.IN TS 425GX24",
+      "price": 60.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504710355",
+      "name": "MEGA SARD.IN TS W/ CHILI 425GX24",
+      "price": 61.1,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504710256",
+      "name": "MEGA SARD.MACK.T.S 155GX50",
+      "price": 35.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504710249",
+      "name": "MEGA SARD.MACK.IN TS W/CHILI 155GX50",
+      "price": 35.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504710232",
+      "name": "MEGA MACK.NAT.OIL 155GX50",
+      "price": 35.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504721016",
+      "name": "MEGA TUNA FLAKES H&S EOC 180GX48",
+      "price": 62.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504721009",
+      "name": "MEGA TUNA FLAKES IN OIL EOC 180GX48",
+      "price": 62.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504713059",
+      "name": "MEGA PRIME WHOLE MUSHROOM 198GX48",
+      "price": 38.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504713066",
+      "name": "MEGA PRIME PCS&STEMS MUSHROOM 198GX48",
+      "price": 34.1,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504713028",
+      "name": "MEGA PRIME WHOLE MUSHROOM 425GX24",
+      "price": 56.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504721023",
+      "name": "MEGA TUNA SWEET&SPICY 180GX48",
+      "price": 62.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504721030",
+      "name": "MEGA TUNA FLAKES IN SPANISH 180GX48",
+      "price": 62.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504712045",
+      "name": "MEGA TUNA FLAKES IN OIL 155GX50",
+      "price": 45.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504712052",
+      "name": "MEGA TUNA HOT&SPICY 155GX50",
+      "price": 45.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504713134",
+      "name": "MEGA PRIME M-ROOM  PIECES&STEM 425G",
+      "price": 53,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504713042",
+      "name": "MEGA PRIME KERNEL CORN 425GX24",
+      "price": 42.7,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504710805",
+      "name": "MEGA SARD.IN TS EXTRA HOT 155GX100",
+      "price": 27.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504713035",
+      "name": "MEGA PRIME CREAM CORN 425GX24",
+      "price": 43.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504712083",
+      "name": "MEGA TUNA FLAKES IN SPANISH 155GX50",
+      "price": 45.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504713127",
+      "name": "MEGA PRIME GREEN PEAS 155GX50",
+      "price": 13.8,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504710829",
+      "name": "MEGA FRIED SARD. HOT & SPICY 155GX100",
+      "price": 35.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504710812",
+      "name": "MEGA FRIED SARD. IN TAUSI 155GX100",
+      "price": 35.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4806504713370",
+      "name": "MEGA PRIME NATA PANDAN 425GX24",
+      "price": 55.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Mega Sardines"
+    },
+    {
+      "code": "4800249003567",
+      "name": "CDO LUNCHEON MEAT 350GX24",
+      "price": 85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249902921",
+      "name": "CDO BEEFIO L.UNCHEON BEEF 350GX24",
+      "price": 86,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249908985",
+      "name": "CDO CHINESE LUNCHEON MEAT 165GX48",
+      "price": 38.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249902068",
+      "name": "CDO MEAT LOAF 210GX48",
+      "price": 31.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249908657",
+      "name": "CDO KARNE NORTE 260GX48",
+      "price": 48.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249902082",
+      "name": "CDO BEEF LOAF 210GX48",
+      "price": 31,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249902143",
+      "name": "CDO VIENNA SAUSAGE CLASSIC 70GX48",
+      "price": 29,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249908237",
+      "name": "CDO KARNE NORTE 175GX48",
+      "price": 33.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249900804",
+      "name": "CDO VIENNA SAUSAGE 114GX48",
+      "price": 44,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249909333",
+      "name": "CDO MEAT LOAF 150GX48",
+      "price": 21,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249908848",
+      "name": "CDO KARNE NORTE 150GX48",
+      "price": 28.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249909319",
+      "name": "CDO BEEF LOAF 150GX48",
+      "price": 21,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249909548",
+      "name": "CDO LIVER SPREAD 85GX48",
+      "price": 24,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249908725",
+      "name": "CDO MEAT LOAF 100GX48",
+      "price": 17.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249908749",
+      "name": "CDO BEEF LOAF 100GX48",
+      "price": 17.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249902044",
+      "name": "BINGO CORNED BEEF 100GX48",
+      "price": 16.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Monde Nissin"
+    },
+    {
+      "code": "4800249909395",
+      "name": "CDO KARNE NORTE 100GX48",
+      "price": 20.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249005776",
+      "name": "BINGO CORNED BEEF 150GX48",
+      "price": 21.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Monde Nissin"
+    },
+    {
+      "code": "4800249006148",
+      "name": "CDO CHICKEN LUNCHEON MEAT 150GX48",
+      "price": 31.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249006636",
+      "name": "SAN MARINO CHILI CORNED TUNA 150GX48",
+      "price": 37.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "San Marino"
+    },
+    {
+      "code": "4800249006599",
+      "name": "SAN MARINO CORNED TUNA PLAIN 100GX48",
+      "price": 29.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "San Marino"
+    },
+    {
+      "code": "4800249006612",
+      "name": "SAN MARINO CORNED TUNA PLAIN 150GX48",
+      "price": 37.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "San Marino"
+    },
+    {
+      "code": "4800249006650",
+      "name": "SAN MARINO CORNED TUNA PLAIN 180GX48",
+      "price": 46.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "San Marino"
+    },
+    {
+      "code": "4800249006674",
+      "name": "SAN MARINO CHILI CORNED TUNA 180GX48",
+      "price": 46.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "San Marino"
+    },
+    {
+      "code": "4800249008593",
+      "name": "SAN MARINO TUNA SPREAD 85GX48",
+      "price": 26.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "San Marino"
+    },
+    {
+      "code": "4800249008623",
+      "name": "BINGO MEAT LOAF 150GX48",
+      "price": 20.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Monde Nissin"
+    },
+    {
+      "code": "4800249008647",
+      "name": "BINGO BEEF LOAF 150GX48",
+      "price": 19.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Monde Nissin"
+    },
+    {
+      "code": "4800249012132",
+      "name": "BINGO MEAT LOAF 100GX48",
+      "price": 15.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Monde Nissin"
+    },
+    {
+      "code": "4800249012156",
+      "name": "BINGO BEEF LOAF 100GX48",
+      "price": 15.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Monde Nissin"
+    },
+    {
+      "code": "4800249011319",
+      "name": "HIGHLANDS CLASSIC CORNED BEEF 150GX48",
+      "price": 59.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Highlands"
+    },
+    {
+      "code": "4800249012033",
+      "name": "HIGHLANDS CORNED BEEF 180GX48",
+      "price": 71.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Highlands"
+    },
+    {
+      "code": "4800249011579",
+      "name": "HIGHLANDS CLASSIC CORNED BEEF 260GX48",
+      "price": 100.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Highlands"
+    },
+    {
+      "code": "4800249010091",
+      "name": "SAN MARINO CHILI CORNED TUNA 100GX48",
+      "price": 29.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "San Marino"
+    },
+    {
+      "code": "4800249008517",
+      "name": "SAN MARINO CORNED TUNA PLAIN 85GX48",
+      "price": 29.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "San Marino"
+    },
+    {
+      "code": "4800249008531",
+      "name": "SAN MARINO CHILI CORNED TUNA 85GX48",
+      "price": 29.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "San Marino"
+    },
+    {
+      "code": "4800249019490",
+      "name": "CDO KARNE NORTE 60GX24",
+      "price": 13.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249022735",
+      "name": "SAN MARINO FLAKES IN OIL 150GX48",
+      "price": 41.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "San Marino"
+    },
+    {
+      "code": "4800249022742",
+      "name": "SAN MARINO HOT&SPICY 150GX48",
+      "price": 41.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "San Marino"
+    },
+    {
+      "code": "4800249025286",
+      "name": "HIGHLANDS LUNCHEON BEEF 165GX48",
+      "price": 52,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Highlands"
+    },
+    {
+      "code": "4800249029048",
+      "name": "SAN MARINO PREM.MACK.IN NAT.OIL 165GX100",
+      "price": 43.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "San Marino"
+    },
+    {
+      "code": "4800249032895",
+      "name": "HIGHLANDS CORNED BEEF REG.175GX48",
+      "price": 42,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Highlands"
+    },
+    {
+      "code": "4800249032635",
+      "name": "HIGHLANDS CORNED BEEF REG. 150GX48",
+      "price": 37,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Highlands"
+    },
+    {
+      "code": "4800249032611",
+      "name": "HIGHLANDS CORNED BEEF GOLD 210GX48",
+      "price": 115,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Highlands"
+    },
+    {
+      "code": "4800249032604",
+      "name": "HIGHLANDS CORNED BEEF GOLD 150GX48",
+      "price": 83,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Highlands"
+    },
+    {
+      "code": "4800249038057",
+      "name": "SAN MARINO CORNED TUNA AFRITADA 155GX48",
+      "price": 37.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "San Marino"
+    },
+    {
+      "code": "4800249038040",
+      "name": "SAN MARINO CORNED TUNA CALDERETA 155GX48",
+      "price": 37.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "San Marino"
+    },
+    {
+      "code": "4800249038033",
+      "name": "SAN MARINO CORNED TUNA ADOBO 155GX48",
+      "price": 37.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "San Marino"
+    },
+    {
+      "code": "4800249025552",
+      "name": "BINGO CORNED BEEF TIPID PACK 60GX24",
+      "price": 9.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Monde Nissin"
+    },
+    {
+      "code": "4800249043358",
+      "name": "CDO CHICKEN LUNCHEON MEAT 350GX24",
+      "price": 91,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249044188",
+      "name": "COD HOME STYLE CORNED BEEF 150GX48",
+      "price": 35.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249044485",
+      "name": "CDO HOME STYLE CB CHILI GARLIC 150GX48",
+      "price": 37.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249044508",
+      "name": "CDO KARNE NORTE H&S 150GX48",
+      "price": 30,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249044805",
+      "name": "CDO CORNED BEEF SWEET SAUCE 260GX48",
+      "price": 65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249044119",
+      "name": "CDO CHINESE LUNCHEON MEAT 220GX48",
+      "price": 55.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249044904",
+      "name": "HIGHLAND GOLD CHILI GARLIC 150GX48",
+      "price": 83,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Highlands"
+    },
+    {
+      "code": "4800249032628",
+      "name": "HIGHLANDS CORNED BEEF GOLD 260GX48",
+      "price": 141,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Highlands"
+    },
+    {
+      "code": "4800249047158",
+      "name": "CDO CHICKEN FLAKES IN OIL 150GX48",
+      "price": 34,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249047172",
+      "name": "CDO CHICKEN FLAKES SWEET CHILI 150GX48",
+      "price": 34,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249048971",
+      "name": "CDO C. LUNCHEON MEAT 350GX2X12 SAVE 10.0",
+      "price": 158,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "4800249048056",
+      "name": "SAN MARINO CORNED TUNA 150GX3'SX16 SAVE",
+      "price": 105,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "San Marino"
+    },
+    {
+      "code": "4800249048063",
+      "name": "SAN MARINO CCT 150GX3'SX16 SAVE 6.00",
+      "price": 111,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "San Marino"
+    },
+    {
+      "code": "4800249051681",
+      "name": "BINGO CB 150GX3+BINGO ML 150GX3 SAVE 10",
+      "price": 114.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Monde Nissin"
+    },
+    {
+      "code": "4800249053173",
+      "name": "3'S H-LAND CLASSIC CB 150G SAVE 15.00X16",
+      "price": 150,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "#N/A"
+    },
+    {
+      "code": "4800249053784",
+      "name": "BUY 2 CDO HOMESTYLE CB 150G SAVE 5.00X24",
+      "price": 66.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "CDO"
+    },
+    {
+      "code": "37600336161",
+      "name": "SPAM LITE 340GX12",
+      "price": 223.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Spam"
+    },
+    {
+      "code": "37600130783",
+      "name": "SPAM REG. 340GX12",
+      "price": 223.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Spam"
+    },
+    {
+      "code": "4808887030037",
+      "name": "PF CHINESE L-MEAT 350GX24",
+      "price": 84.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887290899",
+      "name": "PF CHICKEN L-MEAT 360GX24",
+      "price": 73.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887020106",
+      "name": "PF CHUNKEE C-BEEF 350GX24",
+      "price": 97.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887010022",
+      "name": "PF CORNED BEEF 380GX24",
+      "price": 185.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887010015",
+      "name": "PF CORNED BEEF 210GX48",
+      "price": 116.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887010992",
+      "name": "PF CHUNKEE C-BEEF 190GX48",
+      "price": 55.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887010077",
+      "name": "PF CORNED BEEF 150GX48",
+      "price": 84.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887030204",
+      "name": "PF CHINESE L-MEAT 170GX48",
+      "price": 44.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887000016",
+      "name": "PF VIENNA SAUSAGE 230GX48",
+      "price": 55.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887119480",
+      "name": "PF SIZZLING SISIG 150GX48",
+      "price": 46.1,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887011296",
+      "name": "PF CHUNKEE C-BEEF 150GX48",
+      "price": 45.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887030013",
+      "name": "PF LUNCHEON MEAT 230GX48",
+      "price": 95.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887880014",
+      "name": "STAR BEEF LOAF 150GX48",
+      "price": 20.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887291247",
+      "name": "ULAM KING CALDERETA 155GX48",
+      "price": 21.1,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887040012",
+      "name": "PF LIVER SPREAD 85GX48",
+      "price": 30.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887291322",
+      "name": "ULAM KING MECHADO 155GX48",
+      "price": 21.1,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887291315",
+      "name": "ULAM KING MENUDO 155GX48",
+      "price": 21.1,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887030778",
+      "name": "PF CHINESE LM SULIT SAVER 350GX2X12",
+      "price": 158.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887290370",
+      "name": "PF C-BEEF SAVER PCK 210GX24",
+      "price": 223.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887303728",
+      "name": "PF CHICKEN N CHEESE 500GX24",
+      "price": 143,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887011678",
+      "name": "PF STAR CORNED BEEF 175GX48",
+      "price": 38.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887011685",
+      "name": "PF STAR CORNED BEEF 260GX48",
+      "price": 54.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887291162",
+      "name": "PF SIZZLING CHICKEN SISIG 150GX48",
+      "price": 44.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887030921",
+      "name": "PF LUNCHEON MEAT BBQ 215GX48",
+      "price": 95.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887030860",
+      "name": "PF L-MEAT 230G DUO PACKX24",
+      "price": 184.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887011760",
+      "name": "PF STAR CARNE NORTE 150GX48",
+      "price": 26.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887291667",
+      "name": "PF SIZZLING DELIGHTS SISIG 250GX48",
+      "price": 57.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887291674",
+      "name": "PF SIZZLING DELIGHTS CHIC.SISIG 250GX48",
+      "price": 57.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887011845",
+      "name": "PF STAR CARNE NORTE 100GX48",
+      "price": 15.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887011852",
+      "name": "PF STAR CORNED BEEF 150GX48",
+      "price": 33.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4806521130150",
+      "name": "ULALAMMM LAING FLAKES 100GX48",
+      "price": 15.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Others"
+    },
+    {
+      "code": "4806521130280",
+      "name": "ULALAM REG.TINAPA GUISADO 100GX48",
+      "price": 15.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Others"
+    },
+    {
+      "code": "4806521130297",
+      "name": "ULALAMMM TINAPA SPANISH STYLE 100GX",
+      "price": 15.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Others"
+    },
+    {
+      "code": "4808887012026",
+      "name": "PF STAR C.BEEF CHUNKY CHEESE 175GX48",
+      "price": 41.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "37600240345",
+      "name": "SPAM REG.30% LESS SODIUM340GX12",
+      "price": 223.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Spam"
+    },
+    {
+      "code": "4808887011982",
+      "name": "PF SCB NEGOSYO PACK 150X6'SX8",
+      "price": 190.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887011975",
+      "name": "PF CORNED BEEF NESGOSYO PACK 150GX6",
+      "price": 486.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887031119",
+      "name": "PF LUNCHEON MEAT CHEESE 240GX48",
+      "price": 95.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887031102",
+      "name": "PF LUNCHEON MEAT BACON 240GX48",
+      "price": 95.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012279",
+      "name": "PF CORNED BEEF 150GX3'SX16 SAVE 20.00",
+      "price": 212.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012033",
+      "name": "PF DUO PACK CB + BCG 420GX24",
+      "price": 200.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012040",
+      "name": "PF DUO PACK CB+BH 420GX24",
+      "price": 200.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012446",
+      "name": "PF CORNED BEEF CHUNKS 210GX48",
+      "price": 121.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012439",
+      "name": "PF  CORNED BEEF H&S 150GX48",
+      "price": 84.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012453",
+      "name": "PF CORNED BEEF W/ CHUNKS 380GX24",
+      "price": 189.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012460",
+      "name": "PF CORNED BEEF HOT & SPICY 210GX48",
+      "price": 121.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012507",
+      "name": "STAR CORNED BEEF 150G 3'S SAVE 6.00X16",
+      "price": 94.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012514",
+      "name": "STAR CB CHUNKY CHEESE 150GX3X16",
+      "price": 94.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012569",
+      "name": "PF STAR CORNED BEEF 175GX3'SX16 SAVE 8.0",
+      "price": 108.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887291988",
+      "name": "PF CORNED CHICKEN CLASSIC 150GX48",
+      "price": 60.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887291995",
+      "name": "PF CORNED CHICKEN H&S 150GX48",
+      "price": 60.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012545",
+      "name": "PF C.BEEF DUO PCK,CB&HS,420GX24",
+      "price": 195.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012637",
+      "name": "STAR CARNE NORTE SAVE5 150GX2X24",
+      "price": 49.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012682",
+      "name": "PF CORNED BEEF BULGOGI 210GX48",
+      "price": 121.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012705",
+      "name": "PF CORNED BEEF SALPICAO 210GX48",
+      "price": 121.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012712",
+      "name": "PF CORNED BEEF MECHADO 210GX48",
+      "price": 121.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "37600001076",
+      "name": "SPAM 25%LESS SODUIM 198GX16",
+      "price": 147.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Spam"
+    },
+    {
+      "code": "4808887031133",
+      "name": "PF LUNCHEON MEAT SQUARE 340GX24",
+      "price": 184.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887292091",
+      "name": "STAR ULAM HUMBA 150GX24",
+      "price": 28.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887292077",
+      "name": "STAR ULAM CALDERETA 150GX24",
+      "price": 28.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887000399",
+      "name": "STAR SAUSAGE 230GX24",
+      "price": 45.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887292107",
+      "name": "STAR ULAM BICOL EXPRESS 150GX24",
+      "price": 28.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887292060",
+      "name": "STAR ULAM MECHADO 150GX24",
+      "price": 32.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887040265",
+      "name": "STAR LIVER SPREAD 85GX24",
+      "price": 21.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887292190",
+      "name": "STAR ULAM MEATLOAF EMBUTIDO 150GX24",
+      "price": 21.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887292183",
+      "name": "STAR ULAM MEAT LOAF H&S 150GX24",
+      "price": 21.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887292114",
+      "name": "STAR ULAM KARE KARE 150GX24",
+      "price": 32.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887292053",
+      "name": "STAR ULAM ADOBO 150GX24",
+      "price": 28.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887292084",
+      "name": "STAR ULAM PARES 150GX24",
+      "price": 32.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887292572",
+      "name": "PF LUNCHEON MEAT COMBO PACKX8",
+      "price": 258.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887292336",
+      "name": "STAR ULAM AFRITADA 150GX24",
+      "price": 28.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887031249",
+      "name": "PF LUNCHEON MEAT LITE 340GX24",
+      "price": 184.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012699",
+      "name": "PF CORNED BEEF GYUDON 210GX48",
+      "price": 121.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887031201",
+      "name": "PF LUNCHEON MEAT LITE 230GX48",
+      "price": 95.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887013061",
+      "name": "PF CORNED BEEF 210G BUY 3 SAVE 20X16",
+      "price": 330.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887292589",
+      "name": "PF C-LUNCHEON MEAT 350GX2FREE PCX6",
+      "price": 168.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887292121",
+      "name": "STAR ULAM BISTEK 150GX24",
+      "price": 32.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887292657",
+      "name": "PF SIZZLING SAVERS BUNDLE 150GX2X24",
+      "price": 87.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887013054",
+      "name": "PF MEAT LOVERS COMBO PACKX8",
+      "price": 286.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4808887012415",
+      "name": "BONGGA CARNE NORTE 150GX48",
+      "price": 20.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Bongga"
+    },
+    {
+      "code": "4808887012408",
+      "name": "BONGGA BEEF LOAF 150GX48",
+      "price": 18.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Bongga"
+    },
+    {
+      "code": "4808887031256",
+      "name": "PF LUNCHEON MEAT CHICKEN 340GX24",
+      "price": 146.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4801668607480",
+      "name": "UFC WHOLE MUSHROOM 198GX48",
+      "price": 35.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "NutriAsia UFC"
+    },
+    {
+      "code": "4800134101514",
+      "name": "MASTER MACK. GREEN TS 155GX100",
+      "price": 28,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134101538",
+      "name": "MASTER MACK HOT TS 155GX100",
+      "price": 28.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134200231",
+      "name": "MASTER MACK.WHITE IN N-OIL 155GX100",
+      "price": 30.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134103556",
+      "name": "MASTER MACK.WHITE IN  N-OIL 425X48",
+      "price": 65.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134103518",
+      "name": "MASTER MACK. GREEN IN TS 425GX48",
+      "price": 64,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134101521",
+      "name": "MASTER MACK RED TS 155GX100",
+      "price": 28,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134103525",
+      "name": "MASTER MACK RED TS 425GX48",
+      "price": 64,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134200033",
+      "name": "MASTER SARD FRIED H&S IN TS 155GX50",
+      "price": 35.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134200057",
+      "name": "MASTER SARD FRIED SPANISH 155GX50",
+      "price": 35.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134200316",
+      "name": "MASTER SARD FRIED IN TAUSI 155GX50",
+      "price": 35.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134101019",
+      "name": "MASTER SARD GREEN TS 155GX100",
+      "price": 25.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134103013",
+      "name": "MASTER SARD GREEN TS 425GX48",
+      "price": 58,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134101033",
+      "name": "MASTER SARD HOT IN TS 155GX100",
+      "price": 25.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134103037",
+      "name": "MASTER SARD. HOT IN TS 425GX48",
+      "price": 58.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134200194",
+      "name": "MASTER SARD PREM HOT 155GX100",
+      "price": 26.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134101026",
+      "name": "MASTER SARD RED TS 155GX100",
+      "price": 25.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134103020",
+      "name": "MASTER SARD RED IN TS 425GX48",
+      "price": 58,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134200019",
+      "name": "MASTER SARD SPANISH 155GX100",
+      "price": 36.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4806503244097",
+      "name": "FAMILY SARD. TS W/CHILI BONUS 155X100",
+      "price": 25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Family Sardines"
+    },
+    {
+      "code": "4806503244080",
+      "name": "FAMILY SARD.TS BONUS 155GX100",
+      "price": 24.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Family Sardines"
+    },
+    {
+      "code": "4806503244110",
+      "name": "FAMILY SARD.IN TS HOT 425GX48",
+      "price": 58,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Family Sardines"
+    },
+    {
+      "code": "4806503244165",
+      "name": "FAMILY PREM.  MACK.IN TS 425GX48",
+      "price": 64,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Family Sardines"
+    },
+    {
+      "code": "4806503244103",
+      "name": "FAMILY PREM SARD TS 425GX48",
+      "price": 57.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Family Sardines"
+    },
+    {
+      "code": "4806503244189",
+      "name": "FAMILY SARD SPANISH HOT (EOC)155GX100",
+      "price": 36.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Family Sardines"
+    },
+    {
+      "code": "4800134200187",
+      "name": "MASTER SARD. PREM. IN TS 155GX100",
+      "price": 25.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134103532",
+      "name": "MASTER MACK HOT IN TS 425GX48",
+      "price": 64.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134205106",
+      "name": "MASTER SARD.IN OIL SPAN.STYLE 120X100",
+      "price": 40,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134200255",
+      "name": "MASTER TUNA FLAKES IN OIL 155GX100",
+      "price": 36.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134101811",
+      "name": "MASTER SARD. BONUS TS W/CHILI 155GX100",
+      "price": 25.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134101804",
+      "name": "MASTER SARD.BONUS GREEN 155GX100",
+      "price": 25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4800134103044",
+      "name": "MASTER SARD.WHITE IN N.O 425GX48",
+      "price": 59.25,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Master"
+    },
+    {
+      "code": "4806014000021",
+      "name": "JOLLY YOUNG CORN WHOLE 425GX24",
+      "price": 58.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Jolly"
+    },
+    {
+      "code": "4806014001158",
+      "name": "JOLLY TROPICAL F-COCKTAIL 850GX24",
+      "price": 95.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Jolly"
+    },
+    {
+      "code": "4806014000816",
+      "name": "JOLLY GRASS JELLY 540GX24",
+      "price": 49.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Jolly"
+    },
+    {
+      "code": "4806014093092",
+      "name": "JOLLY PCS&STEMS MUSHROOM 284GX24",
+      "price": 46.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Jolly"
+    },
+    {
+      "code": "748485915654",
+      "name": "FRESCA TUNA ADOBO 175G 6'SX8 SAVE 6.00",
+      "price": 158.1,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Fresca"
+    },
+    {
+      "code": "748485915586",
+      "name": "555 TUNA ADOBO 155G BUY5 SAVE 5.00X10",
+      "price": 140.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "555"
+    },
+    {
+      "code": "748485914824",
+      "name": "PRM2 CT FO 180G+1 HPB 175GX12",
+      "price": 88.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish",
+      "brand": "Century Tuna"
+    },
+    {
+      "code": "4808887292411",
+      "name": "STAR TIPID PACK SCB 150GX2X24",
+      "price": 61.85,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
+    },
+    {
+      "code": "4806512231743",
+      "name": "MAG. PP 200G BUY2 FREE STAR MARG. 30GX24",
+      "price": 73.9,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4800009390258",
+      "name": "SEASONS FRUIT MIX 3KGX6",
+      "price": 313.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Season Fruit Mix"
+    },
+    {
+      "code": "480009091438",
+      "name": "DOLE TROP.FRUIT COCKTAIL 432GX24",
+      "price": 66.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Dole"
+    },
+    {
+      "code": "480009091445",
+      "name": "DOLE TROP.FRUIT COCKTAIL 3KGX6",
+      "price": 345.35,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Dole"
+    },
+    {
+      "code": "4806030205431",
+      "name": "JOLLY MIXED MUSHROOM 198GX48",
+      "price": 28.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fruits or Vegetables",
+      "brand": "Jolly"
+    },
+    {
+      "code": "4800022930462",
+      "name": "PRM 2 APG 250G SAVE 5.00X24",
+      "price": 82.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Others"
+    },
+    {
+      "code": "4800022930455",
+      "name": "PRM 2 ARG. MEAT LOAF 170G SAVE 2.00X24",
+      "price": 47.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Others"
+    },
+    {
+      "code": "4800022910280",
+      "name": "PRM 3 FREESCA CALDERETA 175G SAVE 3.00X1",
+      "price": 78.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Others"
+    },
+    {
+      "code": "39000086691",
+      "name": "LIBBY'S CHICKEN VIENNA SAUSAGE 4.6OZX24",
+      "price": 85.05,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Libby's"
+    },
+    {
+      "code": "5762385161237",
+      "name": "TULIP PORK LUNCHEON MEAT 340GX24",
+      "price": 120.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Tulip"
+    },
+    {
+      "code": "6072120159665",
+      "name": "TULIP JAMONILLA LUNCHEON MEAT 340GX2X12",
+      "price": 324.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Tulip"
+    },
+    {
+      "code": "62385061731",
+      "name": "TULIP JAMONILLA LUNCHEON MEAT 340GX24",
+      "price": 167.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Tulip"
+    },
+    {
+      "code": "6978950889997",
+      "name": "MARCO POLO CHIC. LUNCHEON MEAT 198GX48",
+      "price": 59.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Marco Polo"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-19T07:32:00Z",
-  "totalSKUs": 10186,
+  "generatedAt": "2026-05-19T11:36:01.132Z",
+  "totalSKUs": 10192,
   "categories": [
     {
       "slug": "beverages",
@@ -1893,7 +1893,7 @@
     {
       "slug": "household",
       "label": "Household",
-      "skuCount": 1595,
+      "skuCount": 1601,
       "subCategories": [
         {
           "label": "Laundry",
@@ -2020,7 +2020,7 @@
         },
         {
           "label": "Tissue & Cotton",
-          "skuCount": 196,
+          "skuCount": 202,
           "brands": [
             "Angel",
             "Baby Flo",
@@ -2532,14 +2532,14 @@
   ],
   "settings": {
     "brandName": "Xyris Supermart",
-    "brandTagline": "Save More Live Bright",
-    "phoneCall": "+639171234567",
-    "phoneDisplay": "0917 123 4567",
-    "messengerUrl": "https://m.me/xyrissupermart",
-    "viberChat": "viber://chat?number=%2B639171234567",
-    "viberChannelUrl": "https://invite.viber.com/?g2=AAAA-PLACEHOLDER",
-    "viberChannelLabel": "Join Viber for weekly promos",
-    "footerAddress": "Manila, Philippines",
-    "footerNote": "Prices subject to change without notice."
+    "brandTagline": "",
+    "phoneCall": "",
+    "phoneDisplay": "",
+    "messengerUrl": "",
+    "viberChat": "",
+    "viberChannelUrl": "",
+    "viberChannelLabel": "Join Viber for promos",
+    "footerAddress": "",
+    "footerNote": ""
   }
 }

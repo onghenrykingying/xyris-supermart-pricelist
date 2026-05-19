@@ -1,0 +1,870 @@
+{
+  "category": "Health & Pharmacy",
+  "generatedAt": "2026-05-19T11:36:01.132Z",
+  "skus": [
+    {
+      "code": "4800136960010",
+      "name": "LACTACYD PRO SENSITIVE 60MLX48",
+      "price": 84.65,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "Lactacyd"
+    },
+    {
+      "code": "4800136960027",
+      "name": "LACTACYD PRO SENSITIVE 150MLX24",
+      "price": 192.85,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "Lactacyd"
+    },
+    {
+      "code": "4800136960034",
+      "name": "LACTACYD PRO SENSITIVE 250MLX24",
+      "price": 260.35,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "Lactacyd"
+    },
+    {
+      "code": "4800136680024",
+      "name": "LACTACYD ODOR FRESH 60MLX48",
+      "price": 76.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "Lactacyd"
+    },
+    {
+      "code": "4800136680031",
+      "name": "LACTACYD ODOR FRESH 150MLX24",
+      "price": 173.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "Lactacyd"
+    },
+    {
+      "code": "8936123410506",
+      "name": "LACTALYD  PEARL INTIMATE 150MLX24",
+      "price": 192.85,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "Lactacyd"
+    },
+    {
+      "code": "8993237343014",
+      "name": "LACTACYD ALL DAY CARE 60MLX48",
+      "price": 75.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "Lactacyd"
+    },
+    {
+      "code": "8936123410513",
+      "name": "LACTACYD PEARL INTIMATE 60MLX48",
+      "price": 84.65,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "Lactacyd"
+    },
+    {
+      "code": "8936123410278",
+      "name": "LACTACYD PEARL INTIMATE 250MLX24",
+      "price": 260.35,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "Lactacyd"
+    },
+    {
+      "code": "8993237343038",
+      "name": "LACTACYD ALL DAY CARE 250MLX24",
+      "price": 233.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "Lactacyd"
+    },
+    {
+      "code": "8993237343021",
+      "name": "LACTACYD ALL DAY CARE 150MLX24",
+      "price": 173.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "Lactacyd"
+    },
+    {
+      "code": "4800136680048",
+      "name": "LACTACYD ODOR FRESH 250MLX24",
+      "price": 233.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "Lactacyd"
+    },
+    {
+      "code": "4800135006160",
+      "name": "PH CARE DELICATE WHITE 250MLX18",
+      "price": 194.95,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135005682",
+      "name": "PH CARE COOLING COMFORT 250MLX18",
+      "price": 170.45,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135005880",
+      "name": "PH CARE FLORAL CLEAN 250MLX18",
+      "price": 160.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135005897",
+      "name": "PH CARE FLORAL CARE 150MLX24",
+      "price": 127.45,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135005903",
+      "name": "PH CARE FLORAL CLEAN 50MLX48",
+      "price": 49.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135005705",
+      "name": "PH CARE COOLING COMFORT 50MLX48",
+      "price": 53.95,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135006139",
+      "name": "PH CARE DELICATE WHITE 50MLX48",
+      "price": 56.85,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135005699",
+      "name": "PH CARE COOLING COMFORT 150X24",
+      "price": 136.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135007815",
+      "name": "PH CARE COOLING COMFORT 5MLX72",
+      "price": 5.85,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135007822",
+      "name": "PH CARE COOLING COMFORT 30MLX24",
+      "price": 30.45,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135007891",
+      "name": "PH CARE COOL COM. WIPES 12X4",
+      "price": 40.65,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135006153",
+      "name": "PH CARE DELICATE WHITE 150MLX24",
+      "price": 144.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135010273",
+      "name": "PH CARE DELWHITE 250ML+WIPES 1 SET",
+      "price": 185.15,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135011843",
+      "name": "PH CARE COOLCOM 150ML+LINERS 1 SET",
+      "price": 124.15,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135010358",
+      "name": "PHCARE COOLING COMFORT 250ML+WIPESX12",
+      "price": 166.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135006566",
+      "name": "PH CARE NATPRO GUAVA 150MLX24",
+      "price": 136.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135009536",
+      "name": "PH CARE NATURAL PROT. GUAVA 250MLX2 SAVE",
+      "price": 280.95,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135009512",
+      "name": "PH CARE CC 250MLX2 SAVE 50",
+      "price": 280.65,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135016596",
+      "name": "PH CARE COOLCOM 150ML+FREE WIPES",
+      "price": 131.25,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135016602",
+      "name": "PH CARE FLORAL CLEAN 150ML+FREE WIPES",
+      "price": 122.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135016619",
+      "name": "PH CARE DELWHITE 150ML+FREE WIPES",
+      "price": 137.25,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135016664",
+      "name": "PH CARE FLORAL CLEAN 50ML+FREE PTYLNR",
+      "price": 53.95,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135016671",
+      "name": "PH CARE GUAVA 50MLW/PTYLNRX12",
+      "price": 52.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135016626",
+      "name": "PH CARE GUAVA 150ML+FREE WIPESX6",
+      "price": 131.25,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135016688",
+      "name": "PH CARE COOLCOM 50ML FREE PTYLNRX12",
+      "price": 49.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135015629",
+      "name": "PH CARE ULTRA PURE 150MLX48",
+      "price": 136.15,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135015612",
+      "name": "PH CARE ULTRA PURE 50MLX48",
+      "price": 56.45,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4806515982123",
+      "name": "ACEITE DE ALCAMFORADO 25ML",
+      "price": 14.95,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "#N/A"
+    },
+    {
+      "code": "4806515982130",
+      "name": "ACEITE DE ALCAMFORADO 50ML",
+      "price": 23.75,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "#N/A"
+    },
+    {
+      "code": "4806515983229",
+      "name": "ACEITE DE MANZANILLA 25ML",
+      "price": 14.95,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "#N/A"
+    },
+    {
+      "code": "4806515983236",
+      "name": "ACEITE DE MANZANILLA 50ML",
+      "price": 23.75,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "#N/A"
+    },
+    {
+      "code": "4806515984769",
+      "name": "HERBALAYA LINIMENT OIL 60ML",
+      "price": 120.75,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Herbalaya"
+    },
+    {
+      "code": "4806515984646",
+      "name": "ELECTRUSCENT OIL FORT.25ML",
+      "price": 31.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Electroscent"
+    },
+    {
+      "code": "4806515984653",
+      "name": "ELECTRUSENT OIL FORTIFIED 50ML",
+      "price": 58.85,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Electroscent"
+    },
+    {
+      "code": "4806515984738",
+      "name": "HERBALAYA LINIMENT OIL 30MLX288",
+      "price": 67.25,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Herbalaya"
+    },
+    {
+      "code": "48033077",
+      "name": "ALCAMFORADO 25MLX288",
+      "price": 14.75,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "#N/A"
+    },
+    {
+      "code": "4800011101033",
+      "name": "ALCAMFORADO 50MLX144",
+      "price": 23.15,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "#N/A"
+    },
+    {
+      "code": "4800011133379",
+      "name": "EFFICASCENT OIL 235MLX40",
+      "price": 216.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Efficascent"
+    },
+    {
+      "code": "4800011159041",
+      "name": "MANZANILLA 100MLX72",
+      "price": 45.35,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Manzanilla"
+    },
+    {
+      "code": "4800011133348",
+      "name": "EFFICASCENT OIL 100MLX72",
+      "price": 97.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Efficascent"
+    },
+    {
+      "code": "4800011133447",
+      "name": "EFFICASCENT OIL E/S 100MLX72",
+      "price": 117.85,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Efficascent"
+    },
+    {
+      "code": "4800011133331",
+      "name": "EFFICASCENT OIL REG 50MLX144",
+      "price": 51.25,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Efficascent"
+    },
+    {
+      "code": "4800011133430",
+      "name": "EFFICASCENT OIL E/S 50MLX144",
+      "price": 68.35,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Efficascent"
+    },
+    {
+      "code": "4800011159034",
+      "name": "MANZANILLA 50MLX144",
+      "price": 24.35,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Manzanilla"
+    },
+    {
+      "code": "48035156",
+      "name": "EFFICASCENT OIL E/S 25MLX288",
+      "price": 35.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Efficascent"
+    },
+    {
+      "code": "4800011736044",
+      "name": "OMEGA 120MLX72",
+      "price": 115.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Omega"
+    },
+    {
+      "code": "4800011736037",
+      "name": "OMEGA 60MLX144",
+      "price": 64.35,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Omega"
+    },
+    {
+      "code": "4800011736020",
+      "name": "OMEGA 30MLX144",
+      "price": 34.85,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Omega"
+    },
+    {
+      "code": "4800011736013",
+      "name": "OMEGA 15MLX288",
+      "price": 21.25,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Omega"
+    },
+    {
+      "code": "48033121",
+      "name": "SALICYLIC ACID 25MLX288",
+      "price": 17.85,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Salicylic Acid"
+    },
+    {
+      "code": "4800011171531",
+      "name": "SALICYLIC ACID 50MLX144",
+      "price": 24.75,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Salicylic Acid"
+    },
+    {
+      "code": "48031547",
+      "name": "EFFICASCENT OIL REG 25MLX288",
+      "price": 28.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Efficascent"
+    },
+    {
+      "code": "48033053",
+      "name": "MANZANILLA 25MLX288",
+      "price": 15.95,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Manzanilla"
+    },
+    {
+      "code": "4800011166735",
+      "name": "OMEGA PRO 60MLX144",
+      "price": 78.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Omega"
+    },
+    {
+      "code": "4800011132938",
+      "name": "EFFICASCENT OIL EXTREME 50MLX144",
+      "price": 82.35,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Efficascent"
+    },
+    {
+      "code": "4800011132921",
+      "name": "EFFICASCENT OIL EXTREME 25MLX288",
+      "price": 41.75,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Efficascent"
+    },
+    {
+      "code": "4800011139401",
+      "name": "EFFICASCENT RELAXING OIL 3MLX288",
+      "price": 51.75,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Efficascent"
+    },
+    {
+      "code": "4800011139418",
+      "name": "EFFICASCENT RELAXING OIL 6MLX288",
+      "price": 83.35,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Efficascent"
+    },
+    {
+      "code": "4800011133126",
+      "name": "EFFICASCENT OINTMENT 10GX288",
+      "price": 24.25,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Efficascent"
+    },
+    {
+      "code": "4800011145303",
+      "name": "OMEGA ADVANCE SPRAY 50MLX72",
+      "price": 92.45,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Omega"
+    },
+    {
+      "code": "4800011132945",
+      "name": "EFFICASCENT OIL EXTREME W/ LAV. 100MLX72",
+      "price": 131.65,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Efficascent"
+    },
+    {
+      "code": "4800011106403",
+      "name": "EFFICASCENT BOOST ROLL ON 50MLX144",
+      "price": 165.35,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Efficascent"
+    },
+    {
+      "code": "4800011103129",
+      "name": "EFFICASCENT RELAXSCENT OIL 12MLX288",
+      "price": 123.45,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Efficascent"
+    },
+    {
+      "code": "4987176600776",
+      "name": "VICKS VAPORUB 10GX1080",
+      "price": 56.95,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Vicks"
+    },
+    {
+      "code": "4987176600769",
+      "name": "VAPORUB 5GX1SX60",
+      "price": 32.1,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Vicks Vaporub"
+    },
+    {
+      "code": "4987176013491",
+      "name": "VICKS INHALER KEYCHAIN 0.5MLX432",
+      "price": 105.45,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Vicks"
+    },
+    {
+      "code": "4987176009678",
+      "name": "VICKS VAPORUB 25GX12",
+      "price": 121.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Vicks"
+    },
+    {
+      "code": "48037389",
+      "name": "RHEA SUPERSCENT OIL 25ML",
+      "price": 29.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Rhea"
+    },
+    {
+      "code": "4800067450765",
+      "name": "RHEA SUPERSCENT OIL 50ML",
+      "price": 53.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Rhea"
+    },
+    {
+      "code": "48037921",
+      "name": "RHEA POV.IODINE 15ML",
+      "price": 67.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Rhea"
+    },
+    {
+      "code": "4800067451700",
+      "name": "RHEA POV.IODINE 60ML",
+      "price": 158.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Rhea"
+    },
+    {
+      "code": "4800067451717",
+      "name": "RHEA POV.IODINE 120ML",
+      "price": 256.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Rhea"
+    },
+    {
+      "code": "48035606",
+      "name": "RHEA AP-AP SOLUTION 15ML",
+      "price": 25.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Rhea"
+    },
+    {
+      "code": "4800067452660",
+      "name": "RHEA AP-AP SOLUTION 60ML",
+      "price": 45.75,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Rhea"
+    },
+    {
+      "code": "4800067453698",
+      "name": "RHEA SALICYLIC ACID 120ML",
+      "price": 69.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Rhea"
+    },
+    {
+      "code": "48035484",
+      "name": "RHEA SALICYLIC ACID 15ML",
+      "price": 24.75,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Rhea"
+    },
+    {
+      "code": "4800067453711",
+      "name": "RHEA SALICYLIC ACID 60ML",
+      "price": 48.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Rhea"
+    },
+    {
+      "code": "4800067452646",
+      "name": "RHEA AP-AP SOLUTION 120ML",
+      "price": 78.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Rhea"
+    },
+    {
+      "code": "48037600",
+      "name": "RHEA POV. IODINE 10% 30ML",
+      "price": 98.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Rhea"
+    },
+    {
+      "code": "4806515985537",
+      "name": "SALICYLIC ACID 50ML",
+      "price": 28.55,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Salicylic Acid"
+    },
+    {
+      "code": "4806515985520",
+      "name": "SALICYLIC ACID 25ML",
+      "price": 16.85,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Salicylic Acid"
+    },
+    {
+      "code": "4800067122099",
+      "name": "RHEA SUPERSCENT OIL LAV.25MLX288",
+      "price": 38.25,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Rhea"
+    },
+    {
+      "code": "4801010194002",
+      "name": "BAND-AID 50SX48",
+      "price": 78.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Johnson & Johnson Band-Aid"
+    },
+    {
+      "code": "8935196503122",
+      "name": "SALONPAS 10'SX20",
+      "price": 67.1,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Salonpas"
+    },
+    {
+      "code": "8993571005067",
+      "name": "BETET MED.BALM GREEN 17.5G 1X12'SX36",
+      "price": 41.35,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Betet"
+    },
+    {
+      "code": "4806515600317",
+      "name": "GUAVIDONE SOLUTION 60MLX72",
+      "price": 152.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Guavidone"
+    },
+    {
+      "code": "8993571005111",
+      "name": "BETET MEDICINAL BALM 17.5GX12'SX36",
+      "price": 50.25,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Betet"
+    },
+    {
+      "code": "4806515984523",
+      "name": "ELECTRUSCENT OIL 50ML",
+      "price": 51.45,
+      "category": "Health & Pharmacy",
+      "subCategory": "First Aid & OTC",
+      "brand": "Electroscent"
+    },
+    {
+      "code": "4800135014561",
+      "name": "PH CARE COOLING COMFORT 150ML B1T1",
+      "price": 136.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135014820",
+      "name": "PH CARE FW GUAVA 150ML B1T1",
+      "price": 136.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "8936123411121",
+      "name": "LACTACYD COOL SENSATION 150MLX24",
+      "price": 192.85,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "Lactacyd"
+    },
+    {
+      "code": "4800135018330",
+      "name": "PH CARE CC 150ML+ULTPR 50MLX6",
+      "price": 136.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135012840",
+      "name": "PH CARE COOL COMFORT 50ML 3+1X12",
+      "price": 161.75,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135018354",
+      "name": "PH CARE DW 150ML+ULTPR50MLX6",
+      "price": 144.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135018347",
+      "name": "PH CARE NP150ML+ULTPR50MLX6",
+      "price": 136.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    },
+    {
+      "code": "4800135012857",
+      "name": "PH CARE NATURAL PROT. 50ML 3+1X12",
+      "price": 156.05,
+      "category": "Health & Pharmacy",
+      "subCategory": "Female Hygiene Wash",
+      "brand": "pH Care"
+    }
+  ]
+}
