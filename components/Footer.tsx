@@ -1,4 +1,4 @@
-import { ArrowUpRight } from "lucide-react";
+import { ArrowUpRight, Facebook, MessageCircle, Phone } from "lucide-react";
 import type { Settings } from "@/lib/types";
 
 export function Footer({ settings }: { settings: Settings }) {
@@ -17,6 +17,38 @@ export function Footer({ settings }: { settings: Settings }) {
           {settings.viberChannelLabel}
           <ArrowUpRight className="h-3.5 w-3.5" aria-hidden="true" />
         </a>
+
+        <div className="mt-4 flex flex-wrap gap-2">
+          {settings.phoneCall ? (
+            <a
+              href={`tel:${settings.phoneCall}`}
+              className="inline-flex items-center gap-1.5 rounded-full bg-white px-3 py-1.5 text-xs font-medium text-xyris-charcoal hover:bg-slate-50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-xyris-blue"
+            >
+              <Phone className="h-3.5 w-3.5 text-xyris-blue" aria-hidden="true" />
+              {settings.phoneDisplay || settings.phoneCall}
+            </a>
+          ) : null}
+          {settings.viberChat ? (
+            <a
+              href={settings.viberChat}
+              className="inline-flex items-center gap-1.5 rounded-full bg-white px-3 py-1.5 text-xs font-medium text-xyris-charcoal hover:bg-slate-50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-xyris-blue"
+            >
+              <MessageCircle className="h-3.5 w-3.5 text-[#7360F2]" aria-hidden="true" />
+              Viber
+            </a>
+          ) : null}
+          {settings.messengerUrl ? (
+            <a
+              href={settings.messengerUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 rounded-full bg-white px-3 py-1.5 text-xs font-medium text-xyris-charcoal hover:bg-slate-50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-xyris-blue"
+            >
+              <Facebook className="h-3.5 w-3.5 text-[#0866FF]" aria-hidden="true" />
+              Messenger
+            </a>
+          ) : null}
+        </div>
       </div>
     </footer>
   );
