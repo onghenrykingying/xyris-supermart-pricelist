@@ -2532,14 +2532,14 @@
   ],
   "settings": {
     "brandName": "Xyris Supermart",
-    "brandTagline": "",
-    "phoneCall": "",
-    "phoneDisplay": "",
-    "messengerUrl": "",
-    "viberChat": "",
-    "viberChannelUrl": "",
-    "viberChannelLabel": "Join Viber for promos",
-    "footerAddress": "",
-    "footerNote": ""
+    "brandTagline": "Save More Live Bright",
+    "phoneCall": "+639281849118",
+    "phoneDisplay": "0928 184 9118",
+    "messengerUrl": "https://m.me/xyrissupermartph",
+    "viberChat": "viber://chat?number=%2B639281849118",
+    "viberChannelUrl": "viber://chat?number=%2B639281849118",
+    "viberChannelLabel": "Join us on Viber for promos",
+    "footerAddress": "Block 42 Lot 6 Xyris Street, Taguig, Metro Manila",
+    "footerNote": "Prices subject to change without notice."
   }
 }
