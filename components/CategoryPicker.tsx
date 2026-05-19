@@ -13,7 +13,7 @@ export function CategoryPicker({
   return (
     <section
       aria-labelledby="picker-heading"
-      className="rounded-lg border border-slate-200 bg-white p-4"
+      className="!mt-6 rounded-lg border border-slate-200 bg-white p-4 sm:!mt-8"
     >
       <h2
         id="picker-heading"
