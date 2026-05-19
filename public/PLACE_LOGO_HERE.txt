@@ -1,0 +1,12 @@
+Place the Xyris Supermart logo image here as `logo.png`.
+
+The logo file provided by the brand owner is the yellow banner with
+"XYRIS SUPERMART" in bubble blue letters and the red "Save More Live Bright"
+tagline. Use the exact file.
+
+If the team wants a transparent-background version for use on non-yellow
+sections, create `logo-trimmed.png` as a copy with the yellow background
+removed.
+
+The site references these via:
+  app/layout.tsx or components/Header.tsx → <Image src="/logo.png" .../>
