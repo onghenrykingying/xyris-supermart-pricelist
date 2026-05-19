@@ -1,5 +1,6 @@
 "use client";
 
+import { useMemo } from "react";
 import { X } from "lucide-react";
 import type { CategoryMeta } from "@/lib/types";
 import type { SortMode } from "@/lib/filter";
@@ -38,13 +39,48 @@ export function Filters({
   const selectedCategory =
     categories.find((c) => c.slug === selectedCategorySlug) ?? null;
 
-  const activeSubCategory = selectedCategory?.subCategories.find(
+  const { globalSubCategories, globalBrands } = useMemo(() => {
+    const subMap = new Map<
+      string,
+      { skuCount: number; brands: Set<string> }
+    >();
+    const brandSet = new Set<string>();
+    for (const cat of categories) {
+      for (const b of cat.brands) brandSet.add(b);
+      for (const sub of cat.subCategories) {
+        const entry =
+          subMap.get(sub.label) ??
+          { skuCount: 0, brands: new Set<string>() };
+        entry.skuCount += sub.skuCount;
+        sub.brands.forEach((b) => entry.brands.add(b));
+        subMap.set(sub.label, entry);
+      }
+    }
+    return {
+      globalSubCategories: Array.from(subMap.entries())
+        .map(([label, data]) => ({
+          label,
+          skuCount: data.skuCount,
+          brands: Array.from(data.brands).sort(),
+        }))
+        .sort((a, b) => a.label.localeCompare(b.label)),
+      globalBrands: Array.from(brandSet).sort(),
+    };
+  }, [categories]);
+
+  const subCategoryOptions = selectedCategory
+    ? selectedCategory.subCategories
+    : globalSubCategories;
+
+  const activeSubCategory = subCategoryOptions.find(
     (s) => s.label === selectedSubCategory,
   );
 
   const brandOptions = activeSubCategory
     ? activeSubCategory.brands
-    : (selectedCategory?.brands ?? []);
+    : selectedCategory
+      ? selectedCategory.brands
+      : globalBrands;
 
   const anyActive =
     selectedCategorySlug || selectedSubCategory || selectedBrand;
@@ -69,12 +105,9 @@ export function Filters({
           label="Sub-category"
           value={selectedSubCategory ?? ""}
           onChange={(v) => onSubCategoryChange(v || null)}
-          disabled={!selectedCategory}
         >
-          <option value="">
-            {selectedCategory ? "All sub-categories" : "Pick a category first"}
-          </option>
-          {selectedCategory?.subCategories.map((s) => (
+          <option value="">All sub-categories</option>
+          {subCategoryOptions.map((s) => (
             <option key={s.label} value={s.label}>
               {s.label} ({s.skuCount.toLocaleString()})
             </option>
@@ -85,11 +118,8 @@ export function Filters({
           label="Brand"
           value={selectedBrand ?? ""}
           onChange={(v) => onBrandChange(v || null)}
-          disabled={!selectedCategory}
         >
-          <option value="">
-            {selectedCategory ? "All brands" : "Pick a category first"}
-          </option>
+          <option value="">All brands</option>
           {brandOptions.map((b) => (
             <option key={b} value={b}>
               {b}

@@ -34,7 +34,11 @@ export function Catalog({
   const [globalSkus, setGlobalSkus] = useState<SKU[] | null>(null);
   const [globalLoading, setGlobalLoading] = useState(false);
 
-  const searchActive = debouncedSearch.trim().length > 0 && categorySlug === null;
+  const filterActive =
+    categorySlug === null &&
+    (debouncedSearch.trim().length > 0 ||
+      subCategory !== null ||
+      brand !== null);
 
   const triggerGlobalPreload = useCallback(() => {
     if (globalSkus !== null || globalLoading) return;
@@ -48,8 +52,8 @@ export function Catalog({
   }, [manifest, globalSkus, globalLoading]);
 
   useEffect(() => {
-    if (searchActive) triggerGlobalPreload();
-  }, [searchActive, triggerGlobalPreload]);
+    if (filterActive) triggerGlobalPreload();
+  }, [filterActive, triggerGlobalPreload]);
 
   useEffect(() => {
     if (!categorySlug) {
@@ -93,11 +97,11 @@ export function Catalog({
   }, []);
 
   const filtered = useMemo(() => {
-    if (searchActive) {
+    if (filterActive) {
       const source = globalSkus ?? [];
       return applyFilters(source, {
-        subCategory: null,
-        brand: null,
+        subCategory,
+        brand,
         query: debouncedSearch,
         sort,
       });
@@ -109,7 +113,7 @@ export function Catalog({
       query: debouncedSearch,
       sort,
     });
-  }, [searchActive, globalSkus, load, subCategory, brand, debouncedSearch, sort]);
+  }, [filterActive, globalSkus, load, subCategory, brand, debouncedSearch, sort]);
 
   return (
     <div className="space-y-3">
@@ -131,7 +135,7 @@ export function Catalog({
         onClearAll={handleClearAll}
       />
 
-      {searchActive ? (
+      {filterActive ? (
         <>
           <ResultMeta
             shownCount={filtered.length}
