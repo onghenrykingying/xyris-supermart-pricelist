@@ -18,7 +18,8 @@ export function Footer({ settings }: { settings: Settings }) {
           <ArrowUpRight className="h-3.5 w-3.5" aria-hidden="true" />
         </a>
 
-        <div className="mt-4 flex flex-wrap gap-2">
+        <p className="mt-4 text-xs font-semibold text-xyris-charcoal">Contact Us</p>
+        <div className="mt-1.5 flex flex-wrap gap-2">
           {settings.phoneCall ? (
             <a
               href={`tel:${settings.phoneCall}`}
