@@ -1,6 +1,6 @@
 {
   "category": "Canned Goods",
-  "generatedAt": "2026-05-19T12:27:46.906Z",
+  "generatedAt": "2026-05-26T14:46:21.664Z",
   "skus": [
     {
       "code": "4808887011647",
@@ -1685,7 +1685,7 @@
     {
       "code": "4806504710263",
       "name": "MEGA SARD.IN NAT. OIL 155GX100",
-      "price": 27,
+      "price": 27.05,
       "category": "Canned Goods",
       "subCategory": "Canned Fish",
       "brand": "Mega Sardines"
@@ -3325,7 +3325,7 @@
     {
       "code": "4806014001158",
       "name": "JOLLY TROPICAL F-COCKTAIL 850GX24",
-      "price": 95.05,
+      "price": 95.1,
       "category": "Canned Goods",
       "subCategory": "Canned Fruits or Vegetables",
       "brand": "Jolly"
@@ -3481,6 +3481,22 @@
       "category": "Canned Goods",
       "subCategory": "Canned Meat",
       "brand": "Marco Polo"
+    },
+    {
+      "code": "4808887292671",
+      "name": "BONGGA CN NEGOSYO PACK 150GX3X16 S7",
+      "price": 54.95,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Bongga"
+    },
+    {
+      "code": "4808887031324",
+      "name": "PF CHINESE L.MEAT 170GX3X16 S6",
+      "price": 126.55,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat",
+      "brand": "Purefoods"
     }
   ]
 }

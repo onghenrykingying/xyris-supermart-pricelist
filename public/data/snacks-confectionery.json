@@ -1,6 +1,6 @@
 {
   "category": "Snacks & Confectionery",
-  "generatedAt": "2026-05-19T12:27:46.906Z",
+  "generatedAt": "2026-05-26T14:46:21.664Z",
   "skus": [
     {
       "code": "74923405068",
@@ -3628,7 +3628,7 @@
     },
     {
       "code": "4902430803694",
-      "name": "SFGD LEMON 65GX162",
+      "name": "SAFEGUARD LEMON 65GX162",
       "price": 19.95,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies",
@@ -12321,6 +12321,62 @@
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies",
       "brand": "Lemon Square"
+    },
+    {
+      "code": "4800016065996",
+      "name": "MAGIC CHIPS THIN&CRISPY BBQ 28GX80",
+      "price": 7.85,
+      "category": "Snacks & Confectionery",
+      "subCategory": "Chips & Curls",
+      "brand": "Jack n Jill"
+    },
+    {
+      "code": "4800016066009",
+      "name": "MAGIC CHIPS THIN&CRISPY SCO 28GX80",
+      "price": 7.85,
+      "category": "Snacks & Confectionery",
+      "subCategory": "Chips & Curls",
+      "brand": "Jack n Jill"
+    },
+    {
+      "code": "4800016309199",
+      "name": "MAXX CHEWS 5GX25X36",
+      "price": 36.55,
+      "category": "Snacks & Confectionery",
+      "subCategory": "Chocolate & Candy",
+      "brand": "Maxx"
+    },
+    {
+      "code": "4800016115745",
+      "name": "PIATTOS CHEDDAR & SOUR CREAM 85GX50",
+      "price": 35.55,
+      "category": "Snacks & Confectionery",
+      "subCategory": "Chips & Curls",
+      "brand": "Jack n Jill"
+    },
+    {
+      "code": "4800016678110",
+      "name": "CHIPPY CORN TUBES 22GX54",
+      "price": 8.05,
+      "category": "Snacks & Confectionery",
+      "subCategory": "Chips & Curls",
+      "brand": "Jack n Jill"
+    },
+    {
+      "code": "4800016678127",
+      "name": "CHIPPY CORN TUBES 55GX48",
+      "price": 18.45,
+      "category": "Snacks & Confectionery",
+      "subCategory": "Chips & Curls",
+      "brand": "Jack n Jill"
+    },
+    {
+      "code": "4800016678226",
+      "name": "PIATTOS CHEDDAR & SOUR CREAM 40GX80",
+      "price": 16.75,
+      "category": "Snacks & Confectionery",
+      "subCategory": "Chips & Curls",
+      "brand": "Jack n Jill"
     }
   ]
 }

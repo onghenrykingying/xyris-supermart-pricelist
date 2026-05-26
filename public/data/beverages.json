@@ -1,6 +1,6 @@
 {
   "category": "Beverages",
-  "generatedAt": "2026-05-19T12:27:46.906Z",
+  "generatedAt": "2026-05-26T14:46:21.664Z",
   "skus": [
     {
       "code": "4800014146086",
@@ -1461,7 +1461,7 @@
     {
       "code": "4803925241109",
       "name": "GATORADE ORANGE 1.5LX12",
-      "price": 106.15,
+      "price": 110.35,
       "category": "Beverages",
       "subCategory": "Energy Drinks",
       "brand": "Gatorade"
@@ -1485,7 +1485,7 @@
     {
       "code": "4803925033148",
       "name": "MOUNTAIN DEW 320MLX24",
-      "price": 32.45,
+      "price": 34.05,
       "category": "Beverages",
       "subCategory": "Soft Drinks",
       "brand": "Mountain Dew"
@@ -1509,7 +1509,7 @@
     {
       "code": "4803925033155",
       "name": "MUG ROOT BEER 320MLX24",
-      "price": 32.45,
+      "price": 34.05,
       "category": "Beverages",
       "subCategory": "Soft Drinks",
       "brand": "Mug Root Beer"
@@ -1517,7 +1517,7 @@
     {
       "code": "4803925033384",
       "name": "PEPSI ZERO SUGAR LIME 320MLX24",
-      "price": 32.45,
+      "price": 34.05,
       "category": "Beverages",
       "subCategory": "Soft Drinks",
       "brand": "Pepsi"
@@ -1541,7 +1541,7 @@
     {
       "code": "4803925033100",
       "name": "PEPSI REG 320MLX24",
-      "price": 32.45,
+      "price": 34.05,
       "category": "Beverages",
       "subCategory": "Soft Drinks",
       "brand": "Pepsi"
@@ -1749,7 +1749,7 @@
     {
       "code": "4803925241178",
       "name": "GATORADE T-FRUIT 900MLX12",
-      "price": 68.25,
+      "price": 72.45,
       "category": "Beverages",
       "subCategory": "Energy Drinks",
       "brand": "Gatorade"
@@ -4153,6 +4153,118 @@
       "category": "Beverages",
       "subCategory": "Yogurt Drinks",
       "brand": "#N/A"
+    },
+    {
+      "code": "14800016027809",
+      "name": "C2 APPLE SOLO 11+1",
+      "price": 141.55,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "C2"
+    },
+    {
+      "code": "6974188710874",
+      "name": "STRAWBERRY DRINK W/ NATA 450GX24",
+      "price": 32.95,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Why Not"
+    },
+    {
+      "code": "6974188710058",
+      "name": "MILK TEA DRINK W/ NATA 400GX30",
+      "price": 27.85,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Why Not"
+    },
+    {
+      "code": "6974188710102",
+      "name": "BLUEBERRY DRINK W/ NATA 400GX30",
+      "price": 22.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Why Not"
+    },
+    {
+      "code": "6974188710485",
+      "name": "CALAMANSI DRINK W/ NATA 400GX30",
+      "price": 22.75,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Why Not"
+    },
+    {
+      "code": "745110767084",
+      "name": "LYCHEE DRINK W/ NATA 300GX30",
+      "price": 19.35,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Why Not"
+    },
+    {
+      "code": "745110767077",
+      "name": "WATERMELON DRINK W/ NATA 300GX30",
+      "price": 19.35,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Why Not"
+    },
+    {
+      "code": "745110767138",
+      "name": "SWIGO STRAWBERRY DRINK W/ NATA 150MLX40",
+      "price": 14.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Swigo"
+    },
+    {
+      "code": "745110767107",
+      "name": "SWIGO GRAPES DRINK W/ NATA 150MLX40",
+      "price": 14.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Swigo"
+    },
+    {
+      "code": "745110767145",
+      "name": "SWIGO APPLE DRINK W/ NATA 150MLX40",
+      "price": 14.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Swigo"
+    },
+    {
+      "code": "4800361433198",
+      "name": "NESTEA LEMON 6'S 19G @99.00X24",
+      "price": 97.05,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Nestea"
+    },
+    {
+      "code": "8853002318213",
+      "name": "DUTCHMILL 90ML 5+1X8",
+      "price": 54.35,
+      "category": "Beverages",
+      "subCategory": "Yogurt Drinks",
+      "brand": "Dutch Mill"
+    },
+    {
+      "code": "4800361433136",
+      "name": "NESTEA LMN 8'S/APL 2'S FR BASOX14 19GX10",
+      "price": 191.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Nestea"
+    },
+    {
+      "code": "4800361433150",
+      "name": "NESTLE APL 8'S/LMN 2'S FR BASO 19GX10X14",
+      "price": 191.25,
+      "category": "Beverages",
+      "subCategory": "Tea & Juice",
+      "brand": "Nestea"
     }
   ]
 }

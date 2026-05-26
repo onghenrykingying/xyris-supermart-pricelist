@@ -1,6 +1,6 @@
 {
   "category": "Dairy & Bakery",
-  "generatedAt": "2026-05-19T12:27:46.906Z",
+  "generatedAt": "2026-05-26T14:46:21.664Z",
   "skus": [
     {
       "code": "8851028000808",
@@ -525,7 +525,7 @@
     {
       "code": "4800086035929",
       "name": "SELECTA COOKIES&CREAM 1.25L",
-      "price": 255,
+      "price": 260,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
@@ -549,7 +549,7 @@
     {
       "code": "4800086035967",
       "name": "SELECTA DOUBLE DUTCH 1.25L",
-      "price": 255,
+      "price": 260,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
@@ -557,7 +557,7 @@
     {
       "code": "4800086036001",
       "name": "SELECTA CLASSIC MANGO 1.25L",
-      "price": 255,
+      "price": 275,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
@@ -573,7 +573,7 @@
     {
       "code": "4800086035943",
       "name": "SELECTA COFFEE CRUMBLE 1.25L",
-      "price": 255,
+      "price": 260,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
@@ -581,7 +581,7 @@
     {
       "code": "4800086036025",
       "name": "SELECTA CLASSIC SUPER CHOCOLATE 1.25L",
-      "price": 255,
+      "price": 260,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
@@ -597,7 +597,7 @@
     {
       "code": "4800086036162",
       "name": "SELECTA QUEZO REAL 1.25L",
-      "price": 255,
+      "price": 260,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
@@ -613,15 +613,15 @@
     {
       "code": "4800086036049",
       "name": "SELECTA CLASSIC VANILLA 1.25L",
-      "price": 255,
+      "price": 260,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
     },
     {
       "code": "4800086036186",
-      "name": "SELECTA VERY ROCKY ROAD 1.25L",
-      "price": 255,
+      "name": "SELECTA ROCKY ROAD 1.25L",
+      "price": 260,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
@@ -629,7 +629,7 @@
     {
       "code": "4800086038630",
       "name": "SELECTA D.DUTCH/VERY R.ROAD 1.25L",
-      "price": 255,
+      "price": 260,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
@@ -653,7 +653,7 @@
     {
       "code": "4800086036063",
       "name": "SELECTA CLASSIC UBE ROYALE 1.25L",
-      "price": 255,
+      "price": 260,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
@@ -677,7 +677,7 @@
     {
       "code": "4800086040671",
       "name": "SELECTA D.DUTCH/C&CREAM 1.25L",
-      "price": 255,
+      "price": 260,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
@@ -685,7 +685,7 @@
     {
       "code": "4800086040633",
       "name": "SELECTA R.ROAD/C&CREAM 1.25L",
-      "price": 255,
+      "price": 260,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
@@ -885,7 +885,7 @@
     {
       "code": "4800086045751",
       "name": "SELECTA OOH PINIPIG CHOCOLATE 60MLX24",
-      "price": 18,
+      "price": 19,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
@@ -925,7 +925,7 @@
     {
       "code": "4800086046598",
       "name": "SELECTA CHOCO ALMOND FUDGE 450ML",
-      "price": 105,
+      "price": 125,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
@@ -933,7 +933,7 @@
     {
       "code": "4800086047854",
       "name": "SELECTA CHOCO ALMOND & C&C 1.25L",
-      "price": 255,
+      "price": 260,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
@@ -1045,7 +1045,7 @@
     {
       "code": "4800086047472",
       "name": "SELECTA BOOM COOKIES&CREAM 60MLX24",
-      "price": 18,
+      "price": 19,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
@@ -1341,7 +1341,7 @@
     {
       "code": "4800249519044",
       "name": "CDO BACON HOLIDAY 200GX30",
-      "price": 126.5,
+      "price": 130,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat",
       "brand": "CDO"
@@ -1405,7 +1405,7 @@
     {
       "code": "4800249886009",
       "name": "CDO ULAM BURGER REGULAR 228GX30",
-      "price": 70.5,
+      "price": 71.5,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat",
       "brand": "CDO"
@@ -1525,7 +1525,7 @@
     {
       "code": "4800249044454",
       "name": "CDO CHICKEN BURGER 288GX30",
-      "price": 75,
+      "price": 76,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat",
       "brand": "CDO"
@@ -1645,7 +1645,7 @@
     {
       "code": "4800249053692",
       "name": "CDO IDOL CHEESEDOG JBO 1KG+TOCINOX12",
-      "price": 183,
+      "price": 188,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat",
       "brand": "CDO"
@@ -1668,8 +1668,8 @@
     },
     {
       "code": "4800249053685",
-      "name": "CDO IDOL CHEESEDOG JUMBO+FUNTASTYK TOCIN",
-      "price": 183,
+      "name": "CDO IDOL CHEESEDOG REG. 1KG+TOCINO 150GX",
+      "price": 188,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat",
       "brand": "CDO"
@@ -1733,7 +1733,7 @@
     {
       "code": "4800249004991",
       "name": "CDO ULAM BURGER REGULAR 912GX8",
-      "price": 268.5,
+      "price": 270.5,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat",
       "brand": "CDO"
@@ -1741,7 +1741,7 @@
     {
       "code": "4800249006094",
       "name": "CDO BARN CHICKEN NUGGETS 200GX14",
-      "price": 96,
+      "price": 98,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat",
       "brand": "CDO"
@@ -1749,7 +1749,7 @@
     {
       "code": "4800249039276",
       "name": "CDO PREMIUM TONKATSU 420GX12",
-      "price": 183,
+      "price": 186,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat",
       "brand": "CDO"
@@ -1789,7 +1789,7 @@
     {
       "code": "4800249042931",
       "name": "HOLIDAY CHICKEN SIOMAI 240GX18",
-      "price": 59,
+      "price": 61,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat",
       "brand": "Holiday"
@@ -1797,7 +1797,7 @@
     {
       "code": "4800249039122",
       "name": "HOLIDAY SIOMAI 240GX18",
-      "price": 59,
+      "price": 61,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat",
       "brand": "Holiday"
@@ -4077,7 +4077,7 @@
     {
       "code": "4800016027314",
       "name": "VITASOY CHOCO 200ML 2+1X8",
-      "price": 34.75,
+      "price": 36.45,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream",
       "brand": "Vitasoy"
@@ -4205,7 +4205,7 @@
     {
       "code": "4800249006117",
       "name": "BINGO CHICKEN NUGGETS 200GX21",
-      "price": 56.5,
+      "price": 57,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat",
       "brand": "Monde Nissin"
@@ -5309,7 +5309,7 @@
     {
       "code": "4800249043792",
       "name": "CDO CHICKEN NUGGETS 200GX21",
-      "price": 105,
+      "price": 107,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat",
       "brand": "CDO"
@@ -5333,7 +5333,7 @@
     {
       "code": "4800086045126",
       "name": "SELECTA HERSHEYS C&C 450ML",
-      "price": 165,
+      "price": 175,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
@@ -5381,7 +5381,7 @@
     {
       "code": "4800086043672",
       "name": "SELECTA HERSHEYS MILK ALMONDS 450ML",
-      "price": 165,
+      "price": 175,
       "category": "Dairy & Bakery",
       "subCategory": "Ice Cream",
       "brand": "Selecta"
@@ -5409,6 +5409,30 @@
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream",
       "brand": "Nestle"
+    },
+    {
+      "code": "4800361432542",
+      "name": "NESTLE ALL PURPOSE CREAMER 250MLX24",
+      "price": 47.15,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Nestlé"
+    },
+    {
+      "code": "8851028006275",
+      "name": "VITAMILK UBE 300MLX24",
+      "price": 35.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Vitamilk"
+    },
+    {
+      "code": "8851028006879",
+      "name": "VITAMILK MELON 300MLX24",
+      "price": 35.75,
+      "category": "Dairy & Bakery",
+      "subCategory": "Liquid Milk & Cream",
+      "brand": "Vitamilk"
     }
   ]
 }

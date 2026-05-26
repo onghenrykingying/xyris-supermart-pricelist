@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-05-19T12:27:46.906Z",
-  "totalSKUs": 10192,
+  "generatedAt": "2026-05-26T14:46:21.664Z",
+  "totalSKUs": 10251,
   "categories": [
     {
       "slug": "beverages",
       "label": "Beverages",
-      "skuCount": 519,
+      "skuCount": 533,
       "subCategories": [
         {
           "label": "Yogurt Drinks",
-          "skuCount": 60,
+          "skuCount": 61,
           "brands": [
             "#N/A",
             "Alaska",
@@ -68,7 +68,7 @@
         },
         {
           "label": "Tea & Juice",
-          "skuCount": 276,
+          "skuCount": 289,
           "brands": [
             "Biofitea",
             "Blue (Vitamin Drink)",
@@ -93,9 +93,11 @@
             "Smart C+",
             "Sundays",
             "Sunkist",
+            "Swigo",
             "Tang",
             "Tropicana",
             "Vitasoy",
+            "Why Not",
             "Zambo",
             "Zest-O",
             "Zest-o"
@@ -153,12 +155,14 @@
         "Summit",
         "Sundays",
         "Sunkist",
+        "Swigo",
         "Tang",
         "Tropicana",
         "Vitasoy",
         "Vitress",
         "W.L Food",
         "Wet Drinking Water",
+        "Why Not",
         "Wilkins",
         "Yakult",
         "Zambo",
@@ -169,7 +173,7 @@
     {
       "slug": "liquor-tobacco",
       "label": "Liquor & Tobacco",
-      "skuCount": 200,
+      "skuCount": 199,
       "subCategories": [
         {
           "label": "Cigarettes & Lighters",
@@ -187,7 +191,7 @@
         },
         {
           "label": "Beer & Wine",
-          "skuCount": 36,
+          "skuCount": 35,
           "brands": [
             "Adega",
             "Carlo Rossi",
@@ -281,11 +285,11 @@
     {
       "slug": "dairy-bakery",
       "label": "Dairy & Bakery",
-      "skuCount": 676,
+      "skuCount": 679,
       "subCategories": [
         {
           "label": "Liquid Milk & Cream",
-          "skuCount": 158,
+          "skuCount": 161,
           "brands": [
             "Alaska",
             "Alaska Alpine",
@@ -406,11 +410,11 @@
     {
       "slug": "pantry-cooking",
       "label": "Pantry & Cooking",
-      "skuCount": 1978,
+      "skuCount": 2006,
       "subCategories": [
         {
           "label": "Powdered Milk",
-          "skuCount": 158,
+          "skuCount": 164,
           "brands": [
             "Alaska",
             "Anchor",
@@ -446,7 +450,7 @@
         },
         {
           "label": "Instant Noodles",
-          "skuCount": 170,
+          "skuCount": 172,
           "brands": [
             "Ho-Mi",
             "Indomie",
@@ -457,6 +461,7 @@
             "Payless",
             "QuickChow",
             "Quickchow",
+            "Sarimi",
             "Tekki Shomen",
             "Yakiudon"
           ]
@@ -509,7 +514,7 @@
         },
         {
           "label": "Soy Vinegar & Patis",
-          "skuCount": 129,
+          "skuCount": 137,
           "brands": [
             "Bragg",
             "Coconut",
@@ -520,12 +525,13 @@
             "Lorins",
             "Marca Piña",
             "NutriAsia Datu Puti",
+            "Select",
             "Silver Swan"
           ]
         },
         {
           "label": "Ketchup & Sauces",
-          "skuCount": 90,
+          "skuCount": 91,
           "brands": [
             "Barrio Fiesta",
             "Cabalen",
@@ -543,13 +549,14 @@
             "NutriAsia UFC",
             "Philippine Supreme",
             "RAM",
+            "Ram",
             "Silver Swan",
             "Tita Frita"
           ]
         },
         {
           "label": "Bouillon & Seasoning",
-          "skuCount": 426,
+          "skuCount": 427,
           "brands": [
             "#N/A",
             "Ajinomoto",
@@ -651,11 +658,12 @@
         },
         {
           "label": "Coffee & Hot Drinks",
-          "skuCount": 282,
+          "skuCount": 290,
           "brands": [
             "Birch Tree",
             "Blend 45",
             "Cafe Puro",
+            "Coffee Mate",
             "Cream",
             "Cream-O",
             "El Primo",
@@ -682,10 +690,11 @@
         },
         {
           "label": "Spreads",
-          "skuCount": 109,
+          "skuCount": 111,
           "brands": [
             "Barrio Fiesta",
             "Best Foods",
+            "Best foods",
             "Goya",
             "Happy",
             "Heinz",
@@ -727,6 +736,7 @@
         "Barrio Fiesta",
         "Best Foods",
         "Best Sugar",
+        "Best foods",
         "Birch Tree",
         "Blend 45",
         "Bragg",
@@ -738,6 +748,7 @@
         "Chickentucky",
         "Coco Mama",
         "Coconut",
+        "Coffee Mate",
         "Cow Bell",
         "Cream",
         "Cream-O",
@@ -841,6 +852,7 @@
         "QuickChow",
         "Quickchow",
         "RAM",
+        "Ram",
         "Rebisco",
         "Relish",
         "Renew",
@@ -851,6 +863,8 @@
         "San Mig",
         "San Mig Coffee",
         "Santa Monica",
+        "Sarimi",
+        "Select",
         "Sevilla",
         "Señora",
         "Silver Swan",
@@ -882,7 +896,7 @@
     {
       "slug": "canned-goods",
       "label": "Canned Goods",
-      "skuCount": 435,
+      "skuCount": 437,
       "subCategories": [
         {
           "label": "Canned Fish",
@@ -905,7 +919,7 @@
         },
         {
           "label": "Canned Meat",
-          "skuCount": 212,
+          "skuCount": 214,
           "brands": [
             "#N/A",
             "555",
@@ -1004,7 +1018,7 @@
     {
       "slug": "snacks-confectionery",
       "label": "Snacks & Confectionery",
-      "skuCount": 1540,
+      "skuCount": 1547,
       "subCategories": [
         {
           "label": "Crackers, Cakes & Cookies",
@@ -1101,7 +1115,7 @@
         },
         {
           "label": "Chips & Curls",
-          "skuCount": 382,
+          "skuCount": 388,
           "brands": [
             "Bawang na Bawang",
             "Boy Bawang",
@@ -1139,7 +1153,7 @@
         },
         {
           "label": "Chocolate & Candy",
-          "skuCount": 537,
+          "skuCount": 538,
           "brands": [
             "#N/A",
             "ABC Jelly",
@@ -1506,7 +1520,7 @@
     {
       "slug": "personal-care",
       "label": "Personal Care",
-      "skuCount": 2070,
+      "skuCount": 2074,
       "subCategories": [
         {
           "label": "Bath Soap",
@@ -1545,7 +1559,7 @@
         },
         {
           "label": "Hair Care",
-          "skuCount": 463,
+          "skuCount": 466,
           "brands": [
             "ACR Razor",
             "Bigen",
@@ -1586,7 +1600,7 @@
         },
         {
           "label": "Oral Care",
-          "skuCount": 277,
+          "skuCount": 278,
           "brands": [
             "Bactidol",
             "Cleene",
@@ -1893,11 +1907,11 @@
     {
       "slug": "household",
       "label": "Household",
-      "skuCount": 1601,
+      "skuCount": 1603,
       "subCategories": [
         {
           "label": "Laundry",
-          "skuCount": 690,
+          "skuCount": 697,
           "brands": [
             "Ariel",
             "Bubble Queen",
@@ -1992,7 +2006,7 @@
         },
         {
           "label": "Air Freshener",
-          "skuCount": 138,
+          "skuCount": 139,
           "brands": [
             "Albatross",
             "Ambi Pur",
@@ -2020,7 +2034,7 @@
         },
         {
           "label": "Tissue & Cotton",
-          "skuCount": 202,
+          "skuCount": 196,
           "brands": [
             "Angel",
             "Baby Flo",
@@ -2533,11 +2547,11 @@
   "settings": {
     "brandName": "Xyris Supermart",
     "brandTagline": "Save More Live Bright",
-    "phoneCall": "+639319844846",
-    "phoneDisplay": "0931 984 4846",
+    "phoneCall": "+639281849118",
+    "phoneDisplay": "0928 184 9118",
     "messengerUrl": "https://m.me/xyrissupermartph",
-    "viberChat": "viber://chat?number=%2B639319844846",
-    "viberChannelUrl": "https://invite.viber.com/?g2=AQBAATi%2BW6VmWFaRDybqVijvqIARN3uqWl%2FvkIiD04qKC7o0eSi6d1LbiKvbyWeO",
+    "viberChat": "viber://chat?number=%2B639281849118",
+    "viberChannelUrl": "viber://chat?number=%2B639281849118",
     "viberChannelLabel": "Join us on Viber for promos",
     "footerAddress": "Block 42 Lot 6 Xyris Street, Taguig, Metro Manila",
     "footerNote": "Prices subject to change without notice."

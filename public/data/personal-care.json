@@ -1,6 +1,6 @@
 {
   "category": "Personal Care",
-  "generatedAt": "2026-05-19T12:27:46.906Z",
+  "generatedAt": "2026-05-26T14:46:21.664Z",
   "skus": [
     {
       "code": "4806506318900",
@@ -3525,7 +3525,7 @@
     {
       "code": "4800011114378",
       "name": "BIODERM COOLNESS 65G 6+1",
-      "price": 108.05,
+      "price": 108.3,
       "category": "Personal Care",
       "subCategory": "Bath Soap",
       "brand": "Bioderm"
@@ -15109,7 +15109,7 @@
     {
       "code": "4800034601657",
       "name": "HAPEE TP TWEEN  F.COOL WHITE 30GX6'SX24",
-      "price": 36.35,
+      "price": 36.45,
       "category": "Personal Care",
       "subCategory": "Oral Care",
       "brand": "Hapee"
@@ -15117,7 +15117,7 @@
     {
       "code": "4800034601794",
       "name": "HAPEE TP TWEEN O. BLUE CHILL 30GX6'SX24",
-      "price": 36.35,
+      "price": 36.45,
       "category": "Personal Care",
       "subCategory": "Oral Care",
       "brand": "Hapee"
@@ -15125,7 +15125,7 @@
     {
       "code": "4800034601664",
       "name": "HAPEE TP TWEEN E.MENTHOL RED 30GX6'SX24",
-      "price": 36.35,
+      "price": 36.45,
       "category": "Personal Care",
       "subCategory": "Oral Care",
       "brand": "Hapee"
@@ -15133,7 +15133,7 @@
     {
       "code": "4800034601671",
       "name": "HAPEE TP TWEEN F.GREEN OUTBURST 30GX6'SX",
-      "price": 36.35,
+      "price": 36.45,
       "category": "Personal Care",
       "subCategory": "Oral Care",
       "brand": "Hapee"
@@ -16561,6 +16561,38 @@
       "category": "Personal Care",
       "subCategory": "Oral Care",
       "brand": "Listerine"
+    },
+    {
+      "code": "4800888292476",
+      "name": "CLOSE-UP MENTHOL PROMO TB HL 173GX2X36",
+      "price": 150.45,
+      "category": "Personal Care",
+      "subCategory": "Oral Care",
+      "brand": "Unilever Close Up"
+    },
+    {
+      "code": "4800156001892",
+      "name": "SHINE N' FREE GEL ORANGE 50MLX144",
+      "price": 12.95,
+      "category": "Personal Care",
+      "subCategory": "Hair Care",
+      "brand": "Shine & Free"
+    },
+    {
+      "code": "4806515162273",
+      "name": "KERATIN PLUS LUXURIOUS 12+2 EMP. 20GX12X",
+      "price": 72.45,
+      "category": "Personal Care",
+      "subCategory": "Hair Care",
+      "brand": "Keratin"
+    },
+    {
+      "code": "4806515162266",
+      "name": "KERATIN PLUS BLACK 12+2 EMP. 20GX12X24",
+      "price": 72.45,
+      "category": "Personal Care",
+      "subCategory": "Hair Care",
+      "brand": "Keratin"
     }
   ]
 }

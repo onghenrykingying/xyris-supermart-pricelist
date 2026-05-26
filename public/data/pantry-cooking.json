@@ -1,6 +1,6 @@
 {
   "category": "Pantry & Cooking",
-  "generatedAt": "2026-05-19T12:27:46.906Z",
+  "generatedAt": "2026-05-26T14:46:21.664Z",
   "skus": [
     {
       "code": "4806513741814",
@@ -405,7 +405,7 @@
     {
       "code": "4800030111204",
       "name": "IDEAL SPAGHETTI 500GX30",
-      "price": 65.1,
+      "price": 71.45,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta & Noodles",
       "brand": "Ideal"
@@ -421,7 +421,7 @@
     {
       "code": "4800030121104",
       "name": "IDEAL MAC.ELBOW 1KGX12",
-      "price": 108.15,
+      "price": 114.45,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta & Noodles",
       "brand": "Ideal"
@@ -445,7 +445,7 @@
     {
       "code": "4800030000447",
       "name": "IDEAL MAC.SHELL 500GX30",
-      "price": 68.25,
+      "price": 75.05,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta & Noodles",
       "brand": "Ideal"
@@ -453,7 +453,7 @@
     {
       "code": "4800030121203",
       "name": "IDEAL MAC.ELBOW 500GX30",
-      "price": 65.1,
+      "price": 71.45,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta & Noodles",
       "brand": "Ideal"
@@ -461,7 +461,7 @@
     {
       "code": "4800030121302",
       "name": "IDEAL MAC.ELBOW 200GX30",
-      "price": 34.65,
+      "price": 36.75,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta & Noodles",
       "brand": "Ideal"
@@ -469,7 +469,7 @@
     {
       "code": "4800030123207",
       "name": "IDEAL GOURMET ZITI 500GX30",
-      "price": 68.25,
+      "price": 75.05,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta & Noodles",
       "brand": "Ideal"
@@ -485,7 +485,7 @@
     {
       "code": "4800030467202",
       "name": "IDEAL GOURMET LASAGNA 454GX12",
-      "price": 114.95,
+      "price": 122.85,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta & Noodles",
       "brand": "Ideal"
@@ -493,7 +493,7 @@
     {
       "code": "4800030124204",
       "name": "IDEAL GOURMET FUSILI MAC.500GX30",
-      "price": 68.25,
+      "price": 75.05,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta & Noodles",
       "brand": "Ideal"
@@ -501,7 +501,7 @@
     {
       "code": "4800030125201",
       "name": "IDEAL GOURMET PENNE RIGATI 500GX30",
-      "price": 68.25,
+      "price": 75.05,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta & Noodles",
       "brand": "Ideal"
@@ -525,7 +525,7 @@
     {
       "code": "4800030113109",
       "name": "IDEAL GOURMET LINGUINE 1KGX15",
-      "price": 114.45,
+      "price": 119.75,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta & Noodles",
       "brand": "Ideal"
@@ -1309,7 +1309,7 @@
     {
       "code": "8992826121330",
       "name": "MITRA COOKING OIL POUCH 1.8LX6",
-      "price": 228.55,
+      "price": 255.65,
       "category": "Pantry & Cooking",
       "subCategory": "Cooking Oil",
       "brand": "Mitra"
@@ -1333,7 +1333,7 @@
     {
       "code": "8992826121231",
       "name": "MITRA COOKING OIL PLASTIC 950MLX12",
-      "price": 125.8,
+      "price": 138.45,
       "category": "Pantry & Cooking",
       "subCategory": "Cooking Oil",
       "brand": "Mitra"
@@ -1341,7 +1341,7 @@
     {
       "code": "8992826121323",
       "name": "MITRA COOKING OIL POUCH 1LX12",
-      "price": 124.5,
+      "price": 135.75,
       "category": "Pantry & Cooking",
       "subCategory": "Cooking Oil",
       "brand": "Mitra"
@@ -1413,7 +1413,7 @@
     {
       "code": "8992826116275",
       "name": "MITRA PALM OIL 2L PETX6",
-      "price": 245.65,
+      "price": 248.15,
       "category": "Pantry & Cooking",
       "subCategory": "Cooking Oil",
       "brand": "Mitra"
@@ -1685,7 +1685,7 @@
     {
       "code": "4800017932808",
       "name": "RAM SWEET WHOLE PICKLES 135GX24",
-      "price": 64.8,
+      "price": 64.75,
       "category": "Pantry & Cooking",
       "subCategory": "Bouillon & Seasoning",
       "brand": "RAM"
@@ -3645,7 +3645,7 @@
     {
       "code": "4807770270024",
       "name": "LM CHICKEN 55GX72",
-      "price": 8.75,
+      "price": 9,
       "category": "Pantry & Cooking",
       "subCategory": "Instant Noodles",
       "brand": "Monde Nissin Lucky Me!"
@@ -3653,7 +3653,7 @@
     {
       "code": "4807770270017",
       "name": "LM BEEF 55GX72",
-      "price": 8.75,
+      "price": 9,
       "category": "Pantry & Cooking",
       "subCategory": "Instant Noodles",
       "brand": "Monde Nissin Lucky Me!"
@@ -11797,7 +11797,7 @@
     {
       "code": "4806513800887",
       "name": "ARAWAN GLUTINOUS RICE FLOUR 20X500G",
-      "price": 52.45,
+      "price": 52.55,
       "category": "Pantry & Cooking",
       "subCategory": "Sugar Salt Flour & Baking",
       "brand": "Arawan"
@@ -13933,7 +13933,7 @@
     {
       "code": "14807770270014",
       "name": "LM BEEF 55G X 72",
-      "price": 610,
+      "price": 648,
       "category": "Pantry & Cooking",
       "subCategory": "Instant Noodles",
       "brand": "Monde Nissin Lucky Me!"
@@ -13941,7 +13941,7 @@
     {
       "code": "14807770270021",
       "name": "LM CHICKEN 55G X 72",
-      "price": 610,
+      "price": 648,
       "category": "Pantry & Cooking",
       "subCategory": "Instant Noodles",
       "brand": "Monde Nissin Lucky Me!"
@@ -14053,7 +14053,7 @@
     {
       "code": "4800068101147",
       "name": "MB HOT SAUCE 150GX24",
-      "price": 42.05,
+      "price": 43.95,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces",
       "brand": "Mothers Best"
@@ -14069,7 +14069,7 @@
     {
       "code": "4800068101123",
       "name": "MB HOT SAUCE 95GX48",
-      "price": 24.75,
+      "price": 25.95,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces",
       "brand": "Mothers Best"
@@ -14077,7 +14077,7 @@
     {
       "code": "4800068111115",
       "name": "MB OYSTER SAUCE 400GX12",
-      "price": 102.95,
+      "price": 105.55,
       "category": "Pantry & Cooking",
       "subCategory": "Bouillon & Seasoning",
       "brand": "Mothers Best"
@@ -14125,7 +14125,7 @@
     {
       "code": "4809011721586",
       "name": "MIKEES CANTON 200GX12",
-      "price": 41.45,
+      "price": 42.85,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta & Noodles",
       "brand": "Mikees"
@@ -14149,7 +14149,7 @@
     {
       "code": "4809011721470",
       "name": "MIKEE'S CANTON 400GX6",
-      "price": 80.85,
+      "price": 87.15,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta & Noodles",
       "brand": "Mikees"
@@ -15825,6 +15825,230 @@
       "category": "Pantry & Cooking",
       "subCategory": "Cereals & Oats",
       "brand": "Quaker"
+    },
+    {
+      "code": "4800016562853",
+      "name": "PAYLESS XTRABIG PC CHILI CHEESE 128GX48",
+      "price": 17.35,
+      "category": "Pantry & Cooking",
+      "subCategory": "Instant Noodles",
+      "brand": "Payless"
+    },
+    {
+      "code": "4800016024917",
+      "name": "GT PREMIUM ROAST TWINPACK 40GX10X24",
+      "price": 12.35,
+      "category": "Pantry & Cooking",
+      "subCategory": "Coffee & Hot Drinks",
+      "brand": "Great Taste"
+    },
+    {
+      "code": "4800016024948",
+      "name": "GT WHITE SUGAR FREE TWINPACK 23GX5X48",
+      "price": 12.35,
+      "category": "Pantry & Cooking",
+      "subCategory": "Coffee & Hot Drinks",
+      "brand": "Great Taste"
+    },
+    {
+      "code": "4805358319059",
+      "name": "MAG. CREAM CHEESE SPREAD 220GX24",
+      "price": 135,
+      "category": "Pantry & Cooking",
+      "subCategory": "Spreads",
+      "brand": "Magnolia"
+    },
+    {
+      "code": "4800361432856",
+      "name": "BEAR BRAND PMD 1.2KGX12 SAVE 25.00",
+      "price": 397.35,
+      "category": "Pantry & Cooking",
+      "subCategory": "Powdered Milk",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361432832",
+      "name": "BEAR BRAND PMD 840GX14 SAVE 20.00",
+      "price": 274.65,
+      "category": "Pantry & Cooking",
+      "subCategory": "Powdered Milk",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361432818",
+      "name": "BEAR BRAND PMD 300GX36 SAVE 10.00",
+      "price": 98.1,
+      "category": "Pantry & Cooking",
+      "subCategory": "Powdered Milk",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361432917",
+      "name": "BEAR BRAND PMD 680GX14 SAVE 15.00",
+      "price": 229.55,
+      "category": "Pantry & Cooking",
+      "subCategory": "Powdered Milk",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4800361121019",
+      "name": "BEAR BRAND PMD 33G 10+1X20",
+      "price": 109.65,
+      "category": "Pantry & Cooking",
+      "subCategory": "Powdered Milk",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4802600000239",
+      "name": "NESCAFE C.LATTE  TP 8'S PROMO 40GX25",
+      "price": 96.35,
+      "category": "Pantry & Cooking",
+      "subCategory": "Coffee & Hot Drinks",
+      "brand": "Nescafé"
+    },
+    {
+      "code": "4802600000222",
+      "name": "NESCAFE CLASSIC STICK 24'S SAVE 8.00X42",
+      "price": 66.55,
+      "category": "Pantry & Cooking",
+      "subCategory": "Coffee & Hot Drinks",
+      "brand": "Nescafé"
+    },
+    {
+      "code": "4800361432658",
+      "name": "MAGGI MAGIC SARAP 8GX20X16 FREE DPVIN",
+      "price": 97.65,
+      "category": "Pantry & Cooking",
+      "subCategory": "Bouillon & Seasoning",
+      "brand": "Maggi"
+    },
+    {
+      "code": "4802600000253",
+      "name": "NESCAFE ORIG.TP BUY8FOR99.00",
+      "price": 96.35,
+      "category": "Pantry & Cooking",
+      "subCategory": "Coffee & Hot Drinks",
+      "brand": "Nescafé"
+    },
+    {
+      "code": "4800361433396",
+      "name": "BEAR BRAND ADULT PLUS 33G 7+1X24",
+      "price": 100.45,
+      "category": "Pantry & Cooking",
+      "subCategory": "Powdered Milk",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4802600000246",
+      "name": "NESCAFE C-WHITE TP 8 FOR 99.00",
+      "price": 96.35,
+      "category": "Pantry & Cooking",
+      "subCategory": "Coffee & Hot Drinks",
+      "brand": "Nescafé"
+    },
+    {
+      "code": "89686017649",
+      "name": "SARIMI MI GORENG CHICKEN 75GX40",
+      "price": 13.75,
+      "category": "Pantry & Cooking",
+      "subCategory": "Instant Noodles",
+      "brand": "Sarimi"
+    },
+    {
+      "code": "4806020400174",
+      "name": "SELECT SOY SAUCE 200MLX48",
+      "price": 10.25,
+      "category": "Pantry & Cooking",
+      "subCategory": "Soy Vinegar & Patis",
+      "brand": "Select"
+    },
+    {
+      "code": "4806020400198",
+      "name": "SELECT SOY SAUCE 1LX12 PET",
+      "price": 52.55,
+      "category": "Pantry & Cooking",
+      "subCategory": "Soy Vinegar & Patis",
+      "brand": "Select"
+    },
+    {
+      "code": "4806020400242",
+      "name": "SELECT VINEGAR 200MLX48",
+      "price": 7.15,
+      "category": "Pantry & Cooking",
+      "subCategory": "Soy Vinegar & Patis",
+      "brand": "Select"
+    },
+    {
+      "code": "4806020400693",
+      "name": "SELECT VINEGAR 340MLX36 REFILL",
+      "price": 14.55,
+      "category": "Pantry & Cooking",
+      "subCategory": "Soy Vinegar & Patis",
+      "brand": "Select"
+    },
+    {
+      "code": "4806020400266",
+      "name": "SELECT VINEGAR 1LX12 PET",
+      "price": 39.85,
+      "category": "Pantry & Cooking",
+      "subCategory": "Soy Vinegar & Patis",
+      "brand": "Select"
+    },
+    {
+      "code": "4806020400303",
+      "name": "SELECT SUKANG PUTI 200MLX48",
+      "price": 7.15,
+      "category": "Pantry & Cooking",
+      "subCategory": "Soy Vinegar & Patis",
+      "brand": "Select"
+    },
+    {
+      "code": "4806020400709",
+      "name": "SELECT SUKANG PUTI 340MLX36 REFILL",
+      "price": 14.55,
+      "category": "Pantry & Cooking",
+      "subCategory": "Soy Vinegar & Patis",
+      "brand": "Select"
+    },
+    {
+      "code": "4806020400327",
+      "name": "SELECT SUKANG PUTI 1LX12 PET",
+      "price": 39.85,
+      "category": "Pantry & Cooking",
+      "subCategory": "Soy Vinegar & Patis",
+      "brand": "Select"
+    },
+    {
+      "code": "4800017761408",
+      "name": "RAM TOMATO PASTE 70G B2S5 140GX36",
+      "price": 21.5,
+      "category": "Pantry & Cooking",
+      "subCategory": "Ketchup & Sauces",
+      "brand": "Ram"
+    },
+    {
+      "code": "4800361428347",
+      "name": "COFFEE-MATE 20(40+8X5G)",
+      "price": 78.05,
+      "category": "Pantry & Cooking",
+      "subCategory": "Coffee & Hot Drinks",
+      "brand": "Coffee Mate"
+    },
+    {
+      "code": "4800361429634",
+      "name": "NESCAFE ORIG.3IN1 12(20X20G) PRICE OFF",
+      "price": 131.25,
+      "category": "Pantry & Cooking",
+      "subCategory": "Coffee & Hot Drinks",
+      "brand": "Nestle"
+    },
+    {
+      "code": "4808680024653",
+      "name": "BF SALAD&SWICH MATE 3.5LX4",
+      "price": 900.65,
+      "category": "Pantry & Cooking",
+      "subCategory": "Spreads",
+      "brand": "Best foods"
     }
   ]
 }

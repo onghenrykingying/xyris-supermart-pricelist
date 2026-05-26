@@ -1,6 +1,6 @@
 {
   "category": "Liquor & Tobacco",
-  "generatedAt": "2026-05-19T12:27:46.906Z",
+  "generatedAt": "2026-05-26T14:46:21.664Z",
   "skus": [
     {
       "code": "4800220533359",
@@ -190,14 +190,6 @@
       "code": "4801032111025",
       "name": "SAN MIGUEL PALE PILSEN 320MLX24",
       "price": 41.45,
-      "category": "Liquor & Tobacco",
-      "subCategory": "Beer & Wine",
-      "brand": "San Mig"
-    },
-    {
-      "code": "4801032281094",
-      "name": "SAN MIG LYCHEE BOT. 330MLX24",
-      "price": 39.75,
       "category": "Liquor & Tobacco",
       "subCategory": "Beer & Wine",
       "brand": "San Mig"

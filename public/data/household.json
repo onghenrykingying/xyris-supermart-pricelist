@@ -1,6 +1,6 @@
 {
   "category": "Household",
-  "generatedAt": "2026-05-19T12:27:46.906Z",
+  "generatedAt": "2026-05-26T14:46:21.664Z",
   "skus": [
     {
       "code": "4800147212177",
@@ -25,54 +25,6 @@
       "category": "Household",
       "subCategory": "Tissue & Cotton",
       "brand": "Angel"
-    },
-    {
-      "code": "4801288822003",
-      "name": "HAPPY COTTON 150GX24",
-      "price": 58.75,
-      "category": "Household",
-      "subCategory": "Tissue & Cotton",
-      "brand": "Happy"
-    },
-    {
-      "code": "4801288820504",
-      "name": "HAPPY COTTON 40GX72",
-      "price": 17.05,
-      "category": "Household",
-      "subCategory": "Tissue & Cotton",
-      "brand": "Happy"
-    },
-    {
-      "code": "4801288820153",
-      "name": "HAPPY COTTON 10GX100",
-      "price": 4.65,
-      "category": "Household",
-      "subCategory": "Tissue & Cotton",
-      "brand": "Happy"
-    },
-    {
-      "code": "4801288821006",
-      "name": "HAPPY COTTON 80GX36",
-      "price": 30.95,
-      "category": "Household",
-      "subCategory": "Tissue & Cotton",
-      "brand": "Happy"
-    },
-    {
-      "code": "4802288103000",
-      "name": "HAPPY COTTON BALLS 300X36",
-      "price": 58.25,
-      "category": "Household",
-      "subCategory": "Tissue & Cotton",
-      "brand": "Happy"
-    },
-    {
-      "code": "4802288101501",
-      "name": "HAPPY COTTON BALLS 150X72",
-      "price": 31.55,
-      "category": "Household",
-      "subCategory": "Tissue & Cotton",
-      "brand": "Happy"
     },
     {
       "code": "4801288888856",
@@ -6628,7 +6580,7 @@
     },
     {
       "code": "8934868113058",
-      "name": "BREEZE FRESH CLEAN PM LIQ.DET.750GX12",
+      "name": "BREEZE FRESH CLEAN PM LIQ.DET.900GX12",
       "price": 141.15,
       "category": "Household",
       "subCategory": "Laundry",
@@ -8725,7 +8677,7 @@
     {
       "code": "6924180200347",
       "name": "KAMI TISSUE 2P 150 PULLSX120",
-      "price": 9.55,
+      "price": 10.25,
       "category": "Household",
       "subCategory": "Tissue & Cotton",
       "brand": "Kami Tissue"
@@ -8741,7 +8693,7 @@
     {
       "code": "4806516211819",
       "name": "KAMI 2PLY 4'SX30",
-      "price": 36.75,
+      "price": 39.65,
       "category": "Household",
       "subCategory": "Tissue & Cotton",
       "brand": "Kami Tissue"
@@ -8757,7 +8709,7 @@
     {
       "code": "6924180200354",
       "name": "KAMI 2PLY 150PULLS 10SX12P",
-      "price": 91.65,
+      "price": 97.65,
       "category": "Household",
       "subCategory": "Tissue & Cotton",
       "brand": "Kami Tissue"
@@ -8772,8 +8724,8 @@
     },
     {
       "code": "4806516212434",
-      "name": "KAMI TISSUE 11+1",
-      "price": 105.15,
+      "name": "KAMI TISSUE 11+1X12",
+      "price": 117.05,
       "category": "Household",
       "subCategory": "Tissue & Cotton",
       "brand": "Kami Tissue"
@@ -12809,6 +12761,70 @@
       "category": "Household",
       "subCategory": "Laundry",
       "brand": "Downy"
+    },
+    {
+      "code": "4902430355810",
+      "name": "AMBIPUR GEL REFRESH LEMON 180GX3X4",
+      "price": 362.55,
+      "category": "Household",
+      "subCategory": "Air Freshener",
+      "brand": "Ambi Pur"
+    },
+    {
+      "code": "4987176400031",
+      "name": "DOWNY GARDEN BLOOM 1.5LX6 REFILL PROMO",
+      "price": 260.45,
+      "category": "Household",
+      "subCategory": "Laundry",
+      "brand": "Downy"
+    },
+    {
+      "code": "4987176399212",
+      "name": "DOWNY GARDEN BLOOM REFILL 2.4LX4 PROMO",
+      "price": 406.35,
+      "category": "Household",
+      "subCategory": "Laundry",
+      "brand": "Downy"
+    },
+    {
+      "code": "4987176399304",
+      "name": "DOWNY GARDEN BLOOM REFILL 750MLX8 PROMO",
+      "price": 131.65,
+      "category": "Household",
+      "subCategory": "Laundry",
+      "brand": "Downy"
+    },
+    {
+      "code": "4806501702735",
+      "name": "CHAMPION PWDR. FAB. 2KG(1+1) 25%OFF PROM",
+      "price": 323.15,
+      "category": "Household",
+      "subCategory": "Laundry",
+      "brand": "Champion"
+    },
+    {
+      "code": "4806501702742",
+      "name": "CALLA PWDR. FF 1.6KG(1+1) 25% OFF PROMOX",
+      "price": 338.85,
+      "category": "Household",
+      "subCategory": "Laundry",
+      "brand": "Calla"
+    },
+    {
+      "code": "4806501702759",
+      "name": "CALLA PWDR. RG 1.6KG(1+1) 25% OFF PROMOX",
+      "price": 338.85,
+      "category": "Household",
+      "subCategory": "Laundry",
+      "brand": "Calla"
+    },
+    {
+      "code": "4806501703909",
+      "name": "CALLA HYBRID PACK (FF 50G+FE 28ML)X96",
+      "price": 8.75,
+      "category": "Household",
+      "subCategory": "Laundry",
+      "brand": "Calla"
     }
   ]
 }
