@@ -4,13 +4,11 @@ export interface SKU {
   price: number;
   category: string;
   subCategory: string;
-  brand: string;
 }
 
 export interface SubCategoryMeta {
   label: string;
   skuCount: number;
-  brands: string[];
 }
 
 export interface CategoryMeta {
@@ -18,7 +16,6 @@ export interface CategoryMeta {
   label: string;
   skuCount: number;
   subCategories: SubCategoryMeta[];
-  brands: string[];
 }
 
 export interface Settings {

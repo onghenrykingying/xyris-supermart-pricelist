@@ -15,9 +15,9 @@ While logged into the company Gmail:
 1. Go to <https://sheets.new>
 2. Rename to `Xyris Pricelist Master`
 3. Create four tabs: `SKUs_Master`, `Categories`, `Settings`, `Publish_Log`
-4. Set up `Categories` tab with two columns: `Category` and `Sub-Category`. Paste contents from `data/master-categories.csv`.
+4. Set up `Categories` tab with four columns: `POS_Dept`, `POS_Cat`, `Display_Category`, `Display_Sub_Category`. Import `xyris-migration/Categories_POS_native.csv` with **Replace current sheet**.
 5. Set up `Settings` tab with columns: `key` and `value`. Add the keys listed in `docs/03-data-pipeline.md`.
-6. Paste your initial SKU data into `SKUs_Master`. Make sure column headers match exactly: `prod_code`, `prod_desc1`, `unit_cost`, `sell_price`, `sup_code`, `sup_desc`, `dept_code`, `dept_desc`, `whole_code`, `uom_code`, `wholeprice`, `New Category`, `New Sub Category`, `Brands`
+6. Load the POS export into `SKUs_Master` — `File → Import → Upload` the POS xlsx, Import location **Replace current sheet**, **Convert text to numbers: No** (otherwise `prod_code` becomes scientific notation). The POS headers are used as-is; the script requires `prod_code`, `prod_desc1`, `sell_price`, `sup_desc`, `dept_desc`, `cat_desc` to be present and matches by name, not position. No conversion script runs at any point.
 
 Share Editor access with team members' personal Gmail addresses. Do NOT give them Owner access.
 

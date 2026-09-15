@@ -22,8 +22,8 @@ export function SearchBar({
         value={value}
         onChange={(e) => onChange(e.target.value)}
         onFocus={onFocus}
-        placeholder="Search products, brand, or barcode…"
-        aria-label="Search products, brand, or barcode"
+        placeholder="Search products or barcode…"
+        aria-label="Search products or barcode"
         enterKeyHint="search"
         className="w-full rounded-lg border border-slate-200 bg-white py-2.5 pl-9 pr-9 text-base placeholder:text-slate-500 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-xyris-blue"
       />

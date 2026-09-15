@@ -2,27 +2,26 @@
 
 ## Source columns (Google Sheet) → public output
 
-The master sheet has 14 columns. Only **6** make it to the public site.
+`SKUs_Master` holds the POS native export verbatim — 10 columns. Only **3** are published as-is; `category` and `subCategory` are looked up, not copied.
 
-| # | Sheet column | Disposition | Public field name | Type |
+| # | POS column | Disposition | Public field name | Type |
 |---:|---|---|---|---|
 | 1 | `prod_code` | ✅ Publish | `code` | string |
 | 2 | `prod_desc1` | ✅ Publish | `name` | string |
 | 3 | `unit_cost` | 🚫 Hidden | — | — |
-| 4 | `sell_price` | ✅ Publish (clean commas) | `price` | number |
-| 5 | `sup_code` | 🚫 Hidden | — | — |
-| 6 | `sup_desc` | 🚫 Hidden (used internally to filter `"DELETE"`) | — | — |
-| 7 | `dept_code` | ⛔ Ignored | — | — |
-| 8 | `dept_desc` | ⛔ Ignored | — | — |
-| 9 | `whole_code` | ⛔ Ignored | — | — |
-| 10 | `uom_code` | ⛔ Ignored | — | — |
-| 11 | `wholeprice` | 🚫 Hidden | — | — |
-| 12 | `New Category` | ✅ Publish | `category` | string |
-| 13 | `New Sub Category` | ✅ Publish | `subCategory` | string |
-| 14 | `Brands` | ✅ Publish | `brand` | string |
+| 4 | `sell_price` | ✅ Publish (strip commas, round to 2dp) | `price` | number |
+| 5 | `dept_code` | ⛔ Ignored | — | — |
+| 6 | `dept_desc` | 🔁 Lookup key (not published raw) | → `category` | string |
+| 7 | `cat_code` | ⛔ Ignored | — | — |
+| 8 | `cat_desc` | 🔁 Lookup key (not published raw) | → `subCategory` | string |
+| 9 | `sup_code` | 🚫 Hidden | — | — |
+| 10 | `sup_desc` | 🚫 Hidden (used internally to filter `"DELETE"`) | — | — |
 
 **🚫 Hidden** = sensitive, must NEVER appear in public JSON, API responses, or HTML.
 **⛔ Ignored** = read from sheet but not used anywhere.
+**🔁 Lookup key** = the raw UPPERCASE/truncated POS value is used to find a row in the `Categories` tab; the tab's `Display_Category` / `Display_Sub_Category` is what gets published. See `04-categories.md`.
+
+Columns are matched by header name, so POS column order can change without breaking the publish. The POS no longer exports `whole_code`, `uom_code` or `wholeprice`; none of the three were ever published.
 
 ## TypeScript types
 
@@ -34,9 +33,8 @@ export interface SKU {
   code: string;          // barcode, used as React key
   name: string;          // full product name with pack size
   price: number;         // pesos, no currency symbol
-  category: string;      // matches a Category in the master list
-  subCategory: string;   // matches a Sub-Category under that Category
-  brand: string;         // free-text brand name
+  category: string;      // Display_Category from the Categories tab
+  subCategory: string;   // Display_Sub_Category from the Categories tab
 }
 
 // Top-level index file, loaded first
@@ -52,13 +50,11 @@ export interface CategoryMeta {
   label: string;                  // e.g. "Pantry & Cooking"
   skuCount: number;
   subCategories: SubCategoryMeta[];
-  brands: string[];               // sorted alphabetically
 }
 
 export interface SubCategoryMeta {
   label: string;
   skuCount: number;
-  brands: string[];               // brands available within this sub-cat
 }
 
 export interface Settings {
@@ -96,10 +92,9 @@ export interface CategoryFile {
       "label": "Beverages",
       "skuCount": 540,
       "subCategories": [
-        { "label": "Tea & Juice",   "skuCount": 289, "brands": ["C2", "Del Monte", "..."] },
-        { "label": "Bottled Water", "skuCount": 69,  "brands": ["Absolute", "Nature Spring", "..."] }
-      ],
-      "brands": ["C2", "Del Monte", "Absolute", "..."]
+        { "label": "Tea & Juice",   "skuCount": 289 },
+        { "label": "Bottled Water", "skuCount": 69 }
+      ]
     }
   ],
   "settings": {
@@ -129,8 +124,7 @@ export interface CategoryFile {
       "name": "C2 APPLE 230MLX24",
       "price": 14.50,
       "category": "Beverages",
-      "subCategory": "Tea & Juice",
-      "brand": "C2"
+      "subCategory": "Tea & Juice"
     }
   ]
 }
@@ -140,5 +134,5 @@ export interface CategoryFile {
 
 - **Manifest first, categories on demand**: keeps initial page weight tiny (~10 KB). The user pays the cost of loading 200 KB only when they actually open a category.
 - **Slugs in manifest, labels everywhere else**: slugs are URL-safe identifiers for file names; labels are what humans see.
-- **Brands list at both category and sub-category level**: lets the filter UI populate brand dropdowns without scanning all SKUs.
+- **No brand data in the output**: filtering is two levels only (Category → Sub-Category), so brand is neither published nor indexed.
 - **Pre-counted SKU counts in manifest**: lets the UI show "Beverages (540)" without loading the file.

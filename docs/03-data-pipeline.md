@@ -10,26 +10,30 @@ The master sheet has these tabs:
 
 ### Tab 1: `SKUs_Master` (the product list)
 
-Columns (14, in this exact order):
+This tab holds the **POS native export, pasted verbatim** — no transformation step. Columns (10, as the POS emits them):
 
 1. `prod_code` — barcode (string, 13 digits typically)
 2. `prod_desc1` — product name (string)
 3. `unit_cost` — what Xyris pays (number) **🚫 NEVER published**
 4. `sell_price` — retail price per piece (number, may contain commas like "1,437.10")
-5. `sup_code` — supplier code **🚫 NEVER published**
-6. `sup_desc` — supplier name **🚫 NEVER published** (but read internally to filter "DELETE")
-7. `dept_code` — old categorization **⛔ ignored entirely**
-8. `dept_desc` — old categorization **⛔ ignored entirely**
-9. `whole_code` — wholesale barcode **⛔ ignored entirely**
-10. `uom_code` — units per case **⛔ ignored entirely**
-11. `wholeprice` — case price **🚫 NEVER published**
-12. `New Category` — filter L1 (string)
-13. `New Sub Category` — filter L2 (string)
-14. `Brands` — filter L3 (string)
+5. `dept_code` — POS department code **⛔ ignored entirely**
+6. `dept_desc` — POS department name, UPPERCASE → filter L1 source (string)
+7. `cat_code` — POS category code **⛔ ignored entirely**
+8. `cat_desc` — POS category name, UPPERCASE and possibly truncated → filter L2 source (string)
+9. `sup_code` — supplier code **🚫 NEVER published**
+10. `sup_desc` — supplier name **🚫 NEVER published** (but read internally to filter "DELETE")
 
-### Tab 2: `Categories` (canonical category list)
+Column order does not matter — the script matches by header name. Required headers: `prod_code`, `prod_desc1`, `sell_price`, `sup_desc`, `dept_desc`, `cat_desc`. A missing one aborts the publish with an explicit error.
 
-Two columns: `Category`, `Sub-Category`. This is the reference list that validation checks against. Copy `data/master-categories.csv` into this tab on initial setup.
+To refresh: clear the tab, then `File → Import → Upload` the POS xlsx with **Replace current sheet** and **Convert text to numbers: No** (keeps `prod_code` out of scientific notation).
+
+### Tab 2: `Categories` (POS → display-name mapping)
+
+Four columns: `POS_Dept`, `POS_Cat`, `Display_Category`, `Display_Sub_Category`.
+
+The first two hold the raw POS values (matched case-insensitively, upper-cased before lookup); the last two hold the human-readable names the website shows. This is both the reference list that validation checks against **and** the translation layer — POS ships UPPERCASE, truncated strings like `CANNED FRUIT OR VEGE`, which would look wrong on the site.
+
+Row order also defines display order: sub-categories appear within a category in the order they first appear in this tab. Seed it from `xyris-migration/Categories_POS_native.csv` (59 mappings).
 
 ### Tab 3: `Settings` (editable site config)
 
@@ -77,7 +81,7 @@ The script generates these files and commits them to `public/data/` in the GitHu
 
 ```
 public/data/
-├── manifest.json              # ~10 KB — index of categories, brands, settings
+├── manifest.json              # ~10 KB — index of categories, sub-categories, settings
 ├── baby.json                  # ~80 KB
 ├── beverages.json             # ~65 KB
 ├── canned-goods.json          # ~55 KB
@@ -95,7 +99,7 @@ File names: lowercase, spaces → hyphens, `&` removed. `Pantry & Cooking` → `
 
 ## What the Apps Script does NOT produce
 
-- ❌ A file for the `Outsource` category (hidden from public site by design)
+- ❌ A file for any POS dept+cat combination absent from the `Categories` tab (hidden, not flagged — publish never blocks on POS quirks)
 - ❌ A file containing #N/A or uncategorized SKUs
 - ❌ A single combined file with all SKUs (we split by category for performance)
 - ❌ Any file containing cost, supplier, or wholesale price columns

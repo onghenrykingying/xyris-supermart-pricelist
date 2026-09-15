@@ -9,11 +9,9 @@ interface Props {
   categories: CategoryMeta[];
   selectedCategorySlug: string | null;
   selectedSubCategory: string | null;
-  selectedBrand: string | null;
   sort: SortMode;
   onCategoryChange: (slug: string | null) => void;
   onSubCategoryChange: (label: string | null) => void;
-  onBrandChange: (brand: string | null) => void;
   onSortChange: (sort: SortMode) => void;
   onClearAll: () => void;
 }
@@ -28,66 +26,36 @@ export function Filters({
   categories,
   selectedCategorySlug,
   selectedSubCategory,
-  selectedBrand,
   sort,
   onCategoryChange,
   onSubCategoryChange,
-  onBrandChange,
   onSortChange,
   onClearAll,
 }: Props) {
   const selectedCategory =
     categories.find((c) => c.slug === selectedCategorySlug) ?? null;
 
-  const { globalSubCategories, globalBrands } = useMemo(() => {
-    const subMap = new Map<
-      string,
-      { skuCount: number; brands: Set<string> }
-    >();
-    const brandSet = new Set<string>();
+  const globalSubCategories = useMemo(() => {
+    const subMap = new Map<string, number>();
     for (const cat of categories) {
-      for (const b of cat.brands) brandSet.add(b);
       for (const sub of cat.subCategories) {
-        const entry =
-          subMap.get(sub.label) ??
-          { skuCount: 0, brands: new Set<string>() };
-        entry.skuCount += sub.skuCount;
-        sub.brands.forEach((b) => entry.brands.add(b));
-        subMap.set(sub.label, entry);
+        subMap.set(sub.label, (subMap.get(sub.label) ?? 0) + sub.skuCount);
       }
     }
-    return {
-      globalSubCategories: Array.from(subMap.entries())
-        .map(([label, data]) => ({
-          label,
-          skuCount: data.skuCount,
-          brands: Array.from(data.brands).sort(),
-        }))
-        .sort((a, b) => a.label.localeCompare(b.label)),
-      globalBrands: Array.from(brandSet).sort(),
-    };
+    return Array.from(subMap.entries())
+      .map(([label, skuCount]) => ({ label, skuCount }))
+      .sort((a, b) => a.label.localeCompare(b.label));
   }, [categories]);
 
   const subCategoryOptions = selectedCategory
     ? selectedCategory.subCategories
     : globalSubCategories;
 
-  const activeSubCategory = subCategoryOptions.find(
-    (s) => s.label === selectedSubCategory,
-  );
-
-  const brandOptions = activeSubCategory
-    ? activeSubCategory.brands
-    : selectedCategory
-      ? selectedCategory.brands
-      : globalBrands;
-
-  const anyActive =
-    selectedCategorySlug || selectedSubCategory || selectedBrand;
+  const anyActive = selectedCategorySlug || selectedSubCategory;
 
   return (
     <div className="flex flex-col gap-2">
-      <div className="grid grid-cols-1 gap-2 sm:grid-cols-3">
+      <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
         <Select
           label="Category"
           value={selectedCategorySlug ?? ""}
@@ -110,19 +78,6 @@ export function Filters({
           {subCategoryOptions.map((s) => (
             <option key={s.label} value={s.label}>
               {s.label} ({s.skuCount.toLocaleString()})
-            </option>
-          ))}
-        </Select>
-
-        <Select
-          label="Brand"
-          value={selectedBrand ?? ""}
-          onChange={(v) => onBrandChange(v || null)}
-        >
-          <option value="">All brands</option>
-          {brandOptions.map((b) => (
-            <option key={b} value={b}>
-              {b}
             </option>
           ))}
         </Select>

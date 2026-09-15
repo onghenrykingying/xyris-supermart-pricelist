@@ -46,7 +46,7 @@ export function SKUList({ skus }: { skus: SKU[] }) {
           No products match your filters.
         </p>
         <p className="mt-1 text-sm text-slate-500">
-          Try clearing the search or picking a different brand.
+          Try clearing the search or picking a different category.
         </p>
       </div>
     );

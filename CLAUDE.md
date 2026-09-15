@@ -86,9 +86,9 @@ Do NOT try to build everything at once. Follow this order. Stop and ask the user
 
 ### Phase 2 — Data loading and filtering
 1. Build the data fetching logic in `lib/data.ts` — loads `manifest.json` first, then fetches category JSON on demand
-2. Build the filter UI: Category → Sub-category → Brand (cascading dropdowns on mobile, sidebar on desktop)
+2. Build the filter UI: Category → Sub-category (cascading dropdowns on mobile, sidebar on desktop)
 3. Build the SKU list component with virtualized rendering (use `react-window` or `@tanstack/react-virtual`)
-4. Implement search (client-side, fuzzy match on product name, brand, barcode)
+4. Implement search (client-side, fuzzy match on product name, barcode)
 5. Implement sort (price asc/desc, name asc)
 6. Show "Last updated" timestamp from manifest
 7. **STOP. Show the user. Get approval before Phase 3.**

@@ -51,7 +51,7 @@
 3. **Validation step** produces a flag report — counts of rows that will be hidden/skipped
 4. **Confirmation modal** shows the report; publisher reviews and confirms
 5. **Build step** emits ONLY the 6 public columns into JSON files, one per category
-6. **Manifest file** (`manifest.json`) lists all available categories, sub-categories, brands per category, last-updated timestamp, and Settings tab content (phone, Messenger URL, Viber links, brand info)
+6. **Manifest file** (`manifest.json`) lists all available categories, sub-categories, last-updated timestamp, and Settings tab content (phone, Messenger URL, Viber links, brand info)
 7. **GitHub commit** via Apps Script using the GitHub REST API
 8. **Vercel** auto-deploys on push (free tier, no config needed)
 9. **Frontend** fetches `manifest.json` first, then category JSON on demand as user filters

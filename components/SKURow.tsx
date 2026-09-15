@@ -37,7 +37,7 @@ export function SKURow({ sku }: { sku: SKU }) {
           {sku.name}
         </p>
         <p className="truncate text-sm text-slate-500">
-          {sku.brand} · {sku.subCategory}
+          {sku.subCategory}
         </p>
       </div>
       <p className="shrink-0 text-lg font-bold text-xyris-blue tabular">

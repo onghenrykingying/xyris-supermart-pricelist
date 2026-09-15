@@ -13,19 +13,19 @@ The site has exactly **one page** (single-page app within Next.js). All filterin
 ├────────────────────────────────────────┤
 │ [Join Viber for weekly promos →]    × │ ← Dismissible banner
 ├────────────────────────────────────────┤
-│ 🔍 Search products, brand, barcode...│ ← Search bar
+│ 🔍 Search products or barcode...     │ ← Search bar
 ├────────────────────────────────────────┤
-│ [Category ▾] [Sub-cat ▾] [Brand ▾]   │ ← Filter chips
+│ [Category ▾] [Sub-cat ▾]             │ ← Filter chips
 │ Sort: Price ↑ ↓ | Name                │
 ├────────────────────────────────────────┤
 │ Showing 540 of 10,107  •  Updated 2h │
 ├────────────────────────────────────────┤
 │ LAMPEIN MEDIUM 12'SX16          [+]   │
-│ Lampein · Diapers                     │
+│ Diapers                               │
 │                              ₱81.55   │
 ├────────────────────────────────────────┤
 │ LAMPEIN MEDIUM 4'SX40           [+]   │
-│ Lampein · Diapers                     │
+│ Diapers                               │
 │                              ₱27.25   │
 ├────────────────────────────────────────┤
 │ ... virtualized list ...              │
@@ -60,21 +60,15 @@ Sidebar layout. Filters move into a left sidebar; SKU list takes the main area.
 │ 🔍 Search...       │ Showing 540 of 10,107  •  Updated 2h ago    │
 │                    ├─────────────────────────────────────────────┤
 │ Category           │ LAMPEIN MEDIUM 12'SX16              [+]     │
-│ ◯ Beverages (540)  │ Lampein · Diapers                  ₱81.55   │
+│ ◯ Beverages (540)  │ Diapers                            ₱81.55   │
 │ ◉ Baby (676)       ├─────────────────────────────────────────────┤
 │ ◯ Beverages (540)  │ LAMPEIN MEDIUM 4'SX40               [+]     │
-│ ◯ Canned (458)     │ Lampein · Diapers                  ₱27.25   │
+│ ◯ Canned (458)     │ Diapers                            ₱27.25   │
 │ ...                ├─────────────────────────────────────────────┤
 │                    │ ... (virtualized) ...                       │
 │ Sub-Category       │                                             │
 │ ◯ Diapers (277)    │                                             │
 │ ◯ Toiletries (227) │                                             │
-│ ...                │                                             │
-│                    │                                             │
-│ Brand              │                                             │
-│ [search brand...]  │                                             │
-│ ☐ Lampein          │                                             │
-│ ☐ Super Twins      │                                             │
 │ ...                │                                             │
 │                    │                                             │
 │ [Clear all]        │                                             │
@@ -98,17 +92,17 @@ Sidebar layout. Filters move into a left sidebar; SKU list takes the main area.
 
 ### Search bar (`components/SearchBar.tsx`)
 - Full-width input on mobile, 400px on desktop
-- Placeholder: "Search products, brand, or barcode…"
+- Placeholder: "Search products or barcode…"
 - Icon: magnifying glass on the left
-- Searches across `name`, `brand`, `code` (barcode)
+- Searches across `name` and `code` (barcode)
 - Debounced 150ms
 - Search is fuzzy/contains — split query into tokens, all must match
 
 ### Filter UI (`components/Filters.tsx`)
-- **Mobile**: three dropdown chips in a row (Category, Sub-category, Brand)
-- **Desktop**: sidebar with radio lists for category/sub-category, checkbox + brand-search for brand
+- **Mobile**: two dropdown chips in a row (Category, Sub-category)
+- **Desktop**: sidebar with radio lists for category/sub-category
 - Sub-category is only enabled after a category is picked
-- Brand list is dynamic — populates from the manifest based on selected category/sub-category
+- Filtering is two levels only — there is no Brand filter
 - "Clear all" link visible only when any filter is active
 
 ### Result count + sort (`components/ResultMeta.tsx`)
@@ -121,7 +115,7 @@ Sidebar layout. Filters move into a left sidebar; SKU list takes the main area.
 - Each row 72px tall on mobile, 64px on desktop
 - Row content:
   - Top line: product name, bold, 16px, truncate if too long with ellipsis
-  - Bottom line: brand · sub-category, 14px, slate-500
+  - Bottom line: sub-category, 14px, slate-500
   - Right: price, 18px, bold, brand-blue
   - Far right: `+` button (32×32px tap target) for adding to order list
 - Tap row anywhere = same as tap `+` (adds to order list, shows brief toast)

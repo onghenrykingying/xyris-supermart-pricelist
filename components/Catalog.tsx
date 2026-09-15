@@ -26,7 +26,6 @@ export function Catalog({
 }) {
   const [categorySlug, setCategorySlug] = useState<string | null>(null);
   const [subCategory, setSubCategory] = useState<string | null>(null);
-  const [brand, setBrand] = useState<string | null>(null);
   const [sort, setSort] = useState<SortMode>("price-asc");
   const [search, setSearch] = useState("");
   const debouncedSearch = useDebouncedValue(search, 150);
@@ -36,9 +35,7 @@ export function Catalog({
 
   const filterActive =
     categorySlug === null &&
-    (debouncedSearch.trim().length > 0 ||
-      subCategory !== null ||
-      brand !== null);
+    (debouncedSearch.trim().length > 0 || subCategory !== null);
 
   const triggerGlobalPreload = useCallback(() => {
     if (globalSkus !== null || globalLoading) return;
@@ -81,18 +78,15 @@ export function Catalog({
   const handleCategoryChange = useCallback((slug: string | null) => {
     setCategorySlug(slug);
     setSubCategory(null);
-    setBrand(null);
   }, []);
 
   const handleSubCategoryChange = useCallback((label: string | null) => {
     setSubCategory(label);
-    setBrand(null);
   }, []);
 
   const handleClearAll = useCallback(() => {
     setCategorySlug(null);
     setSubCategory(null);
-    setBrand(null);
     setSearch("");
   }, []);
 
@@ -101,7 +95,6 @@ export function Catalog({
       const source = globalSkus ?? [];
       return applyFilters(source, {
         subCategory,
-        brand,
         query: debouncedSearch,
         sort,
       });
@@ -109,11 +102,10 @@ export function Catalog({
     const source = load.status === "ready" ? load.skus : [];
     return applyFilters(source, {
       subCategory,
-      brand,
       query: debouncedSearch,
       sort,
     });
-  }, [filterActive, globalSkus, load, subCategory, brand, debouncedSearch, sort]);
+  }, [filterActive, globalSkus, load, subCategory, debouncedSearch, sort]);
 
   return (
     <div className="space-y-3">
@@ -126,11 +118,9 @@ export function Catalog({
         categories={manifest.categories}
         selectedCategorySlug={categorySlug}
         selectedSubCategory={subCategory}
-        selectedBrand={brand}
         sort={sort}
         onCategoryChange={handleCategoryChange}
         onSubCategoryChange={handleSubCategoryChange}
-        onBrandChange={setBrand}
         onSortChange={setSort}
         onClearAll={handleClearAll}
       />

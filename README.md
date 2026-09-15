@@ -1,6 +1,6 @@
 # Xyris Supermart Pricelist
 
-A mobile-first public price list for sari-sari store owners in the Philippines. Browse ~10,500 SKUs by category, sub-category, and brand. Contact us directly via Call, Messenger, or Viber to place orders.
+A mobile-first public price list for sari-sari store owners in the Philippines. Browse ~10,500 SKUs by category and sub-category. Contact us directly via Call, Messenger, or Viber to place orders.
 
 **Live site:** _(deploy to Vercel; URL will be `https://<project>.vercel.app`)_
 
