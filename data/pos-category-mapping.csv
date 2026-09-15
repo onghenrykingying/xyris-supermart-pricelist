@@ -1,0 +1,71 @@
+POS_Dept,POS_Cat,Display_Category,Display_Sub_Category
+BABY,DIAPERS,Baby,Diapers
+BABY,BABY TOILETRIES,Baby,Baby Toiletries
+BABY,INFANT FORMULA,Baby,Infant Formula
+BABY,BABY WIPES & COTTON,Baby,Baby Wipes & Cotton
+BEVERAGES,TEA & JUICE,Beverages,Tea & Juice
+BEVERAGES,BOTTLED WATER,Beverages,Bottled Water
+BEVERAGES,SOFT DRINKS,Beverages,Soft Drinks
+BEVERAGES,YOGURT DRINKS,Beverages,Yogurt Drinks
+BEVERAGES,ENERGY DRINKS,Beverages,Energy Drinks
+CANNED GOODS,CANNED MEAT,Canned Goods,Canned Meat
+CANNED GOODS,CANNED FISH,Canned Goods,Canned Fish
+CANNED GOODS,CANNED FRUIT OR VEGE,Canned Goods,Canned Fruits or Vegetables
+DAIRY & BAKERY,FROZEN & CHILLED MEA,Dairy & Bakery,Frozen & Chilled Meat
+DAIRY & BAKERY,LIQUID MILK & CREAM,Dairy & Bakery,Liquid Milk & Cream
+DAIRY & BAKERY,ICE CREAM,Dairy & Bakery,Ice Cream
+DAIRY & BAKERY,CHEESE & MARGARINE,Dairy & Bakery,Cheese & Margarine
+DAIRY & BAKERY,BREAD & BAKERY,Dairy & Bakery,Bread & Bakery
+HEALTH & PHARMACY,FIRST AID & OTC,Health & Pharmacy,First Aid & OTC
+HEALTH & PHARMACY,FEMALE HYGIENE WASH,Health & Pharmacy,Female Hygiene Wash
+HOUSEHOLD,LAUNDRY,Household,Laundry
+HOUSEHOLD,DISHWASHING,Household,Dishwashing
+HOUSEHOLD,TISSUE & COTTON,Household,Tissue & Cotton
+HOUSEHOLD,BLEACH & CLEANERS,Household,Bleach & Cleaners
+HOUSEHOLD,ALCOHOL & SANITIZER,Household,Alcohol & Sanitizer
+HOUSEHOLD,AIR FRESHENER,Household,Air Freshener
+HOUSEHOLD,INSECT KILLER,Household,Insect Killer
+LIQUOR & TOBACCO,SPIRITS,Liquor & Tobacco,Spirits
+LIQUOR & TOBACCO,CIGARETTES & LIGHTER,Liquor & Tobacco,Cigarettes & Lighters
+LIQUOR & TOBACCO,BEER & WINE,Liquor & Tobacco,Beer & Wine
+MISC,KITCHEN & HOUSEHOLD,Misc,Kitchen & Household Tools
+MISC,PLASTIC & PACKAGING,Misc,Plastic & Packaging
+MISC,CANDLES & MATCHES,Misc,Candles & Matches
+MISC,SCHOOL & OFFICE SUPP,Misc,School & Office Supplies
+MISC,PET FOOD,Misc,Pet Food
+MISC,OPERATIONS,Misc,Operations
+MISC,BATTERIES,Misc,Batteries
+MISC,OTHERS,Misc,Others
+PANTRY & COOKING,BOUILLON & SEASONING,Pantry & Cooking,Bouillon & Seasoning
+PANTRY & COOKING,COFFEE & HOT DRINKS,Pantry & Cooking,Coffee & Hot Drinks
+PANTRY & COOKING,INSTANT NOODLES,Pantry & Cooking,Instant Noodles
+PANTRY & COOKING,SUGAR SALT FLOUR & B,Pantry & Cooking,Sugar Salt Flour & Baking
+PANTRY & COOKING,POWDERED MILK,Pantry & Cooking,Powdered Milk
+PANTRY & COOKING,SOY VINEGAR & PATIS,Pantry & Cooking,Soy Vinegar & Patis
+PANTRY & COOKING,PASTA & NOODLES,Pantry & Cooking,Pasta & Noodles
+PANTRY & COOKING,SPREADS,Pantry & Cooking,Spreads
+PANTRY & COOKING,PASTA SAUCE,Pantry & Cooking,Pasta Sauce
+PANTRY & COOKING,COOKING OIL,Pantry & Cooking,Cooking Oil
+PANTRY & COOKING,KETCHUP & SAUCES,Pantry & Cooking,Ketchup & Sauces
+PANTRY & COOKING,CEREALS & OATS,Pantry & Cooking,Cereals & Oats
+PANTRY & COOKING,CONDENSED & EVAP MIL,Pantry & Cooking,Condensed & Evap Milk
+PERSONAL CARE,HAIR CARE,Personal Care,Hair Care
+PERSONAL CARE,DEODORANT & COLOGNE,Personal Care,Deodorant & Cologne
+PERSONAL CARE,BATH SOAP,Personal Care,Bath Soap
+PERSONAL CARE,LOTION & SKIN CARE,Personal Care,Lotion & Skin Care
+PERSONAL CARE,ORAL CARE,Personal Care,Oral Care
+PERSONAL CARE,SANITARY NAPKINS,Personal Care,Sanitary Napkins
+SNACKS & CONFECTIONERY,"CRACKERS, CAKES & CO",Snacks & Confectionery,"Crackers, Cakes & Cookies"
+SNACKS & CONFECTIONERY,CHOCOLATE & CANDY,Snacks & Confectionery,Chocolate & Candy
+SNACKS & CONFECTIONERY,CHIPS & CURLS,Snacks & Confectionery,Chips & Curls
+PERSONAL CARE,TISSUE & COTTON,Household,Tissue & Cotton
+BABY,BATH SOAP,Personal Care,Bath Soap
+BEVERAGES,SPIRITS,Liquor & Tobacco,Spirits
+BEVERAGES,BEER & WINE,Liquor & Tobacco,Beer & Wine
+HEALTH & PHARMACY,ALCOHOL & SANITIZER,Household,Alcohol & Sanitizer
+PANTRY & COOKING,LIQUID MILK & CREAM,Dairy & Bakery,Liquid Milk & Cream
+PERSONAL CARE,DIAPERS,Baby,Diapers
+PERSONAL CARE,OTHERS,Misc,Others
+SNACKS & CONFECTIONERY,CEREALS & OATS,Pantry & Cooking,Cereals & Oats
+DAIRY & BAKERY,"CRACKERS, CAKES & CO",Snacks & Confectionery,"Crackers, Cakes & Cookies"
+DAIRY & BAKERY,CONDENSED & EVAP MIL,Pantry & Cooking,Condensed & Evap Milk

@@ -2,7 +2,7 @@
 
 The canonical mapping. **This is the only category structure allowed on the public site.** Any SKU whose POS `dept_desc` + `cat_desc` pair is not in this list is hidden until a mapping row is added.
 
-The machine-readable version is `xyris-migration/Categories_POS_native.csv`, and the Xyris team maintains the live copy in the `Categories` tab of the Google Sheet.
+The machine-readable version is `data/pos-category-mapping.csv`, and the Xyris team maintains the live copy in the `Categories` tab of the Google Sheet.
 
 ## Why a mapping table
 
@@ -41,7 +41,9 @@ A display category that appears in the `Categories` tab but not in `DISPLAY_ORDE
 
 **Sub-category order comes from the sheet**: within a category, sub-categories appear in the order their rows first appear in the `Categories` tab. Reordering rows there reorders the dropdown; no code change needed.
 
-## Full mapping (59 rows)
+## Full mapping (70 rows)
+
+Rows where the POS department does not match the display category are marked — those are POS filing quirks the mapping quietly corrects, so the SKU lands where a shopper would look for it.
 
 ### Beverages
 
@@ -60,6 +62,8 @@ A display category that appears in the `Categories` tab but not in `DISPLAY_ORDE
 | `LIQUOR & TOBACCO` | `SPIRITS` | Spirits |
 | `LIQUOR & TOBACCO` | `CIGARETTES & LIGHTER` | Cigarettes & Lighters |
 | `LIQUOR & TOBACCO` | `BEER & WINE` | Beer & Wine |
+| `BEVERAGES` | `SPIRITS` | Spirits ⤴ |
+| `BEVERAGES` | `BEER & WINE` | Beer & Wine ⤴ |
 
 ### Dairy & Bakery
 
@@ -70,6 +74,7 @@ A display category that appears in the `Categories` tab but not in `DISPLAY_ORDE
 | `DAIRY & BAKERY` | `ICE CREAM` | Ice Cream |
 | `DAIRY & BAKERY` | `CHEESE & MARGARINE` | Cheese & Margarine |
 | `DAIRY & BAKERY` | `BREAD & BAKERY` | Bread & Bakery |
+| `PANTRY & COOKING` | `LIQUID MILK & CREAM` | Liquid Milk & Cream ⤴ |
 
 ### Pantry & Cooking
 
@@ -88,6 +93,8 @@ A display category that appears in the `Categories` tab but not in `DISPLAY_ORDE
 | `PANTRY & COOKING` | `KETCHUP & SAUCES` | Ketchup & Sauces |
 | `PANTRY & COOKING` | `CEREALS & OATS` | Cereals & Oats |
 | `PANTRY & COOKING` | `CONDENSED & EVAP MIL` | Condensed & Evap Milk |
+| `SNACKS & CONFECTIONERY` | `CEREALS & OATS` | Cereals & Oats ⤴ |
+| `DAIRY & BAKERY` | `CONDENSED & EVAP MIL` | Condensed & Evap Milk ⤴ |
 
 ### Canned Goods
 
@@ -104,6 +111,7 @@ A display category that appears in the `Categories` tab but not in `DISPLAY_ORDE
 | `SNACKS & CONFECTIONERY` | `CRACKERS, CAKES & CO` | Crackers, Cakes & Cookies |
 | `SNACKS & CONFECTIONERY` | `CHOCOLATE & CANDY` | Chocolate & Candy |
 | `SNACKS & CONFECTIONERY` | `CHIPS & CURLS` | Chips & Curls |
+| `DAIRY & BAKERY` | `CRACKERS, CAKES & CO` | Crackers, Cakes & Cookies ⤴ |
 
 ### Personal Care
 
@@ -115,6 +123,7 @@ A display category that appears in the `Categories` tab but not in `DISPLAY_ORDE
 | `PERSONAL CARE` | `LOTION & SKIN CARE` | Lotion & Skin Care |
 | `PERSONAL CARE` | `ORAL CARE` | Oral Care |
 | `PERSONAL CARE` | `SANITARY NAPKINS` | Sanitary Napkins |
+| `BABY` | `BATH SOAP` | Bath Soap ⤴ |
 
 ### Health & Pharmacy
 
@@ -134,6 +143,8 @@ A display category that appears in the `Categories` tab but not in `DISPLAY_ORDE
 | `HOUSEHOLD` | `ALCOHOL & SANITIZER` | Alcohol & Sanitizer |
 | `HOUSEHOLD` | `AIR FRESHENER` | Air Freshener |
 | `HOUSEHOLD` | `INSECT KILLER` | Insect Killer |
+| `PERSONAL CARE` | `TISSUE & COTTON` | Tissue & Cotton ⤴ |
+| `HEALTH & PHARMACY` | `ALCOHOL & SANITIZER` | Alcohol & Sanitizer ⤴ |
 
 ### Baby
 
@@ -143,6 +154,7 @@ A display category that appears in the `Categories` tab but not in `DISPLAY_ORDE
 | `BABY` | `BABY TOILETRIES` | Baby Toiletries |
 | `BABY` | `INFANT FORMULA` | Infant Formula |
 | `BABY` | `BABY WIPES & COTTON` | Baby Wipes & Cotton |
+| `PERSONAL CARE` | `DIAPERS` | Diapers ⤴ |
 
 ### Misc
 
@@ -156,6 +168,9 @@ A display category that appears in the `Categories` tab but not in `DISPLAY_ORDE
 | `MISC` | `OPERATIONS` | Operations |
 | `MISC` | `BATTERIES` | Batteries |
 | `MISC` | `OTHERS` | Others |
+| `PERSONAL CARE` | `OTHERS` | Others ⤴ |
+
+⤴ = the POS files this pair under a different department; the mapping redirects it here.
 
 ## Maintenance
 

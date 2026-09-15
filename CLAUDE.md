@@ -52,7 +52,7 @@ xyris-supermart-pricelist/
 │   ├── 10-order-list.md
 │   └── 11-deployment.md
 ├── data/
-│   ├── master-categories.csv   # canonical category list (12 cats, ~58 subcats)
+│   ├── pos-category-mapping.csv # POS dept+cat → display names (11 cats, 70 mappings)
 │   └── sample-output/          # example JSON structure the Apps Script produces
 │       ├── manifest.json
 │       └── baby.json

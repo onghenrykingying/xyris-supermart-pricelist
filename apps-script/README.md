@@ -81,7 +81,7 @@ The first time you click `Xyris → Validate (preview only)`:
 | GitHub commit fails with 401 | Token expired or wrong. Regenerate, update `Config.gs`. |
 | GitHub commit fails with 404 | Wrong owner or repo name in `Config.gs` |
 | Site shows zero SKUs | Publish_Log tab will show the commit SHA. Check that commit exists in GitHub. |
-| Modal shows wrong counts | The Categories tab in the sheet may not match `data/master-categories.csv`. Re-sync. |
+| Modal shows wrong counts | The Categories tab in the sheet may not match `data/pos-category-mapping.csv`. Re-sync. |
 
 ## Updating the script
 

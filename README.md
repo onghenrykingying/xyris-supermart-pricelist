@@ -10,7 +10,7 @@ A mobile-first public price list for sari-sari store owners in the Philippines. 
 - `public/data/` — JSON files generated weekly by Google Apps Script from the master sheet
 - `apps-script/` — Google Apps Script source code (validates the master sheet, publishes JSON to this repo)
 - `docs/` — full specification (read these before contributing)
-- `data/master-categories.csv` — canonical category list
+- `data/pos-category-mapping.csv` — canonical POS → display-name category mapping
 
 ## Tech stack
 

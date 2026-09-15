@@ -33,7 +33,7 @@ Four columns: `POS_Dept`, `POS_Cat`, `Display_Category`, `Display_Sub_Category`.
 
 The first two hold the raw POS values (matched case-insensitively, upper-cased before lookup); the last two hold the human-readable names the website shows. This is both the reference list that validation checks against **and** the translation layer — POS ships UPPERCASE, truncated strings like `CANNED FRUIT OR VEGE`, which would look wrong on the site.
 
-Row order also defines display order: sub-categories appear within a category in the order they first appear in this tab. Seed it from `xyris-migration/Categories_POS_native.csv` (59 mappings).
+Row order also defines display order: sub-categories appear within a category in the order they first appear in this tab. Seed it from `data/pos-category-mapping.csv` (70 mappings).
 
 ### Tab 3: `Settings` (editable site config)
 
@@ -57,6 +57,33 @@ Required keys:
 ### Tab 4: `Publish_Log` (audit trail, auto-written)
 
 The Apps Script appends a row here on every publish: timestamp, publisher email, SKU counts (live / hidden / flagged), Git commit SHA. Team never edits this tab.
+
+## Weekly update run
+
+The whole run is a straight import-and-publish — no conversion script, no editing of individual rows.
+
+1. **Export from the POS.** You get an xlsx with the ten columns above.
+2. **Save it as CSV.** Open it in Excel, `File → Save As`, format **CSV UTF-8**.
+   This step is not optional. Google Sheets only offers *Replace current sheet* for CSV/TSV; an xlsx can only replace the **entire spreadsheet**, which would destroy the `Categories`, `Settings` and `Publish_Log` tabs. Excel keeps text cells as text when it writes the CSV, so barcodes survive.
+3. **Clear `SKUs_Master`.** Select all (`Cmd+A`), `Delete`.
+4. **Import the CSV.** `File → Import → Upload`, then:
+   - Import location: **Replace current sheet**
+   - Separator type: Comma (or Detect automatically)
+   - Convert text to numbers, dates, and formulas: **No**
+5. **Validate.** `Xyris → Validate (preview only)`. Check the counts look sane before going further.
+6. **Publish.** `Xyris → Publish to Site → Publish anyway`. Vercel redeploys in about 60 seconds.
+
+### Convert text to numbers must be No
+
+This is the one setting that silently corrupts data. `prod_code` is a text column and roughly 400 of the barcodes begin with a zero (`000048036016`). Left to convert, Sheets reads them as numbers and drops the leading zeros, and **the damage cannot be repaired afterwards**: a stripped 13-digit code is indistinguishable from a genuine 12-digit one, so no padding rule can tell them apart. The only fix is to re-import with the setting off.
+
+Formatting the column as plain text beforehand does *not* protect it — a paste from Excel carries its own cell formatting and overrides the destination.
+
+To check an import went through cleanly, look up a barcode you know starts with a zero and confirm the zeros are still there.
+
+### When the POS adds a category
+
+Validate reports unmapped `dept_desc` + `cat_desc` pairs under "Unknown POS combinations (auto-hidden)", with a SKU count for each. Add a row to the `Categories` tab pointing the pair at the display names you want, then publish again. `SKUs_Master` is never touched, and no code changes.
 
 ## Publish trigger
 
@@ -108,4 +135,4 @@ File names: lowercase, spaces → hyphens, `&` removed. `Pantry & Cooking` → `
 
 Manual trigger only. The team clicks Publish whenever they want updates live. No scheduled job.
 
-Typical cadence (expected): weekly to twice-weekly. Occasionally daily during price-volatile periods.
+Typical cadence: weekly to twice-weekly, occasionally daily during price-volatile periods. A run takes about three minutes end to end.
