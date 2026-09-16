@@ -25,7 +25,7 @@ Click → reveals a sheet/menu with three options:
 │                                  │
 │  💬 Message on Messenger          │
 │                                  │
-│  ◉  Chat on Viber                 │
+│  ◉  Send order on Viber           │
 │                                  │
 │  [Cancel]                        │
 └──────────────────────────────────┘
@@ -37,7 +37,11 @@ All three open in the user's device app:
 
 - **Call**: `<a href="tel:{settings.phoneCall}">`
 - **Messenger**: `<a href="{settings.messengerUrl}">` (e.g., `https://m.me/xyrissupermart`)
-- **Viber**: `<a href="{settings.viberChat}">` (e.g., `viber://chat?number=%2B639171234567`)
+- **Viber**: one row per entry in `settings.viberContacts`, labelled with the
+  number, linking to `viber://chat?number=<E.164>`. With items in the list this
+  collapses to a single "Send order on Viber" row using `viber://forward?text=`
+  — the scheme can name a recipient or carry a message, never both, so the
+  message wins and Viber asks who it goes to.
 
 If the user has items in their order list, the Messenger and Viber options pre-fill a message with the order (see `10-order-list.md`). Call doesn't pre-fill anything (it's a voice call).
 

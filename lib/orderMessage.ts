@@ -25,8 +25,17 @@ export function buildOrderMessage(
   ].join("\n");
 }
 
+/**
+ * Carries the order text, but Viber asks the sender who to deliver it to —
+ * the scheme has no way to name a recipient and a message at once.
+ */
 export function viberForwardUrl(message: string): string {
   return `viber://forward?text=${encodeURIComponent(message)}`;
+}
+
+/** Opens the chat with one specific line. Cannot carry a message; see above. */
+export function viberChatUrl(phoneE164: string): string {
+  return `viber://chat?number=${encodeURIComponent(phoneE164)}`;
 }
 
 export function smsUrl(phoneE164: string, message: string): string {

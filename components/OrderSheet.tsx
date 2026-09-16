@@ -9,6 +9,7 @@ import {
   callUrl,
   copyToClipboard,
   smsUrl,
+  viberChatUrl,
   viberForwardUrl,
 } from "@/lib/orderMessage";
 
@@ -37,13 +38,18 @@ export function OrderSheet({ open }: { open: boolean }) {
     close();
   };
 
-  const onViber = async () => {
-    if (hasItems) {
-      const ok = await copyToClipboard(message);
-      if (!ok) toast("Open Viber and paste your order");
-    }
-    const url = hasItems ? viberForwardUrl(message) : settings.viberChat;
-    window.location.href = url;
+  // Viber's scheme can name a recipient or carry a message, never both. With
+  // an order to send, the message wins and Viber asks who it goes to; with
+  // nothing to send, the specific line wins.
+  const onViberSendOrder = async () => {
+    const ok = await copyToClipboard(message);
+    if (!ok) toast("Open Viber and paste your order");
+    window.location.href = viberForwardUrl(message);
+    close();
+  };
+
+  const onViberChat = (numberE164: string) => {
+    window.location.href = viberChatUrl(numberE164);
     close();
   };
 
@@ -98,14 +104,26 @@ export function OrderSheet({ open }: { open: boolean }) {
             onClick={onMessenger}
           />
         </li>
-        <li>
-          <Option
-            icon={<MessageCircle className="h-5 w-5" aria-hidden="true" />}
-            label="Chat on Viber"
-            sublabel={hasItems ? "Pre-filled with your order" : undefined}
-            onClick={onViber}
-          />
-        </li>
+        {hasItems ? (
+          <li>
+            <Option
+              icon={<MessageCircle className="h-5 w-5" aria-hidden="true" />}
+              label="Send order on Viber"
+              sublabel="Viber will ask who to send it to"
+              onClick={onViberSendOrder}
+            />
+          </li>
+        ) : (
+          settings.viberContacts.map((c) => (
+            <li key={c.number}>
+              <Option
+                icon={<MessageCircle className="h-5 w-5" aria-hidden="true" />}
+                label={`Viber ${c.display}`}
+                onClick={() => onViberChat(c.number)}
+              />
+            </li>
+          ))
+        )}
         <li>
           <Option
             icon={<Send className="h-5 w-5" aria-hidden="true" />}

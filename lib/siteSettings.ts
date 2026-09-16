@@ -8,7 +8,7 @@ import type { Settings } from "./types";
  * did not hold: publishing commits to GitHub, which rebuilds on Vercel, so
  * a Sheet edit costs a deploy either way. What it did cost was correctness —
  * `viber_channel_url` sat in production pointing at the one-to-one chat
- * instead of the group invite, identical to `viberChat` below it, and
+ * instead of the group invite, identical to the one-to-one chat line below it, and
  * nothing surfaced it. Here the two sit side by side in every diff.
  *
  * Changing any of this means a code change and a push, so it is no longer
@@ -29,8 +29,13 @@ export const SITE_SETTINGS: Settings = {
 
   messengerUrl: "https://m.me/xyrissupermartph",
 
-  // One-to-one chat, used when placing an order.
-  viberChat: "viber://chat?number=%2B639281849118",
+  // The lines the store answers on. Order matters: the first is the default
+  // when there is no order to carry. The phone number above stays as it was —
+  // it is for calls and SMS, and is no longer a Viber contact.
+  viberContacts: [
+    { number: "+639159076392", display: "0915 907 6392" },
+    { number: "+639703875708", display: "0970 387 5708" },
+  ],
 
   // The public group. %2B and %2F are part of the invite token — decoding
   // them to + and / breaks the link, which is exactly the sort of damage a

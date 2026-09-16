@@ -18,13 +18,22 @@ export interface CategoryMeta {
   subCategories: SubCategoryMeta[];
 }
 
+/** One Viber line the store answers on. */
+export interface ViberContact {
+  /** E.164, e.g. "+639159076392" — used to build the viber:// link. */
+  number: string;
+  /** What a person reads, e.g. "0915 907 6392". */
+  display: string;
+}
+
 export interface Settings {
   brandName: string;
   brandTagline: string;
   phoneCall: string;
   phoneDisplay: string;
   messengerUrl: string;
-  viberChat: string;
+  /** Order/enquiry lines. Distinct from viberChannelUrl, which is the promo group. */
+  viberContacts: ViberContact[];
   viberChannelUrl: string;
   viberChannelLabel: string;
   footerAddress: string;

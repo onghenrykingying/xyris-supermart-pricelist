@@ -65,7 +65,8 @@ export interface Settings {
   phoneCall: string;              // E.164, e.g. "+639171234567"
   phoneDisplay: string;           // e.g. "0917 123 4567"
   messengerUrl: string;
-  viberChat: string;              // viber:// or https:// URL
+  // Order/enquiry lines; the promo group is viberChannelUrl below.
+  viberContacts: { number: string; display: string }[];
   viberChannelUrl: string;
   viberChannelLabel: string;
   footerAddress: string;
