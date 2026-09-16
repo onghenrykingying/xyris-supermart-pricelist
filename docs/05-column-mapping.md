@@ -42,7 +42,8 @@ export interface Manifest {
   generatedAt: string;            // ISO 8601 timestamp
   totalSKUs: number;
   categories: CategoryMeta[];
-  settings: Settings;
+  // The publisher also writes `settings`, deliberately not declared here —
+  // contact details live in lib/siteSettings.ts. See 03-data-pipeline.md.
 }
 
 export interface CategoryMeta {
@@ -57,6 +58,7 @@ export interface SubCategoryMeta {
   skuCount: number;
 }
 
+// Shape of lib/siteSettings.ts — hard-coded, not read from the manifest.
 export interface Settings {
   brandName: string;
   brandTagline: string;

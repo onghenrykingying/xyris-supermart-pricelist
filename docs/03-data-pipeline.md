@@ -35,11 +35,24 @@ The first two hold the raw POS values (matched case-insensitively, upper-cased b
 
 Row order also defines display order: sub-categories appear within a category in the order they first appear in this tab. Seed it from `data/pos-category-mapping.csv` (70 mappings).
 
-### Tab 3: `Settings` (editable site config)
+### Tab 3: `Settings` (no longer read by the site)
 
-Two columns: `key`, `value`. The Apps Script reads this tab and includes its content in `manifest.json` so the site can use it without redeployment.
+> **The site does not use this tab.** Contact details and site copy live in
+> `lib/siteSettings.ts` and change by code edit and push.
+>
+> The rationale for keeping them here was that the site could be updated
+> without a redeploy, which turned out to be false — publishing commits to
+> GitHub, which rebuilds on Vercel, so a Sheet edit costs a deploy either way.
+> What it did cost was correctness: `viber_channel_url` sat in production
+> pointing at the one-to-one chat rather than the group invite, and nothing
+> surfaced it. In code the two values sit side by side in every diff.
+>
+> The publisher still reads the tab and writes a `settings` object into
+> `manifest.json`; the site ignores it and `Manifest` no longer declares it.
+> The tab is kept so publishing keeps working unchanged. Editing it has no
+> effect on the site.
 
-Required keys:
+Two columns: `key`, `value`. Keys the publisher still copies into the manifest:
 
 | key | example value | used for |
 |---|---|---|

@@ -31,11 +31,15 @@ export interface Settings {
   footerNote: string;
 }
 
+/**
+ * Note: the publisher also writes a `settings` object into manifest.json,
+ * deliberately not declared here. Contact details live in
+ * `lib/siteSettings.ts` — see the note there.
+ */
 export interface Manifest {
   generatedAt: string;
   totalSKUs: number;
   categories: CategoryMeta[];
-  settings: Settings;
 }
 
 export interface CategoryFile {
