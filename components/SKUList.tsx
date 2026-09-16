@@ -3,7 +3,7 @@
 import { useMemo, useRef } from "react";
 import { useVirtualizer } from "@tanstack/react-virtual";
 import type { SKU } from "@/lib/types";
-import { SKURow, ROW_HEIGHT } from "./SKURow";
+import { SKURow, ROW_HEIGHT, ROW_HEIGHT_WITH_LOCATION } from "./SKURow";
 import { ViberCard, VIBER_CARD_HEIGHT } from "./ViberCard";
 
 type Row =
@@ -23,7 +23,14 @@ function buildRows(skus: SKU[]): Row[] {
   return rows;
 }
 
-export function SKUList({ skus }: { skus: SKU[] }) {
+export function SKUList({
+  skus,
+  showLocation = false,
+}: {
+  skus: SKU[];
+  showLocation?: boolean;
+}) {
+  const rowHeight = showLocation ? ROW_HEIGHT_WITH_LOCATION : ROW_HEIGHT;
   const parentRef = useRef<HTMLDivElement>(null);
   const rows = useMemo(() => buildRows(skus), [skus]);
 
@@ -31,7 +38,7 @@ export function SKUList({ skus }: { skus: SKU[] }) {
     count: rows.length,
     getScrollElement: () => parentRef.current,
     estimateSize: (i) =>
-      rows[i].kind === "viber" ? VIBER_CARD_HEIGHT : ROW_HEIGHT,
+      rows[i].kind === "viber" ? VIBER_CARD_HEIGHT : rowHeight,
     overscan: 8,
     getItemKey: (i) => {
       const row = rows[i];
@@ -42,11 +49,11 @@ export function SKUList({ skus }: { skus: SKU[] }) {
   if (skus.length === 0) {
     return (
       <div className="rounded-lg border border-dashed border-slate-300 bg-white px-4 py-10 text-center">
-        <p className="font-semibold text-xyris-charcoal">
-          No products match your filters.
+        <p className="text-lg font-bold text-xyris-charcoal">
+          Nothing found.
         </p>
-        <p className="mt-1 text-sm text-slate-500">
-          Try clearing the search or picking a different category.
+        <p className="mt-1 text-base text-slate-600">
+          Try a shorter word, or go back and pick another group.
         </p>
       </div>
     );
@@ -73,7 +80,7 @@ export function SKUList({ skus }: { skus: SKU[] }) {
               style={{ transform: `translateY(${vi.start}px)` }}
             >
               {row.kind === "sku" ? (
-                <SKURow sku={row.sku} />
+                <SKURow sku={row.sku} showLocation={showLocation} />
               ) : (
                 <ViberCard />
               )}

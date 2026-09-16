@@ -19,3 +19,11 @@ body {
 .tabular {
   font-variant-numeric: tabular-nums;
 }
+
+/* type="search" ships its own clear button in WebKit; we render our own, and
+   two crosses side by side is exactly the sort of thing that stops someone. */
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+  appearance: none;
+}

@@ -15,7 +15,7 @@ export default async function HomePage() {
     <OrderProvider settings={manifest.settings}>
       <Header />
       <ViberBanner />
-      <main className="mx-auto max-w-6xl px-4 pt-3 pb-12">
+      <main className="mx-auto max-w-6xl px-4 pt-3 pb-28 md:pb-12">
         <Catalog manifest={manifest} updatedLabel={updatedLabel} />
       </main>
       <Footer settings={manifest.settings} />

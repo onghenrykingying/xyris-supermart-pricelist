@@ -1,33 +1,27 @@
 export function ResultMeta({
   shownCount,
-  totalCount,
   updatedLabel,
   loading = false,
 }: {
   shownCount: number;
-  totalCount: number;
   updatedLabel: string;
   loading?: boolean;
 }) {
   return (
-    <div className="flex items-center justify-between text-xs text-slate-500">
+    <div className="flex flex-wrap items-center justify-between gap-x-3 gap-y-1 text-sm text-slate-600">
       <span>
         {loading ? (
-          <span>Loading products…</span>
+          <span>Loading prices…</span>
         ) : (
           <>
-            Showing{" "}
-            <span className="font-semibold text-xyris-charcoal tabular">
+            <span className="font-bold text-xyris-charcoal tabular">
               {shownCount.toLocaleString()}
             </span>{" "}
-            of{" "}
-            <span className="font-semibold text-xyris-charcoal tabular">
-              {totalCount.toLocaleString()}
-            </span>
+            {shownCount === 1 ? "item" : "items"}
           </>
         )}
       </span>
-      <span>Updated {updatedLabel}</span>
+      <span>Prices updated {updatedLabel}</span>
     </div>
   );
 }

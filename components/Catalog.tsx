@@ -6,9 +6,12 @@ import { loadAllCategories, loadCategory } from "@/lib/data";
 import { applyFilters, type SortMode } from "@/lib/filter";
 import { useDebouncedValue } from "@/lib/useDebouncedValue";
 import { SearchBar } from "./SearchBar";
-import { Filters } from "./Filters";
+import { SortBar } from "./SortBar";
+import { Breadcrumb } from "./Breadcrumb";
 import { CategoryPicker } from "./CategoryPicker";
+import { SubCategoryPicker } from "./SubCategoryPicker";
 import { SKUList } from "./SKUList";
+import { ROW_HEIGHT, ROW_HEIGHT_WITH_LOCATION } from "./SKURow";
 import { ResultMeta } from "./ResultMeta";
 
 type LoadState =
@@ -17,6 +20,11 @@ type LoadState =
   | { status: "ready"; skus: SKU[] }
   | { status: "error"; message: string };
 
+/**
+ * Three screens, one level apart: groups → shelves → prices. Search cuts
+ * across all of them and always looks everywhere, so there is never a hidden
+ * filter quietly excluding what someone is typing.
+ */
 export function Catalog({
   manifest,
   updatedLabel,
@@ -26,16 +34,18 @@ export function Catalog({
 }) {
   const [categorySlug, setCategorySlug] = useState<string | null>(null);
   const [subCategory, setSubCategory] = useState<string | null>(null);
-  const [sort, setSort] = useState<SortMode>("price-asc");
+  const [showAllInCategory, setShowAllInCategory] = useState(false);
+  const [sort, setSort] = useState<SortMode>("name-asc");
   const [search, setSearch] = useState("");
   const debouncedSearch = useDebouncedValue(search, 150);
   const [load, setLoad] = useState<LoadState>({ status: "idle" });
   const [globalSkus, setGlobalSkus] = useState<SKU[] | null>(null);
   const [globalLoading, setGlobalLoading] = useState(false);
 
-  const filterActive =
-    categorySlug === null &&
-    (debouncedSearch.trim().length > 0 || subCategory !== null);
+  const searching = debouncedSearch.trim().length > 0;
+  const category =
+    manifest.categories.find((c) => c.slug === categorySlug) ?? null;
+  const viewingList = !searching && category !== null && (subCategory !== null || showAllInCategory);
 
   const triggerGlobalPreload = useCallback(() => {
     if (globalSkus !== null || globalLoading) return;
@@ -49,8 +59,8 @@ export function Catalog({
   }, [manifest, globalSkus, globalLoading]);
 
   useEffect(() => {
-    if (filterActive) triggerGlobalPreload();
-  }, [filterActive, triggerGlobalPreload]);
+    if (searching) triggerGlobalPreload();
+  }, [searching, triggerGlobalPreload]);
 
   useEffect(() => {
     if (!categorySlug) {
@@ -75,37 +85,51 @@ export function Catalog({
     };
   }, [categorySlug]);
 
-  const handleCategoryChange = useCallback((slug: string | null) => {
+  const handlePickCategory = useCallback((slug: string) => {
     setCategorySlug(slug);
     setSubCategory(null);
+    setShowAllInCategory(false);
   }, []);
 
-  const handleSubCategoryChange = useCallback((label: string | null) => {
+  const handlePickSub = useCallback((label: string) => {
     setSubCategory(label);
+    setShowAllInCategory(false);
   }, []);
 
-  const handleClearAll = useCallback(() => {
-    setCategorySlug(null);
+  const handleShowAll = useCallback(() => {
     setSubCategory(null);
-    setSearch("");
+    setShowAllInCategory(true);
+  }, []);
+
+  // One step back up the ladder, never further.
+  const handleBack = useCallback(() => {
+    if (subCategory !== null || showAllInCategory) {
+      setSubCategory(null);
+      setShowAllInCategory(false);
+      return;
+    }
+    setCategorySlug(null);
+  }, [subCategory, showAllInCategory]);
+
+  const backToCategory = useCallback(() => {
+    setSubCategory(null);
+    setShowAllInCategory(false);
   }, []);
 
   const filtered = useMemo(() => {
-    if (filterActive) {
-      const source = globalSkus ?? [];
-      return applyFilters(source, {
-        subCategory,
+    if (searching) {
+      return applyFilters(globalSkus ?? [], {
+        subCategory: null,
         query: debouncedSearch,
         sort,
       });
     }
+    if (!viewingList) return [];
     const source = load.status === "ready" ? load.skus : [];
-    return applyFilters(source, {
-      subCategory,
-      query: debouncedSearch,
-      sort,
-    });
-  }, [filterActive, globalSkus, load, subCategory, debouncedSearch, sort]);
+    return applyFilters(source, { subCategory, query: "", sort });
+  }, [searching, globalSkus, viewingList, load, subCategory, debouncedSearch, sort]);
+
+  const searchLoading = globalLoading && globalSkus === null;
 
   return (
     <div className="space-y-3">
@@ -114,44 +138,51 @@ export function Catalog({
         onChange={setSearch}
         onFocus={triggerGlobalPreload}
       />
-      <Filters
-        categories={manifest.categories}
-        selectedCategorySlug={categorySlug}
-        selectedSubCategory={subCategory}
-        sort={sort}
-        onCategoryChange={handleCategoryChange}
-        onSubCategoryChange={handleSubCategoryChange}
-        onSortChange={setSort}
-        onClearAll={handleClearAll}
-      />
 
-      {filterActive ? (
+      {searching ? (
         <>
+          <p className="text-base text-slate-600">
+            Searching all {manifest.totalSKUs.toLocaleString()} products
+          </p>
           <ResultMeta
             shownCount={filtered.length}
-            totalCount={manifest.totalSKUs}
             updatedLabel={updatedLabel}
-            loading={globalLoading && globalSkus === null}
+            loading={searchLoading}
           />
-          {globalLoading && globalSkus === null ? (
-            <ListSkeleton />
+          <SortBar sort={sort} onSortChange={setSort} />
+          {searchLoading ? (
+            <ListSkeleton withLocation />
           ) : (
-            <SKUList skus={filtered} />
+            <SKUList skus={filtered} showLocation />
           )}
         </>
-      ) : categorySlug === null ? (
+      ) : category === null ? (
         <CategoryPicker
           categories={manifest.categories}
-          onPick={handleCategoryChange}
+          onPick={handlePickCategory}
         />
+      ) : !viewingList ? (
+        <>
+          <Breadcrumb onBack={handleBack} />
+          <SubCategoryPicker
+            category={category}
+            onPickSub={handlePickSub}
+            onShowAll={handleShowAll}
+          />
+        </>
       ) : (
         <>
+          <Breadcrumb
+            trail={[category.label, subCategory ?? "Everything"]}
+            onBack={handleBack}
+            onTrailClick={backToCategory}
+          />
           <ResultMeta
             shownCount={filtered.length}
-            totalCount={manifest.totalSKUs}
             updatedLabel={updatedLabel}
             loading={load.status === "loading"}
           />
+          <SortBar sort={sort} onSortChange={setSort} />
           {load.status === "loading" ? (
             <ListSkeleton />
           ) : load.status === "error" ? (
@@ -168,21 +199,28 @@ export function Catalog({
   );
 }
 
-function ListSkeleton() {
+function ListSkeleton({ withLocation = false }: { withLocation?: boolean }) {
+  const h = withLocation ? ROW_HEIGHT_WITH_LOCATION : ROW_HEIGHT;
   return (
     <ul
       role="status"
-      aria-label="Loading products"
+      aria-label="Loading prices"
       className="divide-y divide-slate-200 rounded-lg border border-slate-200 bg-white"
     >
-      {Array.from({ length: 6 }).map((_, i) => (
-        <li key={i} className="flex items-center gap-3 px-4 py-4">
-          <div className="flex-1 space-y-2">
-            <div className="h-4 w-3/4 rounded bg-slate-200" />
-            <div className="h-3 w-1/3 rounded bg-slate-100" />
+      {Array.from({ length: 5 }).map((_, i) => (
+        <li
+          key={i}
+          className="flex flex-col justify-center gap-3 px-4"
+          style={{ height: h }}
+        >
+          <div className="space-y-2">
+            <div className="h-4 w-4/5 rounded bg-slate-200" />
+            <div className="h-4 w-1/2 rounded bg-slate-200" />
           </div>
-          <div className="h-5 w-16 rounded bg-slate-200" />
-          <div className="h-8 w-8 shrink-0 rounded-full bg-slate-100" />
+          <div className="flex items-center justify-between">
+            <div className="h-6 w-20 rounded bg-slate-200" />
+            <div className="h-12 w-24 rounded-full bg-slate-100" />
+          </div>
         </li>
       ))}
     </ul>
@@ -198,12 +236,14 @@ function ErrorBox({
 }) {
   return (
     <div className="rounded-lg border border-dashed border-xyris-red bg-white px-4 py-6 text-center">
-      <p className="font-semibold text-xyris-red">Couldn’t load this category.</p>
-      <p className="mt-1 text-sm text-slate-500">{message}</p>
+      <p className="text-lg font-bold text-xyris-red">
+        Couldn’t load these prices.
+      </p>
+      <p className="mt-1 text-base text-slate-600">{message}</p>
       <button
         type="button"
         onClick={onRetry}
-        className="mt-3 inline-flex items-center rounded-full bg-xyris-blue px-4 py-2 text-sm font-semibold text-white hover:bg-xyris-blue-dark focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-xyris-blue"
+        className="mt-3 inline-flex h-12 items-center rounded-full bg-xyris-blue px-5 text-base font-bold text-white hover:bg-xyris-blue-dark focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-xyris-blue"
       >
         Try again
       </button>
