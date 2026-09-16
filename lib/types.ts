@@ -1,6 +1,9 @@
 export interface SKU {
   code: string;
+  /** Display name — brand abbreviations expanded. See `lib/brandNames.ts`. */
   name: string;
+  /** As the POS wrote it, present only when `name` differs. Kept searchable. */
+  posName?: string;
   price: number;
   category: string;
   subCategory: string;

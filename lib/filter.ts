@@ -19,7 +19,8 @@ export function applyFilters(
   const filtered = skus.filter((s) => {
     if (opts.subCategory && s.subCategory !== opts.subCategory) return false;
     if (tokens.length === 0) return true;
-    const hay = `${s.name} ${s.code}`.toLowerCase();
+    // Both spellings match: a shopper types "Knorr", store staff type "KNR".
+    const hay = `${s.name} ${s.posName ?? ""} ${s.code}`.toLowerCase();
     return tokens.every((t) => hay.includes(t));
   });
 

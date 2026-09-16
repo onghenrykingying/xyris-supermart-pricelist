@@ -1,8 +1,14 @@
 "use client";
 
 import type { CategoryFile, Manifest, SKU } from "./types";
+import { expandBrand } from "./brandNames";
 
 const cache = new Map<string, Promise<CategoryFile>>();
+
+function withDisplayName(sku: SKU): SKU {
+  const name = expandBrand(sku.name);
+  return name === sku.name ? sku : { ...sku, name, posName: sku.name };
+}
 
 export function loadCategory(slug: string): Promise<CategoryFile> {
   let inflight = cache.get(slug);
@@ -12,7 +18,10 @@ export function loadCategory(slug: string): Promise<CategoryFile> {
         if (!res.ok) {
           throw new Error(`Failed to load ${slug}.json (${res.status})`);
         }
-        return (await res.json()) as CategoryFile;
+        const file = (await res.json()) as CategoryFile;
+        // Expand once, here, so every screen and the order list agree on the
+        // name a shopper was shown.
+        return { ...file, skus: file.skus.map(withDisplayName) };
       },
     );
     inflight.catch(() => cache.delete(slug));
