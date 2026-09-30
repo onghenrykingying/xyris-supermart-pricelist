@@ -1,6 +1,6 @@
 {
   "category": "Baby",
-  "generatedAt": "2026-09-15T13:20:10.426Z",
+  "generatedAt": "2026-09-30T02:08:38.153Z",
   "skus": [
     {
       "code": "4806506319624",
@@ -2600,14 +2600,14 @@
       "subCategory": "Baby Toiletries"
     },
     {
-      "code": "000048036016",
+      "code": "48036016",
       "name": "JB OIL LITE 25MLX144",
       "price": 32.25,
       "category": "Baby",
       "subCategory": "Baby Toiletries"
     },
     {
-      "code": "000048035996",
+      "code": "48035996",
       "name": "JB OIL REG. 25MLX144",
       "price": 25.45,
       "category": "Baby",
@@ -2628,7 +2628,7 @@
       "subCategory": "Baby Toiletries"
     },
     {
-      "code": "000048038065",
+      "code": "48038065",
       "name": "JB OIL ALOE 25MLX144",
       "price": 32.25,
       "category": "Baby",
@@ -4217,14 +4217,14 @@
       "subCategory": "Baby Toiletries"
     },
     {
-      "code": "000000000024",
+      "code": "24",
       "name": "JB POW BLOSSOMS 25G 7+1",
       "price": 120.05,
       "category": "Baby",
       "subCategory": "Baby Toiletries"
     },
     {
-      "code": "000000000017",
+      "code": "17",
       "name": "JB POW CLASSIC 25G 25+1",
       "price": 100.65,
       "category": "Baby",
@@ -4404,13 +4404,6 @@
       "price": 477.25,
       "category": "Baby",
       "subCategory": "Diapers"
-    },
-    {
-      "code": "4800488962908",
-      "name": "NURSY BABY WIPES UNSCENTED 3'S LESS 25.0",
-      "price": 237.45,
-      "category": "Baby",
-      "subCategory": "Baby Wipes & Cotton"
     },
     {
       "code": "4806506317125",
@@ -4626,6 +4619,69 @@
       "code": "4806506315695",
       "name": "TWINS LAMPEIN XXXL38'SX6",
       "price": 419.05,
+      "category": "Baby",
+      "subCategory": "Diapers"
+    },
+    {
+      "code": "4802288812483",
+      "name": "HAPPY BABY PANTS M48'SX4",
+      "price": 345.25,
+      "category": "Baby",
+      "subCategory": "Diapers"
+    },
+    {
+      "code": "4802288813480",
+      "name": "HAPPY BABY PANTS L48'SX4",
+      "price": 384.65,
+      "category": "Baby",
+      "subCategory": "Diapers"
+    },
+    {
+      "code": "4802288814487",
+      "name": "HAPPY BABY PANTS XL48'SX4",
+      "price": 420.95,
+      "category": "Baby",
+      "subCategory": "Diapers"
+    },
+    {
+      "code": "4802288815484",
+      "name": "HAPPY BABY PANTS XXL48'SX4",
+      "price": 443.35,
+      "category": "Baby",
+      "subCategory": "Diapers"
+    },
+    {
+      "code": "4802288816122",
+      "name": "HAPPY BABY PANTS XXXL12'SX12",
+      "price": 137.05,
+      "category": "Baby",
+      "subCategory": "Diapers"
+    },
+    {
+      "code": "4802288816245",
+      "name": "HAPPY BABY PANTS XXXL24'SX6",
+      "price": 272.85,
+      "category": "Baby",
+      "subCategory": "Diapers"
+    },
+    {
+      "code": "4802288816481",
+      "name": "HAPPY BABY PANTS XXXL48'SX4",
+      "price": 529.55,
+      "category": "Baby",
+      "subCategory": "Diapers"
+    },
+    {
+      "code": "4802288816047",
+      "name": "HAPPY BABY PANTS XXXL4'SX30",
+      "price": 46.75,
+      "category": "Baby",
+      "subCategory": "Diapers"
+    },
+    {
+      "code": "4801288893027",
+      "name": "THOSE DAYS PANTIES L2'SX36",
+      "price": 56.35,
       "category": "Baby",
       "subCategory": "Diapers"
     }

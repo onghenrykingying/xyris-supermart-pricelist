@@ -1,6 +1,6 @@
 {
   "category": "Pantry & Cooking",
-  "generatedAt": "2026-09-15T13:20:10.426Z",
+  "generatedAt": "2026-09-30T02:08:38.153Z",
   "skus": [
     {
       "code": "4806513741814",
@@ -185,13 +185,6 @@
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "4801958651001",
-      "name": "CRISPY FRY SEASONED CRUMBS 50GX48",
-      "price": 13.95,
-      "category": "Pantry & Cooking",
-      "subCategory": "Bouillon & Seasoning"
-    },
-    {
       "code": "4801958662106",
       "name": "AJINOMOTO PORK SAVOR 8G 12X60",
       "price": 48.15,
@@ -209,13 +202,6 @@
       "code": "4801958624005",
       "name": "AJI SARSAYA OYSTER SAUCE 30GX144",
       "price": 5.75,
-      "category": "Pantry & Cooking",
-      "subCategory": "Bouillon & Seasoning"
-    },
-    {
-      "code": "4801958349106",
-      "name": "GINISA ORIG,7GX16'SX60",
-      "price": 26.85,
       "category": "Pantry & Cooking",
       "subCategory": "Bouillon & Seasoning"
     },
@@ -248,37 +234,9 @@
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "4801958638002",
-      "name": "AJI SARSAYA OYSTER SOUCE 55GX6X10",
-      "price": 8.45,
-      "category": "Pantry & Cooking",
-      "subCategory": "Bouillon & Seasoning"
-    },
-    {
       "code": "4801958846100",
       "name": "AJINOMOTO GINISA 8GX16'SX54",
       "price": 63.25,
-      "category": "Pantry & Cooking",
-      "subCategory": "Bouillon & Seasoning"
-    },
-    {
-      "code": "4801958300107",
-      "name": "AJINOMOTO 10GX18'SX72",
-      "price": 47.25,
-      "category": "Pantry & Cooking",
-      "subCategory": "Bouillon & Seasoning"
-    },
-    {
-      "code": "4801958302101",
-      "name": "AJINOMOTO 22GX8'SX60",
-      "price": 42.65,
-      "category": "Pantry & Cooking",
-      "subCategory": "Bouillon & Seasoning"
-    },
-    {
-      "code": "4801958675007",
-      "name": "CRISPY FRY FISH 50G 6X24",
-      "price": 13.95,
       "category": "Pantry & Cooking",
       "subCategory": "Bouillon & Seasoning"
     },
@@ -507,14 +465,14 @@
       "subCategory": "Coffee & Hot Drinks"
     },
     {
-      "code": "089686170726",
+      "code": "89686170726",
       "name": "INDOMIE MI GORENG 85GX40",
       "price": 17.05,
       "category": "Pantry & Cooking",
       "subCategory": "Instant Noodles"
     },
     {
-      "code": "089686171679",
+      "code": "89686171679",
       "name": "INDOMIE MI GORENG PEDAS 80GX40",
       "price": 17.05,
       "category": "Pantry & Cooking",
@@ -605,7 +563,7 @@
       "subCategory": "Cereals & Oats"
     },
     {
-      "code": "000080051671",
+      "code": "80051671",
       "name": "NUTELLA SPREAD 200GX12",
       "price": 179.75,
       "category": "Pantry & Cooking",
@@ -1781,7 +1739,7 @@
       "subCategory": "Sugar Salt Flour & Baking"
     },
     {
-      "code": "074305401169",
+      "code": "74305401169",
       "name": "BRAGG APPLE CIDER VINEGAR 16OZX12",
       "price": 308.75,
       "category": "Pantry & Cooking",
@@ -1795,7 +1753,7 @@
       "subCategory": "Coffee & Hot Drinks"
     },
     {
-      "code": "074305401329",
+      "code": "74305401329",
       "name": "BRAGG APPLE CIDER VINEGAR 32OZX12",
       "price": 512.55,
       "category": "Pantry & Cooking",
@@ -2516,28 +2474,28 @@
       "subCategory": "Condensed & Evap Milk"
     },
     {
-      "code": "022392873031",
+      "code": "22392873031",
       "name": "PS PANCIT CANTON 227GX12",
       "price": 41.85,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta & Noodles"
     },
     {
-      "code": "022392873048",
+      "code": "22392873048",
       "name": "PS PANCIT CANTON 454GX6",
       "price": 87.65,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta & Noodles"
     },
     {
-      "code": "022392872058",
+      "code": "22392872058",
       "name": "PS ANCHOVY SAUCE (BAG.BALAYAN)12OZX24",
       "price": 34.25,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "022392873284",
+      "code": "22392873284",
       "name": "PS PANCIT CANTON 454G 2'S FREE CANTON MI",
       "price": 123.05,
       "category": "Pantry & Cooking",
@@ -2943,7 +2901,7 @@
       "subCategory": "Pasta & Noodles"
     },
     {
-      "code": "025407803504",
+      "code": "25407803504",
       "name": "MS ADOBO MIX 50GX72",
       "price": 37.45,
       "category": "Pantry & Cooking",
@@ -2978,56 +2936,56 @@
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "025407804006",
+      "code": "25407804006",
       "name": "MS BBQ MARINADE MIX 50GX72",
       "price": 37.95,
       "category": "Pantry & Cooking",
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "025407803603",
+      "code": "25407803603",
       "name": "MS CALDERETA MIX 50GX72",
       "price": 35.75,
       "category": "Pantry & Cooking",
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "025407805003",
+      "code": "25407805003",
       "name": "MS CHOPSUEY P.CANTON STIR FRY 40GX72",
       "price": 37.65,
       "category": "Pantry & Cooking",
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "025407805409",
+      "code": "25407805409",
       "name": "MS GUAVA SOUP BASE MIX 40GX72",
       "price": 34.95,
       "category": "Pantry & Cooking",
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "025407803306",
+      "code": "25407803306",
       "name": "MS KARE KARE MIX 100GX72",
       "price": 65.85,
       "category": "Pantry & Cooking",
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "025407803313",
+      "code": "25407803313",
       "name": "MS KARE KARE MIX 57GX72",
       "price": 37.55,
       "category": "Pantry & Cooking",
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "025407806215",
+      "code": "25407806215",
       "name": "MS LUMPIANG SHANG.MIX 40GX72",
       "price": 32.75,
       "category": "Pantry & Cooking",
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "025407805201",
+      "code": "25407805201",
       "name": "MS MENUDO/AFRITADA MIX 30GX72",
       "price": 32.65,
       "category": "Pantry & Cooking",
@@ -3062,21 +3020,21 @@
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "025407806680",
+      "code": "25407806680",
       "name": "MS ORIENTAL GRAVY MIX 57GX72",
       "price": 39.35,
       "category": "Pantry & Cooking",
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "025407803917",
+      "code": "25407803917",
       "name": "MS SWEET&SOUR MIX 57GX72",
       "price": 32.35,
       "category": "Pantry & Cooking",
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "025407803412",
+      "code": "25407803412",
       "name": "MS TOCINO MIX 75GX72",
       "price": 35.35,
       "category": "Pantry & Cooking",
@@ -3608,7 +3566,7 @@
       "subCategory": "Cereals & Oats"
     },
     {
-      "code": "078895710021",
+      "code": "78895710021",
       "name": "LKK SESAME OIL 207MLX12",
       "price": 154.95,
       "category": "Pantry & Cooking",
@@ -3629,7 +3587,7 @@
       "subCategory": "Cooking Oil"
     },
     {
-      "code": "051000010315",
+      "code": "51000010315",
       "name": "CAMPBELLS CREAM OF CHICKEN 298GX48",
       "price": 90.35,
       "category": "Pantry & Cooking",
@@ -3762,14 +3720,14 @@
       "subCategory": "Cooking Oil"
     },
     {
-      "code": "078895148916",
+      "code": "78895148916",
       "name": "LK KUM CHUN OYSTER SAUCE 510GX12",
       "price": 102.05,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "078895148909",
+      "code": "78895148909",
       "name": "LK KUM CHUN OYSTER SAUCE 255GX12",
       "price": 55.75,
       "category": "Pantry & Cooking",
@@ -3846,7 +3804,7 @@
       "subCategory": "Sugar Salt Flour & Baking"
     },
     {
-      "code": "078895155662",
+      "code": "78895155662",
       "name": "LKK SESAME OIL 207MLX2'SX6",
       "price": 263.65,
       "category": "Pantry & Cooking",
@@ -3895,7 +3853,7 @@
       "subCategory": "Cereals & Oats"
     },
     {
-      "code": "078895700145",
+      "code": "78895700145",
       "name": "LKK HOISIN SAUCE 100G",
       "price": 83.15,
       "category": "Pantry & Cooking",
@@ -6739,7 +6697,7 @@
     {
       "code": "4800575425019",
       "name": "KREM-TOP COFFEE CREAMER 80GX48",
-      "price": 22.55,
+      "price": 22.45,
       "category": "Pantry & Cooking",
       "subCategory": "Powdered Milk"
     },
@@ -6781,7 +6739,7 @@
     {
       "code": "4800575141667",
       "name": "KREM-TOP CREAMER  400GX24",
-      "price": 103.55,
+      "price": 103.45,
       "category": "Pantry & Cooking",
       "subCategory": "Powdered Milk"
     },
@@ -7269,7 +7227,7 @@
       "subCategory": "Coffee & Hot Drinks"
     },
     {
-      "code": "000048025515",
+      "code": "48025515",
       "name": "COFFEEMATE 5GX12'SX80",
       "price": 23.45,
       "category": "Pantry & Cooking",
@@ -7878,7 +7836,7 @@
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "000048025522",
+      "code": "48025522",
       "name": "MAGIC SARAP 8GX16'SX60",
       "price": 78.15,
       "category": "Pantry & Cooking",
@@ -7927,7 +7885,7 @@
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "000000040025",
+      "code": "40025",
       "name": "NESCAFE CREAMYWHITE  TP 14'S W/ FREE LM",
       "price": 144.9,
       "category": "Pantry & Cooking",
@@ -8788,7 +8746,7 @@
       "subCategory": "Coffee & Hot Drinks"
     },
     {
-      "code": "070920475288",
+      "code": "70920475288",
       "name": "SWISS MISS DARK CHOCO 31GX144",
       "price": 13.1,
       "category": "Pantry & Cooking",
@@ -10209,7 +10167,7 @@
       "subCategory": "Sugar Salt Flour & Baking"
     },
     {
-      "code": "000000010099",
+      "code": "10099",
       "name": "RICE HASMIN",
       "price": 62,
       "category": "Pantry & Cooking",
@@ -10328,7 +10286,7 @@
       "subCategory": "Sugar Salt Flour & Baking"
     },
     {
-      "code": "000000010098",
+      "code": "10098",
       "name": "MILLIONAIRE RICE",
       "price": 50.95,
       "category": "Pantry & Cooking",
@@ -10337,7 +10295,7 @@
     {
       "code": "4806504713288",
       "name": "MEGA PRIME VERMICELLI 45GX100",
-      "price": 8.55,
+      "price": 8.6,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta & Noodles"
     },
@@ -10727,7 +10685,7 @@
       "subCategory": "Spreads"
     },
     {
-      "code": "037600840842",
+      "code": "37600840842",
       "name": "SKIPPY PB CREAMY 462GX12",
       "price": 222,
       "category": "Pantry & Cooking",
@@ -10755,7 +10713,7 @@
       "subCategory": "Coffee & Hot Drinks"
     },
     {
-      "code": "037600840804",
+      "code": "37600840804",
       "name": "SKIPPY PB SUPER CHUNK 462GX12",
       "price": 222,
       "category": "Pantry & Cooking",
@@ -11000,21 +10958,21 @@
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285003861",
+      "code": "14285003861",
       "name": "PAPA BC 100GX48",
       "price": 9.85,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285003038",
+      "code": "14285003038",
       "name": "PAPA BC 1KGX12",
       "price": 70.35,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285003830",
+      "code": "14285003830",
       "name": "PAPA BC 200GX48",
       "price": 18.05,
       "category": "Pantry & Cooking",
@@ -11049,63 +11007,63 @@
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285003656",
+      "code": "14285003656",
       "name": "UFC BC REG 200GX48",
       "price": 19.05,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285003250",
+      "code": "14285003250",
       "name": "UFC BC REG. POUCH 320GX36",
       "price": 23.45,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285000051",
+      "code": "14285000051",
       "name": "UFC BC H&S 320GX24",
       "price": 33.25,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285002789",
+      "code": "14285002789",
       "name": "UFC BC REG. 100GX48",
       "price": 11.35,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285003045",
+      "code": "14285003045",
       "name": "UFC BC REG 1KGX12",
       "price": 74.15,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285001119",
+      "code": "14285001119",
       "name": "UFC BC REG 2KGX8",
       "price": 133.45,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285000068",
+      "code": "14285000068",
       "name": "UFC BC REG 320GX24",
       "price": 27.85,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285001102",
+      "code": "14285001102",
       "name": "UFC BC REG 4KGX4",
       "price": 258.25,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285000075",
+      "code": "14285000075",
       "name": "UFC BC REG 530GX18",
       "price": 47.35,
       "category": "Pantry & Cooking",
@@ -11113,111 +11071,111 @@
     },
     {
       "code": "4801668601235",
-      "name": "UFC GLODEN FIESTA CANOLA OIL 1LX12 PET",
+      "name": "UFC GOLDEN FIESTA CANOLA OIL 1LX12 PET",
       "price": 146.25,
       "category": "Pantry & Cooking",
       "subCategory": "Cooking Oil"
     },
     {
-      "code": "014285003410",
+      "code": "14285003410",
       "name": "UFC GOLDEN COOKING OIL SUP 1LX12",
       "price": 133.65,
       "category": "Pantry & Cooking",
       "subCategory": "Cooking Oil"
     },
     {
-      "code": "014285000945",
+      "code": "14285000945",
       "name": "UFC GOLDEN FIESTA OIL 250MLX48",
       "price": 43.75,
       "category": "Pantry & Cooking",
       "subCategory": "Cooking Oil"
     },
     {
-      "code": "014285000938",
+      "code": "14285000938",
       "name": "UFC GOLDEN FIESTA OIL SUP 2LX6",
       "price": 250.55,
       "category": "Pantry & Cooking",
       "subCategory": "Cooking Oil"
     },
     {
-      "code": "014285000914",
+      "code": "14285000914",
       "name": "UFC GOLDEN FIESTA OIL 485MLX24 PET",
       "price": 76.45,
       "category": "Pantry & Cooking",
       "subCategory": "Cooking Oil"
     },
     {
-      "code": "014285000921",
+      "code": "14285000921",
       "name": "UFC GOLDEN FIESTA OIL 950MLX12 PET",
       "price": 134.45,
       "category": "Pantry & Cooking",
       "subCategory": "Cooking Oil"
     },
     {
-      "code": "014285003229",
+      "code": "14285003229",
       "name": "UFC HOT SAUCE 100GX24",
       "price": 25.75,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285001935",
+      "code": "14285001935",
       "name": "UFC SPAG.SAUCE 900GX12",
       "price": 90.15,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta Sauce"
     },
     {
-      "code": "014285002413",
+      "code": "14285002413",
       "name": "UFC SPAG.SAUCE 250GX24",
       "price": 30.45,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta Sauce"
     },
     {
-      "code": "014285003892",
+      "code": "14285003892",
       "name": "UFC SPAG.SAUCE 500GX36",
       "price": 52.05,
       "category": "Pantry & Cooking",
       "subCategory": "Pasta Sauce"
     },
     {
-      "code": "014285000891",
+      "code": "14285000891",
       "name": "UFC SWEET CHILI SAUCE 340GX24",
       "price": 44.35,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285002383",
+      "code": "14285002383",
       "name": "UFC TOMATO SAUCE 1KGX12",
       "price": 88.05,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285003076",
+      "code": "14285003076",
       "name": "UFC TOMATO SAUCE 115GX36",
       "price": 17.25,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285002376",
+      "code": "14285002376",
       "name": "UFC TOMATO SAUCE 200GX24",
       "price": 21.95,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285003984",
+      "code": "14285003984",
       "name": "UFC TS GUISADO 115GX36",
       "price": 18.25,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285003991",
+      "code": "14285003991",
       "name": "UFC TS GUISADO 200GX24",
       "price": 23.75,
       "category": "Pantry & Cooking",
@@ -11490,7 +11448,7 @@
       "subCategory": "Soy Vinegar & Patis"
     },
     {
-      "code": "014285003885",
+      "code": "14285003885",
       "name": "UFC GOLDEN FIESTA OIL SUP 500MLX24",
       "price": 76.75,
       "category": "Pantry & Cooking",
@@ -11539,35 +11497,35 @@
       "subCategory": "Soy Vinegar & Patis"
     },
     {
-      "code": "014285003908",
+      "code": "14285003908",
       "name": "UFC BC 25GX6X40",
       "price": 23.15,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285004158",
+      "code": "14285004158",
       "name": "PAPA BC 25GX6'SX40",
       "price": 20.1,
       "category": "Pantry & Cooking",
       "subCategory": "Ketchup & Sauces"
     },
     {
-      "code": "014285004196",
+      "code": "14285004196",
       "name": "UFC READY RECIPE CALDERETA 200GX24",
       "price": 31.65,
       "category": "Pantry & Cooking",
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "014285004189",
+      "code": "14285004189",
       "name": "UFC READY RECIPE MECHADO 200GX24",
       "price": 31.65,
       "category": "Pantry & Cooking",
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "014285004202",
+      "code": "14285004202",
       "name": "UFC READY RECIPE MENUDO 200GX24",
       "price": 31.65,
       "category": "Pantry & Cooking",
@@ -11595,7 +11553,7 @@
       "subCategory": "Bouillon & Seasoning"
     },
     {
-      "code": "014285004622",
+      "code": "14285004622",
       "name": "UFC READY RECIPE AFRITADA 200GX24",
       "price": 31.65,
       "category": "Pantry & Cooking",
@@ -11658,7 +11616,7 @@
       "subCategory": "Soy Vinegar & Patis"
     },
     {
-      "code": "014285004530",
+      "code": "14285004530",
       "name": "UFC SPAG.SAUCE 750GX24",
       "price": 57.85,
       "category": "Pantry & Cooking",
@@ -11926,14 +11884,14 @@
     {
       "code": "4806516762427",
       "name": "JERSEY CONDENSED CHOCO 390GX48",
-      "price": 59.35,
+      "price": 59.95,
       "category": "Pantry & Cooking",
       "subCategory": "Condensed & Evap Milk"
     },
     {
       "code": "4806516762441",
       "name": "JERSEY BUKO PANDAN 390GX48",
-      "price": 56.45,
+      "price": 56.95,
       "category": "Pantry & Cooking",
       "subCategory": "Condensed & Evap Milk"
     },
@@ -11947,21 +11905,21 @@
     {
       "code": "4806516761529",
       "name": "JERSEY CONDENSED 1KGX24",
-      "price": 102.15,
+      "price": 103.25,
       "category": "Pantry & Cooking",
       "subCategory": "Condensed & Evap Milk"
     },
     {
       "code": "4806516762403",
       "name": "JERSEY MANGO 390GX48",
-      "price": 56.45,
+      "price": 56.95,
       "category": "Pantry & Cooking",
       "subCategory": "Condensed & Evap Milk"
     },
     {
       "code": "4806516762632",
       "name": "JERSEY UBE CONDENSED 390GX48",
-      "price": 56.45,
+      "price": 56.95,
       "category": "Pantry & Cooking",
       "subCategory": "Condensed & Evap Milk"
     },
@@ -13485,7 +13443,7 @@
       "subCategory": "Powdered Milk"
     },
     {
-      "code": "000000800020",
+      "code": "800020",
       "name": "GT WHITE COFFEE 50G TP 5PCS. SAVE 9.00",
       "price": 52.75,
       "category": "Pantry & Cooking",
@@ -13807,7 +13765,7 @@
       "subCategory": "Coffee & Hot Drinks"
     },
     {
-      "code": "089686017649",
+      "code": "89686017649",
       "name": "SARIMI MI GORENG CHICKEN 75GX40",
       "price": 13.75,
       "category": "Pantry & Cooking",
@@ -14031,140 +13989,140 @@
       "subCategory": "Powdered Milk"
     },
     {
-      "code": "000135010448",
+      "code": "135010448",
       "name": "INDOMIE MI GORENG ORIG. 4+1 PROMOX8",
       "price": 68,
       "category": "Pantry & Cooking",
       "subCategory": "Instant Noodles"
     },
     {
-      "code": "006977288448",
+      "code": "6977288448",
       "name": "INDOMIE MI GORENG H&S 4+1 PROMOX8",
       "price": 68,
       "category": "Pantry & Cooking",
       "subCategory": "Instant Noodles"
     },
     {
-      "code": "000000030081",
+      "code": "30081",
       "name": "BEAR BRAND SWAK 33G X 192 (WH)",
       "price": 2121,
       "category": "Pantry & Cooking",
       "subCategory": "Powdered Milk"
     },
     {
-      "code": "000000030077",
+      "code": "30077",
       "name": "SILVER SWAN SS 200ML X 60 (WH)",
       "price": 659,
       "category": "Pantry & Cooking",
       "subCategory": "Soy Vinegar & Patis"
     },
     {
-      "code": "000000030073",
+      "code": "30073",
       "name": "SILVER SWAN VIN. 200ML X 60 (WH)",
       "price": 449,
       "category": "Pantry & Cooking",
       "subCategory": "Soy Vinegar & Patis"
     },
     {
-      "code": "000000030072",
+      "code": "30072",
       "name": "DATU PUTI VIN. 200ML X 60 (WH)",
       "price": 494,
       "category": "Pantry & Cooking",
       "subCategory": "Soy Vinegar & Patis"
     },
     {
-      "code": "000000030071",
+      "code": "30071",
       "name": "DATU PUTI S-SAUCE 200ML X 60 (WH)",
       "price": 644,
       "category": "Pantry & Cooking",
       "subCategory": "Soy Vinegar & Patis"
     },
     {
-      "code": "000000030069",
+      "code": "30069",
       "name": "BIRCH TREE FORT. 33G X 160 (WH)",
       "price": 1402,
       "category": "Pantry & Cooking",
       "subCategory": "Powdered Milk"
     },
     {
-      "code": "000000030067",
+      "code": "30067",
       "name": "KOPIKO BLACK TWIN X 120 (WH)",
       "price": 1486,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
     {
-      "code": "000000030068",
+      "code": "30068",
       "name": "KOPIKO BROWN TWIN X 120 (WH)",
       "price": 1486,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
     {
-      "code": "000000030066",
+      "code": "30066",
       "name": "KOPIKO BLANCA TWIN X 120 (WH)",
       "price": 1486,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
     {
-      "code": "000000030065",
+      "code": "30065",
       "name": "LM CHICKEN 55G X 72 (WH)",
       "price": 627,
       "category": "Pantry & Cooking",
       "subCategory": "Instant Noodles"
     },
     {
-      "code": "000000030064",
+      "code": "30064",
       "name": "LM BEEF 55G X 72 (WH)",
       "price": 627,
       "category": "Pantry & Cooking",
       "subCategory": "Instant Noodles"
     },
     {
-      "code": "000000030063",
+      "code": "30063",
       "name": "LM SPICY HOT BEEF 50G X 72 (WH)",
       "price": 739,
       "category": "Pantry & Cooking",
       "subCategory": "Instant Noodles"
     },
     {
-      "code": "000000030062",
+      "code": "30062",
       "name": "LM PC ORIG. 80G X 72 (WH)",
       "price": 1039,
       "category": "Pantry & Cooking",
       "subCategory": "Instant Noodles"
     },
     {
-      "code": "000000030061",
+      "code": "30061",
       "name": "LM PC EXTRA HOT CHILI 75G X 72 (WH)",
       "price": 1039,
       "category": "Pantry & Cooking",
       "subCategory": "Instant Noodles"
     },
     {
-      "code": "000000030060",
+      "code": "30060",
       "name": "LM PC SWEET & SPICY 80G X 72 (WH)",
       "price": 1039,
       "category": "Pantry & Cooking",
       "subCategory": "Instant Noodles"
     },
     {
-      "code": "000000030058",
+      "code": "30058",
       "name": "LM PC CHILIMANSI 80G X 72 (WH)",
       "price": 1039,
       "category": "Pantry & Cooking",
       "subCategory": "Instant Noodles"
     },
     {
-      "code": "000000030057",
+      "code": "30057",
       "name": "LM PC KALAMANSI 80G X 72 (WH)",
       "price": 1039,
       "category": "Pantry & Cooking",
       "subCategory": "Instant Noodles"
     },
     {
-      "code": "000000030083",
+      "code": "30083",
       "name": "KOPIKO LUCKY DAY X 24 (WH)",
       "price": 534,
       "category": "Pantry & Cooking",
@@ -14194,7 +14152,7 @@
     {
       "code": "4800016028472",
       "name": "GTW TWIN BUY 5 SAVE 5X48",
-      "price": 57.75,
+      "price": 57.35,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
@@ -14400,6 +14358,13 @@
       "price": 275.75,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
+    },
+    {
+      "code": "4800888218377",
+      "name": "KNR LIQUID SEASONING CHILI 130MLX24",
+      "price": 62.75,
+      "category": "Pantry & Cooking",
+      "subCategory": "Bouillon & Seasoning"
     }
   ]
 }

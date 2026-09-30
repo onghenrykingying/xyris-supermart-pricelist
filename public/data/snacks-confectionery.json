@@ -1,23 +1,23 @@
 {
   "category": "Snacks & Confectionery",
-  "generatedAt": "2026-09-15T13:20:10.426Z",
+  "generatedAt": "2026-09-30T02:08:38.153Z",
   "skus": [
     {
-      "code": "074923405068",
+      "code": "74923405068",
       "name": "PIKNIK SHOESTRING POT.50% LS 1.75OZX48",
       "price": 45.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
-      "code": "074923405211",
+      "code": "74923405211",
       "name": "PIKNIK SHOESTRING POT.50%LESS SALT 4OZX2",
       "price": 98.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
-      "code": "074923405235",
+      "code": "74923405235",
       "name": "PIKNIK SHOESTRING POT.50%LS 9OZX12",
       "price": 196.35,
       "category": "Snacks & Confectionery",
@@ -2448,12 +2448,12 @@
     {
       "code": "4806518846019",
       "name": "HONEY HOUSE ORIG.22GX10X30",
-      "price": 63.25,
+      "price": 64.95,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
     {
-      "code": "000095506500",
+      "code": "95506500",
       "name": "KITKAT 2F 17G 1'S",
       "price": 15.45,
       "category": "Snacks & Confectionery",
@@ -2924,21 +2924,21 @@
     {
       "code": "4892642101926",
       "name": "OREO CHOCO CREAM 27.6GX9X12",
-      "price": 73.95,
+      "price": 69.35,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
     {
       "code": "4893049150012",
       "name": "OREO VAN.SAND COOKIES 27.6GX9X12",
-      "price": 73.95,
+      "price": 69.35,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
     {
       "code": "4892642103098",
       "name": "OREO STRAWBERRY CREME 27.6GX9'SX12",
-      "price": 73.95,
+      "price": 69.35,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
@@ -2959,14 +2959,14 @@
     {
       "code": "8934680033428",
       "name": "OREO VANILLA WAFER ROLL 20X54G",
-      "price": 34.65,
+      "price": 42.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
     {
       "code": "8934680033442",
       "name": "OREO CHOCO WAFER ROLL 20X54G",
-      "price": 34.65,
+      "price": 42.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
@@ -2987,7 +2987,7 @@
     {
       "code": "8992760223046",
       "name": "OREO TT PCK CHOCO 12'SX27.6GX12",
-      "price": 69.35,
+      "price": 73.05,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
@@ -3567,71 +3567,64 @@
     },
     {
       "code": "4804888589987",
-      "name": "ANNIES UBE 24SX20",
-      "price": 29.15,
+      "name": "ANNIES UBE 24'SX20",
+      "price": 30.25,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
       "code": "4804888589130",
       "name": "ANNIES LANGKA-UBE 24SX20",
-      "price": 29.15,
+      "price": 30.25,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
       "code": "4804888589994",
-      "name": "ANNIES LANGKA 24X20",
-      "price": 29.15,
+      "name": "ANNIES LANGKA 24'SX20",
+      "price": 30.25,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
       "code": "4804888589017",
-      "name": "HANY KING 24SX20",
-      "price": 34.15,
+      "name": "HANY KING 24'SX20",
+      "price": 35.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
       "code": "4804888589505",
       "name": "HANY SP MILK CHOCOLATE 16'SX20",
-      "price": 39.95,
+      "price": 40.95,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
       "code": "4804888589673",
-      "name": "HANY PEANUT JR 24X20",
-      "price": 30.95,
-      "category": "Snacks & Confectionery",
-      "subCategory": "Chocolate & Candy"
-    },
-    {
-      "code": "4804888589697",
-      "name": "CHOC-NUT SP PEANUT MILK CHOCO 16'SX20",
-      "price": 39.95,
+      "name": "HANY PEANUT JR 24'SX20",
+      "price": 32.05,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
       "code": "4806537026805",
       "name": "CHOCNUT KING 24'SX20",
-      "price": 36.75,
+      "price": 37.85,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
       "code": "4806537026973",
       "name": "CHOCNUT SP MILK CHOCO 16'SX20",
-      "price": 42.55,
+      "price": 43.55,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
       "code": "4806537020933",
-      "name": "HANY COINS 20SX20",
-      "price": 25.75,
+      "name": "HANY COINS 20'SX20",
+      "price": 26.75,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
@@ -3825,14 +3818,14 @@
       "subCategory": "Chocolate & Candy"
     },
     {
-      "code": "000080768258",
+      "code": "80768258",
       "name": "KINDER JOY FOR GIRLS 20G X72",
       "price": 57.85,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
-      "code": "000080974482",
+      "code": "80974482",
       "name": "KINDER JOY FOR BOYS 20GX72",
       "price": 57.85,
       "category": "Snacks & Confectionery",
@@ -3867,21 +3860,21 @@
       "subCategory": "Chips & Curls"
     },
     {
-      "code": "000080991014",
+      "code": "80991014",
       "name": "TIC TAC FRESHMINT 14.5GX12X24",
       "price": 28.95,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
-      "code": "000080883296",
+      "code": "80883296",
       "name": "TIC TAC SPEARMINT FLAVOR 14.5GX24",
       "price": 28.95,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
-      "code": "000093698078",
+      "code": "93698078",
       "name": "TIC TAC ORANGE 14.5GX12X24",
       "price": 28.95,
       "category": "Snacks & Confectionery",
@@ -3902,7 +3895,7 @@
       "subCategory": "Chocolate & Candy"
     },
     {
-      "code": "000080958734",
+      "code": "80958734",
       "name": "TIC-TAC STRAW./STRAW MINT  14.5GX12X24",
       "price": 28.95,
       "category": "Snacks & Confectionery",
@@ -3972,7 +3965,7 @@
       "subCategory": "Chips & Curls"
     },
     {
-      "code": "000080968887",
+      "code": "80968887",
       "name": "TIC TAC MANDARIN AND LEMON LIME 14.5G",
       "price": 28.95,
       "category": "Snacks & Confectionery",
@@ -4364,84 +4357,84 @@
       "subCategory": "Chocolate & Candy"
     },
     {
-      "code": "074923409561",
+      "code": "74923409561",
       "name": "PIKNIK FABOLUS FRIES 1.5OZX48",
       "price": 45.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
-      "code": "074923405013",
+      "code": "74923405013",
       "name": "PIKNIK ORIGINAL 50G 1.75OZX48",
       "price": 45.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
-      "code": "074923405198",
+      "code": "74923405198",
       "name": "PIKNIK SHOESTRING 113G 4OZX24",
       "price": 98.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
-      "code": "074923405273",
+      "code": "74923405273",
       "name": "PIKNIK ORIG.SHOESTRING POTATO 9OZX12",
       "price": 196.35,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
-      "code": "074923408731",
+      "code": "74923408731",
       "name": "PIK-NIK KETCHUP FRIES 4OZX24",
       "price": 98.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
-      "code": "074923408991",
+      "code": "74923408991",
       "name": "PIKNIK FABULOUS FRIES 4OZX24",
       "price": 98.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
-      "code": "074923408403",
+      "code": "74923408403",
       "name": "PIKNIK FABULOUS FRIES 9OZX12",
       "price": 196.35,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
-      "code": "074923413056",
+      "code": "74923413056",
       "name": "PIK-NIK CHEDDAR CHEESE 3.75OZX24",
       "price": 98.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
-      "code": "074923413032",
+      "code": "74923413032",
       "name": "PIK-NIK CHEDDAR CHEESE 1.5OZX48",
       "price": 45.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
-      "code": "074923414046",
+      "code": "74923414046",
       "name": "PIKNIK HOT SHOESTRING 3.75OZX24",
       "price": 98.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
-      "code": "074923414060",
+      "code": "74923414060",
       "name": "PIKNIK HOT SHOESTRING 8.5OZX12",
       "price": 196.35,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
-      "code": "074923413087",
+      "code": "74923413087",
       "name": "PIKNIK CHEDDAR CHEESE 8.5OZX12",
       "price": 196.35,
       "category": "Snacks & Confectionery",
@@ -4702,7 +4695,7 @@
     {
       "code": "6921414900066",
       "name": "POLO WHISTLE 24'SX40",
-      "price": 23.35,
+      "price": 24.55,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
@@ -7395,7 +7388,7 @@
       "subCategory": "Chips & Curls"
     },
     {
-      "code": "000095502489",
+      "code": "95502489",
       "name": "KIT-KAT 2F 17GX24",
       "price": 17.25,
       "category": "Snacks & Confectionery",
@@ -7430,56 +7423,56 @@
       "subCategory": "Chocolate & Candy"
     },
     {
-      "code": "000000070020",
+      "code": "70020",
       "name": "YEMA 30'S",
       "price": 25.25,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
-      "code": "000000070021",
+      "code": "70021",
       "name": "PASTILLAS 30'S",
       "price": 25.25,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
-      "code": "000000070022",
+      "code": "70022",
       "name": "PASTILLAS 60'S",
       "price": 53.55,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
-      "code": "000000070023",
+      "code": "70023",
       "name": "YEMA 60'S",
       "price": 52.5,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
-      "code": "000000070027",
+      "code": "70027",
       "name": "YUMMY GUMMY CANDY 250G",
       "price": 45.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
-      "code": "000000060052",
+      "code": "60052",
       "name": "PASTILLAS MILK 50'S",
       "price": 44.1,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
-      "code": "000000060053",
+      "code": "60053",
       "name": "PASTILLAS UBE 50'S",
       "price": 44.1,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
-      "code": "000000070037",
+      "code": "70037",
       "name": "YEMANI 60'S",
       "price": 53.55,
       "category": "Snacks & Confectionery",
@@ -9152,7 +9145,7 @@
       "subCategory": "Chocolate & Candy"
     },
     {
-      "code": "000000010000",
+      "code": "10000",
       "name": "REGAL SWEET CORN X10",
       "price": 18.15,
       "category": "Snacks & Confectionery",
@@ -9180,7 +9173,7 @@
       "subCategory": "Chocolate & Candy"
     },
     {
-      "code": "000069024894",
+      "code": "69024894",
       "name": "SNICKERS 35GX9X24",
       "price": 35.05,
       "category": "Snacks & Confectionery",
@@ -9691,7 +9684,7 @@
       "subCategory": "Crackers, Cakes & Cookies"
     },
     {
-      "code": "000000060005",
+      "code": "60005",
       "name": "DRINKY ICE CANDY 58MLX10'SX6",
       "price": 8.95,
       "category": "Snacks & Confectionery",

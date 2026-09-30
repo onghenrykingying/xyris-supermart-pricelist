@@ -1,6 +1,6 @@
 {
   "category": "Beverages",
-  "generatedAt": "2026-09-15T13:20:10.426Z",
+  "generatedAt": "2026-09-30T02:08:38.153Z",
   "skus": [
     {
       "code": "4800014146086",
@@ -188,13 +188,6 @@
       "code": "4800009008184",
       "name": "DOLE 100% P/A JUICE 1.36LX12",
       "price": 125.45,
-      "category": "Beverages",
-      "subCategory": "Tea & Juice"
-    },
-    {
-      "code": "4800009745133",
-      "name": "DOLE 100% JUICE 240ML 5+1X4",
-      "price": 144.65,
       "category": "Beverages",
       "subCategory": "Tea & Juice"
     },
@@ -717,35 +710,35 @@
       "subCategory": "Tea & Juice"
     },
     {
-      "code": "022392478519",
+      "code": "22392478519",
       "name": "COOL TASTE LYCHEE JELLY DRINK 160GX24",
       "price": 18.65,
       "category": "Beverages",
       "subCategory": "Tea & Juice"
     },
     {
-      "code": "022392478496",
+      "code": "22392478496",
       "name": "COOL TASTE STRAW.JELLY 160GX24",
       "price": 18.65,
       "category": "Beverages",
       "subCategory": "Tea & Juice"
     },
     {
-      "code": "022392478403",
+      "code": "22392478403",
       "name": "COOL TASTE MANGO JELLY 160GX24",
       "price": 18.65,
       "category": "Beverages",
       "subCategory": "Tea & Juice"
     },
     {
-      "code": "022392478434",
+      "code": "22392478434",
       "name": "COOL TASTE APPLE JELLY 160GX24",
       "price": 18.65,
       "category": "Beverages",
       "subCategory": "Tea & Juice"
     },
     {
-      "code": "022392575454",
+      "code": "22392575454",
       "name": "COOL TASTE MANGO DRINK 500MLX12",
       "price": 40.85,
       "category": "Beverages",
@@ -1795,7 +1788,7 @@
       "subCategory": "Tea & Juice"
     },
     {
-      "code": "000000050006",
+      "code": "50006",
       "name": "C2 APPLE 230MLX24",
       "price": 13.85,
       "category": "Beverages",
@@ -1879,7 +1872,7 @@
       "subCategory": "Tea & Juice"
     },
     {
-      "code": "000000060008",
+      "code": "60008",
       "name": "C2 LEMON 230MLX24",
       "price": 13.85,
       "category": "Beverages",
@@ -2026,35 +2019,35 @@
       "subCategory": "Tea & Juice"
     },
     {
-      "code": "000000030050",
+      "code": "30050",
       "name": "COKE MISMO X 12 (WH)",
       "price": 201,
       "category": "Beverages",
       "subCategory": "Soft Drinks"
     },
     {
-      "code": "000000030051",
+      "code": "30051",
       "name": "ROYAL MISMO X 12 (WH)",
       "price": 201,
       "category": "Beverages",
       "subCategory": "Soft Drinks"
     },
     {
-      "code": "000000030052",
+      "code": "30052",
       "name": "SPRITE MISMO X 12 (WH)",
       "price": 201,
       "category": "Beverages",
       "subCategory": "Soft Drinks"
     },
     {
-      "code": "000000030053",
+      "code": "30053",
       "name": "GATORADE 350ML X 24 (WH)",
       "price": 760,
       "category": "Beverages",
       "subCategory": "Energy Drinks"
     },
     {
-      "code": "000000030054",
+      "code": "30054",
       "name": "GATORADE 500ML X 24 (WH)",
       "price": 1050,
       "category": "Beverages",
@@ -2817,14 +2810,14 @@
       "subCategory": "Tea & Juice"
     },
     {
-      "code": "054028367911",
+      "code": "54028367911",
       "name": "YAKULT",
       "price": 50,
       "category": "Beverages",
       "subCategory": "Yogurt Drinks"
     },
     {
-      "code": "000000060001",
+      "code": "60001",
       "name": "YAKULT 1PC",
       "price": 10,
       "category": "Beverages",
@@ -3127,7 +3120,7 @@
     {
       "code": "7622210706768",
       "name": "TANG POMELO 19GX144",
-      "price": 19.65,
+      "price": 18.75,
       "category": "Beverages",
       "subCategory": "Tea & Juice"
     },
@@ -3258,7 +3251,7 @@
       "subCategory": "Tea & Juice"
     },
     {
-      "code": "000000600010",
+      "code": "600010",
       "name": "REFRESH MIN.WATER 350ML 5+1X4",
       "price": 28.75,
       "category": "Beverages",
@@ -3279,7 +3272,7 @@
       "subCategory": "Tea & Juice"
     },
     {
-      "code": "000000600011",
+      "code": "600011",
       "name": "REFRESH MIN.WATER 500ML 5+1",
       "price": 40.5,
       "category": "Beverages",
@@ -3573,140 +3566,140 @@
       "subCategory": "Tea & Juice"
     },
     {
-      "code": "000000030044",
+      "code": "30044",
       "name": "ABSOLUTE 1L X 12 (WH)",
       "price": 244,
       "category": "Beverages",
       "subCategory": "Bottled Water"
     },
     {
-      "code": "000000030043",
+      "code": "30043",
       "name": "ABSOLUTE 500ML X 24 (WH)",
       "price": 329,
       "category": "Beverages",
       "subCategory": "Bottled Water"
     },
     {
-      "code": "000000030042",
+      "code": "30042",
       "name": "ABSOLUTE 350ML X 35 (WH)",
       "price": 336,
       "category": "Beverages",
       "subCategory": "Bottled Water"
     },
     {
-      "code": "000000030041",
+      "code": "30041",
       "name": "SUMMIT 1L X 12 (WH)",
       "price": 224,
       "category": "Beverages",
       "subCategory": "Bottled Water"
     },
     {
-      "code": "000000030040",
+      "code": "30040",
       "name": "SUMMIT 500ML X 24 (WH)",
       "price": 233,
       "category": "Beverages",
       "subCategory": "Bottled Water"
     },
     {
-      "code": "000000030039",
+      "code": "30039",
       "name": "SUMMIT 350ML X 35 (WH)",
       "price": 261,
       "category": "Beverages",
       "subCategory": "Bottled Water"
     },
     {
-      "code": "000000030038",
+      "code": "30038",
       "name": "NATURE SPRING 350ML X 40 (WH)",
       "price": 235,
       "category": "Beverages",
       "subCategory": "Bottled Water"
     },
     {
-      "code": "000000030037",
+      "code": "30037",
       "name": "NATURE SPRING PURE 500ML X 35 (WH)",
       "price": 266,
       "category": "Beverages",
       "subCategory": "Bottled Water"
     },
     {
-      "code": "000000030036",
+      "code": "30036",
       "name": "NATURE SPRING PURE 1L X 20 (WH)",
       "price": 273,
       "category": "Beverages",
       "subCategory": "Bottled Water"
     },
     {
-      "code": "000000030035",
+      "code": "30035",
       "name": "DM PINE ACE 240ML X 24 (WH)",
       "price": 753,
       "category": "Beverages",
       "subCategory": "Tea & Juice"
     },
     {
-      "code": "000000030034",
+      "code": "30034",
       "name": "C2 SOLO APPLE X 24 (WH)",
       "price": 327,
       "category": "Beverages",
       "subCategory": "Tea & Juice"
     },
     {
-      "code": "000000030033",
+      "code": "30033",
       "name": "STING STRAW. 290ML X 12 (WH)",
       "price": 203,
       "category": "Beverages",
       "subCategory": "Energy Drinks"
     },
     {
-      "code": "000000030032",
+      "code": "30032",
       "name": "STING STRAW. 330ML X 24 (WH)",
       "price": 507,
       "category": "Beverages",
       "subCategory": "Energy Drinks"
     },
     {
-      "code": "000000030031",
+      "code": "30031",
       "name": "COBRA SMART X 24 (WH)",
       "price": 520,
       "category": "Beverages",
       "subCategory": "Energy Drinks"
     },
     {
-      "code": "000000030030",
+      "code": "30030",
       "name": "COBRA ENERGY DRINK 350ML X24 (WH)",
       "price": 500,
       "category": "Beverages",
       "subCategory": "Energy Drinks"
     },
     {
-      "code": "000000030029",
+      "code": "30029",
       "name": "ROYAL 1.5 X 12 (WH)",
       "price": 770,
       "category": "Beverages",
       "subCategory": "Soft Drinks"
     },
     {
-      "code": "000000030028",
+      "code": "30028",
       "name": "SPRITE 1.5 X 12 (WH)",
       "price": 770,
       "category": "Beverages",
       "subCategory": "Soft Drinks"
     },
     {
-      "code": "000000030027",
+      "code": "30027",
       "name": "COKE REG 1.5 X 12 (WH)",
       "price": 770,
       "category": "Beverages",
       "subCategory": "Soft Drinks"
     },
     {
-      "code": "000000030026",
+      "code": "30026",
       "name": "PEPSI 290ML X 12 (WH)",
       "price": 201,
       "category": "Beverages",
       "subCategory": "Soft Drinks"
     },
     {
-      "code": "000000030025",
+      "code": "30025",
       "name": "MOUNTAIN DEW 290ML X 12 (WH)",
       "price": 201,
       "category": "Beverages",
@@ -3720,7 +3713,7 @@
       "subCategory": "Yogurt Drinks"
     },
     {
-      "code": "000000060002",
+      "code": "60002",
       "name": "YAKULT LIGHT 80ML 1'S",
       "price": 12,
       "category": "Beverages",

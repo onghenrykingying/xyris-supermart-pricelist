@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-15T13:20:10.426Z",
-  "totalSKUs": 10468,
+  "generatedAt": "2026-09-30T02:08:38.153Z",
+  "totalSKUs": 10486,
   "categories": [
     {
       "slug": "beverages",
       "label": "Beverages",
-      "skuCount": 532,
+      "skuCount": 531,
       "subCategories": [
         {
           "label": "Tea & Juice",
-          "skuCount": 292
+          "skuCount": 291
         },
         {
           "label": "Bottled Water",
@@ -78,11 +78,11 @@
     {
       "slug": "pantry-cooking",
       "label": "Pantry & Cooking",
-      "skuCount": 2057,
+      "skuCount": 2052,
       "subCategories": [
         {
           "label": "Bouillon & Seasoning",
-          "skuCount": 429
+          "skuCount": 424
         },
         {
           "label": "Coffee & Hot Drinks",
@@ -137,11 +137,11 @@
     {
       "slug": "canned-goods",
       "label": "Canned Goods",
-      "skuCount": 445,
+      "skuCount": 446,
       "subCategories": [
         {
           "label": "Canned Meat",
-          "skuCount": 218
+          "skuCount": 219
         },
         {
           "label": "Canned Fish",
@@ -156,7 +156,7 @@
     {
       "slug": "snacks-confectionery",
       "label": "Snacks & Confectionery",
-      "skuCount": 1544,
+      "skuCount": 1543,
       "subCategories": [
         {
           "label": "Crackers, Cakes & Cookies",
@@ -164,7 +164,7 @@
         },
         {
           "label": "Chocolate & Candy",
-          "skuCount": 537
+          "skuCount": 536
         },
         {
           "label": "Chips & Curls",
@@ -175,15 +175,15 @@
     {
       "slug": "personal-care",
       "label": "Personal Care",
-      "skuCount": 2116,
+      "skuCount": 2126,
       "subCategories": [
         {
           "label": "Hair Care",
-          "skuCount": 480
+          "skuCount": 478
         },
         {
           "label": "Deodorant & Cologne",
-          "skuCount": 407
+          "skuCount": 410
         },
         {
           "label": "Bath Soap",
@@ -199,7 +199,7 @@
         },
         {
           "label": "Sanitary Napkins",
-          "skuCount": 227
+          "skuCount": 236
         }
       ]
     },
@@ -221,11 +221,11 @@
     {
       "slug": "household",
       "label": "Household",
-      "skuCount": 1692,
+      "skuCount": 1695,
       "subCategories": [
         {
           "label": "Laundry",
-          "skuCount": 717
+          "skuCount": 715
         },
         {
           "label": "Dishwashing",
@@ -233,7 +233,7 @@
         },
         {
           "label": "Tissue & Cotton",
-          "skuCount": 205
+          "skuCount": 210
         },
         {
           "label": "Bleach & Cleaners",
@@ -256,11 +256,11 @@
     {
       "slug": "baby",
       "label": "Baby",
-      "skuCount": 661,
+      "skuCount": 669,
       "subCategories": [
         {
           "label": "Diapers",
-          "skuCount": 260
+          "skuCount": 269
         },
         {
           "label": "Baby Toiletries",
@@ -272,18 +272,18 @@
         },
         {
           "label": "Baby Wipes & Cotton",
-          "skuCount": 68
+          "skuCount": 67
         }
       ]
     },
     {
       "slug": "misc",
       "label": "Misc",
-      "skuCount": 410,
+      "skuCount": 413,
       "subCategories": [
         {
           "label": "Kitchen & Household Tools",
-          "skuCount": 168
+          "skuCount": 171
         },
         {
           "label": "Plastic & Packaging",

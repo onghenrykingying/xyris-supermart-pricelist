@@ -1,6 +1,6 @@
 {
   "category": "Health & Pharmacy",
-  "generatedAt": "2026-09-15T13:20:10.426Z",
+  "generatedAt": "2026-09-30T02:08:38.153Z",
   "skus": [
     {
       "code": "4800136960010",
@@ -332,7 +332,7 @@
       "subCategory": "First Aid & OTC"
     },
     {
-      "code": "000048033077",
+      "code": "48033077",
       "name": "ALCAMFORADO 25MLX288",
       "price": 14.75,
       "category": "Health & Pharmacy",
@@ -395,7 +395,7 @@
       "subCategory": "First Aid & OTC"
     },
     {
-      "code": "000048035156",
+      "code": "48035156",
       "name": "EFFICASCENT OIL E/S 25MLX288",
       "price": 35.55,
       "category": "Health & Pharmacy",
@@ -430,7 +430,7 @@
       "subCategory": "First Aid & OTC"
     },
     {
-      "code": "000048033121",
+      "code": "48033121",
       "name": "SALICYLIC ACID 25MLX288",
       "price": 17.85,
       "category": "Health & Pharmacy",
@@ -444,14 +444,14 @@
       "subCategory": "First Aid & OTC"
     },
     {
-      "code": "000048031547",
+      "code": "48031547",
       "name": "EFFICASCENT OIL REG 25MLX288",
       "price": 28.05,
       "category": "Health & Pharmacy",
       "subCategory": "First Aid & OTC"
     },
     {
-      "code": "000048033053",
+      "code": "48033053",
       "name": "MANZANILLA 25MLX288",
       "price": 15.95,
       "category": "Health & Pharmacy",
@@ -556,7 +556,7 @@
       "subCategory": "First Aid & OTC"
     },
     {
-      "code": "000048037389",
+      "code": "48037389",
       "name": "RHEA SUPERSCENT OIL 25ML",
       "price": 31.5,
       "category": "Health & Pharmacy",
@@ -570,7 +570,7 @@
       "subCategory": "First Aid & OTC"
     },
     {
-      "code": "000048037921",
+      "code": "48037921",
       "name": "RHEA POV.IODINE 15ML",
       "price": 67,
       "category": "Health & Pharmacy",
@@ -591,7 +591,7 @@
       "subCategory": "First Aid & OTC"
     },
     {
-      "code": "000048035606",
+      "code": "48035606",
       "name": "RHEA AP-AP SOLUTION 15ML",
       "price": 28.75,
       "category": "Health & Pharmacy",
@@ -612,7 +612,7 @@
       "subCategory": "First Aid & OTC"
     },
     {
-      "code": "000048035484",
+      "code": "48035484",
       "name": "RHEA SALICYLIC ACID 15ML",
       "price": 28.25,
       "category": "Health & Pharmacy",
@@ -633,7 +633,7 @@
       "subCategory": "First Aid & OTC"
     },
     {
-      "code": "000048037600",
+      "code": "48037600",
       "name": "RHEA POV. IODINE 10% 30ML",
       "price": 98,
       "category": "Health & Pharmacy",

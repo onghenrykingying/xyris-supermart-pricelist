@@ -1,6 +1,6 @@
 {
   "category": "Dairy & Bakery",
-  "generatedAt": "2026-09-15T13:20:10.426Z",
+  "generatedAt": "2026-09-30T02:08:38.153Z",
   "skus": [
     {
       "code": "8851028000808",
@@ -1355,8 +1355,8 @@
     },
     {
       "code": "4800249019834",
-      "name": "CDO HOLIDAY HAM PRE-SLICED 1KG",
-      "price": 609,
+      "name": "CDO HOLIDAY HAM PRE-SLICED 900G",
+      "price": 580,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat"
     },
@@ -2189,7 +2189,7 @@
     {
       "code": "4808887330519",
       "name": "PF JAMON DE BOLA 1KG",
-      "price": 385,
+      "price": 390,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat"
     },
@@ -2530,7 +2530,7 @@
       "subCategory": "Frozen & Chilled Meat"
     },
     {
-      "code": "000000040001",
+      "code": "40001",
       "name": "PF CHICKEN FUN NUGGETS SULIT PACK 135GX3",
       "price": 52,
       "category": "Dairy & Bakery",
@@ -2951,15 +2951,15 @@
     },
     {
       "code": "4805358004474",
-      "name": "DARI CREME BUTTERMILK 200G SAVE20.00X24",
-      "price": 97.05,
+      "name": "DARI CREME BUTTERMILK 200G SAVE15.00X24",
+      "price": 102.25,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
     {
       "code": "4805358004467",
-      "name": "DARI CREME CLASSIC 200GX24 SAVE 20.00",
-      "price": 97.05,
+      "name": "DARI CREME CLASSIC 200GX24 SAVE15.00",
+      "price": 102.25,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
@@ -3055,7 +3055,7 @@
       "subCategory": "Frozen & Chilled Meat"
     },
     {
-      "code": "000000040002",
+      "code": "40002",
       "name": "STAR CHEESEDOG REG.250G",
       "price": 58,
       "category": "Dairy & Bakery",
@@ -3064,7 +3064,7 @@
     {
       "code": "4808887330403",
       "name": "PF PEAR SHAPED HAM 800G",
-      "price": 250,
+      "price": 255,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat"
     },
@@ -3603,14 +3603,14 @@
     {
       "code": "4800056161016",
       "name": "QUES-O CHEESE 200GX48",
-      "price": 55.65,
+      "price": 58.55,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
     {
       "code": "4800056191013",
       "name": "OK FILLED CHEESE 200GX48",
-      "price": 45.45,
+      "price": 47.75,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
@@ -4014,14 +4014,14 @@
       "subCategory": "Cheese & Margarine"
     },
     {
-      "code": "000048036214",
+      "code": "48036214",
       "name": "STAR MARGARINE CLASSIC 100GX144",
       "price": 35,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
     {
-      "code": "000048037433",
+      "code": "48037433",
       "name": "STAR MARGARINE S-BLEND 100GX96",
       "price": 37,
       "category": "Dairy & Bakery",
@@ -4352,7 +4352,7 @@
     {
       "code": "4805358320635",
       "name": "MAG. QUESO DE BOLA 350GX12",
-      "price": 215,
+      "price": 220,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
@@ -4401,42 +4401,42 @@
     {
       "code": "4800249006407",
       "name": "CDO JAMON DE BOLA 1KG",
-      "price": 369,
+      "price": 385,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat"
     },
     {
       "code": "4800249026498",
       "name": "CDO AMERICAN HAM 500G",
-      "price": 169,
+      "price": 175,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat"
     },
     {
       "code": "4800249026504",
       "name": "CDO PEAR-SHAPED HAM 800G",
-      "price": 239,
+      "price": 251,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat"
     },
     {
       "code": "4800249469134",
       "name": "CDO HAWAIIAN HAM 1KG",
-      "price": 425,
+      "price": 571,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat"
     },
     {
       "code": "4800249479263",
       "name": "CDO JAMON DE BOLA 850G",
-      "price": 319,
+      "price": 335,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat"
     },
     {
       "code": "4800249481006",
       "name": "SAVERS PEAR-SHAPES HAM 500G(B1T1)",
-      "price": 319,
+      "price": 335,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat"
     },
@@ -4562,21 +4562,21 @@
     {
       "code": "4805358371064",
       "name": "MAG. GOLD EDAM CHEESEBALL 500G",
-      "price": 470,
+      "price": 480,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
     {
       "code": "4805358320062",
       "name": "MAG. QUESO DE BOLA 500GX12",
-      "price": 300,
+      "price": 310,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
     {
       "code": "4808887301687",
       "name": "PF BRICK HAM 500G",
-      "price": 175,
+      "price": 180,
       "category": "Dairy & Bakery",
       "subCategory": "Frozen & Chilled Meat"
     },
@@ -4597,7 +4597,7 @@
     {
       "code": "4805358371637",
       "name": "MAG.GOLD EDAM CHEESEBALL 350GX12",
-      "price": 370,
+      "price": 380,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },

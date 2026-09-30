@@ -1,6 +1,6 @@
 {
   "category": "Liquor & Tobacco",
-  "generatedAt": "2026-09-15T13:20:10.426Z",
+  "generatedAt": "2026-09-30T02:08:38.153Z",
   "skus": [
     {
       "code": "4800220533359",
@@ -185,77 +185,77 @@
       "subCategory": "Beer & Wine"
     },
     {
-      "code": "098426301757",
+      "code": "98426301757",
       "name": "TOSKA VODKA 700MLX12",
       "price": 237.35,
       "category": "Liquor & Tobacco",
       "subCategory": "Spirits"
     },
     {
-      "code": "098426203709",
+      "code": "98426203709",
       "name": "QUINCE LIGHT BRANDY 700MLX12",
       "price": 131.25,
       "category": "Liquor & Tobacco",
       "subCategory": "Spirits"
     },
     {
-      "code": "098426701755",
+      "code": "98426701755",
       "name": "MARIA CLARA SANGRIA 750MLX12",
       "price": 209.95,
       "category": "Liquor & Tobacco",
       "subCategory": "Beer & Wine"
     },
     {
-      "code": "098426202764",
+      "code": "98426202764",
       "name": "NAPOLEON VSOP BRANDY W/TIN 750MLX12",
       "price": 393.75,
       "category": "Liquor & Tobacco",
       "subCategory": "Spirits"
     },
     {
-      "code": "098426801707",
+      "code": "98426801707",
       "name": "EL HOMBRE TEQUILA GOLD 700MLX12",
       "price": 330.75,
       "category": "Liquor & Tobacco",
       "subCategory": "Spirits"
     },
     {
-      "code": "098426801752",
+      "code": "98426801752",
       "name": "EL HOMBRE TEQUILA SILVER 750MLX12",
       "price": 241.55,
       "category": "Liquor & Tobacco",
       "subCategory": "Spirits"
     },
     {
-      "code": "098426105713",
+      "code": "98426105713",
       "name": "W-CASTLE WHISKY 69 700MLX12",
       "price": 197.45,
       "category": "Liquor & Tobacco",
       "subCategory": "Spirits"
     },
     {
-      "code": "098426105737",
+      "code": "98426105737",
       "name": "W-CASTLE WHISKY 69 350MLX24",
-      "price": 107.15,
+      "price": 107.1,
       "category": "Liquor & Tobacco",
       "subCategory": "Spirits"
     },
     {
-      "code": "098426804708",
+      "code": "98426804708",
       "name": "EL HOMBRE MARGARITA PARTY PACK 700MLX6",
       "price": 402.15,
       "category": "Liquor & Tobacco",
       "subCategory": "Spirits"
     },
     {
-      "code": "098426704350",
+      "code": "98426704350",
       "name": "VINO KUNG FU 375MLX24",
       "price": 93.45,
       "category": "Liquor & Tobacco",
       "subCategory": "Spirits"
     },
     {
-      "code": "098426101753",
+      "code": "98426101753",
       "name": "WHITE CASTLE 5 YEARS 700MLX12",
       "price": 309.75,
       "category": "Liquor & Tobacco",
@@ -283,7 +283,7 @@
       "subCategory": "Spirits"
     },
     {
-      "code": "085000019849",
+      "code": "85000019849",
       "name": "CARLO ROSSI SWEET RED 750MLX12",
       "price": 344.95,
       "category": "Liquor & Tobacco",
@@ -311,7 +311,7 @@
       "subCategory": "Spirits"
     },
     {
-      "code": "085000025123",
+      "code": "85000025123",
       "name": "CARLO ROSSI RED MOSCATO 750MLX12",
       "price": 344.95,
       "category": "Liquor & Tobacco",
@@ -458,7 +458,7 @@
       "subCategory": "Spirits"
     },
     {
-      "code": "085000001882",
+      "code": "85000001882",
       "name": "CARLO ROSSI CAL.RED 750MLX12",
       "price": 344.95,
       "category": "Liquor & Tobacco",
@@ -899,7 +899,7 @@
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000048040594",
+      "code": "48040594",
       "name": "WINSTON RED FT 20SX1",
       "price": 182,
       "category": "Liquor & Tobacco",
@@ -913,7 +913,7 @@
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000048041812",
+      "code": "48041812",
       "name": "MIGHTY MENTHOL FT 20'SX1'S",
       "price": 164,
       "category": "Liquor & Tobacco",
@@ -941,7 +941,7 @@
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000048039871",
+      "code": "48039871",
       "name": "WINSTON LIGHT HP 20X10",
       "price": 182,
       "category": "Liquor & Tobacco",
@@ -955,7 +955,7 @@
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000048041836",
+      "code": "48041836",
       "name": "MIGHTY FILTER RED CPB 1'SX10X50",
       "price": 164,
       "category": "Liquor & Tobacco",
@@ -976,7 +976,7 @@
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000040329055",
+      "code": "40329055",
       "name": "CAMEL YELLOW 1'S",
       "price": 145,
       "category": "Liquor & Tobacco",
@@ -997,7 +997,7 @@
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000040329086",
+      "code": "40329086",
       "name": "CAMEL LIGHTS 1'S",
       "price": 145,
       "category": "Liquor & Tobacco",
@@ -1039,21 +1039,21 @@
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000048041546",
+      "code": "48041546",
       "name": "FORTUNE FT LIGHTS 1'S",
       "price": 164,
       "category": "Liquor & Tobacco",
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000048043151",
+      "code": "48043151",
       "name": "FORTUNE LIGTHS SP 1'S",
       "price": 164,
       "category": "Liquor & Tobacco",
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000095509433",
+      "code": "95509433",
       "name": "MARLBORO BLACK FT 20'S 1'S",
       "price": 176,
       "category": "Liquor & Tobacco",
@@ -1067,7 +1067,7 @@
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000048043441",
+      "code": "48043441",
       "name": "FORTUNE LIGHTS TRIBAL FT 1'SX500",
       "price": 164,
       "category": "Liquor & Tobacco",
@@ -1088,7 +1088,7 @@
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000076164217",
+      "code": "76164217",
       "name": "MARLBORO RED FT 20'S 1'S",
       "price": 176,
       "category": "Liquor & Tobacco",
@@ -1102,7 +1102,7 @@
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000076239878",
+      "code": "76239878",
       "name": "MARLBORO LIGHTS FT 20'S 1'S",
       "price": 176,
       "category": "Liquor & Tobacco",
@@ -1123,14 +1123,14 @@
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000048042772",
+      "code": "48042772",
       "name": "MARLBORO ICE BLAST 20'SX500",
       "price": 176,
       "category": "Liquor & Tobacco",
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000048043717",
+      "code": "48043717",
       "name": "FORTUNE GREEN HP 20SX1",
       "price": 164,
       "category": "Liquor & Tobacco",
@@ -1144,14 +1144,14 @@
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000048044172",
+      "code": "48044172",
       "name": "CHESTERFIELD MENTHOL 20X10",
       "price": 145,
       "category": "Liquor & Tobacco",
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000048044202",
+      "code": "48044202",
       "name": "MARLBORO BLACK MENTHOL MEGA 1'SX500",
       "price": 160,
       "category": "Liquor & Tobacco",
@@ -1172,14 +1172,14 @@
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000048044165",
+      "code": "48044165",
       "name": "CHESTERFIELD ORIG. 20X10",
       "price": 145,
       "category": "Liquor & Tobacco",
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000048044226",
+      "code": "48044226",
       "name": "CHESTERFIELD COOL MINT 20X10",
       "price": 145,
       "category": "Liquor & Tobacco",
@@ -1193,7 +1193,7 @@
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000048044295",
+      "code": "48044295",
       "name": "MARLBORO RED FT 20'S 1'S",
       "price": 176,
       "category": "Liquor & Tobacco",
@@ -1207,7 +1207,7 @@
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000048044301",
+      "code": "48044301",
       "name": "MARLBORO LIGHTS FT 1'S",
       "price": 176,
       "category": "Liquor & Tobacco",
@@ -1221,14 +1221,14 @@
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000048044318",
+      "code": "48044318",
       "name": "MARLBORO RED CRAFTED 1'S",
       "price": 164,
       "category": "Liquor & Tobacco",
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "000048044394",
+      "code": "48044394",
       "name": "MARLBORO CRAFTED ICE MINT 20S 1'S",
       "price": 164,
       "category": "Liquor & Tobacco",
@@ -1242,7 +1242,7 @@
       "subCategory": "Cigarettes & Lighters"
     },
     {
-      "code": "098426803701",
+      "code": "98426803701",
       "name": "EL HOMBRE MARGARITA MIX 700MLX12",
       "price": 160.65,
       "category": "Liquor & Tobacco",
@@ -1256,7 +1256,7 @@
       "subCategory": "Spirits"
     },
     {
-      "code": "098426730755",
+      "code": "98426730755",
       "name": "BUY 2 MARIA CLARA SANGRIA GET NOTEBOOK",
       "price": 388.55,
       "category": "Liquor & Tobacco",
@@ -1333,9 +1333,9 @@
       "subCategory": "Beer & Wine"
     },
     {
-      "code": "098426700338",
+      "code": "98426700338",
       "name": "MARIA CLARA SPARKLING SANGRIA 330MLX24",
-      "price": 53,
+      "price": 58.85,
       "category": "Liquor & Tobacco",
       "subCategory": "Beer & Wine"
     },
@@ -1389,49 +1389,49 @@
       "subCategory": "Spirits"
     },
     {
-      "code": "000000030056",
+      "code": "30056",
       "name": "GINEBRA FRASCO X 12 (WH)",
       "price": 1644,
       "category": "Liquor & Tobacco",
       "subCategory": "Spirits"
     },
     {
-      "code": "000000030055",
+      "code": "30055",
       "name": "EMPERADOR LIGHT 1L X 12 (WH)",
       "price": 2110,
       "category": "Liquor & Tobacco",
       "subCategory": "Spirits"
     },
     {
-      "code": "000000030049",
+      "code": "30049",
       "name": "EMPERADOR LIGHTS 750ML X 12 (WH)",
       "price": 1615,
       "category": "Liquor & Tobacco",
       "subCategory": "Spirits"
     },
     {
-      "code": "000000030048",
+      "code": "30048",
       "name": "EMPERADOR LIGHTS 500ML X 15 (WH)",
       "price": 1400,
       "category": "Liquor & Tobacco",
       "subCategory": "Spirits"
     },
     {
-      "code": "000000030047",
+      "code": "30047",
       "name": "EMPERADOR LIGHTS 350ML X 20 (WH)",
       "price": 1335,
       "category": "Liquor & Tobacco",
       "subCategory": "Spirits"
     },
     {
-      "code": "000000030046",
+      "code": "30046",
       "name": "GIN BILOG X 24 (WH)",
       "price": 1620,
       "category": "Liquor & Tobacco",
       "subCategory": "Spirits"
     },
     {
-      "code": "000000030045",
+      "code": "30045",
       "name": "ALFONSO 1L X 12 (WH)",
       "price": 3200,
       "category": "Liquor & Tobacco",
@@ -1445,7 +1445,7 @@
       "subCategory": "Spirits"
     },
     {
-      "code": "098426202757",
+      "code": "98426202757",
       "name": "NAPOLEON BRANDY VSOP 750MLX12",
       "price": 330.75,
       "category": "Liquor & Tobacco",

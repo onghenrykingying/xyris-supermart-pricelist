@@ -1,6 +1,6 @@
 {
   "category": "Misc",
-  "generatedAt": "2026-09-15T13:20:10.426Z",
+  "generatedAt": "2026-09-30T02:08:38.153Z",
   "skus": [
     {
       "code": "4800325012049",
@@ -24,7 +24,7 @@
       "subCategory": "Plastic & Packaging"
     },
     {
-      "code": "000000030095",
+      "code": "30095",
       "name": "PLASTIC BAG",
       "price": 2,
       "category": "Misc",
@@ -101,14 +101,14 @@
       "subCategory": "Plastic & Packaging"
     },
     {
-      "code": "000000040095",
+      "code": "40095",
       "name": "THANK YOU BAG SMALLX6000",
       "price": 0.5,
       "category": "Misc",
       "subCategory": "Plastic & Packaging"
     },
     {
-      "code": "000000040096",
+      "code": "40096",
       "name": "THANK YOU BAG MED.X2000",
       "price": 1,
       "category": "Misc",
@@ -122,14 +122,14 @@
       "subCategory": "Plastic & Packaging"
     },
     {
-      "code": "000000050059",
+      "code": "50059",
       "name": "DALLAS PLASTIC (10X14)X10",
       "price": 28.05,
       "category": "Misc",
       "subCategory": "Plastic & Packaging"
     },
     {
-      "code": "000000050052",
+      "code": "50052",
       "name": "DALLAS PLASTIC 6X10",
       "price": 13.25,
       "category": "Misc",
@@ -332,14 +332,14 @@
       "subCategory": "Kitchen & Household Tools"
     },
     {
-      "code": "000000020003",
+      "code": "20003",
       "name": "JOMELLE SMALL TOYS",
       "price": 11,
       "category": "Misc",
       "subCategory": "Others"
     },
     {
-      "code": "000000020006",
+      "code": "20006",
       "name": "JOMELLE BIG TOYS",
       "price": 25,
       "category": "Misc",
@@ -619,56 +619,56 @@
       "subCategory": "Candles & Matches"
     },
     {
-      "code": "000000000025",
+      "code": "25",
       "name": "CHRISTMAS HEADBAND",
       "price": 35,
       "category": "Misc",
       "subCategory": "Others"
     },
     {
-      "code": "000000060023",
+      "code": "60023",
       "name": "ECO BAG MEDIUM",
       "price": 18,
       "category": "Misc",
       "subCategory": "Operations"
     },
     {
-      "code": "000000060025",
+      "code": "60025",
       "name": "ECO BAG LARGE",
       "price": 20,
       "category": "Misc",
       "subCategory": "Operations"
     },
     {
-      "code": "000000007777",
+      "code": "7777",
       "name": "ECO BAG ORANGE LARGE",
       "price": 7,
       "category": "Misc",
       "subCategory": "Operations"
     },
     {
-      "code": "000000008888",
+      "code": "8888",
       "name": "ECO BAG  XL",
       "price": 8,
       "category": "Misc",
       "subCategory": "Operations"
     },
     {
-      "code": "000000004545",
+      "code": "4545",
       "name": "ECO BAG TINY SMALL",
       "price": 3.5,
       "category": "Misc",
       "subCategory": "Operations"
     },
     {
-      "code": "000000006666",
+      "code": "6666",
       "name": "ECO BAG MEDIUM",
       "price": 4.5,
       "category": "Misc",
       "subCategory": "Operations"
     },
     {
-      "code": "000000002284",
+      "code": "2284",
       "name": "CORRECTION TAPE",
       "price": 27.95,
       "category": "Misc",
@@ -682,28 +682,28 @@
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000000128",
+      "code": "128",
       "name": "CLOG SHOES",
       "price": 185,
       "category": "Misc",
       "subCategory": "Others"
     },
     {
-      "code": "000000000129",
+      "code": "129",
       "name": "MARCHE SLIPPERS",
       "price": 130,
       "category": "Misc",
       "subCategory": "Others"
     },
     {
-      "code": "000000008881",
+      "code": "8881",
       "name": "FLOORMART MAKAPAL 1 YARD",
       "price": 135,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
-      "code": "000000000130",
+      "code": "130",
       "name": "CLOG SHOES FOR KIDS",
       "price": 82,
       "category": "Misc",
@@ -766,7 +766,7 @@
       "subCategory": "Batteries"
     },
     {
-      "code": "000000060012",
+      "code": "60012",
       "name": "EVEREADY BLK AA 1215SW2",
       "price": 40.95,
       "category": "Misc",
@@ -780,14 +780,14 @@
       "subCategory": "Batteries"
     },
     {
-      "code": "000000060013",
+      "code": "60013",
       "name": "EVEREADY BLUE AAA 912SW4",
       "price": 23.95,
       "category": "Misc",
       "subCategory": "Batteries"
     },
     {
-      "code": "000000060014",
+      "code": "60014",
       "name": "EVEREADY BLUE AA 915SW2",
       "price": 11.85,
       "category": "Misc",
@@ -1347,14 +1347,14 @@
       "subCategory": "Kitchen & Household Tools"
     },
     {
-      "code": "000000040011",
+      "code": "40011",
       "name": "TWIN TIGER PLASTIC CUP PINOY 12OZ 50'SX2",
       "price": 34.35,
       "category": "Misc",
       "subCategory": "Plastic & Packaging"
     },
     {
-      "code": "000000040012",
+      "code": "40012",
       "name": "TWIN TIGER PLASTIC CUP PINOY 8OZX50'SX20",
       "price": 23.1,
       "category": "Misc",
@@ -1592,112 +1592,112 @@
       "subCategory": "Kitchen & Household Tools"
     },
     {
-      "code": "000000030018",
+      "code": "30018",
       "name": "CORONA WHITE CHALKX1",
       "price": 82.55,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000030016",
+      "code": "30016",
       "name": "MAX STAPLE WIRE #10M",
       "price": 11.45,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000030019",
+      "code": "30019",
       "name": "MONGOL #1",
       "price": 8.85,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000030020",
+      "code": "30020",
       "name": "MONGOL #2",
       "price": 8.85,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000030021",
+      "code": "30021",
       "name": "MONGOL #3",
       "price": 8.85,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000030023",
+      "code": "30023",
       "name": "PANDA BALLPEN BLACK",
       "price": 6.05,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000030022",
+      "code": "30022",
       "name": "PANDA BALLPEN BLUE",
       "price": 6.05,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000030024",
+      "code": "30024",
       "name": "PANDA BALLPEN RED",
       "price": 6.05,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000030074",
+      "code": "30074",
       "name": "TIGER TAPE 1/2X40 BIG",
       "price": 6.25,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000030003",
+      "code": "30003",
       "name": "TULIPS TAPE 1/2X72",
       "price": 16.25,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000301067",
+      "code": "301067",
       "name": "MASKING TAPE 2INCH",
       "price": 42.95,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000301068",
+      "code": "301068",
       "name": "MASKING TAPE 1 1/2 INC",
       "price": 32.45,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000301069",
+      "code": "301069",
       "name": "EXCELLO TAPE 3/4 INCH",
       "price": 14.85,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000301070",
+      "code": "301070",
       "name": "MASKING TAPE 1''X20",
       "price": 26.65,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000301071",
+      "code": "301071",
       "name": "MASKING TAPE 1/2''X20",
       "price": 13.45,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000301074",
+      "code": "301074",
       "name": "TWINE GRAY TALI X10",
       "price": 60.45,
       "category": "Misc",
@@ -1718,63 +1718,63 @@
       "subCategory": "Kitchen & Household Tools"
     },
     {
-      "code": "000000010084",
+      "code": "10084",
       "name": "PACKING TAPE CLEAR 2'X40",
       "price": 24.75,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000010087",
+      "code": "10087",
       "name": "PACKING TAPE BROWN 2X40",
       "price": 24.75,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000050001",
+      "code": "50001",
       "name": "DOOR MAT 1",
       "price": 35,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
-      "code": "000000050002",
+      "code": "50002",
       "name": "DOOR MAT 2",
       "price": 35,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
-      "code": "000000050007",
+      "code": "50007",
       "name": "POT HOLDER ROUND",
       "price": 13.95,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
-      "code": "000000030070",
+      "code": "30070",
       "name": "CARTOLINA ASST. COLOR",
       "price": 7.65,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000050019",
+      "code": "50019",
       "name": "POT HOLDER SQUARE",
       "price": 13,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
-      "code": "000000050025",
+      "code": "50025",
       "name": "POT HOLDER BASE MAT",
       "price": 20,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
-      "code": "000000010010",
+      "code": "10010",
       "name": "POT HOLDER  WHITE 4'S",
       "price": 10.5,
       "category": "Misc",
@@ -1795,21 +1795,21 @@
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000040003",
+      "code": "40003",
       "name": "HBW BALLPEN BLACK",
       "price": 5.25,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000040004",
+      "code": "40004",
       "name": "HBW BALLPEN BLUE",
       "price": 5.25,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000040005",
+      "code": "40005",
       "name": "HBW BALLPEN RED",
       "price": 5.25,
       "category": "Misc",
@@ -1823,7 +1823,7 @@
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000030059",
+      "code": "30059",
       "name": "HBW MATRIX BALLPEN",
       "price": 5.25,
       "category": "Misc",
@@ -1872,7 +1872,7 @@
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000500010",
+      "code": "500010",
       "name": "BASEMAT",
       "price": 29.5,
       "category": "Misc",
@@ -1893,56 +1893,56 @@
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000301083",
+      "code": "301083",
       "name": "TULIPS TAPE 1INCHX72",
       "price": 32.15,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000301089",
+      "code": "301089",
       "name": "EXCELLO TAPE 1X50",
       "price": 18.75,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000301092",
+      "code": "301092",
       "name": "ARMAK PACKING TAPE CLEAR 2'X100",
       "price": 55.85,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000050060",
+      "code": "50060",
       "name": "POT HOLDER WITH POCKET",
       "price": 18,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
-      "code": "000000301079",
+      "code": "301079",
       "name": "EXCELLO TAPE 1/2",
       "price": 9.95,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000050017",
+      "code": "50017",
       "name": "KITCHEN HAND TOWEL",
       "price": 25,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
-      "code": "000000301090",
+      "code": "301090",
       "name": "ARMAK PACKING TAPE BROWN",
       "price": 29.15,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000301091",
+      "code": "301091",
       "name": "ARMAK PACKING TAPE CLEAR",
       "price": 25.85,
       "category": "Misc",
@@ -1956,7 +1956,7 @@
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000030075",
+      "code": "30075",
       "name": "TIGER TAPE SMALL",
       "price": 4.15,
       "category": "Misc",
@@ -1970,7 +1970,7 @@
       "subCategory": "Kitchen & Household Tools"
     },
     {
-      "code": "000000000111",
+      "code": "111",
       "name": "SPECIAL GIFT WRAPPER",
       "price": 10,
       "category": "Misc",
@@ -2096,7 +2096,7 @@
       "subCategory": "Kitchen & Household Tools"
     },
     {
-      "code": "000000010050",
+      "code": "10050",
       "name": "DISPOSABLE N95 FACE MASK 3'S",
       "price": 12,
       "category": "Misc",
@@ -2488,7 +2488,7 @@
       "subCategory": "Kitchen & Household Tools"
     },
     {
-      "code": "000000050022",
+      "code": "50022",
       "name": "POT HOLDER FLOWER BASEMAT",
       "price": 31.95,
       "category": "Misc",
@@ -2677,14 +2677,14 @@
       "subCategory": "Pet Food"
     },
     {
-      "code": "000000030015",
+      "code": "30015",
       "name": "TIME CARDX1",
       "price": 2,
       "category": "Misc",
       "subCategory": "Operations"
     },
     {
-      "code": "000000080001",
+      "code": "80001",
       "name": "SUPERCARD PAYMENT",
       "price": 100,
       "category": "Misc",
@@ -2698,7 +2698,7 @@
       "subCategory": "Plastic & Packaging"
     },
     {
-      "code": "000000001611",
+      "code": "1611",
       "name": "DUST PAN",
       "price": 110,
       "category": "Misc",
@@ -2712,7 +2712,7 @@
       "subCategory": "School & Office Supplies"
     },
     {
-      "code": "000000008882",
+      "code": "8882",
       "name": "FLOORMAT MANIPIS 1YARD",
       "price": 129,
       "category": "Misc",
@@ -2733,7 +2733,7 @@
       "subCategory": "Kitchen & Household Tools"
     },
     {
-      "code": "000000001112",
+      "code": "1112",
       "name": "WARREN",
       "price": 1,
       "category": "Misc",
@@ -2747,7 +2747,7 @@
       "subCategory": "Candles & Matches"
     },
     {
-      "code": "000000001211",
+      "code": "1211",
       "name": "FASTENER 1'S",
       "price": 9.95,
       "category": "Misc",
@@ -2789,7 +2789,7 @@
       "subCategory": "Pet Food"
     },
     {
-      "code": "000000030076",
+      "code": "30076",
       "name": "MITSUYA THUMB TACKS",
       "price": 11,
       "category": "Misc",
@@ -2871,6 +2871,27 @@
       "price": 22.15,
       "category": "Misc",
       "subCategory": "Others"
+    },
+    {
+      "code": "4809014366135",
+      "name": "CATERING TRAY 5000ML WHITE 2'SX20",
+      "price": 105,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools"
+    },
+    {
+      "code": "4809014366142",
+      "name": "CATERING TRAY 3200ML WHITE 1'SX20",
+      "price": 45.5,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools"
+    },
+    {
+      "code": "4809014364773",
+      "name": "LP ALUM. TRAY #3578 CHIC. STICK SPOON/FO",
+      "price": 112.75,
+      "category": "Misc",
+      "subCategory": "Kitchen & Household Tools"
     }
   ]
 }

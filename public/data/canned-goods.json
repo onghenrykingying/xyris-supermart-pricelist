@@ -1,6 +1,6 @@
 {
   "category": "Canned Goods",
-  "generatedAt": "2026-09-15T13:20:10.426Z",
+  "generatedAt": "2026-09-30T02:08:38.153Z",
   "skus": [
     {
       "code": "4808887011647",
@@ -45,7 +45,7 @@
       "subCategory": "Canned Fruits or Vegetables"
     },
     {
-      "code": "038900034221",
+      "code": "38900034221",
       "name": "DOLE DRIED MANGO 80GX48",
       "price": 113.35,
       "category": "Canned Goods",
@@ -297,7 +297,7 @@
       "subCategory": "Canned Fish"
     },
     {
-      "code": "051000012616",
+      "code": "51000012616",
       "name": "CB CREAM OF MUSHROOM 298GX48",
       "price": 94.45,
       "category": "Canned Goods",
@@ -437,7 +437,7 @@
       "subCategory": "Canned Meat"
     },
     {
-      "code": "039000086639",
+      "code": "39000086639",
       "name": "LIBBYS V.SAUSAGE 4.6OZX24",
       "price": 71.95,
       "category": "Canned Goods",
@@ -1517,14 +1517,14 @@
     {
       "code": "4806504721016",
       "name": "MEGA TUNA FLAKES H&S EOC 180GX48",
-      "price": 64.6,
+      "price": 64.65,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
     {
       "code": "4806504721009",
       "name": "MEGA TUNA FLAKES IN OIL EOC 180GX48",
-      "price": 64.6,
+      "price": 64.65,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
@@ -1552,14 +1552,14 @@
     {
       "code": "4806504721023",
       "name": "MEGA TUNA SWEET&SPICY 180GX48",
-      "price": 62.6,
+      "price": 64.65,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
     {
       "code": "4806504721030",
       "name": "MEGA TUNA FLAKES IN SPANISH 180GX48",
-      "price": 64.6,
+      "price": 64.65,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
@@ -2047,14 +2047,14 @@
       "subCategory": "Canned Meat"
     },
     {
-      "code": "037600336161",
+      "code": "37600336161",
       "name": "SPAM LITE 340GX12",
       "price": 223.65,
       "category": "Canned Goods",
       "subCategory": "Canned Meat"
     },
     {
-      "code": "037600130783",
+      "code": "37600130783",
       "name": "SPAM REG. 340GX12",
       "price": 223.65,
       "category": "Canned Goods",
@@ -2299,7 +2299,7 @@
       "subCategory": "Canned Meat"
     },
     {
-      "code": "037600240345",
+      "code": "37600240345",
       "name": "SPAM REG.30% LESS SODIUM340GX12",
       "price": 223.65,
       "category": "Canned Goods",
@@ -2453,7 +2453,7 @@
       "subCategory": "Canned Meat"
     },
     {
-      "code": "037600001076",
+      "code": "37600001076",
       "name": "SPAM 25%LESS SODUIM 198GX16",
       "price": 147.15,
       "category": "Canned Goods",
@@ -2644,14 +2644,14 @@
     {
       "code": "4800134101514",
       "name": "MASTER MACK. GREEN TS 155GX100",
-      "price": 28,
+      "price": 27,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
     {
       "code": "4800134101538",
       "name": "MASTER MACK HOT TS 155GX100",
-      "price": 28.25,
+      "price": 27.25,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
@@ -2679,7 +2679,7 @@
     {
       "code": "4800134101521",
       "name": "MASTER MACK RED TS 155GX100",
-      "price": 28,
+      "price": 27,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
@@ -2693,28 +2693,28 @@
     {
       "code": "4800134200033",
       "name": "MASTER SARD FRIED H&S IN TS 155GX50",
-      "price": 35.5,
+      "price": 34.5,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
     {
       "code": "4800134200057",
       "name": "MASTER SARD FRIED SPANISH 155GX50",
-      "price": 35.5,
+      "price": 34.5,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
     {
       "code": "4800134200316",
       "name": "MASTER SARD FRIED IN TAUSI 155GX50",
-      "price": 35.5,
+      "price": 34.5,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
     {
       "code": "4800134101019",
       "name": "MASTER SARD GREEN TS 155GX100",
-      "price": 25.25,
+      "price": 24.25,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
@@ -2728,7 +2728,7 @@
     {
       "code": "4800134101033",
       "name": "MASTER SARD HOT IN TS 155GX100",
-      "price": 25.5,
+      "price": 24.5,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
@@ -2742,14 +2742,14 @@
     {
       "code": "4800134200194",
       "name": "MASTER SARD PREM HOT 155GX100",
-      "price": 26.25,
+      "price": 25.25,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
     {
       "code": "4800134101026",
       "name": "MASTER SARD RED TS 155GX100",
-      "price": 25.25,
+      "price": 24.25,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
@@ -2763,21 +2763,21 @@
     {
       "code": "4800134200019",
       "name": "MASTER SARD SPANISH 155GX100",
-      "price": 36.5,
+      "price": 35.5,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
     {
       "code": "4806503244097",
       "name": "FAMILY SARD. TS W/CHILI BONUS 155X100",
-      "price": 25,
+      "price": 24,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
     {
       "code": "4806503244080",
       "name": "FAMILY SARD.TS BONUS 155GX100",
-      "price": 24.75,
+      "price": 23.75,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
@@ -2805,14 +2805,14 @@
     {
       "code": "4806503244189",
       "name": "FAMILY SARD SPANISH HOT (EOC)155GX100",
-      "price": 36.5,
+      "price": 35.5,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
     {
       "code": "4800134200187",
       "name": "MASTER SARD. PREM. IN TS 155GX100",
-      "price": 25.75,
+      "price": 24.75,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
@@ -2840,14 +2840,14 @@
     {
       "code": "4800134101811",
       "name": "MASTER SARD. BONUS TS W/CHILI 155GX100",
-      "price": 25.25,
+      "price": 24,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
     {
       "code": "4800134101804",
       "name": "MASTER SARD.BONUS GREEN 155GX100",
-      "price": 25,
+      "price": 23.75,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
     },
@@ -2978,7 +2978,7 @@
       "subCategory": "Canned Meat"
     },
     {
-      "code": "039000086691",
+      "code": "39000086691",
       "name": "LIBBY'S CHICKEN VIENNA SAUSAGE 4.6OZX24",
       "price": 87.65,
       "category": "Canned Goods",
@@ -2999,7 +2999,7 @@
       "subCategory": "Canned Meat"
     },
     {
-      "code": "062385061731",
+      "code": "62385061731",
       "name": "TULIP JAMONILLA LUNCHEON MEAT 340GX24",
       "price": 187.95,
       "category": "Canned Goods",
@@ -3111,7 +3111,14 @@
       "subCategory": "Canned Meat"
     },
     {
-      "code": "48006504710564",
+      "code": "4800066129150",
+      "name": "HOLIDAY LUNCHEON MEAT 150GX100",
+      "price": 34.45,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat"
+    },
+    {
+      "code": "4806504710546",
       "name": "MEGA TUNA FLKS SPANISH 155GX2 SAVE 5.00",
       "price": 85.85,
       "category": "Canned Goods",

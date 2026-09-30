@@ -1,6 +1,6 @@
 {
   "category": "Personal Care",
-  "generatedAt": "2026-09-15T13:20:10.426Z",
+  "generatedAt": "2026-09-30T02:08:38.153Z",
   "skus": [
     {
       "code": "4806506318900",
@@ -391,13 +391,6 @@
       "code": "8992222052467",
       "name": "GATSBY HW POWER&SPIKES 3GX12'SX48",
       "price": 52.55,
-      "category": "Personal Care",
-      "subCategory": "Hair Care"
-    },
-    {
-      "code": "4902806015843",
-      "name": "GATSBY HW POWER&SPIKES 75GX24",
-      "price": 100.65,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -998,7 +991,7 @@
     },
     {
       "code": "4801288870080",
-      "name": "THOSE DAYS WINGS ALL NIGHT IW 8X60",
+      "name": "THOSE DAYS WINGS ALL NIGHT IW 8'SX60",
       "price": 21.85,
       "category": "Personal Care",
       "subCategory": "Sanitary Napkins"
@@ -5757,7 +5750,7 @@
       "subCategory": "Hair Care"
     },
     {
-      "code": "020800718332",
+      "code": "20800718332",
       "name": "OLD SPICE H.E. PURE SPORT 45GX12",
       "price": 245.95,
       "category": "Personal Care",
@@ -6177,7 +6170,7 @@
       "subCategory": "Bath Soap"
     },
     {
-      "code": "067238891183",
+      "code": "67238891183",
       "name": "DOVE BAR PINK SEA 90GX48",
       "price": 62.65,
       "category": "Personal Care",
@@ -6254,14 +6247,14 @@
       "subCategory": "Lotion & Skin Care"
     },
     {
-      "code": "000048038614",
+      "code": "48038614",
       "name": "MASTER OIL CONTROL CLEAR 70MLX144",
       "price": 50.45,
       "category": "Personal Care",
       "subCategory": "Lotion & Skin Care"
     },
     {
-      "code": "000048038621",
+      "code": "48038621",
       "name": "MASTER ANTI-ACNE FC 70MLX144",
       "price": 50.45,
       "category": "Personal Care",
@@ -6926,14 +6919,14 @@
       "subCategory": "Hair Care"
     },
     {
-      "code": "000048034050",
+      "code": "48034050",
       "name": "ESKINOL FC PIMPLE FIGHTING 75MLX144",
       "price": 47.05,
       "category": "Personal Care",
       "subCategory": "Lotion & Skin Care"
     },
     {
-      "code": "000048038164",
+      "code": "48038164",
       "name": "ESKINOL FC CALAMANSI 75MLX144",
       "price": 47.05,
       "category": "Personal Care",
@@ -7850,7 +7843,7 @@
       "subCategory": "Lotion & Skin Care"
     },
     {
-      "code": "000048037617",
+      "code": "48037617",
       "name": "APOLLO SEBO DE MACHO 10G",
       "price": 28,
       "category": "Personal Care",
@@ -8613,35 +8606,35 @@
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000048035989",
+      "code": "48035989",
       "name": "JB COL.HEAVEN 25MLX72",
       "price": 26.95,
       "category": "Personal Care",
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000048039086",
+      "code": "48039086",
       "name": "JB COL.POWDER MIST 25MLX72",
       "price": 27.15,
       "category": "Personal Care",
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000048040525",
+      "code": "48040525",
       "name": "JB COL.SLIDE 25MLX72",
       "price": 27.15,
       "category": "Personal Care",
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000048032803",
+      "code": "48032803",
       "name": "JB COL.MORNING DEW 25MLX72",
       "price": 27.15,
       "category": "Personal Care",
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000048039116",
+      "code": "48039116",
       "name": "JB COL.SUMMER SWING 25MLX72",
       "price": 27.15,
       "category": "Personal Care",
@@ -8690,7 +8683,7 @@
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000048033459",
+      "code": "48033459",
       "name": "JB POWDER REGULAR 50GX144",
       "price": 28.35,
       "category": "Personal Care",
@@ -8711,7 +8704,7 @@
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000048040693",
+      "code": "48040693",
       "name": "JB POW BLOSSOM PINK 25GX144",
       "price": 20.15,
       "category": "Personal Care",
@@ -8732,7 +8725,7 @@
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000048032742",
+      "code": "48032742",
       "name": "JB POWDER REGULAR 25GX144",
       "price": 18.25,
       "category": "Personal Care",
@@ -8921,7 +8914,7 @@
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000048042697",
+      "code": "48042697",
       "name": "JB COL. HAPPY BERRIES 25MLX72",
       "price": 27.15,
       "category": "Personal Care",
@@ -9124,49 +9117,49 @@
       "subCategory": "Sanitary Napkins"
     },
     {
-      "code": "000001300017",
+      "code": "1300017",
       "name": "MODESS COTTONY MAXI NW 8SX48 15% OFF",
       "price": 33.75,
       "category": "Personal Care",
       "subCategory": "Sanitary Napkins"
     },
     {
-      "code": "000001300024",
+      "code": "1300024",
       "name": "MODESS COTTONY MAXI NW 12'SX24 15% OFF",
       "price": 47.25,
       "category": "Personal Care",
       "subCategory": "Sanitary Napkins"
     },
     {
-      "code": "000001300048",
+      "code": "1300048",
       "name": "MODESS COTTONY WINGS 15+1[16'S ]X30 15%O",
       "price": 63.45,
       "category": "Personal Care",
       "subCategory": "Sanitary Napkins"
     },
     {
-      "code": "000001300055",
+      "code": "1300055",
       "name": "MODESS COTTONY WINGS 29+2[32'S]X12 15%OF",
       "price": 123.45,
       "category": "Personal Care",
       "subCategory": "Sanitary Napkins"
     },
     {
-      "code": "000001300062",
+      "code": "1300062",
       "name": "MODESS ALL NIGHT WING 4SX24 15%OFF",
       "price": 43.15,
       "category": "Personal Care",
       "subCategory": "Sanitary Napkins"
     },
     {
-      "code": "000001300079",
+      "code": "1300079",
       "name": "MODESS ALL NIGHTS WING 10'SX24 15% OFF",
       "price": 102.65,
       "category": "Personal Care",
       "subCategory": "Sanitary Napkins"
     },
     {
-      "code": "000001300031",
+      "code": "1300031",
       "name": "MODESS COTTONY MAXI NW 20SX12",
       "price": 76.75,
       "category": "Personal Care",
@@ -9201,7 +9194,7 @@
       "subCategory": "Oral Care"
     },
     {
-      "code": "000001110180",
+      "code": "1110180",
       "name": "BUY 2 MOD AN 10 GET 2PCS KERATIN",
       "price": 259.95,
       "category": "Personal Care",
@@ -9376,7 +9369,7 @@
       "subCategory": "Hair Care"
     },
     {
-      "code": "000048039154",
+      "code": "48039154",
       "name": "MAXI-PEEL SUN CREAM 8GX144",
       "price": 18.15,
       "category": "Personal Care",
@@ -9390,7 +9383,7 @@
       "subCategory": "Lotion & Skin Care"
     },
     {
-      "code": "000048039161",
+      "code": "48039161",
       "name": "MAXI-PEEL MOIST CREAM 8GX144",
       "price": 16.05,
       "category": "Personal Care",
@@ -10496,7 +10489,7 @@
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000040062631",
+      "code": "40062631",
       "name": "NIVEA R-ON BRIGHTENING&SMOOTH RO 25MLX30",
       "price": 96.75,
       "category": "Personal Care",
@@ -10531,21 +10524,21 @@
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000042175957",
+      "code": "42175957",
       "name": "NIVEA RO DEO DOUBLE EFFECT 25MLX30",
       "price": 50.05,
       "category": "Personal Care",
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000042131946",
+      "code": "42131946",
       "name": "NIVEA RO EXTRA BRIGHTENING 25MLX30",
       "price": 96.45,
       "category": "Personal Care",
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000042184676",
+      "code": "42184676",
       "name": "NIVEA R-ON FOR MEN COOL KICK 25MLX30",
       "price": 87.15,
       "category": "Personal Care",
@@ -10559,7 +10552,7 @@
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000042187608",
+      "code": "42187608",
       "name": "NIVEA R-ON FOR MEN SILVER PROT.25MLX30",
       "price": 68.85,
       "category": "Personal Care",
@@ -10580,7 +10573,7 @@
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000042126706",
+      "code": "42126706",
       "name": "NIVEA R-ON PEARL&BEAUTY 25MLX30",
       "price": 87.35,
       "category": "Personal Care",
@@ -10615,7 +10608,7 @@
       "subCategory": "Oral Care"
     },
     {
-      "code": "000042213475",
+      "code": "42213475",
       "name": "NIVEA R-ON B&W CLEAR 25MLX30",
       "price": 70.45,
       "category": "Personal Care",
@@ -10629,7 +10622,7 @@
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000042218937",
+      "code": "42218937",
       "name": "NIVEA FOR MEN BRIGHTENING 25MLX30",
       "price": 86.25,
       "category": "Personal Care",
@@ -10713,7 +10706,7 @@
       "subCategory": "Sanitary Napkins"
     },
     {
-      "code": "000042176022",
+      "code": "42176022",
       "name": "NIVEA R-ON EXTRA BRIGHT&FIRM Q10 25MLX30",
       "price": 76.95,
       "category": "Personal Care",
@@ -10734,7 +10727,7 @@
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000042316688",
+      "code": "42316688",
       "name": "NIVEA MEN B&W FRESH RO 25MLX30",
       "price": 74.65,
       "category": "Personal Care",
@@ -10762,7 +10755,7 @@
       "subCategory": "Deodorant & Cologne"
     },
     {
-      "code": "000042316657",
+      "code": "42316657",
       "name": "NIVEA R-ON B&W FRESH FOR WOMEN 25MLX30",
       "price": 83.15,
       "category": "Personal Care",
@@ -13144,7 +13137,7 @@
     {
       "code": "4800034015164",
       "name": "HAPEE ECO TUBE WHITENING 150GX48",
-      "price": 50.75,
+      "price": 50.25,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
@@ -13172,14 +13165,14 @@
     {
       "code": "4800034607413",
       "name": "HAPEE RED TRIO PACK 100GX3'SX24",
-      "price": 94.95,
+      "price": 94.05,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "4800034017267",
       "name": "HAPEE ECO TUBE RED 150GX48",
-      "price": 50.75,
+      "price": 50.25,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
@@ -13569,13 +13562,6 @@
       "subCategory": "Sanitary Napkins"
     },
     {
-      "code": "4800888283108",
-      "name": "SUNSILK SH AD HTHY&STRNG 170ML(1+1)X12",
-      "price": 182.75,
-      "category": "Personal Care",
-      "subCategory": "Hair Care"
-    },
-    {
       "code": "4987176140487",
       "name": "SAFEGUARD BAR ARCTICFRESH(160GX3+55G)X16",
       "price": 185.65,
@@ -13709,7 +13695,7 @@
       "subCategory": "Bath Soap"
     },
     {
-      "code": "000000040006",
+      "code": "40006",
       "name": "GILLETTE BLUE 2 FLEXI DISPOSABLE 5+1",
       "price": 150.65,
       "category": "Personal Care",
@@ -13744,7 +13730,7 @@
       "subCategory": "Bath Soap"
     },
     {
-      "code": "000001110173",
+      "code": "1110173",
       "name": "BUY 1 MOD REG W 16 & 1 MOD AN 10 GET 2PC",
       "price": 206.85,
       "category": "Personal Care",
@@ -13933,14 +13919,14 @@
       "subCategory": "Bath Soap"
     },
     {
-      "code": "047400245105",
+      "code": "47400245105",
       "name": "GILLETTE FOAMY LEMON LIME 175GX12",
       "price": 227.35,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
-      "code": "012044039915",
+      "code": "12044039915",
       "name": "OLD SPICE BEARGLOVE BS 150MLX12",
       "price": 287.35,
       "category": "Personal Care",
@@ -14813,6 +14799,90 @@
       "price": 16.55,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
+    },
+    {
+      "code": "4800047877605",
+      "name": "L&P POW. RAIN 50G FREE SCRUNCHIEX30",
+      "price": 26.45,
+      "category": "Personal Care",
+      "subCategory": "Deodorant & Cologne"
+    },
+    {
+      "code": "4800047877599",
+      "name": "L&P POW. WHITE BLUSH 50G FREE SCRUNCHIEX",
+      "price": 23.85,
+      "category": "Personal Care",
+      "subCategory": "Deodorant & Cologne"
+    },
+    {
+      "code": "4800047877629",
+      "name": "L&P POW. JASMIN 50G FREE SCRUNCHIEX30",
+      "price": 23.85,
+      "category": "Personal Care",
+      "subCategory": "Deodorant & Cologne"
+    },
+    {
+      "code": "4802288812100",
+      "name": "CARE ADULT PANTS M10'SX10",
+      "price": 184.35,
+      "category": "Personal Care",
+      "subCategory": "Sanitary Napkins"
+    },
+    {
+      "code": "4802288814104",
+      "name": "CARE ADULT PANTS XL10'SX10",
+      "price": 290.85,
+      "category": "Personal Care",
+      "subCategory": "Sanitary Napkins"
+    },
+    {
+      "code": "4802288913081",
+      "name": "CARE UNDERPADS L8'SX10",
+      "price": 142.85,
+      "category": "Personal Care",
+      "subCategory": "Sanitary Napkins"
+    },
+    {
+      "code": "4802288914088",
+      "name": "CARE UNDERPADS XL 8'SX10",
+      "price": 148.35,
+      "category": "Personal Care",
+      "subCategory": "Sanitary Napkins"
+    },
+    {
+      "code": "4801288892020",
+      "name": "THOSE DAYS PANTIES M2'SX36",
+      "price": 45.75,
+      "category": "Personal Care",
+      "subCategory": "Sanitary Napkins"
+    },
+    {
+      "code": "4801288830244",
+      "name": "THOSE DAYS NW BP 24'SX24",
+      "price": 37.75,
+      "category": "Personal Care",
+      "subCategory": "Sanitary Napkins"
+    },
+    {
+      "code": "4801288850204",
+      "name": "THOSE DAYS WINGS IW 20'SX24",
+      "price": 40.05,
+      "category": "Personal Care",
+      "subCategory": "Sanitary Napkins"
+    },
+    {
+      "code": "4801288902026",
+      "name": "THOSE DAYS PANTIES S-M 2'SX36",
+      "price": 47.95,
+      "category": "Personal Care",
+      "subCategory": "Sanitary Napkins"
+    },
+    {
+      "code": "4801288903023",
+      "name": "THOSE DAYS PANTIES L-XL 2'SX36",
+      "price": 59.95,
+      "category": "Personal Care",
+      "subCategory": "Sanitary Napkins"
     }
   ]
 }

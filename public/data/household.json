@@ -1,6 +1,6 @@
 {
   "category": "Household",
-  "generatedAt": "2026-09-15T13:20:10.426Z",
+  "generatedAt": "2026-09-30T02:08:38.153Z",
   "skus": [
     {
       "code": "4800147212177",
@@ -388,28 +388,28 @@
       "subCategory": "Insect Killer"
     },
     {
-      "code": "000048038355",
+      "code": "48038355",
       "name": "OFF LOTION 4 KIDS 50MLX48",
       "price": 125.95,
       "category": "Household",
       "subCategory": "Insect Killer"
     },
     {
-      "code": "000048038379",
+      "code": "48038379",
       "name": "OFF LOTION 4 KIDS 6MLX240",
       "price": 9.15,
       "category": "Household",
       "subCategory": "Insect Killer"
     },
     {
-      "code": "000048031813",
+      "code": "48031813",
       "name": "OFF OVERTIME 6MLX240",
       "price": 9.15,
       "category": "Household",
       "subCategory": "Insect Killer"
     },
     {
-      "code": "000048031837",
+      "code": "48031837",
       "name": "OFF OVERTIME 50MLX48",
       "price": 135.65,
       "category": "Household",
@@ -934,7 +934,7 @@
       "subCategory": "Alcohol & Sanitizer"
     },
     {
-      "code": "000048036207",
+      "code": "48036207",
       "name": "CASINO ALC 70% REG 60MLX180",
       "price": 23.1,
       "category": "Household",
@@ -2124,7 +2124,7 @@
       "subCategory": "Air Freshener"
     },
     {
-      "code": "019200850896",
+      "code": "19200850896",
       "name": "LYSOL DS BABY'S ROOM 510GX12",
       "price": 588.95,
       "category": "Household",
@@ -2166,7 +2166,7 @@
       "subCategory": "Air Freshener"
     },
     {
-      "code": "019200850889",
+      "code": "19200850889",
       "name": "LYSOL DS BABY'S ROOM 340GX12",
       "price": 468.95,
       "category": "Household",
@@ -3427,7 +3427,7 @@
     },
     {
       "code": "4902430346177",
-      "name": "DOWNY SUNRISE FRESH 38MLX144",
+      "name": "DOWNY SUNRISE FRESH 41MLX144",
       "price": 9.55,
       "category": "Household",
       "subCategory": "Laundry"
@@ -6172,7 +6172,7 @@
     {
       "code": "4800888270160",
       "name": "BREEZE LIQ PMACHINE PRICE OFF 12X750G",
-      "price": 123.45,
+      "price": 123.55,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -6432,13 +6432,6 @@
       "code": "4800888289421",
       "name": "SURF PWD ROSE FRESH 6+1 SRF LQ RFX16",
       "price": 41.45,
-      "category": "Household",
-      "subCategory": "Laundry"
-    },
-    {
-      "code": "4800888289483",
-      "name": "SURF PWD RF 65G 6+1 SRF FABBF",
-      "price": 38.7,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -10860,7 +10853,7 @@
       "subCategory": "Laundry"
     },
     {
-      "code": "000021000342",
+      "code": "21000342",
       "name": "MORTEIN NATURGARD 500ML",
       "price": 255,
       "category": "Household",
@@ -10886,13 +10879,6 @@
       "price": 289.25,
       "category": "Household",
       "subCategory": "Insect Killer"
-    },
-    {
-      "code": "480088289483",
-      "name": "SURF PWD RF 65G 6+1 SRF FABBF",
-      "price": 38.7,
-      "category": "Household",
-      "subCategory": "Laundry"
     },
     {
       "code": "4801002068793",
@@ -11140,7 +11126,7 @@
       "subCategory": "Laundry"
     },
     {
-      "code": "000000020007",
+      "code": "20007",
       "name": "LALA FABCON FRESH BREEZE 30ML 6+2",
       "price": 30.9,
       "category": "Household",
@@ -11191,14 +11177,14 @@
     {
       "code": "4800888293435",
       "name": "BREEZE LIQ.DET. ROSE GOLD 725GX12 PROMO",
-      "price": 111.25,
+      "price": 111.35,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4800888293442",
       "name": "BREEZE LIQ.DET. FRESH CLEAN 750GX12 PROM",
-      "price": 111.25,
+      "price": 111.35,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -11602,28 +11588,28 @@
       "subCategory": "Alcohol & Sanitizer"
     },
     {
-      "code": "000000030080",
+      "code": "30080",
       "name": "SURF POW. PURPLE BLOOM 65G X 288 (WH)",
       "price": 1927,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
-      "code": "000000030079",
+      "code": "30079",
       "name": "SURF POW. CHERRY BLOSSOM 65G X 288 (WH)",
       "price": 1927,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
-      "code": "000000030078",
+      "code": "30078",
       "name": "SURF POW. ROSE FRESH 65G X 288 (WH)",
       "price": 1927,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
-      "code": "000000030082",
+      "code": "30082",
       "name": "SURF POW. SUNFRESH 65G X 288 (WH)",
       "price": 1927,
       "category": "Household",
@@ -11845,6 +11831,41 @@
       "price": 36.95,
       "category": "Household",
       "subCategory": "Laundry"
+    },
+    {
+      "code": "4802288320728",
+      "name": "HAPPY BUDS 72 TIPSX288",
+      "price": 7.05,
+      "category": "Household",
+      "subCategory": "Tissue & Cotton"
+    },
+    {
+      "code": "4802288321084",
+      "name": "HAPPY BUDS 108 TIPSX216",
+      "price": 9.65,
+      "category": "Household",
+      "subCategory": "Tissue & Cotton"
+    },
+    {
+      "code": "4802288322005",
+      "name": "HAPPY BUDS 200 TIPSX144",
+      "price": 15.65,
+      "category": "Household",
+      "subCategory": "Tissue & Cotton"
+    },
+    {
+      "code": "4802288322012",
+      "name": "HAPPY BUDS 200 TIPS CANX144",
+      "price": 19.45,
+      "category": "Household",
+      "subCategory": "Tissue & Cotton"
+    },
+    {
+      "code": "4801288111008",
+      "name": "HAPPY JUMBO COTTON BALLS 100'SX32",
+      "price": 42.95,
+      "category": "Household",
+      "subCategory": "Tissue & Cotton"
     }
   ]
 }
