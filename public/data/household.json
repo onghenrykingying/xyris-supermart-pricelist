@@ -1,6 +1,6 @@
 {
   "category": "Household",
-  "generatedAt": "2026-09-30T02:08:47.693Z",
+  "generatedAt": "2026-10-12T12:03:47.411Z",
   "skus": [
     {
       "code": "4800147212177",
@@ -214,22 +214,22 @@
     },
     {
       "code": "4902430452694",
-      "name": "DOWNY GARDEN BLOOM 38MLX144",
-      "price": 9.55,
+      "name": "DOWNY GARDEN BLOOM 41MLX144",
+      "price": 10.1,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430453295",
-      "name": "DOWNY GARDEN BLOOM 24MLX360",
-      "price": 6.15,
+      "name": "DOWNY GARDEN BLOOM 26MLX360",
+      "price": 6.65,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430452816",
-      "name": "DOWNY GB REFILL 1.48LX6",
-      "price": 307.25,
+      "name": "DOWNY GARDEN BLOOM REFILL 1.5LX6",
+      "price": 328.35,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -3232,14 +3232,14 @@
     {
       "code": "4808888843414",
       "name": "AXION DWL KALAMANSI 250MLX20",
-      "price": 69.35,
+      "price": 70.25,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4808888842417",
       "name": "AXION DWL LEMON 250MLX20",
-      "price": 69.35,
+      "price": 70.25,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -3337,14 +3337,14 @@
     {
       "code": "4808888801155",
       "name": "AXION LEMON 250ML B1GET2ND 50%OFFX20",
-      "price": 98.85,
+      "price": 100.15,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4808888801148",
       "name": "AXION KAL. 250ML B1G2ND AT 50%OFFX20",
-      "price": 98.85,
+      "price": 100.15,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -3358,35 +3358,35 @@
     {
       "code": "4902430154239",
       "name": "JOY ANTIBAC 165MLX40",
-      "price": 67.95,
+      "price": 68.25,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4902430093835",
       "name": "JOY KALAMANSI 250MLX20",
-      "price": 76.05,
+      "price": 76.45,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4902430093767",
       "name": "JOY LEMON 250MLX20",
-      "price": 76.05,
+      "price": 76.45,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4902430154154",
       "name": "JOY KALAMANSI 165MLX40",
-      "price": 49.75,
+      "price": 49.95,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4902430154147",
       "name": "JOY LEMON 165MLX40",
-      "price": 49.75,
+      "price": 49.95,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -3400,7 +3400,7 @@
     {
       "code": "4902430093729",
       "name": "JOY ANTIBAC 240MLX20",
-      "price": 96.75,
+      "price": 97.15,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -3428,21 +3428,21 @@
     {
       "code": "4902430346177",
       "name": "DOWNY SUNRISE FRESH 41MLX144",
-      "price": 9.55,
+      "price": 10.1,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430346184",
-      "name": "DOWNY ANTIBAC 36MLX144",
-      "price": 9.55,
+      "name": "DOWNY ANTIBAC 41MLX144",
+      "price": 10.1,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430344876",
-      "name": "DOWNY ANTIBAC 22MLX360",
-      "price": 6.15,
+      "name": "DOWNY ANTIBAC 26MLX360",
+      "price": 6.65,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -3490,8 +3490,8 @@
     },
     {
       "code": "4902430401845",
-      "name": "DOWNY SUNRISE FRESH 24MLX360",
-      "price": 6.15,
+      "name": "DOWNY SUNRISE FRESH 26MLX360",
+      "price": 6.65,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -3539,15 +3539,15 @@
     },
     {
       "code": "4902430424288",
-      "name": "DOWNY FBEN PASSION 63MLX180",
-      "price": 16.65,
+      "name": "DOWNY FBEN PASSION 75MLX180",
+      "price": 17.75,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430424264",
-      "name": "DOWNY ANTIBAC 66MLX180",
-      "price": 16.15,
+      "name": "DOWNY ANTIBAC 75MLX180",
+      "price": 17.1,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -3638,42 +3638,42 @@
     {
       "code": "4902430468718",
       "name": "JOY LEMON 540MLX8",
-      "price": 139.75,
+      "price": 140.45,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4902430468732",
       "name": "JOY KALAMANSI 540MLX8",
-      "price": 139.75,
+      "price": 140.45,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4902430468756",
       "name": "JOY ANTIBAC W/ SAFEGUARD SUP 550MLX8",
-      "price": 166.95,
+      "price": 167.75,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4902430513081",
-      "name": "DOWNY SUNRISE FRESH 66MLX180",
-      "price": 16.15,
+      "name": "DOWNY SUNRISE FRESH 75MLX180",
+      "price": 17.1,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430513074",
-      "name": "DOWNY GARDEN BLOOM 69MLX180",
-      "price": 16.15,
+      "name": "DOWNY GARDEN BLOOM 75MLX180",
+      "price": 17.1,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430504560",
       "name": "DOWNY MYSTIQUE REF.1.5LX6",
-      "price": 302.55,
+      "price": 322.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -3883,77 +3883,77 @@
     {
       "code": "9556076012672",
       "name": "AMBIPUR GEL FRSH RELAX LAV.180GX12",
-      "price": 144.5,
+      "price": 145.25,
       "category": "Household",
       "subCategory": "Air Freshener"
     },
     {
       "code": "4902430452779",
-      "name": "DOWNY GB REF.660MLX8",
-      "price": 155.35,
+      "name": "DOWNY GARDEN BLOOM REF.750MLX8",
+      "price": 166.55,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430453028",
-      "name": "DOWNY SUNRISE FRESH REF.660MLX8",
-      "price": 155.35,
+      "name": "DOWNY SUNRISE FRESH REF.750MLX8",
+      "price": 166.55,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430622066",
-      "name": "DOWNY FBEN MYSTIQUE RFL.600MLX8",
-      "price": 153.05,
+      "name": "DOWNY MYSTIQUE REFILL 750MLX8",
+      "price": 163.85,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430627528",
-      "name": "DOWNY ANTIBAC REF.690MLX8",
-      "price": 150.75,
+      "name": "DOWNY ANTIBAC REFILL 750MLX8",
+      "price": 161.1,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430622080",
-      "name": "DOWNY PASSION REF.600MLX8",
-      "price": 153.05,
+      "name": "DOWNY PASSION REFILL 750MLX8",
+      "price": 163.85,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430355193",
-      "name": "DOWNY PASSION 1.2L REF.X6",
-      "price": 302.55,
+      "name": "DOWNY PASSION 1.5L REF.X6",
+      "price": 322.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430727150",
-      "name": "DOWNY FBEN MYSTIQUE 32MLX144",
-      "price": 9.55,
+      "name": "DOWNY MYSTIQUE 41MLX144",
+      "price": 10.1,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430727143",
-      "name": "DOWNY FBEN PASSION 32MLX144",
-      "price": 9.55,
+      "name": "DOWNY PASSION 41MLX144",
+      "price": 10.1,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430729925",
-      "name": "DOWNY FBEN MYSTIQUE 20MLX360",
-      "price": 6.15,
+      "name": "DOWNY MYSTIQUE 24MLX360",
+      "price": 6.65,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430729901",
-      "name": "DOWNY FBEN PASSION 20MLX360",
-      "price": 6.15,
+      "name": "DOWNY PASSION 24MLX360",
+      "price": 6.65,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -4002,7 +4002,7 @@
     {
       "code": "4902430729932",
       "name": "DOWNY BLISSFUL BLOSSOM 20MLX360",
-      "price": 6.15,
+      "price": 6.65,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -4051,21 +4051,21 @@
     {
       "code": "4902430765947",
       "name": "JOY BOT.LEMON 475MLX12",
-      "price": 130.35,
+      "price": 130.95,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4902430765954",
       "name": "JOY ANTIBAC 475MLX12 BOTTLE",
-      "price": 154.55,
+      "price": 155.25,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4902430765978",
       "name": "JOY KAL BOT.475MLX12",
-      "price": 130.35,
+      "price": 130.95,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -4078,22 +4078,22 @@
     },
     {
       "code": "4902430785495",
-      "name": "DOWNY MYSTIQUE 63MLX180",
-      "price": 16.65,
+      "name": "DOWNY MYSTIQUE 75MLX180",
+      "price": 17.75,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430452991",
-      "name": "DOWNY ANTIBAC 1.38L SUPX6",
-      "price": 296.85,
+      "name": "DOWNY ANTIBAC 1.5L SUPX6",
+      "price": 317.55,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430245012",
-      "name": "DOWNY SUNRISE FRESH 1.48L SUPX6",
-      "price": 307.25,
+      "name": "DOWNY SUNRISE FRESH 1.5L SUPX6",
+      "price": 328.35,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -4106,8 +4106,8 @@
     },
     {
       "code": "4902430832779",
-      "name": "DOWNY PASSION 31ML 6+1X24",
-      "price": 57.25,
+      "name": "DOWNY PASSION 41ML 6+1X24",
+      "price": 60.6,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -4141,22 +4141,22 @@
     },
     {
       "code": "4902430832786",
-      "name": "DOWNY MYSTIQUE 32ML(6+1)X24",
-      "price": 57.25,
+      "name": "DOWNY MYSTIQUE 41ML(6+1)X24",
+      "price": 60.6,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430832762",
-      "name": "DOWNY AB 36ML 6+1X24",
-      "price": 57.25,
+      "name": "DOWNY ANTIBAC 41ML 6+1X24",
+      "price": 60.6,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430832755",
-      "name": "DOWNY FBEN  LIQ. SF 38ML[6+1]X24",
-      "price": 57.25,
+      "name": "DOWNY FBEN  LIQ. SF 41ML[6+1]X24",
+      "price": 60.6,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -4177,7 +4177,7 @@
     {
       "code": "9556076012689",
       "name": "AMBIPUR GEL R.LEMON 180GX12",
-      "price": 144.5,
+      "price": 145.25,
       "category": "Household",
       "subCategory": "Air Freshener"
     },
@@ -4190,29 +4190,29 @@
     },
     {
       "code": "4902430846448",
-      "name": "DOWNY MYSTIQUE 20ML 6+1FREEX60",
-      "price": 36.95,
+      "name": "DOWNY MYSTIQUE 24ML 6+1FREEX60",
+      "price": 39.9,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430846455",
-      "name": "DOWNY GB 24ML 6+1FREEX60",
-      "price": 36.95,
+      "name": "DOWNY GB 26ML 6+1FREEX60",
+      "price": 39.9,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430846417",
       "name": "DOWNY SF 26ML 6+1FREEX60",
-      "price": 36.95,
+      "price": 39.9,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430846424",
       "name": "DOWNY ANTIBAC 26ML 6+1FREEX60",
-      "price": 36.95,
+      "price": 39.9,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -4226,14 +4226,14 @@
     {
       "code": "4902430840002",
       "name": "JOY LEMON 355MLX24",
-      "price": 102.5,
+      "price": 103.05,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4902430846752",
-      "name": "DOWNY FBEN LIQ(6+1F) 20MLX60 PASSION",
-      "price": 36.95,
+      "name": "DOWNY FBEN LIQ(6+1F) 24MLX60 PASSION",
+      "price": 39.9,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -4246,22 +4246,22 @@
     },
     {
       "code": "4902430873727",
-      "name": "DOWNY KONTRA KULOB REF.690MLX8",
-      "price": 150.75,
+      "name": "DOWNY KONTRA KULOB REF.750MLX8",
+      "price": 161.1,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430873710",
-      "name": "DOWNY KONTRA KULOB 36MLX144",
-      "price": 9.55,
+      "name": "DOWNY KONTRA KULOB 41MLX144",
+      "price": 10.1,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430873703",
-      "name": "DOWNY KONTRA KULOB 22MLX360",
-      "price": 6.15,
+      "name": "DOWNY KONTRA KULOB 24MLX360",
+      "price": 6.65,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -4289,14 +4289,14 @@
     {
       "code": "4902430840026",
       "name": "JOY KALAMANSI 355MLX24",
-      "price": 102.5,
+      "price": 103.05,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4902430840019",
       "name": "JOY ANTIBAC SAFEGUARD 345MLX24",
-      "price": 118.65,
+      "price": 119.15,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -4344,36 +4344,36 @@
     },
     {
       "code": "4902430873734",
-      "name": "DOWNY INDOOR DRY REFILL 1.38LX6",
-      "price": 296.85,
+      "name": "DOWNY KONTRA KULOB REFILL 1.5LX6",
+      "price": 317.55,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430832816",
-      "name": "DOWNY FBEN LIQ (6+1F)38MLX24 GB",
-      "price": 57.25,
+      "name": "DOWNY FBEN LIQ (6+1F)41MLX24 GB",
+      "price": 60.6,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430929028",
-      "name": "DOWNY FE LQ 63ML(6+1)X25 MYS",
-      "price": 99.95,
+      "name": "DOWNY MYSTIQUE 75ML(6+1)X25",
+      "price": 106.5,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430928991",
-      "name": "DOWNY LQ 75ML (6+1)X25 AB",
-      "price": 96.75,
+      "name": "DOWNY LQ 75ML (6+1)X25 ANTIBAC",
+      "price": 102.6,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430929011",
-      "name": "DOWNY FE LQ 63ML(6+1)X25 PAS C_PH AD BP",
-      "price": 99.95,
+      "name": "DOWNY PASSION 75ML(6+1)X25",
+      "price": 106.5,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -4387,14 +4387,14 @@
     {
       "code": "4902430928977",
       "name": "DOWNY SUNRISE FRESH 75ML(6+1)X25",
-      "price": 96.75,
+      "price": 102.6,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430929004",
-      "name": "DOWNY GARDEN BLOOM 66ML (6+1)X25",
-      "price": 96.75,
+      "name": "DOWNY GARDEN BLOOM 75ML (6+1)X25",
+      "price": 102.6,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -4407,8 +4407,8 @@
     },
     {
       "code": "4902430928960",
-      "name": "DOWNY FBEN 23ML(6+1F)X60 IDD",
-      "price": 36.95,
+      "name": "DOWNY KONTRA KULOB 24ML(6+1F)X60 IDD",
+      "price": 39.9,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -4471,7 +4471,7 @@
     {
       "code": "4902430518277",
       "name": "AMBIPUR GELFR RLX LAV.(180GX2)X4",
-      "price": 249.5,
+      "price": 250.75,
       "category": "Household",
       "subCategory": "Air Freshener"
     },
@@ -4484,15 +4484,15 @@
     },
     {
       "code": "4987176022394",
-      "name": "DOWNY FBEN  LD 63ML(6+1)X25 IDD",
-      "price": 96.75,
+      "name": "DOWNY KONTRA KULOB 75ML(6+1)X25 IDD",
+      "price": 102.6,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430790208",
       "name": "JOY LIQ. 36ML(6+1F)X20 ANTIBAC",
-      "price": 75.05,
+      "price": 75.3,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -4512,15 +4512,15 @@
     },
     {
       "code": "4902430635370",
-      "name": "DOWNY FBEN LIQ 66MLX180 IDD",
-      "price": 16.15,
+      "name": "DOWNY KONTRA KULOB 75MLX180 IDD",
+      "price": 17.1,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430789974",
       "name": "JOY LEMON 40ML 6+1X20",
-      "price": 75.05,
+      "price": 75.3,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -4534,7 +4534,7 @@
     {
       "code": "4987176067036",
       "name": "ARIEL LAU PWD. 660GX24 FGB",
-      "price": 126,
+      "price": 125.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -4583,7 +4583,7 @@
     {
       "code": "4902430790185",
       "name": "JOY LIQ.  KALAMANSI 40ML 6+1X20",
-      "price": 75.05,
+      "price": 75.3,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -4610,8 +4610,8 @@
     },
     {
       "code": "4987176078209",
-      "name": "DOWNY FBEN LIQ 20MLX360 FLV",
-      "price": 6.15,
+      "name": "DOWNY LAVENDER 18MLX360",
+      "price": 6.65,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -4624,8 +4624,8 @@
     },
     {
       "code": "4987176078254",
-      "name": "DOWNY FBEN LIQ 63MLX180 LAV.",
-      "price": 16.65,
+      "name": "DOWNY LAVENDER 63MLX180",
+      "price": 17.75,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -4639,21 +4639,21 @@
     {
       "code": "4902430790253",
       "name": "JOY HD LIQ CP18.5ML(6+1F)X30 LEMON BP",
-      "price": 39.35,
+      "price": 39.9,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4902430790338",
       "name": "JOY HD LIQ CP18.5ML (6+1F)X30 KAL.BP",
-      "price": 39.35,
+      "price": 39.9,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4902430790413",
       "name": "JOY HD LIQ CP 17ML (6+1F)X30 ANTIBAC BP",
-      "price": 39.45,
+      "price": 39.9,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -4799,8 +4799,8 @@
     },
     {
       "code": "4987176222558",
-      "name": "DOWNY SPRING BLOSSOM 22MLX360",
-      "price": 6.15,
+      "name": "DOWNY SPRING BLOSSOM 24MLX360",
+      "price": 6.65,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -4828,21 +4828,21 @@
     {
       "code": "4987176160652",
       "name": "JOY KALAMANSI 540MLX3 PRICE OFF",
-      "price": 338.65,
+      "price": 340.25,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4987176160645",
       "name": "JOY LEMON SUP 540MLX3X3",
-      "price": 338.65,
+      "price": 340.25,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4987176160683",
       "name": "JOY LIQ AB 550MLX3X3",
-      "price": 370.55,
+      "price": 372.25,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -4890,8 +4890,8 @@
     },
     {
       "code": "4987176246257",
-      "name": "DOWNY SPRING BLOSSOM 66ML 6+1X25",
-      "price": 96.75,
+      "name": "DOWNY SPRING BLOSSOM 75ML 6+1X25",
+      "price": 102.6,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -5010,7 +5010,7 @@
     {
       "code": "4987176285232",
       "name": "JOY KALAMANSI 540MLX8 PROMO",
-      "price": 114.45,
+      "price": 115.05,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -5044,29 +5044,29 @@
     },
     {
       "code": "4987176222565",
-      "name": "DOWNY FBEN LIQ 24ML(6+1F)X60 SBL",
-      "price": 36.95,
+      "name": "DOWNY SPRING BLOSSOM 24ML(6+1F)X60",
+      "price": 39.9,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176281524",
       "name": "JOY LIQ SUP 1050MLX6 LEMON",
-      "price": 221.05,
+      "price": 222.05,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4987176281500",
       "name": "JOY HD LIQ SUP 1050MLX6 KAL",
-      "price": 221.05,
+      "price": 222.05,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4987176285249",
       "name": "JOY HD LIQ SUP 540MLX8 LEMON",
-      "price": 114.45,
+      "price": 115.05,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -5094,63 +5094,63 @@
     {
       "code": "4987176332943",
       "name": "DOWNY PASSION REFILL 2.4LX4 PROMO",
-      "price": 399.65,
+      "price": 433.65,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176332950",
       "name": "DOWNY ANTIBAC REFILL 2.4LX4 PROMO",
-      "price": 393.05,
+      "price": 426.45,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176331007",
       "name": "DOWNY ANTIBAC REFILL 750MLX8 PROMO",
-      "price": 127.35,
+      "price": 136.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176331045",
       "name": "DOWNY PASSION REFILL 750MLX8 PROMO",
-      "price": 129.55,
+      "price": 139.25,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176331038",
       "name": "DOWNY MYSTIQUE REFILL 750MLX8 PROMO",
-      "price": 129.55,
+      "price": 139.25,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176331014",
       "name": "DOWNY KONTRA KULOB REFILL 750MLX8 PROMO",
-      "price": 127.35,
+      "price": 136.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176330956",
       "name": "DOWNY KONTA KULOB REFILL 1.5LX6 PROMO",
-      "price": 251.95,
+      "price": 269.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176314215",
       "name": "JOY ANTIBAC SUP 550MLX8 PROMO",
-      "price": 125.65,
+      "price": 126.25,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4902430883740",
       "name": "AMBIPUR GEL FRESH DOWNY 180GX2'SX4",
-      "price": 249.5,
+      "price": 250.75,
       "category": "Household",
       "subCategory": "Air Freshener"
     },
@@ -5164,35 +5164,35 @@
     {
       "code": "4987176330918",
       "name": "DOWNY SUNRISE FRESH REFILL 1.5LX6 PROMO",
-      "price": 260.45,
+      "price": 279.05,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176330963",
       "name": "DOWNY GARDEN BLOOM REFILL 1.5LX6 PROMO",
-      "price": 260.45,
+      "price": 279.05,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176330994",
       "name": "DOWNY GARDEN BLOOM REFILL 750MLX8 PROMO",
-      "price": 131.65,
+      "price": 141.55,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176282149",
       "name": "JOY DWL LEMON 780MLX16 PROMO",
-      "price": 161.75,
+      "price": 162.55,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4987176282156",
       "name": "JOY DWL KALAMANSI 780MLX16 PROMO",
-      "price": 161.75,
+      "price": 162.55,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -5213,14 +5213,14 @@
     {
       "code": "4987176330925",
       "name": "DOWNY MYSTIQUE RFL 1.5L X6 PRICE OFF",
-      "price": 256.25,
+      "price": 274.55,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176330970",
       "name": "DOWNY ANTIBAC RFL 1.5LX6 PRICE OFF",
-      "price": 251.95,
+      "price": 269.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -5234,7 +5234,7 @@
     {
       "code": "4987176330949",
       "name": "DOWNY PASSION 1.5L REFILLX6 PROMO",
-      "price": 256.25,
+      "price": 274.55,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -5269,14 +5269,14 @@
     {
       "code": "4987176330932",
       "name": "DOWNY SPRING BLOSSOM 1.5LX6 PROMO",
-      "price": 251.95,
+      "price": 269.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176331021",
       "name": "DOWNY SPRING BLOSSOM 750MLX8 PROMO",
-      "price": 127.35,
+      "price": 136.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -5297,7 +5297,7 @@
     {
       "code": "4987176330987",
       "name": "DOWNY SUNRISE FRESH RFL 750MLX8",
-      "price": 131.65,
+      "price": 141.55,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -5388,7 +5388,7 @@
     {
       "code": "4987176306579",
       "name": "JOY LIQ BTL KALAMANSI 375MLX12",
-      "price": 103.55,
+      "price": 104.05,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -5416,7 +5416,7 @@
     {
       "code": "4987176332936",
       "name": "DOWNY SUNRISE FRESH REFILL 2.4LX4",
-      "price": 406.35,
+      "price": 440.85,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -5437,7 +5437,7 @@
     {
       "code": "4987176326263",
       "name": "JOY ANTIBAC 1LX6 SUP PROMO",
-      "price": 228.15,
+      "price": 229.25,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -10182,8 +10182,8 @@
     },
     {
       "code": "4806501709208",
-      "name": "CALLA BAR ROSE GARDEN 370GX36",
-      "price": 23.95,
+      "name": "CALLA BAR ROSE GARDEN 440GX36",
+      "price": 29.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -10953,7 +10953,7 @@
     {
       "code": "4902430355292",
       "name": "AMBI PUR LAVENDER 180GX3'SX4",
-      "price": 362.55,
+      "price": 364.25,
       "category": "Household",
       "subCategory": "Air Freshener"
     },
@@ -10967,7 +10967,7 @@
     {
       "code": "4987176338167",
       "name": "JOY LIQ. BOT. KALAMANSI 140MLX32",
-      "price": 41.95,
+      "price": 42.15,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -11051,7 +11051,7 @@
     {
       "code": "4987176338174",
       "name": "JOY LEMON 140MLX32 PROMO",
-      "price": 41.95,
+      "price": 42.15,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -11079,21 +11079,21 @@
     {
       "code": "4987176363404",
       "name": "DOWNY COTTON FRESH 1.5LX6 REFILL",
-      "price": 313.25,
+      "price": 327.75,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176363428",
       "name": "DOWNY COTTON FRESH 750MLX8 REFILL",
-      "price": 158.1,
+      "price": 165.55,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176363435",
       "name": "DOWNY COTTON FRESH 75MLX180",
-      "price": 16.15,
+      "price": 17.1,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -11135,14 +11135,14 @@
     {
       "code": "4902430518284",
       "name": "AMBI PUR GEL ROMANTIC ROSE 180GX2X4",
-      "price": 249.5,
+      "price": 250.75,
       "category": "Household",
       "subCategory": "Air Freshener"
     },
     {
       "code": "9556076012665",
       "name": "AMBI PUR ROMANTIC ROSE 180GX12",
-      "price": 144.5,
+      "price": 145.25,
       "category": "Household",
       "subCategory": "Air Freshener"
     },
@@ -11170,7 +11170,7 @@
     {
       "code": "4987176363411",
       "name": "DOWNY BABY COTTON FRESH 24MLX360",
-      "price": 6.15,
+      "price": 6.65,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -11198,21 +11198,21 @@
     {
       "code": "4987176361684",
       "name": "JOY KALAMANSI 475MLX12 PROMO",
-      "price": 106.35,
+      "price": 106.85,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4987176361677",
       "name": "JOY ANTIBAC 475MLX12 PROMO",
-      "price": 114.75,
+      "price": 115.35,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4987176325082",
       "name": "JOY KALAMANSI 375MLX12 PROMO",
-      "price": 91.5,
+      "price": 91.95,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -11226,21 +11226,21 @@
     {
       "code": "4987176361660",
       "name": "JOY LEMON 475MLX12 PROMO",
-      "price": 106.35,
+      "price": 106.85,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4987176385505",
       "name": "JOY KALAMANSI 780MLX2X8 PROMO",
-      "price": 319.85,
+      "price": 321.35,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4987176325075",
       "name": "JOY LEMON 375MLX12 PROMO",
-      "price": 91.5,
+      "price": 91.95,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -11267,8 +11267,8 @@
     },
     {
       "code": "4987176222589",
-      "name": "DOWNY SPRING BLOSSOM 750MLX8 RFL",
-      "price": 150.75,
+      "name": "DOWNY SPRING BLOSSOM 750MLX8 REFILL",
+      "price": 161.1,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -11317,70 +11317,70 @@
     {
       "code": "4987176400079",
       "name": "DOWNY KONTRA KULOB 1.5LX6 PROMO",
-      "price": 251.95,
+      "price": 269.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176400024",
       "name": "DOWNY MYSTIQUE 1.5LX6 PROMO",
-      "price": 256.25,
+      "price": 274.55,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176400055",
       "name": "DOWNY SPRING BLOSSOM REF. 1.5LX6 PROMO",
-      "price": 251.95,
+      "price": 269.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176400017",
       "name": "DOWNY PASSION REF. 1.5LX6 PROMO",
-      "price": 256.25,
+      "price": 274.55,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176399328",
       "name": "DOWNY SPRING BLOSSOM REF. 750MLX8 PROMO",
-      "price": 127.35,
+      "price": 136.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176399311",
       "name": "DOWNY KONTRA KULOB REF. 750MLX8 PROMO",
-      "price": 127.35,
+      "price": 136.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430355810",
       "name": "AMBIPUR GEL REFRESH LEMON 180GX3X4",
-      "price": 362.55,
+      "price": 364.25,
       "category": "Household",
       "subCategory": "Air Freshener"
     },
     {
       "code": "4987176400031",
       "name": "DOWNY GARDEN BLOOM 1.5LX6 REFILL PROMO",
-      "price": 260.45,
+      "price": 279.05,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176399212",
       "name": "DOWNY GARDEN BLOOM REFILL 2.4LX4 PROMO",
-      "price": 406.35,
+      "price": 440.85,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176399304",
       "name": "DOWNY GARDEN BLOOM REFILL 750MLX8 PROMO",
-      "price": 131.65,
+      "price": 141.55,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -11429,14 +11429,14 @@
     {
       "code": "4987176399298",
       "name": "DOWNY ANTIBAC REFILL 750MLX8 PROMO",
-      "price": 127.35,
+      "price": 136.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176399274",
       "name": "DOWNY SUNRISE FRESH REFILL 750MLX8 PROMO",
-      "price": 131.65,
+      "price": 141.55,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -11450,14 +11450,14 @@
     {
       "code": "4987176400062",
       "name": "DOWNY ANTIBAC REFILL 1.5LX6 PROMO",
-      "price": 251.95,
+      "price": 269.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176400048",
       "name": "DOWNY SUNRISE FRESH REFILL 1.5LX6 PROMO",
-      "price": 260.45,
+      "price": 279.05,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -11520,7 +11520,7 @@
     {
       "code": "4987176222572",
       "name": "DOWNY SPRING BLOSSOM 75MLX180",
-      "price": 16.15,
+      "price": 17.1,
       "category": "Household",
       "subCategory": "Bleach & Cleaners"
     },
@@ -11555,7 +11555,7 @@
     {
       "code": "4987176399267",
       "name": "DOWNY PASSION 750MLX8 PROMO",
-      "price": 129.5,
+      "price": 139.25,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -11716,49 +11716,49 @@
     {
       "code": "4902430841559",
       "name": "ARIEL PWDR. FLORAL PASSION 3330GX2",
-      "price": 644.65,
+      "price": 673.05,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176222596",
       "name": "DOWNY SPRING BLOSSOM 1.5LX6 REFILL",
-      "price": 296.85,
+      "price": 317.55,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430892773",
       "name": "JOY BABY 475MLX12 BOTTLE",
-      "price": 149.25,
+      "price": 149.95,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4987176043924",
       "name": "JOY DWL ANTIBAC 1LX6 SUP",
-      "price": 286.55,
+      "price": 287.95,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4987176043900",
       "name": "JOY DWL KALAMANSI 1050MLX6 SUP",
-      "price": 259.95,
+      "price": 261.15,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4987176043917",
       "name": "JOY DWL LEMON 1050MLX6 SUP",
-      "price": 259.95,
+      "price": 261.15,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
     {
       "code": "4902430892780",
       "name": "JOY DWL BABY 550MLX8 SUP",
-      "price": 161.25,
+      "price": 162.05,
       "category": "Household",
       "subCategory": "Dishwashing"
     },
@@ -11772,21 +11772,21 @@
     {
       "code": "4902430532242",
       "name": "TIDE PWDR. GB 2575GX4",
-      "price": 495.65,
+      "price": 513.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4987176345677",
       "name": "TIDE PWDR. DEEP CLEAN 715GX24",
-      "price": 121.1,
+      "price": 125.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
     {
       "code": "4902430759298",
       "name": "TIDE PWDR. PF 3090GX4",
-      "price": 495.65,
+      "price": 513.95,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -11814,7 +11814,7 @@
     {
       "code": "4987176399281",
       "name": "DOWNY MYSTIQUE 750MLX8 PROMO",
-      "price": 129.55,
+      "price": 139.25,
       "category": "Household",
       "subCategory": "Laundry"
     },
@@ -11866,6 +11866,104 @@
       "price": 42.95,
       "category": "Household",
       "subCategory": "Tissue & Cotton"
+    },
+    {
+      "code": "4987176269485",
+      "name": "ARIEL LIQ. DET. TOD RED 3.8KGX4",
+      "price": 874.35,
+      "category": "Household",
+      "subCategory": "Laundry"
+    },
+    {
+      "code": "8886304608843",
+      "name": "SURF DWL KALAMANSI 50MLX96",
+      "price": 7.5,
+      "category": "Household",
+      "subCategory": "Dishwashing"
+    },
+    {
+      "code": "8886304608850",
+      "name": "SURF DWL KALAMANSI 375MLX24",
+      "price": 85,
+      "category": "Household",
+      "subCategory": "Dishwashing"
+    },
+    {
+      "code": "8886304608867",
+      "name": "SURF DWL KALAMANSI 400MLX24 BOTTLE",
+      "price": 94,
+      "category": "Household",
+      "subCategory": "Dishwashing"
+    },
+    {
+      "code": "8886304608874",
+      "name": "SURF DWL KALAMANSI 660MLX12 POUCH",
+      "price": 145,
+      "category": "Household",
+      "subCategory": "Dishwashing"
+    },
+    {
+      "code": "8886304608881",
+      "name": "SURF DWL KALAMANSI PROMO PACK 660MLX3X4",
+      "price": 349,
+      "category": "Household",
+      "subCategory": "Dishwashing"
+    },
+    {
+      "code": "8886304608980",
+      "name": "SURF DWL ORANGE 50MLX96",
+      "price": 7.5,
+      "category": "Household",
+      "subCategory": "Dishwashing"
+    },
+    {
+      "code": "8886304608997",
+      "name": "SURF DWL ORANGE 375MLX24 POUCH",
+      "price": 85,
+      "category": "Household",
+      "subCategory": "Dishwashing"
+    },
+    {
+      "code": "8886304609000",
+      "name": "SURF DWL ORANGE 400MLX24 BOTTLE",
+      "price": 94,
+      "category": "Household",
+      "subCategory": "Dishwashing"
+    },
+    {
+      "code": "8886304609017",
+      "name": "SURF DWL ORANGE 660MLX12 POUCH",
+      "price": 145,
+      "category": "Household",
+      "subCategory": "Dishwashing"
+    },
+    {
+      "code": "8886304609024",
+      "name": "SURF DWL ORANGE PROMO PACK 660MLX3X4",
+      "price": 349,
+      "category": "Household",
+      "subCategory": "Dishwashing"
+    },
+    {
+      "code": "4800888291134",
+      "name": "BREEZE LIQ FRESH CLEAN PRICE OFF 24X535G",
+      "price": 90.35,
+      "category": "Household",
+      "subCategory": "Laundry"
+    },
+    {
+      "code": "4800888293510",
+      "name": "BREEZE PWD ROSE GOLD PRICE OFF 24X580G",
+      "price": 89.85,
+      "category": "Household",
+      "subCategory": "Laundry"
+    },
+    {
+      "code": "4800119302011",
+      "name": "HYGIENEX ALC.W/ MOIST. 500ML+HYG SOAP 55",
+      "price": 82.35,
+      "category": "Household",
+      "subCategory": "Alcohol & Sanitizer"
     }
   ]
 }

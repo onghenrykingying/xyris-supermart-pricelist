@@ -1,6 +1,6 @@
 {
   "category": "Beverages",
-  "generatedAt": "2026-09-30T02:08:47.693Z",
+  "generatedAt": "2026-10-12T12:03:47.411Z",
   "skus": [
     {
       "code": "4800014146086",
@@ -711,29 +711,29 @@
     },
     {
       "code": "22392478519",
-      "name": "COOL TASTE LYCHEE JELLY DRINK 160GX24",
-      "price": 18.65,
+      "name": "COOL TASTE LYCHEE JELLY DRINK 120GX10",
+      "price": 23.65,
       "category": "Beverages",
       "subCategory": "Tea & Juice"
     },
     {
       "code": "22392478496",
-      "name": "COOL TASTE STRAW.JELLY 160GX24",
-      "price": 18.65,
+      "name": "COOL TASTE STRAW.JELLY 120GX10",
+      "price": 23.65,
       "category": "Beverages",
       "subCategory": "Tea & Juice"
     },
     {
       "code": "22392478403",
-      "name": "COOL TASTE MANGO JELLY 160GX24",
-      "price": 18.65,
+      "name": "COOL TASTE MANGO JELLY 120GX10",
+      "price": 23.65,
       "category": "Beverages",
       "subCategory": "Tea & Juice"
     },
     {
       "code": "22392478434",
-      "name": "COOL TASTE APPLE JELLY 160GX24",
-      "price": 18.65,
+      "name": "COOL TASTE APPLE JELLY 120GX10",
+      "price": 23.65,
       "category": "Beverages",
       "subCategory": "Tea & Juice"
     },
@@ -2973,14 +2973,14 @@
     {
       "code": "1209011440822",
       "name": "LUDYS SALABAT GINGER BREW 8GX12'SX48",
-      "price": 57.15,
+      "price": 62.85,
       "category": "Beverages",
       "subCategory": "Tea & Juice"
     },
     {
       "code": "4800043880012",
       "name": "LUDYS SALABAT  W/CALAMANSI 8GX12'SX24",
-      "price": 59.95,
+      "price": 65.95,
       "category": "Beverages",
       "subCategory": "Tea & Juice"
     },

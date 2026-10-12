@@ -1,6 +1,6 @@
 {
   "category": "Canned Goods",
-  "generatedAt": "2026-09-30T02:08:47.693Z",
+  "generatedAt": "2026-10-12T12:03:47.411Z",
   "skus": [
     {
       "code": "4808887011647",
@@ -287,7 +287,7 @@
       "name": "YOUNGS TOWN CARNE NORTE 150GX100",
       "price": 33.05,
       "category": "Canned Goods",
-      "subCategory": "Canned Fish"
+      "subCategory": "Canned Meat"
     },
     {
       "code": "4800527531904",
@@ -1447,7 +1447,7 @@
     {
       "code": "4805885171007",
       "name": "RENO LIVER SPREAD 85GX48",
-      "price": 29.1,
+      "price": 29.55,
       "category": "Canned Goods",
       "subCategory": "Canned Meat"
     },
@@ -3123,6 +3123,55 @@
       "price": 85.85,
       "category": "Canned Goods",
       "subCategory": "Canned Fish"
+    },
+    {
+      "code": "4800022230067",
+      "name": "BLUE BAY CORNED TUNA ORIG. 85GX48",
+      "price": 22.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish"
+    },
+    {
+      "code": "4800022230081",
+      "name": "BLUE BAY CORNED TUNA H&S 85GX48",
+      "price": 22.75,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish"
+    },
+    {
+      "code": "4800022230098",
+      "name": "BLUE BAY CORNED TUNA H&S 150GX50",
+      "price": 30.15,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish"
+    },
+    {
+      "code": "4800022970048",
+      "name": "ARG. MEAT LOAF 150GX48 1.00 PRICE OFF",
+      "price": 20.65,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat"
+    },
+    {
+      "code": "4800022910297",
+      "name": "PRM2 555 TUNA SISIG 155G S3X24",
+      "price": 60.1,
+      "category": "Canned Goods",
+      "subCategory": "Canned Fish"
+    },
+    {
+      "code": "4800022400262",
+      "name": "PRM 2 AML 170G+ACL 150GX16",
+      "price": 49.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat"
+    },
+    {
+      "code": "4800022400279",
+      "name": "PRM 2 AML170G+AML TOCINO 170GX16",
+      "price": 49.5,
+      "category": "Canned Goods",
+      "subCategory": "Canned Meat"
     }
   ]
 }

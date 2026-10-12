@@ -1,6 +1,6 @@
 {
   "category": "Misc",
-  "generatedAt": "2026-09-30T02:08:47.693Z",
+  "generatedAt": "2026-10-12T12:03:47.411Z",
   "skus": [
     {
       "code": "4800325012049",
@@ -369,49 +369,49 @@
     {
       "code": "4809011845817",
       "name": "GLOW GARBAGE BAG XL(15X15X37)10'SX10",
-      "price": 52.05,
+      "price": 54,
       "category": "Misc",
       "subCategory": "Plastic & Packaging"
     },
     {
       "code": "4909010431032",
       "name": "GLOW ALUM.TRAY ROUND W/COVER 3'SX24",
-      "price": 75.05,
+      "price": 75,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
       "code": "4809011845862",
       "name": "GLOW ALUM.TRAY SQUARE 2067 3'SX24",
-      "price": 65.05,
+      "price": 65,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
       "code": "4809011845848",
       "name": "GLOW ALUM TRAY RECT.3156 3'SX24",
-      "price": 85.05,
+      "price": 85,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
       "code": "4809010431868",
       "name": "GLOW ROUND P. PLATE SILVER 9'X20'SX50",
-      "price": 35.05,
+      "price": 35,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
       "code": "4809011845800",
       "name": "GLOW GARBAGE BAG LARGE (13X13X32)10'SX10",
-      "price": 35.05,
+      "price": 37,
       "category": "Misc",
       "subCategory": "Plastic & Packaging"
     },
     {
       "code": "4809010431349",
       "name": "GLOW ROUND P. PLATE SILVER 7 1/2X20'SX50",
-      "price": 29.55,
+      "price": 29.5,
       "category": "Misc",
       "subCategory": "Plastic & Packaging"
     },
@@ -425,35 +425,35 @@
     {
       "code": "4809011845503",
       "name": "GLOW SALAD CUPS WHITE 3.5OZX50'SX40",
-      "price": 38.05,
+      "price": 38,
       "category": "Misc",
       "subCategory": "Plastic & Packaging"
     },
     {
       "code": "4809010431059",
       "name": "GLOW ROUND PLATE WHITE 7 1/2X25'SX40",
-      "price": 26.05,
+      "price": 26,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
       "code": "4909010437058",
       "name": "Q-BRAND MICROWAVABLE R500 CLEAR 5PCSX24",
-      "price": 36.05,
+      "price": 36,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
       "code": "4909010437027",
       "name": "Q-BRAND MICROWAVABLE R1000 CLEAR 5PCSX24",
-      "price": 46.05,
+      "price": 49,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
       "code": "4909010431919",
       "name": "GROW ALUM. TRAY(GAT 3350)3PCSX24",
-      "price": 100.05,
+      "price": 100,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
@@ -1300,7 +1300,7 @@
     {
       "code": "4909010437041",
       "name": "Q-BRAND MICROWAVABLE R750 CLEAR 5PCSX24",
-      "price": 41.05,
+      "price": 41,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
@@ -1566,28 +1566,28 @@
     {
       "code": "4806503721024",
       "name": "RFC BLACK BIGX12",
-      "price": 52.85,
+      "price": 82.45,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
       "code": "4806503721017",
       "name": "RFC BLACK SMALLX12",
-      "price": 49.55,
+      "price": 65.95,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
       "code": "4806503721000",
       "name": "RFC RED BIGX12",
-      "price": 60.55,
+      "price": 82.45,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
     {
       "code": "4806503720997",
       "name": "RFC RED SMALLX12",
-      "price": 58.35,
+      "price": 65.95,
       "category": "Misc",
       "subCategory": "Kitchen & Household Tools"
     },
@@ -1790,7 +1790,7 @@
     {
       "code": "4800550001863",
       "name": "BOND PAPER HARD COPY A4",
-      "price": 181.45,
+      "price": 186.95,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
@@ -1881,7 +1881,7 @@
     {
       "code": "4800552073066",
       "name": "HARD COPY A4 8 1/4X11 3/4",
-      "price": 181.55,
+      "price": 186.95,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
@@ -1909,7 +1909,7 @@
     {
       "code": "301092",
       "name": "ARMAK PACKING TAPE CLEAR 2'X100",
-      "price": 55.85,
+      "price": 55.05,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
@@ -1937,14 +1937,14 @@
     {
       "code": "301090",
       "name": "ARMAK PACKING TAPE BROWN",
-      "price": 29.15,
+      "price": 24.75,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
     {
       "code": "301091",
       "name": "ARMAK PACKING TAPE CLEAR",
-      "price": 25.85,
+      "price": 24.75,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },
@@ -2861,7 +2861,7 @@
     {
       "code": "4800552073035",
       "name": "HARD COPY LONG BAND PAPER 8 1/2X13",
-      "price": 206.85,
+      "price": 212.35,
       "category": "Misc",
       "subCategory": "School & Office Supplies"
     },

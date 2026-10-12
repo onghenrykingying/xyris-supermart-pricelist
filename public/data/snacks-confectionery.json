@@ -1,6 +1,6 @@
 {
   "category": "Snacks & Confectionery",
-  "generatedAt": "2026-09-30T02:08:47.693Z",
+  "generatedAt": "2026-10-12T12:03:47.411Z",
   "skus": [
     {
       "code": "74923405068",
@@ -1524,56 +1524,56 @@
     {
       "code": "8993175538145",
       "name": "RICHEESE CHEESE WAFER 48GX60",
-      "price": 10.45,
+      "price": 11.55,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
     {
       "code": "8993175537131",
       "name": "RICHEESE CHEESE WAFER 20GX10'SX20",
-      "price": 57.75,
+      "price": 60.9,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
     {
       "code": "8993175539241",
       "name": "RICHOCO WAFER 48GX60",
-      "price": 10.45,
+      "price": 11.55,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
     {
       "code": "8993175539906",
       "name": "RICHOCO CHOCO WAFER 20GX10X20",
-      "price": 57.75,
+      "price": 60.9,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
     {
       "code": "8993175540438",
       "name": "RICHOCO WHITE WAFER 48GX60",
-      "price": 10.45,
+      "price": 11.55,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
     {
       "code": "8993175542166",
       "name": "RICHOCO WHITE 20GX10'SX20",
-      "price": 57.75,
+      "price": 60.9,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
     {
       "code": "8993175540520",
       "name": "RICHOCO BIG ROLLS 300GX6",
-      "price": 114.65,
+      "price": 144.65,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
     {
       "code": "8993175544528",
       "name": "NEXTAR CHOCO 34GX10X20",
-      "price": 87.15,
+      "price": 95.45,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
@@ -1587,14 +1587,14 @@
     {
       "code": "8993175551045",
       "name": "PINK LAVA WAFER 20GX10'SX20",
-      "price": 57.75,
+      "price": 60.9,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
     {
       "code": "8993175551069",
       "name": "NABATI PINK LAVA 48GX60",
-      "price": 10.45,
+      "price": 11.55,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
@@ -1615,7 +1615,7 @@
     {
       "code": "8993175540551",
       "name": "RICHEESE BIG ROLLS 300GX6",
-      "price": 114.65,
+      "price": 144.65,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
@@ -1636,14 +1636,14 @@
     {
       "code": "8993175560047",
       "name": "GOGUMA LAVA WAFER 48GX60",
-      "price": 9.85,
+      "price": 11.55,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
     {
       "code": "8993175560078",
       "name": "GOGUMA LAVA WAFER 20GX10'SX20",
-      "price": 57.75,
+      "price": 60.9,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
@@ -3028,8 +3028,8 @@
     },
     {
       "code": "4902430803694",
-      "name": "SAFEGUARD LEMON 65GX162",
-      "price": 19.95,
+      "name": "SAFEGUARD LEMON 60GX162",
+      "price": 20.75,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
@@ -3904,21 +3904,21 @@
     {
       "code": "1200108000103",
       "name": "LAY'S STAX EXTRA CHEESE 100GX16",
-      "price": 66.15,
+      "price": 71.65,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
       "code": "1200108000127",
       "name": "LAY'S STAX SOUR CREAM ONION 100GX16",
-      "price": 66.15,
+      "price": 71.65,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
       "code": "1200108000080",
       "name": "LAY'S STAX ORIG. 100GX16",
-      "price": 66.15,
+      "price": 71.65,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
@@ -3938,29 +3938,29 @@
     },
     {
       "code": "1200108002787",
-      "name": "LAY'S STAX SOUR CREAM&ONION 38GX18",
-      "price": 30.75,
+      "name": "LAY'S STAX SOUR CREAM&ONION 42GX24",
+      "price": 33.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
       "code": "1200108002916",
-      "name": "LAY'S STAX ORIG.38GX18",
-      "price": 30.75,
+      "name": "LAY'S STAX ORIG. 42GX24",
+      "price": 33.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
       "code": "1200108002923",
-      "name": "LAY'S STAX EXTRA CHEESE 38GX18",
-      "price": 30.75,
+      "name": "LAY'S STAX EXTRA CHEESE 42GX24",
+      "price": 33.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
     {
       "code": "1200108002930",
-      "name": "LAY'S STAX BBQ 38GX18",
-      "price": 30.75,
+      "name": "LAY'S STAX BBQ 42GX24",
+      "price": 33.15,
       "category": "Snacks & Confectionery",
       "subCategory": "Chips & Curls"
     },
@@ -6186,7 +6186,7 @@
     {
       "code": "4806505760014",
       "name": "PEANUT BAR 10X40",
-      "price": 33.25,
+      "price": 33.35,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
@@ -6319,14 +6319,14 @@
     {
       "code": "4806507622235",
       "name": "TIWI HAPI MONSTER 24'SX40",
-      "price": 27.45,
+      "price": 30.25,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
     {
       "code": "4806507622204",
       "name": "TIWI HAPI LIPSTICK 24'SX40",
-      "price": 30.15,
+      "price": 30.25,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
@@ -6809,7 +6809,7 @@
     {
       "code": "4800103070506",
       "name": "LIPPS STRAW.50'SX60",
-      "price": 38.05,
+      "price": 39.95,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
     },
@@ -10512,7 +10512,7 @@
     {
       "code": "8993175555135",
       "name": "RICHOCO COOKIES&CREAM 24GX10'SX20",
-      "price": 57.75,
+      "price": 60.9,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
@@ -10771,7 +10771,7 @@
     {
       "code": "4806018408380",
       "name": "LS CHEESE CAKE 10'S FREE KK KRUNCH",
-      "price": 76.95,
+      "price": 78.55,
       "category": "Snacks & Confectionery",
       "subCategory": "Crackers, Cakes & Cookies"
     },
@@ -10802,6 +10802,27 @@
       "price": 80.05,
       "category": "Snacks & Confectionery",
       "subCategory": "Chocolate & Candy"
+    },
+    {
+      "code": "8996001352991",
+      "name": "BENG-BENG SHARE IT HOLLOWEEN PACKX8",
+      "price": 64.95,
+      "category": "Snacks & Confectionery",
+      "subCategory": "Chocolate & Candy"
+    },
+    {
+      "code": "750515052826",
+      "name": "SKYFLAKES 10'S FREE 2 NESC.STICK 1.9GX30",
+      "price": 61.55,
+      "category": "Snacks & Confectionery",
+      "subCategory": "Crackers, Cakes & Cookies"
+    },
+    {
+      "code": "4807770314483",
+      "name": "MONDE MAMON CLASSIC 6'S FREE NUVI 100MLX",
+      "price": 98.45,
+      "category": "Snacks & Confectionery",
+      "subCategory": "Crackers, Cakes & Cookies"
     }
   ]
 }

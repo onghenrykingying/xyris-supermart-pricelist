@@ -1,6 +1,6 @@
 {
   "category": "Baby",
-  "generatedAt": "2026-09-30T02:08:47.693Z",
+  "generatedAt": "2026-10-12T12:03:47.411Z",
   "skus": [
     {
       "code": "4806506319624",
@@ -866,105 +866,105 @@
     {
       "code": "4806500802627",
       "name": "MAGIC PANTS BABY DIAPER XXXL10'SX12",
-      "price": 92.05,
+      "price": 96.65,
       "category": "Baby",
       "subCategory": "Diapers"
     },
     {
       "code": "4806500802467",
       "name": "MAGIC PANYS BABY DIAPER XL45'SX4",
-      "price": 338.65,
+      "price": 355.55,
       "category": "Baby",
       "subCategory": "Diapers"
     },
     {
       "code": "4806500802566",
       "name": "MAGIC PANTS BABY DIAPER XXL45'SX4",
-      "price": 364.65,
+      "price": 382.85,
       "category": "Baby",
       "subCategory": "Diapers"
     },
     {
       "code": "4806500802269",
       "name": "MAGIC PANTS BABY DIAPER MED.45'SX4",
-      "price": 286.55,
+      "price": 300.85,
       "category": "Baby",
       "subCategory": "Diapers"
     },
     {
       "code": "4806500802368",
       "name": "MAGIC PANTS BABY DIAPER L45'SX4",
-      "price": 312.55,
+      "price": 328.25,
       "category": "Baby",
       "subCategory": "Diapers"
     },
     {
       "code": "4806500802559",
       "name": "MAGIC PANTS BABY DIAPER XXL30'SX4",
-      "price": 243.1,
+      "price": 255.25,
       "category": "Baby",
       "subCategory": "Diapers"
     },
     {
       "code": "4806500802450",
       "name": "MAGIC PANTS BABY DIAPER XL30'SX4",
-      "price": 225.75,
+      "price": 237.05,
       "category": "Baby",
       "subCategory": "Diapers"
     },
     {
       "code": "4806500802320",
       "name": "MAGIC PANTS BABY DIAPER L10'SX12",
-      "price": 69.45,
+      "price": 72.95,
       "category": "Baby",
       "subCategory": "Diapers"
     },
     {
       "code": "4806500802429",
       "name": "MAGIC PANTS BABY DIAPER XL10'SX12",
-      "price": 75.25,
+      "price": 79.05,
       "category": "Baby",
       "subCategory": "Diapers"
     },
     {
       "code": "4806500802528",
       "name": "MAGIC PANTS BABY DIAPER XXL10'SX12",
-      "price": 81.05,
+      "price": 85.05,
       "category": "Baby",
       "subCategory": "Diapers"
     },
     {
       "code": "4806500802658",
       "name": "MAGIC PANTS BABY DIAPER XXXL30'SX4",
-      "price": 276.15,
+      "price": 289.95,
       "category": "Baby",
       "subCategory": "Diapers"
     },
     {
       "code": "4806500802221",
       "name": "MAGIC PANTS BABY DIAPER MEDIUM 10'SX12",
-      "price": 63.65,
+      "price": 66.85,
       "category": "Baby",
       "subCategory": "Diapers"
     },
     {
       "code": "4806500802252",
       "name": "MAGIC PANTS BABY DIAPER M30'SX4",
-      "price": 191.05,
+      "price": 200.55,
       "category": "Baby",
       "subCategory": "Diapers"
     },
     {
       "code": "4806500801224",
       "name": "MAGIC PANTS BABY DIAPER MED.10'SX12",
-      "price": 66.85,
+      "price": 69.75,
       "category": "Baby",
       "subCategory": "Diapers"
     },
     {
       "code": "4806500802351",
       "name": "MAGIC PANTS L30'SX4",
-      "price": 208.35,
+      "price": 218.85,
       "category": "Baby",
       "subCategory": "Diapers"
     },
@@ -2350,7 +2350,7 @@
     {
       "code": "4800067060391",
       "name": "BBFLO OIL SOOTHING 25MLX288",
-      "price": 27.5,
+      "price": 30.5,
       "category": "Baby",
       "subCategory": "Baby Toiletries"
     },
@@ -2385,7 +2385,7 @@
     {
       "code": "4800067057193",
       "name": "BBFLO OIL LIGHTLY SCENTED 100MLX12",
-      "price": 97,
+      "price": 102,
       "category": "Baby",
       "subCategory": "Baby Toiletries"
     },
@@ -2420,7 +2420,7 @@
     {
       "code": "4800067060377",
       "name": "BBFLO BABY OIL NOURISHING PINK 100ML",
-      "price": 97,
+      "price": 102,
       "category": "Baby",
       "subCategory": "Baby Toiletries"
     },
@@ -2875,7 +2875,7 @@
     {
       "code": "4800095005302",
       "name": "BON BON PACIFIER X12",
-      "price": 50,
+      "price": 60,
       "category": "Baby",
       "subCategory": "Baby Toiletries"
     },
@@ -3449,7 +3449,7 @@
     {
       "code": "4800361413862",
       "name": "BEAR BRAND PMD 6X2.4KG",
-      "price": 745.55,
+      "price": 765.15,
       "category": "Baby",
       "subCategory": "Infant Formula"
     },
@@ -4044,7 +4044,7 @@
     {
       "code": "4800067060353",
       "name": "BABYFLO BABY OIL NOURISHING 50MLX144",
-      "price": 50.5,
+      "price": 55.5,
       "category": "Baby",
       "subCategory": "Baby Toiletries"
     },
@@ -4289,28 +4289,28 @@
     {
       "code": "4800067057179",
       "name": "BBFLO OIL LIGHTLY SCENTED 25ML",
-      "price": 27.5,
+      "price": 30.5,
       "category": "Baby",
       "subCategory": "Baby Toiletries"
     },
     {
       "code": "4800067057216",
       "name": "BBFLO OIL REGULAR 25ML",
-      "price": 21.5,
+      "price": 24.5,
       "category": "Baby",
       "subCategory": "Baby Toiletries"
     },
     {
       "code": "4800067057223",
       "name": "BBFLO BABY OIL REGULAR 50ML",
-      "price": 41.25,
+      "price": 48,
       "category": "Baby",
       "subCategory": "Baby Toiletries"
     },
     {
       "code": "4800067057186",
       "name": "BBFLO BABY OIL LIGHTLY SCNT 50ML",
-      "price": 50.5,
+      "price": 55.5,
       "category": "Baby",
       "subCategory": "Baby Toiletries"
     },
@@ -4331,35 +4331,35 @@
     {
       "code": "4806525621340",
       "name": "BEYBIKO BABY WIPES FLORAL 80+20 X 30",
-      "price": 44.45,
+      "price": 39.65,
       "category": "Baby",
       "subCategory": "Baby Wipes & Cotton"
     },
     {
       "code": "4806525621395",
       "name": "BEYBIKO BABY WIPES PAPAYA LUSH 80+20X30",
-      "price": 44.45,
+      "price": 39.65,
       "category": "Baby",
       "subCategory": "Baby Wipes & Cotton"
     },
     {
       "code": "4806525621210",
       "name": "BEYBIKO BABY WIPES POWDER FRESG 20X120",
-      "price": 17.65,
+      "price": 15.95,
       "category": "Baby",
       "subCategory": "Baby Wipes & Cotton"
     },
     {
       "code": "4806525621289",
       "name": "BEYBIKO BABY WIPES POWDER FRESH 80+20X30",
-      "price": 44.45,
+      "price": 39.65,
       "category": "Baby",
       "subCategory": "Baby Wipes & Cotton"
     },
     {
       "code": "4806525621333",
       "name": "BEYBIKO BABY WIPES UNSCENTED 80+20X30",
-      "price": 44.45,
+      "price": 39.65,
       "category": "Baby",
       "subCategory": "Baby Wipes & Cotton"
     },
@@ -4562,14 +4562,14 @@
     {
       "code": "4800067060414",
       "name": "BBFLO OIL SOOTHING 50MLX144",
-      "price": 50.5,
+      "price": 55.5,
       "category": "Baby",
       "subCategory": "Baby Toiletries"
     },
     {
       "code": "4800067060438",
       "name": "BBFLO OIL SOOTHING 100MLX144",
-      "price": 97,
+      "price": 102,
       "category": "Baby",
       "subCategory": "Baby Toiletries"
     },

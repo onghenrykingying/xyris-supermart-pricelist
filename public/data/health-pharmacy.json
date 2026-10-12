@@ -1,6 +1,6 @@
 {
   "category": "Health & Pharmacy",
-  "generatedAt": "2026-09-30T02:08:47.693Z",
+  "generatedAt": "2026-10-12T12:03:47.411Z",
   "skus": [
     {
       "code": "4800136960010",
@@ -530,28 +530,28 @@
     {
       "code": "4987176600776",
       "name": "VICKS VAPORUB 10GX1080",
-      "price": 56.95,
+      "price": 57.15,
       "category": "Health & Pharmacy",
       "subCategory": "First Aid & OTC"
     },
     {
       "code": "4987176600769",
-      "name": "VAPORUB 5GX1SX60",
-      "price": 32.1,
+      "name": "VICKS VAPORUB 5GX1SX60",
+      "price": 32.25,
       "category": "Health & Pharmacy",
       "subCategory": "First Aid & OTC"
     },
     {
       "code": "4987176013491",
       "name": "VICKS INHALER KEYCHAIN 0.5MLX432",
-      "price": 105.45,
+      "price": 105.95,
       "category": "Health & Pharmacy",
       "subCategory": "First Aid & OTC"
     },
     {
       "code": "4987176009678",
       "name": "VICKS VAPORUB 25GX12",
-      "price": 121.55,
+      "price": 122.1,
       "category": "Health & Pharmacy",
       "subCategory": "First Aid & OTC"
     },

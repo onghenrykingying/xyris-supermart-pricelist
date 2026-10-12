@@ -1,6 +1,6 @@
 {
   "category": "Pantry & Cooking",
-  "generatedAt": "2026-09-30T02:08:47.693Z",
+  "generatedAt": "2026-10-12T12:03:47.411Z",
   "skus": [
     {
       "code": "4806513741814",
@@ -558,7 +558,7 @@
     {
       "code": "4800274040025",
       "name": "QUAKER QUICK OATS 400GX24",
-      "price": 74.45,
+      "price": 75.45,
       "category": "Pantry & Cooking",
       "subCategory": "Cereals & Oats"
     },
@@ -1503,14 +1503,14 @@
     {
       "code": "9415007005933",
       "name": "ANMUM MATERNA  CHOCO 180GX24",
-      "price": 202.65,
+      "price": 212.45,
       "category": "Pantry & Cooking",
       "subCategory": "Powdered Milk"
     },
     {
       "code": "9415007002888",
       "name": "ANMUM MATERNA  PLAIN 180GX24",
-      "price": 202.65,
+      "price": 212.45,
       "category": "Pantry & Cooking",
       "subCategory": "Powdered Milk"
     },
@@ -1524,7 +1524,7 @@
     {
       "code": "4806501596242",
       "name": "ANMUM CHOCO 375GX24",
-      "price": 410.15,
+      "price": 424.85,
       "category": "Pantry & Cooking",
       "subCategory": "Powdered Milk"
     },
@@ -1594,7 +1594,7 @@
     {
       "code": "4806501598666",
       "name": "ANLENE COFFEE 30G 5+1X12",
-      "price": 93.15,
+      "price": 91.95,
       "category": "Pantry & Cooking",
       "subCategory": "Powdered Milk"
     },
@@ -3666,7 +3666,7 @@
     {
       "code": "4800274823185",
       "name": "QUAKER OATIES HONEY NUTS 26GX40",
-      "price": 13.25,
+      "price": 14.15,
       "category": "Pantry & Cooking",
       "subCategory": "Cereals & Oats"
     },
@@ -3694,7 +3694,7 @@
     {
       "code": "4800274800278",
       "name": "QUAKER COOKIE HONEY NUTS 25GX25",
-      "price": 13.25,
+      "price": 14.15,
       "category": "Pantry & Cooking",
       "subCategory": "Cereals & Oats"
     },
@@ -3834,7 +3834,7 @@
     {
       "code": "4800274080021",
       "name": "QUAKER QUICK COOK OATMEAL 800GX12",
-      "price": 129.45,
+      "price": 134.35,
       "category": "Pantry & Cooking",
       "subCategory": "Cereals & Oats"
     },
@@ -7341,7 +7341,7 @@
     {
       "code": "4800361375146",
       "name": "NESCAFE CLASSIC DECAF 20GX60",
-      "price": 31.45,
+      "price": 33.1,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
@@ -7411,7 +7411,7 @@
     {
       "code": "4800361383493",
       "name": "NESCAFE 3IN1 CREAMY LATTE 20GX240",
-      "price": 8.45,
+      "price": 8.55,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
@@ -7502,7 +7502,7 @@
     {
       "code": "4800361393096",
       "name": "NESCAFE CREAMY WHITE  20GX240",
-      "price": 8.45,
+      "price": 8.55,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
@@ -7537,14 +7537,14 @@
     {
       "code": "4800361393744",
       "name": "NESCAFE DECAF 80GX30",
-      "price": 124.55,
+      "price": 127.05,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
     {
       "code": "4800361393621",
       "name": "NESCAFE CLASSIC DECAF 160GX24",
-      "price": 245.25,
+      "price": 251.15,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
@@ -7684,7 +7684,7 @@
     {
       "code": "4800361413992",
       "name": "NESCAFE CREAMYLATTE TP 40GX200",
-      "price": 13.75,
+      "price": 13.95,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
@@ -7768,7 +7768,7 @@
     {
       "code": "4800361415347",
       "name": "NESCAFE ORIG.TWINPACK 40GX200",
-      "price": 13.75,
+      "price": 13.95,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
@@ -7845,7 +7845,7 @@
     {
       "code": "4800361416726",
       "name": "NESCAFE CREAMY WHITE TWIN 40GX200",
-      "price": 13.75,
+      "price": 13.95,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
@@ -8153,14 +8153,14 @@
     {
       "code": "4800361423588",
       "name": "NESCAFE C-WHITE SF 11.2GX2X100",
-      "price": 13.65,
+      "price": 14.55,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
     {
       "code": "4800361423601",
       "name": "NESCAFE ORIG. SF 11.5GX2X100",
-      "price": 13.65,
+      "price": 14.55,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
@@ -8188,7 +8188,7 @@
     {
       "code": "4800361426527",
       "name": "NESCAFE CREAMY WHITE 12(20X20G)",
-      "price": 169,
+      "price": 171,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
@@ -8209,7 +8209,7 @@
     {
       "code": "4800361426589",
       "name": "NESCAFE CREAMY LATTE 20GX20'SX12",
-      "price": 169,
+      "price": 171,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
@@ -13389,21 +13389,21 @@
     {
       "code": "4800361432450",
       "name": "NESCAFE CL TP 40GX10'S SAVE 20.00X20",
-      "price": 117.5,
+      "price": 119.5,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
     {
       "code": "4800361432474",
       "name": "NESCAFE ORIG. TP 40GX10'SXSAVE 20.00X20",
-      "price": 117.5,
+      "price": 119.5,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
     {
       "code": "4800361432498",
       "name": "NESCAFE CW TP 40GX10'S SAVE 20.00X20",
-      "price": 117.5,
+      "price": 119.5,
       "category": "Pantry & Cooking",
       "subCategory": "Coffee & Hot Drinks"
     },
@@ -13683,7 +13683,7 @@
     {
       "code": "4805358319059",
       "name": "MAG. CREAM CHEESE SPREAD 220GX24",
-      "price": 135,
+      "price": 147,
       "category": "Pantry & Cooking",
       "subCategory": "Spreads"
     },
@@ -13970,7 +13970,7 @@
     {
       "code": "4800361433716",
       "name": "BEAR BRAND PMD 2.4KGX3 FREE LUNCHBAG",
-      "price": 745.55,
+      "price": 765.15,
       "category": "Pantry & Cooking",
       "subCategory": "Powdered Milk"
     },
@@ -14363,6 +14363,20 @@
       "code": "4800888218377",
       "name": "KNR LIQUID SEASONING CHILI 130MLX24",
       "price": 62.75,
+      "category": "Pantry & Cooking",
+      "subCategory": "Bouillon & Seasoning"
+    },
+    {
+      "code": "8996001601129",
+      "name": "ENERGEN CHAMPION TP BUNDLESX15",
+      "price": 111.85,
+      "category": "Pantry & Cooking",
+      "subCategory": "Coffee & Hot Drinks"
+    },
+    {
+      "code": "4806533063347",
+      "name": "WHITEFIELDS CHIA SEEDS 100GX24",
+      "price": 99,
       "category": "Pantry & Cooking",
       "subCategory": "Bouillon & Seasoning"
     }

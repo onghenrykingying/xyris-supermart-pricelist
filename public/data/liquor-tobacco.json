@@ -1,6 +1,6 @@
 {
   "category": "Liquor & Tobacco",
-  "generatedAt": "2026-09-30T02:08:47.693Z",
+  "generatedAt": "2026-10-12T12:03:47.411Z",
   "skus": [
     {
       "code": "4800220533359",
@@ -221,7 +221,7 @@
     },
     {
       "code": "98426801752",
-      "name": "EL HOMBRE TEQUILA SILVER 750MLX12",
+      "name": "EL HOMBRE TEQUILA SILVER 700MLX12",
       "price": 241.55,
       "category": "Liquor & Tobacco",
       "subCategory": "Spirits"
@@ -1464,6 +1464,27 @@
       "price": 754.05,
       "category": "Liquor & Tobacco",
       "subCategory": "Spirits"
+    },
+    {
+      "code": "4801032111131",
+      "name": "SAN MIGUEL PALE PILSEN 1LX6 BOTTLE",
+      "price": 113.55,
+      "category": "Liquor & Tobacco",
+      "subCategory": "Beer & Wine"
+    },
+    {
+      "code": "4801032745077",
+      "name": "SAN MIG LIGHT 500MLX24 IN CAN",
+      "price": 72.95,
+      "category": "Liquor & Tobacco",
+      "subCategory": "Beer & Wine"
+    },
+    {
+      "code": "4801032115078",
+      "name": "SAN MIG PALE PILSEN 500MLX24 IN CAN",
+      "price": 72.95,
+      "category": "Liquor & Tobacco",
+      "subCategory": "Beer & Wine"
     }
   ]
 }

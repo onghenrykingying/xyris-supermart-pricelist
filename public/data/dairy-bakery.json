@@ -1,6 +1,6 @@
 {
   "category": "Dairy & Bakery",
-  "generatedAt": "2026-09-30T02:08:47.693Z",
+  "generatedAt": "2026-10-12T12:03:47.411Z",
   "skus": [
     {
       "code": "8851028000808",
@@ -1650,7 +1650,7 @@
     {
       "code": "4800361015400",
       "name": "CHUCKIE 250MLX24",
-      "price": 28.95,
+      "price": 29.75,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream"
     },
@@ -1664,7 +1664,7 @@
     {
       "code": "4800361331265",
       "name": "CHUCKIE 1LX12",
-      "price": 105.15,
+      "price": 109.95,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream"
     },
@@ -1727,7 +1727,7 @@
     {
       "code": "4800361388313",
       "name": "CHUCKIE 180MLX36",
-      "price": 22.35,
+      "price": 22.65,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream"
     },
@@ -1741,7 +1741,7 @@
     {
       "code": "4800361395687",
       "name": "CHUCKIE 110MLX60 NEW",
-      "price": 13.75,
+      "price": 14.05,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream"
     },
@@ -1762,14 +1762,14 @@
     {
       "code": "4800361410212",
       "name": "CHUCKIE 1LX2'S SAVE 10.00X6",
-      "price": 195.75,
+      "price": 204.75,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream"
     },
     {
       "code": "4800361401487",
       "name": "CHUCKIE 110MLX6X10 BAON SAVER'S PACK",
-      "price": 79.95,
+      "price": 81.45,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream"
     },
@@ -1783,7 +1783,7 @@
     {
       "code": "4800361419413",
       "name": "CHUCKIE 180MLX6'SX6 BAON SAVERS PACK",
-      "price": 120.35,
+      "price": 121.35,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream"
     },
@@ -1797,14 +1797,14 @@
     {
       "code": "4800361422734",
       "name": "CHUCKIE 110MLX10'SX6",
-      "price": 118.45,
+      "price": 121.35,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream"
     },
     {
       "code": "4800361424424",
       "name": "CHUCKIE OPTIGROW 4(8X180ML) B7F1",
-      "price": 156.65,
+      "price": 158.35,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream"
     },
@@ -1818,14 +1818,14 @@
     {
       "code": "4800361425841",
       "name": "CHUCKIE 180MLX4'SX9",
-      "price": 86.65,
+      "price": 87.65,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream"
     },
     {
       "code": "4800361425360",
       "name": "CHUCKIE 8X(4X250ML)",
-      "price": 105.95,
+      "price": 108.55,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream"
     },
@@ -1839,7 +1839,7 @@
     {
       "code": "4800361428873",
       "name": "CHUCKIE 250ML 5+1X4",
-      "price": 144.65,
+      "price": 148.45,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream"
     },
@@ -1860,7 +1860,7 @@
     {
       "code": "4800016073984",
       "name": "VITASOY CHOCOLATE 1LX12",
-      "price": 96.05,
+      "price": 103.45,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream"
     },
@@ -2945,7 +2945,7 @@
     {
       "code": "4805358004245",
       "name": "MAG.CREAM CHEESE 225G 2'S SAVE 30.00X24",
-      "price": 294,
+      "price": 326,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
@@ -3421,7 +3421,7 @@
     {
       "code": "4800148532106",
       "name": "MARBY SUPER LOAF 600G",
-      "price": 89,
+      "price": 85,
       "category": "Dairy & Bakery",
       "subCategory": "Bread & Bakery"
     },
@@ -3575,7 +3575,7 @@
     {
       "code": "4800016027789",
       "name": "VITASOY MILKY ALMOND 1L FREE GT GRAN.25G",
-      "price": 127.35,
+      "price": 137.95,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream"
     },
@@ -3925,42 +3925,42 @@
     {
       "code": "4805358324053",
       "name": "MAG.CHEEZEE PLAIN 235GX24",
-      "price": 86,
+      "price": 92.95,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
     {
       "code": "4805358324060",
       "name": "MAG.CHEEZEE PLAIN 480GX12",
-      "price": 167,
+      "price": 176.95,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
     {
       "code": "4805358318045",
       "name": "MAG.CREAM CHEESE 225GX48",
-      "price": 162,
+      "price": 177.95,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
     {
       "code": "4805358323032",
       "name": "MAG.QUICKMELT 160GX48",
-      "price": 90,
+      "price": 91.85,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
     {
       "code": "4805358323063",
       "name": "MAG.QUICKMELT 430GX12",
-      "price": 229,
+      "price": 237,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
     {
       "code": "4805358317031",
       "name": "MAG.CHEEZEE 160GX48",
-      "price": 45,
+      "price": 45.95,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
@@ -3981,14 +3981,14 @@
     {
       "code": "4805358327054",
       "name": "MAG.CHEEZEE PIMIENTO 235GX24",
-      "price": 90,
+      "price": 97.95,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
     {
       "code": "4805358327061",
       "name": "MAG.CHEEZEE PIMIENTO 480GX12",
-      "price": 171,
+      "price": 186.95,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
@@ -4065,28 +4065,28 @@
     {
       "code": "4805358324671",
       "name": "MAG.CHEEZEE SQUEEZE PLAIN 115GX24",
-      "price": 41,
+      "price": 43.5,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
     {
       "code": "4805358324664",
       "name": "MAG.CHEEZEE SQUEEZE PLAIN 220GX24",
-      "price": 76,
+      "price": 81,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
     {
       "code": "4805358327672",
       "name": "MAG.CHEEZEE SQUEEZE PTO 115GX24",
-      "price": 41,
+      "price": 44.95,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
     {
       "code": "4805358327665",
       "name": "MAG.CHEEZEE SQUEEZE PTO 220GX24",
-      "price": 81,
+      "price": 82.45,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
@@ -4184,7 +4184,7 @@
     {
       "code": "4805358425880",
       "name": "MAG.CHEEZEE MILKY WHITE 160GX48",
-      "price": 65,
+      "price": 70,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
@@ -4205,28 +4205,28 @@
     {
       "code": "4805358427679",
       "name": "MAG.CHEEZEE MILKY WHITE SUP 115GX24",
-      "price": 46,
+      "price": 47.5,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
     {
       "code": "4805358003491",
       "name": "MAG.CHEEZEE SQUEEZE PLN 220GBUY2SVE10X12",
-      "price": 142,
+      "price": 151.95,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
     {
       "code": "4805358003590",
       "name": "MAG.CHEEZEE 160G BUY2SAVE10X24",
-      "price": 80,
+      "price": 81.95,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
     {
       "code": "4805358003507",
-      "name": "MAG.CHEEZEE SQUEEZE PTO 220GX12 SAVE 10.",
-      "price": 152,
+      "name": "MAG.CHEEZEE SQUEEZE PTO 220GX12 SAVE10",
+      "price": 154.85,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
@@ -4310,7 +4310,7 @@
     {
       "code": "4805358004887",
       "name": "MAG. CHEEZEE SPREAD PLAIN 235G B2 S20.00",
-      "price": 152,
+      "price": 165.95,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
@@ -4324,7 +4324,7 @@
     {
       "code": "4805358004894",
       "name": "MAG. CHEEZEE PTO 235G B2S20.00X12",
-      "price": 160,
+      "price": 175.85,
       "category": "Dairy & Bakery",
       "subCategory": "Cheese & Margarine"
     },
@@ -4695,7 +4695,7 @@
     {
       "code": "4800361433112",
       "name": "CHUCKIE 110MLX12 FR CRAYOLA X 5",
-      "price": 165.55,
+      "price": 169.05,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream"
     },
@@ -4772,14 +4772,14 @@
     {
       "code": "4800016027277",
       "name": "VITASOY PLUS UNSWEETENED ALMOND 1LX12",
-      "price": 127.35,
+      "price": 137.95,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream"
     },
     {
       "code": "4800361433778",
       "name": "CHUCKIE 5(12X110ML)FRLUNCHBOX",
-      "price": 165.55,
+      "price": 169.05,
       "category": "Dairy & Bakery",
       "subCategory": "Liquid Milk & Cream"
     },

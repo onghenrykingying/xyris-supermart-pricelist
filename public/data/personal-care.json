@@ -1,6 +1,6 @@
 {
   "category": "Personal Care",
-  "generatedAt": "2026-09-30T02:08:47.693Z",
+  "generatedAt": "2026-10-12T12:03:47.411Z",
   "skus": [
     {
       "code": "4806506318900",
@@ -404,7 +404,7 @@
     {
       "code": "4902430726993",
       "name": "H&S SHM. APPLE FRESH 12MLX6'SX72",
-      "price": 42.45,
+      "price": 42.65,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -3106,7 +3106,7 @@
     {
       "code": "9556031084164",
       "name": "TENDER CARE CLASSIC MILD 55GX72",
-      "price": 17.55,
+      "price": 18.55,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -3190,35 +3190,35 @@
     {
       "code": "4808888413594",
       "name": "POSH INTENSIVE MOISTURE 90MLX36",
-      "price": 60.15,
+      "price": 63.85,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "8850006325216",
       "name": "COLGATE GRF 20GX6'SX24",
-      "price": 50.45,
+      "price": 50.95,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "8850006325223",
       "name": "COLGATE SPICY FRESH 20GX6'SX24",
-      "price": 50.45,
+      "price": 50.95,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "8850006325230",
       "name": "COLGATE COOL MENTHOL FRESH 20GX6'SX24",
-      "price": 50.45,
+      "price": 50.95,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "8850006320518",
       "name": "COLGATE GRF 74GX72",
-      "price": 71.25,
+      "price": 76.05,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
@@ -3274,28 +3274,28 @@
     {
       "code": "8850006323687",
       "name": "COLGATE COOL MENTHOL FRESH 125GX72",
-      "price": 94.05,
+      "price": 95.05,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "8850006321522",
       "name": "COLGATE TRIPLE ACTION 193GX54",
-      "price": 141.65,
+      "price": 142.55,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "8850006265178",
       "name": "COLGATE CTB TWISTER 1PK W/CAP(MEDIUM)X72",
-      "price": 65.85,
+      "price": 67.15,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "8850006322925",
       "name": "COLGATE PEPPERMINT ICE 125GX72",
-      "price": 94.05,
+      "price": 95.05,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
@@ -3309,14 +3309,14 @@
     {
       "code": "8850006322956",
       "name": "COLGATE SPICY FRESH 125GX72",
-      "price": 94.05,
+      "price": 95.05,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "8850006325049",
       "name": "COLGATE TRIPLE ACTION 66GX72",
-      "price": 74.75,
+      "price": 75.65,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
@@ -3344,7 +3344,7 @@
     {
       "code": "4808888411583",
       "name": "POSH ULTRA SMOOTH 90MLX36",
-      "price": 60.15,
+      "price": 63.85,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -3365,14 +3365,14 @@
     {
       "code": "8850006330012",
       "name": "CTBM EXTRA_CLEAN FH M+CAP 1PK(MEDIUM)X72",
-      "price": 42.35,
+      "price": 44.95,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "8850006320501",
       "name": "COLGATE GRF 140GX72",
-      "price": 109.25,
+      "price": 114.05,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
@@ -3386,14 +3386,14 @@
     {
       "code": "8850006321539",
       "name": "COLGATE TRIPLE ACTION 126GX72",
-      "price": 109.1,
+      "price": 113.85,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "4808888431222",
       "name": "POSH SILKY STRAIGHT 90MLX36",
-      "price": 60.15,
+      "price": 63.85,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -3456,7 +3456,7 @@
     {
       "code": "4808888200972",
       "name": "CTB TWISTER VALUE 3PK W/CAP(MEDIUM)X24",
-      "price": 131.65,
+      "price": 134.35,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
@@ -3470,21 +3470,21 @@
     {
       "code": "4808888202723",
       "name": "CTB EXTRA CLEAN VALUE 3PK W/CAP(MEDIUM)X",
-      "price": 94.25,
+      "price": 95.1,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "8850006536056",
       "name": "GARD SH MOISTURIZING CARE 12MLX6'SX72",
-      "price": 33.45,
+      "price": 35.75,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "8850006536063",
       "name": "GARD SH REFRESHING MENTHOL 12MLX6'SX72",
-      "price": 33.45,
+      "price": 35.75,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -3526,7 +3526,7 @@
     {
       "code": "8850006327470",
       "name": "COLGATE TRIPLE ACTION 120G TWIN PACK X36",
-      "price": 160.65,
+      "price": 161.65,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
@@ -3568,14 +3568,14 @@
     {
       "code": "4808888000206",
       "name": "PONS ROSY BLOOM 80GX3'SX24",
-      "price": 68.45,
+      "price": 71.65,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4808888000213",
       "name": "PONS ROSY BLOOM 115GX3'SX24",
-      "price": 94.05,
+      "price": 98.55,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -3631,14 +3631,14 @@
     {
       "code": "4808888001999",
       "name": "PONS PAPAYA SOAP 80GX3'SX24",
-      "price": 72.35,
+      "price": 74.95,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4808888402468",
       "name": "PONS MOISTURE SMOOTH GREEN 80G B2G1X24",
-      "price": 68.45,
+      "price": 71.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -3729,14 +3729,14 @@
     {
       "code": "8850006493045",
       "name": "POSH SILKY STRAIGHT 15MLX6'SX72",
-      "price": 34.75,
+      "price": 35.35,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "8850006493014",
       "name": "POSH INTENSIVE MOISTURE 15MLX6'SX72",
-      "price": 34.75,
+      "price": 35.35,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -3750,7 +3750,7 @@
     {
       "code": "8850006493038",
       "name": "POSH ULTRA SMOOTH 15MLX6'SX72",
-      "price": 34.75,
+      "price": 35.35,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -3785,7 +3785,7 @@
     {
       "code": "4808888002620",
       "name": "TENDER CARE CLASSIC MILD 55G 5+1X12",
-      "price": 87.75,
+      "price": 92.35,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -3806,14 +3806,14 @@
     {
       "code": "8850006494417",
       "name": "GARD SH ACTIVE CLEAN 12MLX6'SX72",
-      "price": 33.45,
+      "price": 35.75,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "6920354817724",
       "name": "COLGATE TIGER KIDS 2-5YRS.OLD 40GX48",
-      "price": 39.85,
+      "price": 43.35,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
@@ -3841,14 +3841,14 @@
     {
       "code": "4808888892177",
       "name": "CFC+CC SPICY FRESH 20G 11+1X12",
-      "price": 92.35,
+      "price": 93.35,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "4808888892566",
       "name": "CFC+CC COOL MENTHOL 20GX11+1X12",
-      "price": 92.35,
+      "price": 93.35,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
@@ -3883,14 +3883,14 @@
     {
       "code": "8935236000864",
       "name": "CTBM TRIPLE ACTION 1PK(MEDIUM)X72",
-      "price": 52.55,
+      "price": 55.95,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "8935236000857",
       "name": "CTB TRIPLE ACTION VALUE 3PK(MEDIUM)X24",
-      "price": 105.55,
+      "price": 112.05,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
@@ -3911,7 +3911,7 @@
     {
       "code": "4808888201436",
       "name": "CTB CHARCOAL CLEAN VALUE 3PK W/CAP(SOFT)",
-      "price": 137.25,
+      "price": 146.65,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
@@ -3939,14 +3939,14 @@
     {
       "code": "8850006494424",
       "name": "GARD SH ACTIVE CLEAN 170MLX24",
-      "price": 151.05,
+      "price": 154.15,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "8850006480755",
       "name": "POSH AROMA VITALITY 15MLX6'SX72",
-      "price": 34.75,
+      "price": 35.35,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -3960,28 +3960,28 @@
     {
       "code": "8850006480724",
       "name": "POSH HEALTHY SHINE 15MLX6'SX72",
-      "price": 34.75,
+      "price": 35.35,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "8850006480762",
       "name": "POSH VIBRANT COLOR 15MLX6'SX72",
-      "price": 34.75,
+      "price": 35.35,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "8850006480779",
       "name": "POSH FASHION GIRL PINK 15MLX6'SX72",
-      "price": 34.75,
+      "price": 35.35,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "8850006480748",
       "name": "POSH ANTI DANDRUFF 15MLX6'SX72",
-      "price": 34.75,
+      "price": 35.35,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -3995,14 +3995,14 @@
     {
       "code": "8850006492598",
       "name": "GARD MOISTURIZING CARE 180MLX24",
-      "price": 151.05,
+      "price": 154.15,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "8850006492604",
       "name": "GARD REFRESHING MENTHOL 170MLX24",
-      "price": 151.05,
+      "price": 154.15,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -4030,28 +4030,28 @@
     {
       "code": "8850006332276",
       "name": "CTBM ZIGZAG CHARCOAL VP 3PK(SOFT)X24",
-      "price": 159.95,
+      "price": 164.25,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "4808888004174",
       "name": "POSH ULTRA SMOOTH 15ML 11+1X36",
-      "price": 63.75,
+      "price": 64.65,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4808888004167",
       "name": "POSH INTENSIVE MOISTURE 15ML 11+1X36",
-      "price": 63.75,
+      "price": 64.65,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4808888004181",
       "name": "POSH SILKY STRAIGHT 15ML 11+1X36",
-      "price": 63.75,
+      "price": 64.65,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -4065,7 +4065,7 @@
     {
       "code": "8850006593677",
       "name": "TENDER CARE BS SAKURA 55GX72",
-      "price": 17.55,
+      "price": 18.55,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -4135,21 +4135,21 @@
     {
       "code": "4808888004648",
       "name": "TENDER CARE SAKURA 55G 5+1X12",
-      "price": 87.75,
+      "price": 92.35,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4808888004846",
       "name": "GARD SH MOIST. CARE 12ML 11+1X36",
-      "price": 61.25,
+      "price": 65.45,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4808888004853",
       "name": "GARD SH FRESH MENTHOL 12ML 11+1X36",
-      "price": 61.25,
+      "price": 65.45,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -4170,21 +4170,21 @@
     {
       "code": "8850006933565",
       "name": "TENDER CARE PINK BLOSSOM 55GX72",
-      "price": 17.55,
+      "price": 18.55,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "8850006933060",
       "name": "GARD SH ANTI-HAIRFALL 12MLX6'SX72",
-      "price": 33.45,
+      "price": 35.75,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "8850006933077",
       "name": "GARD SH ANTI-HAIRFALL 170MLX24",
-      "price": 151.05,
+      "price": 154.15,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -4212,21 +4212,21 @@
     {
       "code": "4808888002897",
       "name": "GARD MOIST.CARE 180ML+180ML B1G2NDX12",
-      "price": 218.95,
+      "price": 239.05,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4808888002903",
       "name": "GARD ACTIVE CLEAN 170MLX2'SX12 PROMO",
-      "price": 218.95,
+      "price": 239.05,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4808888004594",
       "name": "POSH ANTI-DANDRUFF 15ML 11+1X36",
-      "price": 63.75,
+      "price": 64.65,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -4247,14 +4247,14 @@
     {
       "code": "4808888004631",
       "name": "TENDER CARE PINK BLOSSOM 55G 5+1X12",
-      "price": 87.75,
+      "price": 92.35,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4808888002880",
       "name": "GARD R.MENTHOL 170ML+170ML 50%OFFX12",
-      "price": 218.95,
+      "price": 239.05,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -4275,7 +4275,7 @@
     {
       "code": "6920354832123",
       "name": "COLGATE TP CHARCOAL CLEAN 20GX6'SX24",
-      "price": 61.05,
+      "price": 61.55,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
@@ -4310,7 +4310,7 @@
     {
       "code": "8850006344361",
       "name": "COLGATE GRF SACHET 20G 23+1FREE X6",
-      "price": 193.05,
+      "price": 195.25,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
@@ -4338,7 +4338,7 @@
     {
       "code": "6920354837074",
       "name": "COLGATE CHARCOAL CLEAN 20G 11+1X12",
-      "price": 111.75,
+      "price": 112.75,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
@@ -4352,112 +4352,112 @@
     {
       "code": "4902430244947",
       "name": "SAFEGUARD GREEN 125GX3X24",
-      "price": 135.25,
+      "price": 139.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430184298",
       "name": "SAFEGUARD PINK 3PID 78GX3'SX32",
-      "price": 92.1,
+      "price": 98.45,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430184311",
       "name": "SAFEGUARD PINK 3PID 115GX3X24",
-      "price": 135.25,
+      "price": 139.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430935999",
       "name": "SAFEGUARD BEIGE 125GX72",
-      "price": 48.5,
+      "price": 50.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430935593",
       "name": "SAFEGUARD GREEN 125GX72",
-      "price": 48.5,
+      "price": 50.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430160896",
       "name": "SAFEGUARD WHITE 3PID 115GX3X24",
-      "price": 135.25,
+      "price": 139.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430222891",
       "name": "SAFEGUARD WHITE 160GX60",
-      "price": 65.05,
+      "price": 68.95,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430495073",
       "name": "SAFEGUARD  WHITE 78GX96",
-      "price": 38.05,
+      "price": 39.15,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430495042",
       "name": "SAFEGUARD BEIGE 85GX96",
-      "price": 38.05,
+      "price": 39.15,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430159258",
       "name": "SAFEGUARD WHITE 3PID 78GX3'SX32",
-      "price": 92.1,
+      "price": 98.45,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430495141",
       "name": "SAFEGUARD PINK 78GX96",
-      "price": 38.05,
+      "price": 39.15,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430935616",
       "name": "SAFEGUARD PINK 115GX72",
-      "price": 48.5,
+      "price": 50.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430934800",
       "name": "SAFEGUARD WHITE 115GX72",
-      "price": 48.5,
+      "price": 50.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430951371",
       "name": "SAFEGUARD GREEN 60GX162",
-      "price": 19.95,
+      "price": 20.75,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430945554",
       "name": "SAFEGUARD WHITE 65GX162",
-      "price": 19.95,
+      "price": 20.75,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430951357",
-      "name": "SAFEGUARD PINK 65GX162",
-      "price": 19.95,
+      "name": "SAFEGUARD PINK 60GX162",
+      "price": 20.75,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -4492,14 +4492,14 @@
     {
       "code": "8888826016410",
       "name": "GILLETE DAISY PLUS HANGCARD 1X12X12",
-      "price": 47.45,
+      "price": 47.75,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "8888826019589",
       "name": "GIILLETTE BLUE 2 PLUS HANGCARD 1X48X12",
-      "price": 29.25,
+      "price": 29.35,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -4513,7 +4513,7 @@
     {
       "code": "4800037111047",
       "name": "GILLETE RUBIE STAINLESS 5+1 6X20X50",
-      "price": 67.55,
+      "price": 67.85,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -4555,70 +4555,70 @@
     {
       "code": "4902430333597",
       "name": "H&S SH COOL MENTHOL 12MLX6'SX84",
-      "price": 42.45,
+      "price": 42.65,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430381772",
       "name": "SAFEGUARD IVORY WHT CARE 60GX162",
-      "price": 19.95,
+      "price": 20.75,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430349062",
       "name": "ORAL B SHINY CLEAN W/CAP 1'SX96",
-      "price": 18.85,
+      "price": 20.45,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "4902430400886",
       "name": "PANTENE SHMP. HFC 170MLX24",
-      "price": 167.75,
+      "price": 168.55,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430401142",
       "name": "PANTENE SH HFC 70MLX48",
-      "price": 70.85,
+      "price": 71.15,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430400602",
       "name": "PANTENE SH TOTAL DAM.CARE 170MLX24",
-      "price": 167.75,
+      "price": 168.55,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430396035",
       "name": "H&S SH COOL MENTHOL 170MLX24",
-      "price": 176.25,
+      "price": 177.05,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430407984",
       "name": "H&S SH APPLE FRESH 170MLX24",
-      "price": 176.25,
+      "price": 177.05,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430441896",
       "name": "GILLETTE RUBIE 2 [24'SHANGCARD]1'SX24X12",
-      "price": 28.05,
+      "price": 28.15,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430428316",
       "name": "REJOICE SH RICH 170MLX24",
-      "price": 141.75,
+      "price": 142.35,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -4632,7 +4632,7 @@
     {
       "code": "4902430522809",
       "name": "H&S SH MEN COOL BLAST 12MLX6'SX84",
-      "price": 45.65,
+      "price": 45.85,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -4646,7 +4646,7 @@
     {
       "code": "4902430396028",
       "name": "H&S SH SMOOTH&SILKY 170MLX24",
-      "price": 167.75,
+      "price": 177.05,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -4744,42 +4744,42 @@
     {
       "code": "4902430634014",
       "name": "PANTENE 3MM ISC BIOTIN STRENGTH 9MLX6'SX",
-      "price": 44.85,
+      "price": 47.25,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430623636",
       "name": "PANTENE 3MM COND.BIOTIN STRENGTH 150MLX2",
-      "price": 159.55,
+      "price": 160.35,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430624534",
       "name": "PANTENE 3MM COND.BIOTIN STRENGTH 70MLX24",
-      "price": 85.75,
+      "price": 90.75,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430634007",
       "name": "PANTENE 3MM ISC COL.REP. 9MLX6'SX80",
-      "price": 44.85,
+      "price": 47.25,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430623643",
       "name": "PANTENE 3MM COND.COLLAGEN REP.150MLX24",
-      "price": 151.95,
+      "price": 160.35,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430624541",
       "name": "PANTENE 3MM COND.COLLAGEN REP. 70MLX24",
-      "price": 85.75,
+      "price": 90.75,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -4793,28 +4793,28 @@
     {
       "code": "4902430671804",
       "name": "H&S SH COOL MENTHOL 12ML 11+1X42",
-      "price": 77.75,
+      "price": 78.15,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430675543",
       "name": "SAFEGUARD PINK 160GX3'SX20",
-      "price": 185.65,
+      "price": 192.1,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430675406",
       "name": "SAFEGUARD WHITE 160GX3'SX20",
-      "price": 185.65,
+      "price": 192.1,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430674034",
       "name": "SAFEGUARD PINK 160GX60",
-      "price": 65.05,
+      "price": 68.95,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -4842,21 +4842,21 @@
     {
       "code": "4902430698078",
       "name": "REJOICE SH FRAGRANT RCH 16MLX6'SX70",
-      "price": 44.95,
+      "price": 45.15,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430698085",
       "name": "PANTENE SH HFC 15MLX6'SX72",
-      "price": 40.45,
+      "price": 42.85,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430612180",
       "name": "SAFEGUARD PINK 115GX6X12",
-      "price": 265.85,
+      "price": 270.85,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -4870,28 +4870,28 @@
     {
       "code": "4902430698658",
       "name": "H&S SH S&S 12MLX6'SX72",
-      "price": 42.45,
+      "price": 42.65,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430698146",
       "name": "PANTENE SH TDC 12MLX6'SX72",
-      "price": 40.45,
+      "price": 42.85,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430634731",
       "name": "ORAL B CLASSIC ULTRA CLEAN W/CAP 1'SX96",
-      "price": 29.05,
+      "price": 31.15,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "4902430506960",
       "name": "H&S SH MEN COOL MENTHOL FOR MEN 170MLX24",
-      "price": 176.25,
+      "price": 177.05,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -4905,14 +4905,14 @@
     {
       "code": "4902430414418",
       "name": "H&S SH COOL MENTHOL 70MLX48",
-      "price": 81.55,
+      "price": 81.95,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430721011",
       "name": "H&S SHM SMOOTH SILKY 12ML 11+1X36",
-      "price": 77.75,
+      "price": 78.15,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -4926,7 +4926,7 @@
     {
       "code": "4902430430883",
       "name": "H&S SH S&S 70MLX48",
-      "price": 77.85,
+      "price": 81.95,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -4954,7 +4954,7 @@
     {
       "code": "4902430750547",
       "name": "SAFEGUARD GREEN 175GX3'SX20",
-      "price": 185.65,
+      "price": 192.1,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -4968,7 +4968,7 @@
     {
       "code": "4902430737111",
       "name": "H&S SH LEMON FRESH 170MLX24",
-      "price": 167.75,
+      "price": 177.05,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -4989,14 +4989,14 @@
     {
       "code": "4902430750530",
       "name": "SFGRD BAR FRESH GREEN W/ HERBAL 175GX60",
-      "price": 65.05,
+      "price": 68.95,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430731294",
       "name": "ORAL-B ALL ROUNDER BL BCD SX1X12X8",
-      "price": 71.85,
+      "price": 77.05,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
@@ -5031,35 +5031,35 @@
     {
       "code": "4902430736510",
       "name": "H&S SH LEMON FRESH 12MLX6'SX84",
-      "price": 42.45,
+      "price": 42.65,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430759960",
       "name": "PTN SH S-SMOOTH CARE 12MLX6'SX72",
-      "price": 38.55,
+      "price": 42.85,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430762632",
       "name": "PANTENE 3MM COND.KERATIN SMOOTH 150MLX24",
-      "price": 151.95,
+      "price": 160.35,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430762625",
       "name": "PTN CN TRT 3MMSSC 9MLX6'SX80",
-      "price": 42.55,
+      "price": 47.25,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430804530",
       "name": "PTN SH SILKY SMOOTH CARE 150MLX24",
-      "price": 159.55,
+      "price": 168.55,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -5080,35 +5080,35 @@
     {
       "code": "4902430803700",
       "name": "SAFEGUARD LEMON 78GX96",
-      "price": 38.05,
+      "price": 39.15,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430803724",
       "name": "SAFEGUARD LEMON 115GX72",
-      "price": 48.5,
+      "price": 50.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430803731",
-      "name": "SAFEGUARD LEMON115GX3X24",
-      "price": 135.25,
+      "name": "SAFEGUARD LEMON 115GX3X24",
+      "price": 139.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430803717",
       "name": "SAFEGUARD LEMON  78GX3'SX32",
-      "price": 92.1,
+      "price": 98.45,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430801522",
       "name": "H&S SH OS NTL MEN 12MLX6'SX84",
-      "price": 45.65,
+      "price": 45.85,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -5129,7 +5129,7 @@
     {
       "code": "4902430837330",
       "name": "PANTENE TRT 3MM TDC 9ML 11+1X40",
-      "price": 82.1,
+      "price": 86.55,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -5143,35 +5143,35 @@
     {
       "code": "4902430837378",
       "name": "PTN SH HFC 12ML 11+1X36",
-      "price": 74.15,
+      "price": 78.55,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430841399",
-      "name": "SAFEGUARD LEMON160GX60",
-      "price": 65.05,
+      "name": "SAFEGUARD LEMON 160GX60",
+      "price": 68.95,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430858540",
       "name": "SAFEGUARD LEMON 160GX3'SX20",
-      "price": 185.65,
+      "price": 192.1,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430837408",
       "name": "PTN SH 12ML(11+1F)X36 TDC GD",
-      "price": 74.15,
+      "price": 78.55,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430837668",
       "name": "PTN CN 13ML(11+1F) 3MM HFCX40",
-      "price": 82.1,
+      "price": 86.55,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -5192,7 +5192,7 @@
     {
       "code": "4902430874069",
       "name": "PANTENE 3MM COND. KERATIN STRAIGHT 150ML",
-      "price": 151.95,
+      "price": 160.35,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -5206,14 +5206,14 @@
     {
       "code": "4902430874137",
       "name": "PANTENE 3MM COND.KS 9MLX480",
-      "price": 42.55,
+      "price": 47.25,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430807203",
       "name": "H&S SHM MEN OS 170MLX24",
-      "price": 201.05,
+      "price": 202.05,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -5248,14 +5248,14 @@
     {
       "code": "4902430198233",
       "name": "SAFEGUARD BAR ARCTIC FRESH 115GX3X24",
-      "price": 135.25,
+      "price": 139.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430327428",
       "name": "SAFEGUARD BAR ARCTIC FRESH 65GX162",
-      "price": 19.95,
+      "price": 20.75,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -5269,14 +5269,14 @@
     {
       "code": "4902430902588",
       "name": "SAFEGUARD ARTIC FRESH 160GX3'SX20 PROMO",
-      "price": 185.65,
+      "price": 192.1,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430533744",
       "name": "SFG HBCL LHS 225MLX24 PUREWHITE",
-      "price": 74.55,
+      "price": 81.55,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -5290,14 +5290,14 @@
     {
       "code": "4902430678193",
       "name": "ORAL B ULTRA THIN BLACK TEA 1'S",
-      "price": 126.55,
+      "price": 131.95,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "4902430881937",
       "name": "SAFEGUARD DETOX F&B BAR CHARCOAL 108GX72",
-      "price": 68.35,
+      "price": 68.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -5311,7 +5311,7 @@
     {
       "code": "4902430881951",
       "name": "SAFEGUARD BAR POMEGRANATE 108GX72",
-      "price": 68.35,
+      "price": 68.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -5325,14 +5325,14 @@
     {
       "code": "4902430902571",
       "name": "SAFEGUARD ARCTIC FRESH 160GX60",
-      "price": 65.05,
+      "price": 68.95,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4902430197359",
       "name": "SAFEGUARD ARCTIC FRESH 115GX72",
-      "price": 48.5,
+      "price": 50.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -5346,7 +5346,7 @@
     {
       "code": "4902430881982",
       "name": "SAFEGUARD POMEGRANATE 108GX3X24",
-      "price": 181.25,
+      "price": 187.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -5359,29 +5359,29 @@
     },
     {
       "code": "4987176040480",
-      "name": "H&S SH ANTIBAC12MLX6'SX72",
-      "price": 42.45,
+      "name": "H&S SH ANTIBAC 12MLX6'SX72",
+      "price": 42.65,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4987176026736",
       "name": "SGRD HBCL BAR LEMON 90GX96",
-      "price": 27.35,
+      "price": 28.35,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176026743",
       "name": "SFGD HBCL BAR PINK 90GX96",
-      "price": 27.35,
+      "price": 28.35,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176026750",
       "name": "SFGD HBCL BAR WHITE 90GX96",
-      "price": 27.35,
+      "price": 28.35,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -5430,7 +5430,7 @@
     {
       "code": "4902430508377",
       "name": "GILLETE B11 PLUS 5+1X144",
-      "price": 149.75,
+      "price": 150.45,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -5451,7 +5451,7 @@
     {
       "code": "4987176092267",
       "name": "BLUE2 FLEXI HRDC PH 1X48X12",
-      "price": 30.15,
+      "price": 30.25,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -5465,35 +5465,35 @@
     {
       "code": "4987176196446",
       "name": "SAFEGUARD BAR 65G(6+1F)X19 LEMON",
-      "price": 119.45,
+      "price": 124.25,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176196439",
       "name": "SAFEGUARD BAR ARTIC FRESH 65G 6+1X19",
-      "price": 119.45,
+      "price": 124.25,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176222367",
       "name": "SAFEGUARD BAR 65G (6+1F)X19 PURE WHITE",
-      "price": 119.45,
+      "price": 124.25,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176222374",
       "name": "SAFEGUARD BAR 60G (6+1F)X19 PINK",
-      "price": 119.45,
+      "price": 124.25,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176208569",
       "name": "SAFEGUARD ARCTIC FRESH 81GX96",
-      "price": 27.35,
+      "price": 28.35,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -5507,7 +5507,7 @@
     {
       "code": "4987176220653",
       "name": "SAFEGUARD WHITE CAMELLIA 65GX162",
-      "price": 19.95,
+      "price": 20.75,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -5521,14 +5521,14 @@
     {
       "code": "4987176220660",
       "name": "SAFEGUARD WHITE CAMELLIA 82GX96",
-      "price": 27.35,
+      "price": 28.35,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176199683",
       "name": "H&S SH APPLE FRESH 12ML 11+1X36",
-      "price": 77.75,
+      "price": 78.15,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -5549,7 +5549,7 @@
     {
       "code": "4987176257291",
       "name": "SAFEGUARD CAMELLIA 65G 6+1X19",
-      "price": 119.45,
+      "price": 124.25,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -5647,7 +5647,7 @@
     {
       "code": "4987176267504",
       "name": "SAFEGUARD (160GX3+82G)X16 ARCTC FRESH",
-      "price": 185.65,
+      "price": 191.25,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -5682,21 +5682,21 @@
     {
       "code": "4902430678230",
       "name": "ORAL-B ULTRATHIN BLACK TEA 5'SX12X24",
-      "price": 376.75,
+      "price": 397.55,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
     {
       "code": "4987176299123",
       "name": "SAFEGUARD BODY WASH FLORAL PINK 450MLX12",
-      "price": 139.95,
+      "price": 153.95,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176299130",
       "name": "SAFEGUARD BODY WASH WHITE CAMELIA 450MLX",
-      "price": 139.95,
+      "price": 153.95,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -5710,21 +5710,21 @@
     {
       "code": "4987176325587",
       "name": "PANTENE BP TRT KER.+COL.+BIOTIN 13MLX6'S",
-      "price": 42.55,
+      "price": 45.15,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4987176358325",
       "name": "PTN TRT 13ML(11+1F)X12 KER./COL./BIOTIN",
-      "price": 77.95,
+      "price": 82.75,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430908337",
       "name": "H&S SH (12MLX6'S)X72 S&S B6S3.00",
-      "price": 37.45,
+      "price": 37.65,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -5738,14 +5738,14 @@
     {
       "code": "4987176231840",
       "name": "GILLETTE BLUE 2 FLEXI DISPOSABLE 5+1",
-      "price": 150.65,
+      "price": 151.35,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4987176095749",
       "name": "GILLETTE BLUE2 FLEXI 5+2CT PH",
-      "price": 154.25,
+      "price": 155.05,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -5773,56 +5773,56 @@
     {
       "code": "4987176337382",
       "name": "SAFEGUARD WHITE CAMELLIA 115GX3X24",
-      "price": 124.05,
+      "price": 124.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176337399",
       "name": "SAFEGUARD FLORAL PINK 115GX3X24",
-      "price": 124.05,
+      "price": 124.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176337436",
       "name": "SAFEGUARD PINK 160GX3'SX20 PROMO",
-      "price": 162.35,
+      "price": 163.05,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176337559",
       "name": "SAFEGUARD LEMON FRESH 160GX3'SX20 PROMO",
-      "price": 162.35,
+      "price": 163.05,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176152718",
       "name": "SAFEGUARD ARCTIC FRESH BW 650MLX12",
-      "price": 197.95,
+      "price": 215.55,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176337450",
       "name": "SAFEGUARD ARCTIC FRESH 160GX3'SX20 PROMO",
-      "price": 162.35,
+      "price": 163.05,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176337504",
       "name": "SAFEGUARD W-CAMELLIA 160GX3'SX20 PROMO",
-      "price": 162.35,
+      "price": 163.05,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176337443",
       "name": "SAFEGUARD ARCTIC FRESH 115GX3'SX24 PROMO",
-      "price": 124.05,
+      "price": 124.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -7796,7 +7796,7 @@
     {
       "code": "4800067057230",
       "name": "BBFLO OIL REGULAR 100ML",
-      "price": 90.25,
+      "price": 93,
       "category": "Personal Care",
       "subCategory": "Deodorant & Cologne"
     },
@@ -13711,21 +13711,21 @@
     {
       "code": "4987176337429",
       "name": "SAFEGUARD  PURE WHITE 160GX3'SX20 PROMO",
-      "price": 162.35,
+      "price": 163.05,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176337511",
       "name": "SAFEGUARD LEMON FRESH 115GX3'SX24 PROMO",
-      "price": 124.05,
+      "price": 124.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176337405",
       "name": "SAFEGUARD WHITE 115GX3X24 PROMO",
-      "price": 124.05,
+      "price": 124.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -13921,7 +13921,7 @@
     {
       "code": "47400245105",
       "name": "GILLETTE FOAMY LEMON LIME 175GX12",
-      "price": 227.35,
+      "price": 228.45,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -14327,7 +14327,7 @@
     {
       "code": "6920354814792",
       "name": "COLGATE TP TOTAL CHARCOAL CLEAN 150GX2X3",
-      "price": 181.1,
+      "price": 195.65,
       "category": "Personal Care",
       "subCategory": "Oral Care"
     },
@@ -14355,21 +14355,21 @@
     {
       "code": "4987176393654",
       "name": "H&S SH COOL MENTHOL 170MLX2X12 PROMO",
-      "price": 281.95,
+      "price": 283.25,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4987176393647",
       "name": "H&S SH S&S 170MLX2X12 PROMO",
-      "price": 281.95,
+      "price": 283.25,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4987176394521",
       "name": "PANTENE SH HFC 170MLX2X12 PROMO",
-      "price": 268.35,
+      "price": 269.65,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -14411,14 +14411,14 @@
     {
       "code": "4902430411776",
       "name": "H&S SH COOL MENTHOL 330MLX12",
-      "price": 276.65,
+      "price": 277.95,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4987176220707",
       "name": "SAFEGUARD WHITE CAMELLIA 115GX72",
-      "price": 48.55,
+      "price": 50.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -14474,7 +14474,7 @@
     {
       "code": "4987176354815",
       "name": "OLD SPICE H.E. DC FRESH 14GX2X12 PROMO",
-      "price": 155.25,
+      "price": 155.95,
       "category": "Personal Care",
       "subCategory": "Deodorant & Cologne"
     },
@@ -14523,14 +14523,14 @@
     {
       "code": "4987176394514",
       "name": "PANTENE SH HFC 330MLX2X6",
-      "price": 468,
+      "price": 470.25,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4987176394538",
       "name": "PANTENE SH TDC 330MLX2X6",
-      "price": 468,
+      "price": 470.25,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
@@ -14642,84 +14642,84 @@
     {
       "code": "4987176095770",
       "name": "GILLETTE FLEXI BLUE 3 1X12X24",
-      "price": 40.15,
+      "price": 40.35,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4987176029683",
       "name": "H&S SH ANTIBAC 170MLX24",
-      "price": 176.25,
+      "price": 177.05,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430193955",
       "name": "H&S SH ANTI-ODOR W/ CHARCOAL 170MLX24",
-      "price": 176.25,
+      "price": 177.05,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4987176394491",
       "name": "PANTENE COND. BT HFC (150MLX2)X12 PROMO",
-      "price": 255.35,
+      "price": 256.55,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4987176211576",
       "name": "PANTENE SH NOURISHED SHINE 15MLX6'SX72",
-      "price": 40.45,
+      "price": 42.85,
       "category": "Personal Care",
       "subCategory": "Hair Care"
     },
     {
       "code": "4902430381857",
       "name": "SAFEGUARD I-WHITE CARE 125GX3X24 PROMO",
-      "price": 135.25,
+      "price": 139.65,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176220677",
       "name": "SAFEGUARD WHITE CAMELLIA 160GX3X20 PROMO",
-      "price": 185.65,
+      "price": 192.1,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176220691",
       "name": "SAFEGUARD WHITE CAMELLIA 160GX60",
-      "price": 65.05,
+      "price": 68.95,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176076847",
       "name": "SAFEGUARD BW FLORAL PINK 450MLX12 BOT.",
-      "price": 139.95,
+      "price": 153.95,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176155665",
       "name": "SAFEGUARD BW LEMON FRESH 620MLX6 POUCH",
-      "price": 189.65,
+      "price": 207.25,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176155672",
       "name": "SAFEGUARD BW FLORAL PINK 620MLX6 POUCH",
-      "price": 189.65,
+      "price": 207.25,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
     {
       "code": "4987176155689",
       "name": "SAFEGUARD BW PURE WHITE 620MLX6 POUCH",
-      "price": 189.65,
+      "price": 207.25,
       "category": "Personal Care",
       "subCategory": "Bath Soap"
     },
@@ -14883,6 +14883,97 @@
       "price": 59.95,
       "category": "Personal Care",
       "subCategory": "Sanitary Napkins"
+    },
+    {
+      "code": "4800011110493",
+      "name": "DR. WONG'S PAPAYA BRIGHT W. SOAP 60GX120",
+      "price": 16.35,
+      "category": "Personal Care",
+      "subCategory": "Bath Soap"
+    },
+    {
+      "code": "4806506318641",
+      "name": "SISTERS LONGER PL IW LAV. SCENT 20'SX48",
+      "price": 32.05,
+      "category": "Personal Care",
+      "subCategory": "Sanitary Napkins"
+    },
+    {
+      "code": "4806506318658",
+      "name": "SISTERS LONGER PL IW POWDER SCENT 20'SX4",
+      "price": 32.05,
+      "category": "Personal Care",
+      "subCategory": "Sanitary Napkins"
+    },
+    {
+      "code": "4806506318665",
+      "name": "SISTERS LONGER PL IW GREEN TEA 20'SX48",
+      "price": 32.05,
+      "category": "Personal Care",
+      "subCategory": "Sanitary Napkins"
+    },
+    {
+      "code": "4806506318702",
+      "name": "SISTERS LONGER  PL IW ACTIVATE CARBON 20",
+      "price": 32.05,
+      "category": "Personal Care",
+      "subCategory": "Sanitary Napkins"
+    },
+    {
+      "code": "4800119300765",
+      "name": "SKINWHITE FC PW 135ML+PWR SOAPX21",
+      "price": 52.75,
+      "category": "Personal Care",
+      "subCategory": "Lotion & Skin Care"
+    },
+    {
+      "code": "4800119302530",
+      "name": "SKINWHITE LOT. CL 200ML SPF20+SOAPX12",
+      "price": 177.75,
+      "category": "Personal Care",
+      "subCategory": "Lotion & Skin Care"
+    },
+    {
+      "code": "4800119302523",
+      "name": "SKINWHITE LOT. GLUTA 100ML+SOAPX24",
+      "price": 196.65,
+      "category": "Personal Care",
+      "subCategory": "Lotion & Skin Care"
+    },
+    {
+      "code": "4800119303582",
+      "name": "SKINWHITE LOT. PW 200ML 1+1X24",
+      "price": 263.95,
+      "category": "Personal Care",
+      "subCategory": "Lotion & Skin Care"
+    },
+    {
+      "code": "4800119302110",
+      "name": "SKINWHITE PAPAYA SOAP 90GX3'SX30",
+      "price": 104.85,
+      "category": "Personal Care",
+      "subCategory": "Bath Soap"
+    },
+    {
+      "code": "4800119302578",
+      "name": "VITRESS H.C.COAT+HF BUY1GET2ND@50%OFF",
+      "price": 148.15,
+      "category": "Personal Care",
+      "subCategory": "Hair Care"
+    },
+    {
+      "code": "721688014638",
+      "name": "DOVE HYACERAMIDE REPAIR TMT 18ML 11+1",
+      "price": 73.65,
+      "category": "Personal Care",
+      "subCategory": "Hair Care"
+    },
+    {
+      "code": "721688014645",
+      "name": "DOVE HYAKER.SMOOTHING TMT 18ML 11+1",
+      "price": 73.65,
+      "category": "Personal Care",
+      "subCategory": "Hair Care"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30T02:08:47.693Z",
-  "totalSKUs": 10486,
+  "generatedAt": "2026-10-12T12:03:47.411Z",
+  "totalSKUs": 10528,
   "categories": [
     {
       "slug": "beverages",
@@ -32,7 +32,7 @@
     {
       "slug": "liquor-tobacco",
       "label": "Liquor & Tobacco",
-      "skuCount": 209,
+      "skuCount": 212,
       "subCategories": [
         {
           "label": "Spirits",
@@ -44,7 +44,7 @@
         },
         {
           "label": "Beer & Wine",
-          "skuCount": 38
+          "skuCount": 41
         }
       ]
     },
@@ -78,15 +78,15 @@
     {
       "slug": "pantry-cooking",
       "label": "Pantry & Cooking",
-      "skuCount": 2052,
+      "skuCount": 2054,
       "subCategories": [
         {
           "label": "Bouillon & Seasoning",
-          "skuCount": 424
+          "skuCount": 425
         },
         {
           "label": "Coffee & Hot Drinks",
-          "skuCount": 308
+          "skuCount": 309
         },
         {
           "label": "Instant Noodles",
@@ -137,15 +137,15 @@
     {
       "slug": "canned-goods",
       "label": "Canned Goods",
-      "skuCount": 446,
+      "skuCount": 453,
       "subCategories": [
         {
           "label": "Canned Meat",
-          "skuCount": 219
+          "skuCount": 223
         },
         {
           "label": "Canned Fish",
-          "skuCount": 181
+          "skuCount": 184
         },
         {
           "label": "Canned Fruits or Vegetables",
@@ -156,15 +156,15 @@
     {
       "slug": "snacks-confectionery",
       "label": "Snacks & Confectionery",
-      "skuCount": 1543,
+      "skuCount": 1546,
       "subCategories": [
         {
           "label": "Crackers, Cakes & Cookies",
-          "skuCount": 610
+          "skuCount": 612
         },
         {
           "label": "Chocolate & Candy",
-          "skuCount": 536
+          "skuCount": 537
         },
         {
           "label": "Chips & Curls",
@@ -175,11 +175,11 @@
     {
       "slug": "personal-care",
       "label": "Personal Care",
-      "skuCount": 2126,
+      "skuCount": 2139,
       "subCategories": [
         {
           "label": "Hair Care",
-          "skuCount": 478
+          "skuCount": 481
         },
         {
           "label": "Deodorant & Cologne",
@@ -187,11 +187,11 @@
         },
         {
           "label": "Bath Soap",
-          "skuCount": 386
+          "skuCount": 388
         },
         {
           "label": "Lotion & Skin Care",
-          "skuCount": 349
+          "skuCount": 353
         },
         {
           "label": "Oral Care",
@@ -199,7 +199,7 @@
         },
         {
           "label": "Sanitary Napkins",
-          "skuCount": 236
+          "skuCount": 240
         }
       ]
     },
@@ -221,15 +221,15 @@
     {
       "slug": "household",
       "label": "Household",
-      "skuCount": 1695,
+      "skuCount": 1709,
       "subCategories": [
         {
           "label": "Laundry",
-          "skuCount": 715
+          "skuCount": 718
         },
         {
           "label": "Dishwashing",
-          "skuCount": 199
+          "skuCount": 209
         },
         {
           "label": "Tissue & Cotton",
@@ -241,7 +241,7 @@
         },
         {
           "label": "Alcohol & Sanitizer",
-          "skuCount": 157
+          "skuCount": 158
         },
         {
           "label": "Air Freshener",
